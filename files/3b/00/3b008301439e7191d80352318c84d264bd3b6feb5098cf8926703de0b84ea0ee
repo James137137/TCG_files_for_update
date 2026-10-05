@@ -1,0 +1,310 @@
+{
+  "decks": [
+    {
+      "id": "showdown-fire",
+      "image": "showdown-fire-v2.png",
+      "coverCardId": "pgo-10",
+      "previewCardIds": [
+        "sv4pt5-9",
+        "sv4pt5-10",
+        "swsh5-20"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "summary": "Double Fire Energy, rotate heavy attackers and recover fuel."
+    },
+    {
+      "id": "showdown-water",
+      "image": "showdown-water-v2.png",
+      "coverCardId": "sv9-32",
+      "previewCardIds": [
+        "swsh10tg-TG04",
+        "swsh12pt5gg-GG05",
+        "sv4pt5-16"
+      ],
+      "types": [
+        "Water"
+      ],
+      "summary": "Prepare Water attackers with Frosmoth, Irida and Energy recovery."
+    },
+    {
+      "id": "showdown-bridge",
+      "image": "showdown-bridge-v2.png",
+      "coverCardId": "sv8pt5-22",
+      "previewCardIds": [
+        "swsh45sv-SV077",
+        "me1-88",
+        "me3-76"
+      ],
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "summary": "Suppress Abilities, trap opponents and disrupt their recovery."
+    },
+    {
+      "id": "showdown-mixed",
+      "image": "showdown-mixed-v2.png",
+      "coverCardId": "sv1-29",
+      "previewCardIds": [
+        "swsh5-8",
+        "pgo-10",
+        "sv6pt5-6"
+      ],
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "summary": "Feed Scovillain with Grass support and doubled Fire Energy."
+    },
+    {
+      "id": "showdown-dragon",
+      "image": "showdown-dragon-v2.png",
+      "coverCardId": "sv9-114",
+      "previewCardIds": [
+        "sv9-115",
+        "me2pt5-153",
+        "sv9-113"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "summary": "Sweep the Bench and recover Fire Energy for the next Dragon attack."
+    },
+    {
+      "id": "showdown-pikachu",
+      "image": "showdown-pikachu.png",
+      "coverCardId": "swsh12pt5-160",
+      "previewCardIds": [
+        "swsh1-65",
+        "sv2-64",
+        "sv8-87"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "summary": "Charge up Pikachu and Raichu, then recover Energy for another Thunderbolt."
+    },
+    {
+      "id": "showdown-eevee",
+      "image": "showdown-eevee.png",
+      "coverCardId": "sv6pt5-50",
+      "previewCardIds": [
+        "sv8pt5-22",
+        "sv8pt5-29",
+        "sv8pt5-13"
+      ],
+      "types": [
+        "Water",
+        "Lightning",
+        "Fire"
+      ],
+      "summary": "Find Eevee's evolution family and choose the right colorful attacker."
+    },
+    {
+      "id": "showdown-continental",
+      "image": "showdown-continental.png",
+      "coverCardId": "sv8pt5-49",
+      "previewCardIds": [
+        "swsh45sv-SV068",
+        "swsh45sv-SV069",
+        "swsh12pt5gg-GG25"
+      ],
+      "types": [
+        "Fighting",
+        "Fire"
+      ],
+      "summary": "Recover Energy with Coalossal to fuel Groudon and sturdy stone attackers."
+    },
+    {
+      "id": "showdown-abyssal",
+      "image": "showdown-abyssal.png",
+      "coverCardId": "cel25-3",
+      "previewCardIds": [
+        "swsh10tg-TG04",
+        "swsh12-38",
+        "swsh12pt5gg-GG25"
+      ],
+      "types": [
+        "Water"
+      ],
+      "summary": "Power ocean giants with Frosmoth, counterattack with Wailord and strike the Bench with Kyogre."
+    },
+    {
+      "id": "showdown-safari",
+      "image": "showdown-safari.png",
+      "coverCardId": "me1-48",
+      "previewCardIds": [
+        "sv5-59",
+        "swsh1-76",
+        "me2pt5-60"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "summary": "Charge the electric pack with Boltund and Eelektrik, then unleash Raikou."
+    },
+    {
+      "id": "showdown-armory",
+      "image": "showdown-armory.png",
+      "coverCardId": "sv4-136",
+      "previewCardIds": [
+        "swsh2-134",
+        "swsh2-135",
+        "swsh45sv-SV087"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "summary": "Shield your team with Aegislash and sharpen Metal attacks with Perrserker."
+    },
+    {
+      "id": "showdown-experiment",
+      "image": "showdown-experiment.png",
+      "coverCardId": "swsh12pt5-59",
+      "previewCardIds": [
+        "zsv10pt5-38",
+        "zsv10pt5-39",
+        "sv4pt5-26"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "summary": "Grow the laboratory with Reuniclus and power Psychic attackers with Xatu."
+    },
+    {
+      "id": "showdown-grove",
+      "image": "showdown-grove.png",
+      "coverCardId": "me4-42",
+      "previewCardIds": [
+        "sv4pt5-29",
+        "swsh10tg-TG05",
+        "swsh4-64"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "summary": "Grow Psychic Energy with Gardevoir ex and Clefairy while the grove heals."
+    },
+    {
+      "id": "showdown-distortion",
+      "image": "showdown-distortion.png",
+      "coverCardId": "swsh11-130",
+      "previewCardIds": [
+        "me4-39",
+        "sv3pt5-93",
+        "sv3pt5-94"
+      ],
+      "types": [
+        "Psychic",
+        "Grass"
+      ],
+      "summary": "Disrupt attachments with Trevenant and spread damage with Gengar."
+    },
+    {
+      "id": "showdown-stormwing",
+      "image": "showdown-stormwing.png",
+      "coverCardId": "swsh3-140",
+      "previewCardIds": [
+        "sv4pt5-200",
+        "swsh7-139",
+        "swsh7-140"
+      ],
+      "types": [
+        "Colorless",
+        "Fire"
+      ],
+      "summary": "Draw with Dodrio and rotate Lugia and Talonflame through the skies."
+    },
+    {
+      "id": "showdown-phoenix",
+      "image": "showdown-phoenix.png",
+      "coverCardId": "me4-10",
+      "previewCardIds": [
+        "sv2-29",
+        "swsh3-32",
+        "swsh12pt5gg-GG25"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "summary": "Revive fallen Basics with Ho-Oh and rebuild the flock with recovery cards."
+    },
+    {
+      "id": "showdown-colossi",
+      "image": "showdown-colossi.png",
+      "coverCardId": "sv8pt5-86",
+      "previewCardIds": [
+        "me1-81",
+        "me4-47",
+        "sv8pt5-67"
+      ],
+      "types": [
+        "Fighting",
+        "Metal"
+      ],
+      "summary": "Devolve opponents with Claydol and hold the line for Regigigas."
+    },
+    {
+      "id": "showdown-shell",
+      "image": "showdown-shell.png",
+      "coverCardId": "pgo-17",
+      "previewCardIds": [
+        "pgo-15",
+        "swsh10tg-TG04",
+        "me2-26"
+      ],
+      "types": [
+        "Water"
+      ],
+      "summary": "Evolve Squirtle, charge up with Blastoise and Frosmoth, then strike with Suicune."
+    },
+    {
+      "id": "showdown-verdant",
+      "image": "showdown-verdant.png",
+      "coverCardId": "pgo-3",
+      "previewCardIds": [
+        "pgo-1",
+        "swsh12pt5gg-GG25",
+        "rsv10pt5-10"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "summary": "Evolve Bulbasaur, disrupt with Venusaur's Loopy Lasso and rotate Virizion after Emerald Blade."
+    },
+    {
+      "id": "showdown-ascent",
+      "image": "showdown-ascent.png",
+      "coverCardId": "sv3pt5-149",
+      "previewCardIds": [
+        "me2pt5-151",
+        "me2pt5-60",
+        "swsh9tg-TG05"
+      ],
+      "types": [
+        "Dragon",
+        "Water",
+        "Lightning"
+      ],
+      "summary": "Recover Lightning Energy, evolve Dragonite for free retreat and rotate dragons with Zekrom."
+    },
+    {
+      "id": "showdown-forge",
+      "image": "showdown-forge.png",
+      "coverCardId": "sv6pt5-46",
+      "previewCardIds": [
+        "zsv10pt5-68",
+        "sv5-114",
+        "cel25-20"
+      ],
+      "types": [
+        "Dragon",
+        "Fighting",
+        "Metal"
+      ],
+      "summary": "Evolve Haxorus, accelerate Metal Energy with Metang and recover discarded cards with Dialga."
+    }
+  ]
+}
