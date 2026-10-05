@@ -1,0 +1,115 @@
+# Sound assets
+
+The downloaded library is now connected to the Unity game. See
+[Unity playback and controls](../../docs/unity-audio.md).
+
+**1,794 downloaded audio files**, including 1,161 modern cries covering all 1,025
+species and 136 named forms, 151 optional legacy cries, and 482 shared effects.
+Every modern payload has been downloaded, decoded and checked.
+
+## Pokémon voices
+
+Base species have a `latest` cry, and the original 151 also have a `legacy` cry under
+`pokemon/<four-digit-Pokédex-number>/`. The collection comes from
+[PokeAPI/cries](https://github.com/PokeAPI/cries), pinned to
+`ef687b18f0ce17169b4b4c09175819f7ade92f0f`.
+
+These are **1,312 cry recordings**, reused for attack, hurt and knockout vocals.
+The chosen source has no separate attack, hurt, or knockout voice recordings.
+`manifest.json` provides fallback recipes using the species cry and shared effects
+for summon, hurt, knockout, and evolution. They are explicitly labeled as reuse.
+Dedicated vocals remain listed in `coverage.json` for later sourcing or creation.
+
+“Legacy” is the source library's label; it does not guarantee original Game Boy
+recordings. The default is `latest`. Some species share identical source sounds.
+Alternate-form IDs must not be treated as National Pokédex numbers. Form recordings
+live under `pokemon/forms/`, with their base species and source IDs recorded separately.
+The manifest maps 17,243 Pokémon cards, including 24 cards with missing Pokédex metadata.
+Ambiguous form names use base cries and are recorded in `coverage.json`.
+
+Refresh with `python scripts/refresh-pokemon-cries.py --install-cache`, using a current
+FFmpeg decoder (`TCG_FFMPEG` can specify its executable), followed by
+`node scripts/prepare-unity-audio.mjs`. This replaces the old Gen 1 cry refresh workflow.
+The optional `--reuse-verified` flag reuses previously decoded files only when their
+source identity and SHA-256 still match. The downloader can supplement PokeAPI with
+matching Showdown recordings when available. Modern cries are the default, including
+a one-time migration of older audio settings. Legacy selection falls back to modern
+recordings outside the original 151.
+
+Pikachu's upstream `latest.ogg` actually contains MP3 audio. The original is retained,
+and `latest.mp3` is a byte-identical playback copy. Always load the manifest path
+and MIME type instead of assuming every filename uses Ogg.
+
+## Shared sounds
+
+Complete audio folders from these [Kenney](https://kenney.nl/assets) packs are
+included under `sfx/`, with the original filenames and license notices:
+
+- [Casino Audio](https://kenney.nl/assets/casino-audio): cards, shuffling, chips, dice.
+- [Interface Sounds](https://kenney.nl/assets/interface-sounds): select, confirm, cancel, errors.
+- [Impact Sounds](https://kenney.nl/assets/impact-sounds): light/heavy hits and material impacts.
+- [RPG Audio](https://kenney.nl/assets/rpg-audio): slashes, coin handling, movement.
+- [Digital Audio](https://kenney.nl/assets/digital-audio): beams, zaps, power-ups, status cues.
+- [Music Jingles](https://kenney.nl/assets/music-jingles): short candidate match jingles.
+
+`events.json` selects **41 prototype cues** from these 482 effects. These are editable
+choices rather than final sound design. Explosion currently uses a heavy-impact
+substitute. All 11 Energy types share one attachment cue until distinct type sounds
+are selected. The full source packs remain available for auditioning alternatives.
+
+## Catalog and game integration
+
+- `manifest.json`: assets keyed by ID, species profiles, card bindings and sources.
+- `catalog.csv`: portable searchable audio inventory.
+- `events.json`: game event → asset ID; explicit Energy fallbacks.
+- `coverage.json`: available voices, format correction, and remaining gaps.
+- `verification.json`: file/decode and reference validation results.
+- `source/`: pinned Git tree, source notices, download records and original archives.
+- `previews/starter-cries.wav`: Bulbasaur, Charmander, Squirtle, Pikachu, then Mew.
+
+Every asset includes its path, duration, detected format, sample rate, channel count,
+SHA-256, provenance and license reference. `defaultGain` supplies conservative
+peak-based playback attenuation; it is not perceptual loudness normalization.
+Original recordings are unchanged. The preview alone is mixed to mono with gaps.
+
+Paths are relative to `assets/audio/`. Example from a page at the project root:
+
+```js
+const manifest = await fetch('./assets/audio/manifest.json').then(r => r.json());
+const species = manifest.species['25'];
+const cry = manifest.assets[species.cries.latest];
+const sound = new Audio(new URL(cry.path, new URL('./assets/audio/', document.baseURI)));
+sound.volume = cry.defaultGain;
+// Call in response to a user gesture; respect the game's mute/volume preferences.
+await sound.play();
+```
+
+Species profiles bind to the existing Gen 1 cards through National Pokédex numbers.
+Further cards can reuse that mapping, but alternate forms and multi-Pokémon cards
+need explicit handling. Attack sound selection should follow the actual attack,
+not just the card's type. Runtime mixing, voice limits, fades and event timing
+belong to the future game audio engine; this folder supplies assets and recipes.
+
+## Source rights
+
+Kenney's retained notices identify the packs as CC0. PokeAPI's repository notice
+explicitly states that Pokémon audio contents are copyright The Pokémon Company;
+its repository CC0 statement does not make those recordings project-authored or
+transfer Pokémon audio rights. See `source/pokeapi-LICENSE` and each pack's `License.txt`.
+
+## Reproduce and verify
+
+Requires Node.js 20+, Python 3.9+, and `ffmpeg`/`ffprobe` on PATH:
+
+```sh
+node scripts/download-audio-assets.mjs
+python scripts/catalog-audio-assets.py
+node scripts/build-audio-cues.mjs
+```
+
+The downloader resumes valid pinned cry files and retains source archives. The
+catalog step works offline, extracts only audio and license payloads, checks hashes,
+fully decodes every audio file, rejects silent/invalid audio, and rebuilds metadata.
+The final step validates cue references and builds the sample reel. Re-run the final
+two steps together after changing source audio. No source website is needed at
+playback time.

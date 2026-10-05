@@ -1,0 +1,2309 @@
+{
+  "schemaVersion": 1,
+  "migrationId": "modern-main-v1",
+  "profileId": "modern-era-v1",
+  "sourceCommit": "8b4e387930ead7be6595b4d4c59b7ba7a3a79f08",
+  "sourceContentHash": "5fbb814bbec1af96593cda841ff7640a596cc5ee883a722a90f9d7ae6b87367b",
+  "targetContentHash": "ee7dc7afc66ac518823c3efffc9de874bd146a49357c9bbea55e7bb3425cad59",
+  "coverageProofHash": "9a3b8798df5e2f4a89561a47a8c9100014e0dc3b2052491b7f1c122ef7a16b67",
+  "status": "complete-mapped-development-tested",
+  "entries": [
+    {
+      "oldId": "base1-63",
+      "newId": "sv7-148",
+      "oldSourceHash": "5f50934cf3ac31fdeb9356eef707964ee92cfebc0bc1983cb95aac419880113e",
+      "newSourceHash": "4ea885f2cd9a1537e23e9339940288283ef28b3397399d35fc3d71959fa2c522",
+      "status": "mapped-complete",
+      "oldName": "Squirtle",
+      "newName": "Squirtle",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-47",
+      "newId": "sv3pt5-50",
+      "oldSourceHash": "2c493c7c843a60bceb4603806b4cc7b3237e81636cc78a35535743d554ca7bc7",
+      "newSourceHash": "8cb6b6758386965b9555e880032e9c29b9abb6834487345c82326baf71b21d0b",
+      "status": "mapped-complete",
+      "oldName": "Diglett",
+      "newName": "Diglett",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-60",
+      "newId": "sv10-29",
+      "oldSourceHash": "677bb43e4e417ae43c6903124b4bf9fe4ec142ae5e3874af644e5bb38fb15970",
+      "newSourceHash": "1aa4ac4f80303f6f83685dd91ddfe8c985f3c63accee96111a2ee0b2ccaa1cad",
+      "status": "mapped-complete",
+      "oldName": "Ponyta",
+      "newName": "Ponyta",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-64",
+      "newId": "sv4pt5-119",
+      "oldSourceHash": "0b0907361d2742e36e1bcb7dcd5fd69507e421d97f7f2a7fc5d3418a09e158e2",
+      "newSourceHash": "bf75e64457c4bf79cd92dd7be0d10004171635d7914fae780bc43a5ac468e406",
+      "status": "mapped-complete",
+      "oldName": "Starmie",
+      "newName": "Starmie",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-93",
+      "newId": "",
+      "oldSourceHash": "7d83f238fc575434ef4ed2b7d745ff65854b2f00413ffc4cc9e361bdbc28332a",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Gust of Wind",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-102",
+      "newId": "swsh12pt5-154",
+      "oldSourceHash": "697c142076844d8bcb33e45c301ca0b879ddcea59cf2e6e33f7fd8381a0638b1",
+      "newSourceHash": "6180e9db8d29dbb2fd7d907aa69769433872ac81ae816a8fffe848913603414f",
+      "status": "mapped-complete",
+      "oldName": "Water Energy",
+      "newName": "Water Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-98",
+      "newId": "swsh12pt5-153",
+      "oldSourceHash": "8af7ce63461f4dc9bc48901c1baac34f0b9d589494c166f25d1fc7c8daee8a7f",
+      "newSourceHash": "cdb77f747c99941ce2c555a1b9d89a85625b1ae2c30af02e59b6fb60bda09832",
+      "status": "mapped-complete",
+      "oldName": "Fire Energy",
+      "newName": "Fire Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-41",
+      "newId": "me3-18",
+      "oldSourceHash": "27eac30a6e5f64bea76a50a71d478791985d0b7f94124ddee35e57f6a39e39e2",
+      "newSourceHash": "c38d1f77361429e8c6763a1ecd27643bd00f6f1b64786d0b7064312ddd6e75bc",
+      "status": "mapped-complete",
+      "oldName": "Seel",
+      "newName": "Seel",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-24",
+      "newId": "me2pt5-21",
+      "oldSourceHash": "ada3c375e853fdee0a67ad925062b4cd4ebc225a9e55bfb65e1ddf5755eb7436",
+      "newSourceHash": "db4e218587644aae4d4ae7c62aff72677c5e356b6fd04d080ea0886185f9c72f",
+      "status": "mapped-complete",
+      "oldName": "Charmeleon",
+      "newName": "Charmeleon",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-23",
+      "newId": "sv10-28",
+      "oldSourceHash": "7bc3aa97606d3b2f63a6d05bb2d2cd5c648b57d7eb66c7a0df63a6869a9526fd",
+      "newSourceHash": "95cd727e88e7e3b1ee4e449dcf75a9add380669e634274976cb90b3f339fb6ee",
+      "status": "mapped-complete",
+      "oldName": "Arcanine",
+      "newName": "Arcanine",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-77",
+      "newId": "",
+      "oldSourceHash": "c7818e9aebc618acf0ba95a3fff9b8415eb09bfd5152a37be295740da442a107",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Pokémon Trader",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base2-62",
+      "newId": "me1-102",
+      "oldSourceHash": "13f661cf117f66673ea08f25498fa5f0d0e27e19f9091ef2524f8f424c6d40c4",
+      "newSourceHash": "b33a97e19114bce13ae391cbb30535e35346121bf2ecd06bd29799631d2c78d1",
+      "status": "mapped-complete",
+      "oldName": "Spearow",
+      "newName": "Spearow",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-58",
+      "newId": "me2-1",
+      "oldSourceHash": "bf1a15d6a5079d4eeed0a68d44039b4657f7ef038a481b5ed4615e663617d8dc",
+      "newSourceHash": "db19b4cf0ef176e746404c308940c1e309a04b3b2f5c5d4f7d70b84f08b395a8",
+      "status": "mapped-complete",
+      "oldName": "Oddish",
+      "newName": "Oddish",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-51",
+      "newId": "sv8pt5-74",
+      "oldSourceHash": "1da760239f2b5f6a1dd0a3f58ecb44beaa7cdb085712ef7bcae5ec90fe9e94df",
+      "newSourceHash": "a09f8d51a79612c7dedeb7dafe6814e6d1bd5c7c567c2fd740a02134824e8cc2",
+      "status": "mapped-complete",
+      "oldName": "Eevee",
+      "newName": "Eevee",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-63",
+      "newId": "sv3pt5-48",
+      "oldSourceHash": "51d627d8b9f815d0a95f84c8dab41e3528a47cdcaa3e7f367ff1e1befe99ab2b",
+      "newSourceHash": "bb84a7b7a65337d1aa6c8c81a91e98fc595137cbc96f2f9ee1d3ce45d72489d3",
+      "status": "mapped-complete",
+      "oldName": "Venonat",
+      "newName": "Venonat",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-55",
+      "newId": "me5-42",
+      "oldSourceHash": "59d4d363253354d4350c1760fc25599c85b523a4527b5ba2e5b54fe23ebf9f1c",
+      "newSourceHash": "b1579c0e824af12f35ba183d2d1cf46d2c8855263d438154240893c2e600ec50",
+      "status": "mapped-complete",
+      "oldName": "Mankey",
+      "newName": "Mankey",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-52",
+      "newId": "me1-4",
+      "oldSourceHash": "55eb6bf26a8c3c261cb3fa676cb0e3f2bf886e45fb9055a079668da0487110b0",
+      "newSourceHash": "05fcdeb63f63ed8e38b8960d95ee730857b490f1ddb0575b1f09d10d94a7d6cf",
+      "status": "mapped-complete",
+      "oldName": "Exeggcute",
+      "newName": "Exeggcute",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-64",
+      "newId": "me3-80",
+      "oldSourceHash": "929740619a041a9e0b53bef325dfe10bd1821728e5935065214e15bf96a1eb40",
+      "newSourceHash": "6fd803569ca671e2b64cda4a8d6a1326994ec83d7c356a10f1243d31b8013314",
+      "status": "mapped-complete",
+      "oldName": "Poké Ball",
+      "newName": "Poké Ball",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-33",
+      "newId": "sv9-3",
+      "oldSourceHash": "fd9d24c1276847806c799f4357ae3a777de751dc7673d24ea18763073e3123d4",
+      "newSourceHash": "74429b40c7d345d2957a8ac75e8f2f8709ad9501c214c04197b3a677a0f982d8",
+      "status": "mapped-complete",
+      "oldName": "Butterfree",
+      "newName": "Butterfree",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-46",
+      "newId": "me5-14",
+      "oldSourceHash": "dcdaadcdceb31e35069cc8a0195a5cf9e3c8af7915eaac3ed1d1b57d1a060513",
+      "newSourceHash": "d4b1122b94fde52ee7ef6dbd5735003f366d3afa42c41b07491caddd3adfb628",
+      "status": "mapped-complete",
+      "oldName": "Seaking",
+      "newName": "Seaking",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-44",
+      "newId": "sv10-30",
+      "oldSourceHash": "98315b15193d4370b96c233ca318a1c6df6fd13819d897082cd7eefba9519a47",
+      "newSourceHash": "f090526d5f1bb9ff1fa67dcb078444ac82db257d19e0269593667abf39562aff",
+      "status": "mapped-complete",
+      "oldName": "Rapidash",
+      "newName": "Rapidash",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-12",
+      "newId": "sv8pt5-22",
+      "oldSourceHash": "53ce812950a80fdb48732d5ad7d3ce25f01c5bd2b98f278dbd0326a2eb41dd2e",
+      "newSourceHash": "83c1a50e425cb4405f2ecfe3ba31c4fb3f54a9c7f22164faf6f0abba2b7cd294",
+      "status": "mapped-complete",
+      "oldName": "Vaporeon",
+      "newName": "Vaporeon",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-95",
+      "newId": "me2-123",
+      "oldSourceHash": "1770a395d9564515d30532d39a95f0ad07e29675139689f812fd406135a0a20a",
+      "newSourceHash": "73ba31159ca997bb038d062041d3b3bc5456242466a0813accade3b3fa71520f",
+      "status": "mapped-complete",
+      "oldName": "Switch",
+      "newName": "Switch",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-61",
+      "newId": "me3-60",
+      "oldSourceHash": "741599def98cb43c9f03638bb9c7ab54472db1d8e0a2612cf5544ac76ff613cf",
+      "newSourceHash": "ecd5b96244d5608a22b1ed78489da5bb14541dc09f1ae9454ab94eb26aecd511",
+      "status": "mapped-complete",
+      "oldName": "Rattata",
+      "newName": "Rattata",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-54",
+      "newId": "sv9-2",
+      "oldSourceHash": "52cf9631c645384713eb0b12bad54848e80a0ea91f0ae635d214507b7ca97b59",
+      "newSourceHash": "5b8defe3df60f908f20c6542cac9556306b7ef65064eec76843defda61a5fa96",
+      "status": "mapped-complete",
+      "oldName": "Metapod",
+      "newName": "Metapod",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-94",
+      "newId": "me3-83",
+      "oldSourceHash": "1b1ae64ac57df4426eb14618584214fff6e2bf2d2fcd530d8154d78eb2e2562a",
+      "newSourceHash": "b9fcbf255d3cf483d4328ebac09e6a6fac3ae42e71fe8ffb0fadc775120878cc",
+      "status": "mapped-complete",
+      "oldName": "Potion",
+      "newName": "Potion",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-68",
+      "newId": "me4-8",
+      "oldSourceHash": "bf4bffc8beec299c3e0d55265cc43aaa654be25d08466c172f38dee9c61371df",
+      "newSourceHash": "02dc4aaf1788c953975a73ef02a9563776bb3b49cf39355aa548952d9a6e1a32",
+      "status": "mapped-complete",
+      "oldName": "Vulpix",
+      "newName": "Vulpix",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-101",
+      "newId": "swsh12pt5-156",
+      "oldSourceHash": "57751217086f9af4f20d7ff606fde9c5dbbe1a8233c3d19a296b62e2544e670d",
+      "newSourceHash": "d3943aba34bd3dd74fa040967938b28048c53bde83e4ac581667076df915d1ec",
+      "status": "mapped-complete",
+      "oldName": "Psychic Energy",
+      "newName": "Psychic Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-42",
+      "newId": "sv3pt5-8",
+      "oldSourceHash": "db70d3d6a7f0a7a7910e2230810c27ddc6ab95725aa1b31eee220536d8c0a3a8",
+      "newSourceHash": "945f78cc25d79f25b9ff3dbdc1929a99b4fed89ab40453d37d8a50d5f629d239",
+      "status": "mapped-complete",
+      "oldName": "Wartortle",
+      "newName": "Wartortle",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-27",
+      "newId": "sv6-132",
+      "oldSourceHash": "c681c759629f52f2b056467d31834b9ed3a00e90198ff6fc63d0a94de8643327",
+      "newSourceHash": "ff8d335f4df6d15105f873ed88c610f0a76d936dce04b843da346f2f4cd25273",
+      "status": "mapped-complete",
+      "oldName": "Farfetch'd",
+      "newName": "Farfetch'd",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-83",
+      "newId": "",
+      "oldSourceHash": "091d26db8bfc1ef66883c12328d0a24d8bd54f8a4036a2b77817de7e95136778",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Maintenance",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-58",
+      "newId": "me2pt5-55",
+      "oldSourceHash": "3b4bba015da4fc061ce8577266b86fc2c0a7aaeb7d3158d388c0a04d581c186a",
+      "newSourceHash": "e343b700f1e55bce400497f6cac5b154c32eaf365edc495eb27715b75ce94d43",
+      "status": "mapped-complete",
+      "oldName": "Pikachu",
+      "newName": "Pikachu",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-50",
+      "newId": "me3-48",
+      "oldSourceHash": "638bdf8b3852bc926dff53efb61dfa9eca22be7e4f98e017c76be9f101a785b6",
+      "newSourceHash": "6feb7dbecb6d3fb269634aa75419df9c0c80f8485de9a575268e6d87d93cb74f",
+      "status": "mapped-complete",
+      "oldName": "Gastly",
+      "newName": "Gastly",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-46",
+      "newId": "me2pt5-20",
+      "oldSourceHash": "7b2f5ca692af662b35065f8ad471dfba8a8a4216e1bb6a4352e5e725be95ace5",
+      "newSourceHash": "a4750564f35305717efcd05e6579d3db21e5489eea26fe982790ebd093cf1678",
+      "status": "mapped-complete",
+      "oldName": "Charmander",
+      "newName": "Charmander",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-55",
+      "newId": "sv3pt5-32",
+      "oldSourceHash": "048d58f2c766a298629b402950dd30640e623bc40111cee96c91c876ce41f917",
+      "newSourceHash": "6501d64124fc85d70ea528b2f332ddd5f328e18e248506ce59674d51d2bbe4a5",
+      "status": "mapped-complete",
+      "oldName": "Nidoran ♂",
+      "newName": "Nidoran ♂",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-66",
+      "newId": "me1-6",
+      "oldSourceHash": "f5f5dc8e3ecc56d41cbcd8a4f1e1ad1dbe9506fa9dfa1b9661984f5f76a98313",
+      "newSourceHash": "7324e3e1da6240e91c0fa7330b0ff1bdeee9579f47cb61c01e882be78386aed6",
+      "status": "mapped-complete",
+      "oldName": "Tangela",
+      "newName": "Tangela",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-97",
+      "newId": "swsh12pt5-157",
+      "oldSourceHash": "c843fa49d970ce8dcd1927e8ab502182f87e281e0f87c45aef1c77e4ad0f7fd7",
+      "newSourceHash": "f5eb48a33d6e86d881268db987dc52a2d712363961a6aa3a94d283f67227f445",
+      "status": "mapped-complete",
+      "oldName": "Fighting Energy",
+      "newName": "Fighting Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-33",
+      "newId": "me4-2",
+      "oldSourceHash": "310d158b9783ef2dc005bb57d3fe801e821a203f373f9f557a3cf515c55b0304",
+      "newSourceHash": "d0fbc9da4decd2c33ae2357f1b5eb210b6a1fdc324b00c13eea1c349b501fd35",
+      "status": "mapped-complete",
+      "oldName": "Kakuna",
+      "newName": "Kakuna",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-32",
+      "newId": "me1-55",
+      "oldSourceHash": "b71aae3239da8442c3db2503adf3b387741eaf89b8cce22b9465bbca5994f183",
+      "newSourceHash": "de112618d807943388247130bf5e604397657ea46498836965408e17705ea6ea",
+      "status": "mapped-complete",
+      "oldName": "Kadabra",
+      "newName": "Kadabra",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-82",
+      "newId": "swsh35-51",
+      "oldSourceHash": "5ea5f769791b0db545797e8c7f763496cc211466e1770d428a247560021ca001",
+      "newSourceHash": "2e3e845a1a87166f387fdd25a76a98ec77d609a981d1e10a9935e0d13bbe9aea",
+      "status": "mapped-complete",
+      "oldName": "Full Heal",
+      "newName": "Full Heal",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-78",
+      "newId": "",
+      "oldSourceHash": "7ebf2639620af91237bc8344e73f265ed34b39f2eea998d464c3c8161fdafdd7",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Scoop Up",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-49",
+      "newId": "sv6pt5-16",
+      "oldSourceHash": "6e359aee8cba2c61dbbf1137df3c72f821ef8bdb9f73604ebb19fa0af0babc1d",
+      "newSourceHash": "12d858aa407a841fa39084b06a4e8492d7a0b6f691d4e54da6455deb59a68a92",
+      "status": "mapped-complete",
+      "oldName": "Drowzee",
+      "newName": "Drowzee",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-67",
+      "newId": "sv4pt5-133",
+      "oldSourceHash": "8787a2525ebbdbe59660b247ad6ac38a063e9bb0a5c92a724f53c754b659760b",
+      "newSourceHash": "311696c919530b5f370d895a985ef9fe68b8187144e1629573d3ec8cdf39889f",
+      "status": "mapped-complete",
+      "oldName": "Voltorb",
+      "newName": "Voltorb",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-62",
+      "newId": "me1-68",
+      "oldSourceHash": "f6d4eead5185db6cc9fc844a7bc0386b40d6ad1f296e07f05581958c65b5edab",
+      "newSourceHash": "e5664beec71c3a2981056d689f56f37ffed2d20d0d476c62aabbc39123f3bc12",
+      "status": "mapped-complete",
+      "oldName": "Sandshrew",
+      "newName": "Sandshrew",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-91",
+      "newId": "",
+      "oldSourceHash": "d4569d8752ff7d64f94ecafa28a85aa3554e2bdcd9c59d2f04d650b5efcfbde1",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Bill",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-100",
+      "newId": "swsh12pt5-155",
+      "oldSourceHash": "917e6107f156d558370b011fcd013a69d0239478741db93f3f2c4066d1354820",
+      "newSourceHash": "44eb48d0d9a49deb4ecc31dfe80824ef748fac132bf1f5f9c4d7487fc666bd10",
+      "status": "mapped-complete",
+      "oldName": "Lightning Energy",
+      "newName": "Lightning Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-85",
+      "newId": "",
+      "oldSourceHash": "c40b53cedaf834c89a7702bf85702a84faa6d2fc5988950bce6c5c1f3a7ee36b",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Pokémon Center",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-18",
+      "newId": "me2pt5-151",
+      "oldSourceHash": "e26461d0ac5faa5d0797a4f730bac7a854bb117c82b3d73bcfe98721fe34737b",
+      "newSourceHash": "4133b1eca626ffa63c9314542f5d3ced19535c7996a936de6e8a1f84b1f08976",
+      "status": "mapped-complete",
+      "oldName": "Dragonair",
+      "newName": "Dragonair",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-48",
+      "newId": "sv4pt5-199",
+      "oldSourceHash": "f43a6e438dd6b62366497b3b1e76eac107e919113bd9526b741f7085afe6f7fe",
+      "newSourceHash": "3be468b109df06943be59d6c8b6df41bc80ebf3cca4b97e433ca517b71b6404f",
+      "status": "mapped-complete",
+      "oldName": "Doduo",
+      "newName": "Doduo",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-52",
+      "newId": "sv3pt5-66",
+      "oldSourceHash": "efd5aae897b569892d4310dae5e16b1033c0335a2df5a3d55322bf5beacd727f",
+      "newSourceHash": "47ad9ccd4479623883b2bfc8cc229ac80bde32487319f98f38b1c0f230d94c8f",
+      "status": "mapped-complete",
+      "oldName": "Machop",
+      "newName": "Machop",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-65",
+      "newId": "me3-20",
+      "oldSourceHash": "343adeb578e80e7b8f199815fe65634d52dbc10d1fa16da1a9b684fd38667e40",
+      "newSourceHash": "555e233232a1d4c386afcf44c7d2a73c7a753eb4d38eb199bf7a4804c70b7c23",
+      "status": "mapped-complete",
+      "oldName": "Staryu",
+      "newName": "Staryu",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-99",
+      "newId": "swsh12pt5-152",
+      "oldSourceHash": "032bdfa24b3fd17b8ec2c172ef5991ce2fff3304dc7a590dbfa7f7b17f167281",
+      "newSourceHash": "65c14c1ca8c01dca5cdb926fc7ea3cf7baecab9f2af9b0b331b4771bd25c8fb0",
+      "status": "mapped-complete",
+      "oldName": "Grass Energy",
+      "newName": "Grass Energy",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-29",
+      "newId": "me3-49",
+      "oldSourceHash": "009ccf154b49c7bc01940d6778eb1f249a89863cd45ea610c9157ecbc55738c1",
+      "newSourceHash": "7b431f55bb21a27f0ebf3923487795c620fc7b8c98859abb8edb3525230bae5c",
+      "status": "mapped-complete",
+      "oldName": "Haunter",
+      "newName": "Haunter",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-72",
+      "newId": "",
+      "oldSourceHash": "15c319ba786bbe84d7619c395ce7663814a36b3494d7710f3e7275681098c8fb",
+      "newSourceHash": "",
+      "status": "refund-unmatched",
+      "oldName": "Devolution Spray",
+      "newName": "",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-59",
+      "newId": "sv6-41",
+      "oldSourceHash": "4d9aac10efe727e22150ed8b4d1e87f8f57869eac28bef7e3a2dc5a47fd5aada",
+      "newSourceHash": "fc8dac9085ca16d7dd5de4d8c55f4c6a749e9cf1518d19c13d33a8ac6ae59a47",
+      "status": "mapped-complete",
+      "oldName": "Poliwag",
+      "newName": "Poliwag",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-69",
+      "newId": "me4-1",
+      "oldSourceHash": "990fd9bc3b157c5e5be3f2a775ff0dd17e1677630dc7934000ce3a94e6aded90",
+      "newSourceHash": "b4320acac297f2a214ed33bc1e92fce1540effe3b8ef2848866106321cc519a0",
+      "status": "mapped-complete",
+      "oldName": "Weedle",
+      "newName": "Weedle",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-28",
+      "newId": "sv10-27",
+      "oldSourceHash": "4be065546d8f6f213c2b90919a9eb92d2dfa27f831d84c8fe71dcd2894d31ab6",
+      "newSourceHash": "8af7f58e8d6f08ff99a893ef784566992abb11ee19146349f0972f5e8731e62a",
+      "status": "mapped-complete",
+      "oldName": "Growlithe",
+      "newName": "Growlithe",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-38",
+      "newId": "sv6-42",
+      "oldSourceHash": "689fe87055790667cc81dedd4511e6fcc96f0fa595b3dd6e960b7c5022eaa982",
+      "newSourceHash": "1de497a3c7f889561e10b2de00b4e996b7a103506b8f83acbb4c8ee375df38c1",
+      "status": "mapped-complete",
+      "oldName": "Poliwhirl",
+      "newName": "Poliwhirl",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-90",
+      "newId": "sv9-158",
+      "oldSourceHash": "7733ff6926f3c471c7bc29baaed9056be287d0e6f5b2d50c54f91877eb9b7b9e",
+      "newSourceHash": "3ddba60c1da96f4ac8d947e211c7d38b940b6ef7d2d61eaea29c02755be5ac97",
+      "status": "mapped-complete",
+      "oldName": "Super Potion",
+      "newName": "Super Potion",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-1",
+      "oldName": "Alakazam",
+      "oldSourceHash": "e016d8897e16cfa2e572dadb395977b09755b071136096027b80abc8d84bffce",
+      "newId": "me1-56",
+      "newSourceHash": "734e86fb566d2c2ba67b7bf4d46e98f5336dd9062e73d4dc00b2c362557330e7",
+      "newName": "Alakazam",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-2",
+      "oldName": "Blastoise",
+      "oldSourceHash": "68ec4a47b5d671b1ffd05bcf087be5da6f61990c660963c3921a2a64df3c1295",
+      "newId": "pgo-17",
+      "newSourceHash": "de797973ef3f9c6b1d467734544db9c4ee8f441bfd91cd471ca24d84a7010c95",
+      "newName": "Blastoise",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-3",
+      "oldName": "Chansey",
+      "oldSourceHash": "124ff752cf12b36e54ae106aa77978c3b44b2b6901df50f62549cc4d3cc7045a",
+      "newId": "sv6-133",
+      "newSourceHash": "4c77a3ce17576a06b895dbeb7b86d22fe989e0c6d6bd6cc609bbd13004c9575b",
+      "newName": "Chansey",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-4",
+      "oldName": "Charizard",
+      "oldSourceHash": "d3465df9a6d2e53585a184a97d28fd9e528aadcbbf341f6430f951729903e0b7",
+      "newId": "swsh11tg-TG03",
+      "newSourceHash": "4ea5896cdbdf680f933acabd69ae68f93bc26ff180e4dcd1b3f07c76dd0f7585",
+      "newName": "Charizard",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-5",
+      "oldName": "Clefairy",
+      "oldSourceHash": "2d2adb583e4f4d024e588086b4d4e39f8907bf11f92251506c58c94c901e0aad",
+      "newId": "me3-30",
+      "newSourceHash": "a279cafda48276b4cda8aa362eb4d4b07d8ded862873e8b0a8885745fdc33843",
+      "newName": "Clefairy",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-6",
+      "oldName": "Gyarados",
+      "oldSourceHash": "28dd53793db576faf579ebfacb8210d080147077fb9150542d1e8e897b10bc21",
+      "newId": "sv3pt5-130",
+      "newSourceHash": "bdcc33aa9a968ac112c25621c8237c7e3f534240017bc010a822d6da4bcb2a6d",
+      "newName": "Gyarados",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-7",
+      "oldName": "Hitmonchan",
+      "oldSourceHash": "cb93e6c0d78d689ac1f4b1b06a172fa54e9c7a5a0e7920fc7476b5746e931a6c",
+      "newId": "sv3pt5-107",
+      "newSourceHash": "5484399da0336d6b6918afbe39568c377c3bbe1068f5c2cccab0d673270aa66d",
+      "newName": "Hitmonchan",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-8",
+      "oldName": "Machamp",
+      "oldSourceHash": "21fafdd7f50639c03ffe9efda25cf39085d745f9ba46f9ea4b0768523cf0ee0e",
+      "newId": "sv3pt5-68",
+      "newSourceHash": "3d63768e3582dc220d36aabe6b1be52582796f0417c3e3bad5f9a5b8acf08b4c",
+      "newName": "Machamp",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-9",
+      "oldName": "Magneton",
+      "oldSourceHash": "219cc2a1b1024298e583bd75dd9710d76da5859845ba0a40ca68d575c4295635",
+      "newId": "me1-46",
+      "newSourceHash": "2ed808e1219d66928d29c06f707d8486da0aba6a7370145496eac1a9f7cae30c",
+      "newName": "Magneton",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-10",
+      "oldName": "Mewtwo",
+      "oldSourceHash": "6a914208e0e871495910719f461f7a635cb33aa85e287cc1de23fa91e43afba0",
+      "newId": "sv7-59",
+      "newSourceHash": "5a7af8775788564e5ef5647ac8cb5d089f9e8046d3a599e334e9832b2d0bcafc",
+      "newName": "Mewtwo",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-11",
+      "oldName": "Nidoking",
+      "oldSourceHash": "bbcab9be8d2cc9cebb9552b085c508560a1992716b692a19111065ea0a4715d4",
+      "newId": "sv3pt5-34",
+      "newSourceHash": "2a2895c4fa609c2cff2e8ed4210dda61ee613fea9e0149b958fd76d2b56f6166",
+      "newName": "Nidoking",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-12",
+      "oldName": "Ninetales",
+      "oldSourceHash": "5157e495f70fe40726441966b6aa3a0f3832c29984756b895e5c4403d3cc8819",
+      "newId": "me4-9",
+      "newSourceHash": "890710c74fb9fecedb86efc1f833a45a1943e7f5c2d9d000b4244d2b36d50ea2",
+      "newName": "Ninetales",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-13",
+      "oldName": "Poliwrath",
+      "oldSourceHash": "803ea4ad747f86dfe745b5ddac1a29460be24f2a0ba0c12e5684c73d062b018d",
+      "newId": "sv6-43",
+      "newSourceHash": "b36670feb2f2969eb89e24ba9ff52eb5aae8420b36dc61ef4a36ab0be4af1b5a",
+      "newName": "Poliwrath",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-14",
+      "oldName": "Raichu",
+      "oldSourceHash": "8eb249bdcb9b48960be443c916e70fd8beb5b34c3eb318eec88c65c956c5c6b8",
+      "newId": "me2pt5-56",
+      "newSourceHash": "8cf0e1aa07642233ed167752b98dcd03f71acfb6357085d9c0cfe7abbb7a37fe",
+      "newName": "Raichu",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-15",
+      "oldName": "Venusaur",
+      "oldSourceHash": "73ff6e33ff7deaadd3c5bc1d56cd6feb27e40adb7c7e888e8c0638828132d1f9",
+      "newId": "pgo-3",
+      "newSourceHash": "46f46e2c1489b45ab9fbb6cb628c4daa6a093c9eef47d74f8995661e83f9c60e",
+      "newName": "Venusaur",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-16",
+      "oldName": "Zapdos",
+      "oldSourceHash": "e0fe9c7d06a8594746e24eb9f403711e991c6f8ecea324c49785430f78514878",
+      "newId": "sv6-65",
+      "newSourceHash": "781f5239267fd7eba7a276a77ebc922b743fd5c881a3360475dd292863a43f9e",
+      "newName": "Zapdos",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-17",
+      "oldName": "Beedrill",
+      "oldSourceHash": "6d586184852ca2fae1c41c5fdf9440f78e4b9e831e992b621fb8636382ec6537",
+      "newId": "sv3pt5-15",
+      "newSourceHash": "6a927a6784835e1700680167b5b401f4b136387340a03ddabd56e37e3eec9bed",
+      "newName": "Beedrill",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-19",
+      "oldName": "Dugtrio",
+      "oldSourceHash": "6c318cdc163997aba31d55e32e34903d4eba0211dce7d9df55c02ee8481b6201",
+      "newId": "sv3pt5-51",
+      "newSourceHash": "9d85eb28090c1e852c4c1aa04ccf86d0142991751c156c013265a2c8661eb1a4",
+      "newName": "Dugtrio",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-20",
+      "oldName": "Electabuzz",
+      "oldSourceHash": "1248233591ce3f218fcfa11c4e310d069b4e566a2b586a1c1c2b58d17941f9aa",
+      "newId": "sv10-68",
+      "newSourceHash": "a25da9c1d7f093b095fabf44d9b58abdca399f130ded91b40a1a802d4894a638",
+      "newName": "Electabuzz",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-21",
+      "oldName": "Electrode",
+      "oldSourceHash": "bf4c112292b04890a4e5cce2079070512d295ff27c9d4f563e15d1c211fc0741",
+      "newId": "sv4pt5-134",
+      "newSourceHash": "e30f2aebcc36d9d401a5d920cb450111f040ac391f30530f863fb62694aa7e0f",
+      "newName": "Electrode",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-22",
+      "oldName": "Pidgeotto",
+      "oldSourceHash": "f0596efa7d4ced6822c9847b04ee2177035022729728e1f3f5fad647dabcc764",
+      "newId": "sv4pt5-197",
+      "newSourceHash": "fb2e05955ccf9eeca8880770a645177526587bea762ee968951d2fca896b4fdb",
+      "newName": "Pidgeotto",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-25",
+      "oldName": "Dewgong",
+      "oldSourceHash": "6616fcd740ee200ddb194430c79b9f30d29ad577a70d2df74ea02165d1b55145",
+      "newId": "me3-19",
+      "newSourceHash": "2d4751d3e186dad6200c4ce59e54aed1a9c905a738f087eda5d9816a131f13e3",
+      "newName": "Dewgong",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-26",
+      "oldName": "Dratini",
+      "oldSourceHash": "7f2bded838e3cb2ec8632a5bb4e26aa99cdb81174be7aa0d50b3d356525e8dfb",
+      "newId": "me2pt5-150",
+      "newSourceHash": "6b9b6039ff93fd4c0f87ad02e610fb62453b0f6ce8e980adce13171a7b9514c2",
+      "newName": "Dratini",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-30",
+      "oldName": "Ivysaur",
+      "oldSourceHash": "71eb3673dc6afa8262b544cca20cba24983a03bc19f055b4e68d13e563ba2116",
+      "newId": "me1-2",
+      "newSourceHash": "3abbfe49e502b195d274d5eb10f7e6dc645ba1ad81055141a76c03383fe9208f",
+      "newName": "Ivysaur",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-31",
+      "oldName": "Jynx",
+      "oldSourceHash": "1bab5c380cc3ee267374abb40d893354b8161fdc35bd06e86e56b98500541827",
+      "newId": "me5-32",
+      "newSourceHash": "1742a0040a83136cb512dbec08214b3fbd25b993cca59829b186142bbaee3d25",
+      "newName": "Jynx",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-34",
+      "oldName": "Machoke",
+      "oldSourceHash": "7f96504525fd50bbdfea046df798af63a78cdd9a7b9171c2c2605dfd018733c3",
+      "newId": "sv3pt5-67",
+      "newSourceHash": "9596f3baee1b3a5d58e40ee47e79fe2e99124b464cec5f7324f07887e0e67974",
+      "newName": "Machoke",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-35",
+      "oldName": "Magikarp",
+      "oldSourceHash": "3e92ed2fa362f04d86b2943baf83fd64272aae6a88686c935d300a6344803c0c",
+      "newId": "sv3pt5-129",
+      "newSourceHash": "223f87bebc6668531ef26454f7294d3713be00d0aad2f864bd88578e6c4f3cb7",
+      "newName": "Magikarp",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-36",
+      "oldName": "Magmar",
+      "oldSourceHash": "caf1224ad60bd9c0f5d858723ed9b3f0976085ce04c155450b95c5e0b2873a32",
+      "newId": "sv9-20",
+      "newSourceHash": "9c87a08bb2eef33799c98497f5f5b54cbb786f192cb1d677d47a4922e7b76bb6",
+      "newName": "Magmar",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-37",
+      "oldName": "Nidorino",
+      "oldSourceHash": "583d9c484a7a53e7eb517f2df2cb2489440c56f5eb7a7817c0127f3a25bd75e6",
+      "newId": "sv3pt5-33",
+      "newSourceHash": "f9083408ac632ee81662aceadd17a821e49ac80ff9444defcfc085eec0042c75",
+      "newName": "Nidorino",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-39",
+      "oldName": "Porygon",
+      "oldSourceHash": "461e1fe2a1d2b8e09fd7936baef4863cdfd415b6d0ee0e6e167a7f2240e3efc5",
+      "newId": "sv4-142",
+      "newSourceHash": "a0ee28b20a4e35a0ea04b6507c1fd8b48476deece3a8be945afc2a1c01bb1e69",
+      "newName": "Porygon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-40",
+      "oldName": "Raticate",
+      "oldSourceHash": "986786c53944fe95be7961346d61805902307b3a323c3f26b2c0d9942cb742b3",
+      "newId": "me3-61",
+      "newSourceHash": "c0cd0ebb02a22d2af9fe010d29d6fc65756cbd8d2d30de00c7793bcfc25853f9",
+      "newName": "Raticate",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-43",
+      "oldName": "Abra",
+      "oldSourceHash": "68b70d5cc1458ce9664ee59d252132316139b66cc0f73073926617396c0c3ec9",
+      "newId": "me1-54",
+      "newSourceHash": "bc78f7001df59479ab8a6c9c8d61d009fcb99a544c094190fef4de4005cf6611",
+      "newName": "Abra",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-44",
+      "oldName": "Bulbasaur",
+      "oldSourceHash": "0fdc309170d7afe7efc517957b063d6d9da6102867155abc35450f4fa50af993",
+      "newId": "me1-1",
+      "newSourceHash": "16cb65cd510649e3158184cc12f0c7a7bba8428a5f22f91de3bfa4354c003593",
+      "newName": "Bulbasaur",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-45",
+      "oldName": "Caterpie",
+      "oldSourceHash": "c763b5a7e039a07e2418648771b33481803c549ab8229c2ea258ca7cee88c12b",
+      "newId": "sv9-1",
+      "newSourceHash": "c19ddec7325e7530b318279f3729b397049d9c6a3875bb299040dec7fa436de7",
+      "newName": "Caterpie",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-51",
+      "oldName": "Koffing",
+      "oldSourceHash": "1617c8dc8ba97d2c6cfaa18e8375f7a02393c0057e0c233b4a44ea8e93a81eb0",
+      "newId": "sv9-91",
+      "newSourceHash": "18b84e6f5880cf52e417cefd955324182ea416235c5b8a6ae07dd310551580fc",
+      "newName": "Koffing",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-53",
+      "oldName": "Magnemite",
+      "oldSourceHash": "12223a2216a76fdcb9a8a9d1af6dab775781fb3547fe3af33369fdf1ceb847c6",
+      "newId": "me1-45",
+      "newSourceHash": "cc6d58e7982700269db20d18be2afba8fe2d758e614b3bc08febd1aa445126a5",
+      "newName": "Magnemite",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-56",
+      "oldName": "Onix",
+      "oldSourceHash": "682ce9e0f43eb48b0d9eaded6027868d44fd8c584ea0ff1f2487704f17dc31bf",
+      "newId": "me1-70",
+      "newSourceHash": "bababc3eaafd86fd634635000ea1711d1b671b7a9bdc5798dee39573f5152589",
+      "newName": "Onix",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-57",
+      "oldName": "Pidgey",
+      "oldSourceHash": "c3d123c3c8b3753c1877b6dc262b68617b5be32befcd496abe76796c4ee17af5",
+      "newId": "sv4pt5-196",
+      "newSourceHash": "b8e13b23b8b5821b6b65c5e7d4a73bfb858370766761ecc3db58225b5e8667e4",
+      "newName": "Pidgey",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-70",
+      "oldName": "Clefairy Doll",
+      "oldSourceHash": "5f081f86bfc08490830f4f69b30fc2e4277e1391dd0c23912b2ea86c1a0bbc41",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-71",
+      "oldName": "Computer Search",
+      "oldSourceHash": "00e283f5642b38836e286c7b88265cbd5079c50e0f32927365f00b7aef835525",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-73",
+      "oldName": "Impostor Professor Oak",
+      "oldSourceHash": "725cc0f417654ac02dcf45db0d873ae2b494bbe5df406ebfbc37f2e67d6420c7",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-74",
+      "oldName": "Item Finder",
+      "oldSourceHash": "9b6d4a47cf478a918663a237b1a7ad9033ad9468444793544eb8f0e4fd809548",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-75",
+      "oldName": "Lass",
+      "oldSourceHash": "120c11ac2f5ee5d4e2e8f3ffc42c6928bfd3d09dd9977c0bcc470bff11f1c510",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-76",
+      "oldName": "Pokémon Breeder",
+      "oldSourceHash": "72d0483861323e2bf2db374281600af7718d3d72f56f81f03e3381174337a907",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-79",
+      "oldName": "Super Energy Removal",
+      "oldSourceHash": "ce63f44757274ef76e6e538cc6a794047d288cf9f9ae8e5b6f53a9d5afc305df",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-80",
+      "oldName": "Defender",
+      "oldSourceHash": "e2da1cb5ca2fa1de453819b3893775f6f5266715a666aeb8ff2b3f11dd584453",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-81",
+      "oldName": "Energy Retrieval",
+      "oldSourceHash": "11b700406463dc26c7ad12c96245a6ae0e30ee83b403e90a1fa812cd9e1424e8",
+      "newId": "me4-108",
+      "newSourceHash": "8ed1ccff3fb51de5e0230dffddba6dea0280213239f49373806a573a4a192feb",
+      "newName": "Energy Retrieval",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base1-84",
+      "oldName": "PlusPower",
+      "oldSourceHash": "31545a635f726c0f59c5a9ca58c0c48f50125288d4ad2963fb0fb69f1422e6e3",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-86",
+      "oldName": "Pokémon Flute",
+      "oldSourceHash": "d71bccbd79e780661257661da203042f9aaf7d0903969799b4275f65686209f0",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-87",
+      "oldName": "Pokédex",
+      "oldSourceHash": "0a5db394924a2cda31c771009f074ea97ce01596247183ce1fecffd05b8af371",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-88",
+      "oldName": "Professor Oak",
+      "oldSourceHash": "8094a455e51cdef1bafe1296ad7d4724091114e072be618de0ed1be17471c753",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-89",
+      "oldName": "Revive",
+      "oldSourceHash": "9fb53f71cdcd49fe3b0c5943a46b9c7cade496b3799431b15bca63db915ff287",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-92",
+      "oldName": "Energy Removal",
+      "oldSourceHash": "c49a095257f4d8e056da91725cccf38b41f1056b55111b0619a3b0cd179b730f",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base1-96",
+      "oldName": "Double Colorless Energy",
+      "oldSourceHash": "b9ce8d2f026af25d3a06c97cbbdc3ca7a4a86a68623459cb672d9447695d2356",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base2-1",
+      "oldName": "Clefable",
+      "oldSourceHash": "384e9f5ece8525e59736e2aab2bf832642105e5322d19b3aa66f736b9319785b",
+      "newId": "me2pt5-75",
+      "newSourceHash": "4c1e4b50c550ad88a13df9616d84acc8e1a95fe910f3c7fb2147adf5b242996c",
+      "newName": "Clefable",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-2",
+      "oldName": "Electrode",
+      "oldSourceHash": "db24ecec57a635a5c898b8eee62db7d6a658fd136d8e9dfc49043df0a7185c90",
+      "newId": "sv4pt5-134",
+      "newSourceHash": "e30f2aebcc36d9d401a5d920cb450111f040ac391f30530f863fb62694aa7e0f",
+      "newName": "Electrode",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-3",
+      "oldName": "Flareon",
+      "oldSourceHash": "b2f7a8caaa68b7884f9644f01c942d7983e151ab8ba8d7e26b3b207c26652df0",
+      "newId": "sv8pt5-13",
+      "newSourceHash": "667e2f2cc27ad9a82a5536bc0de75768e7d67675c5d3c89c3dcc2f66b0c531d1",
+      "newName": "Flareon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-4",
+      "oldName": "Jolteon",
+      "oldSourceHash": "0868067f7429b6866c862ed2a738593f17c5e9ff35d8565d4da487e342898c71",
+      "newId": "sv8pt5-29",
+      "newSourceHash": "43f069ce2494da0a16052048150eff28a8d8112428dae41ff3c20b6108435432",
+      "newName": "Jolteon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-5",
+      "oldName": "Kangaskhan",
+      "oldSourceHash": "71a05fb1d35551b78e767e425afd1fb85215410e02f7d30e0172406bce225fe9",
+      "newId": "sv10-151",
+      "newSourceHash": "61c5151b2e19cdbf10f9f8ffdb9883cca427aff1780f432e3be95536fe413e77",
+      "newName": "Kangaskhan",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-6",
+      "oldName": "Mr. Mime",
+      "oldSourceHash": "d399fe7c82d3ed4e5831866924112b54be2d6db539e46e3fe44c832c99820d42",
+      "newId": "sv9-58",
+      "newSourceHash": "ee599b9825b4901b14839856c1bfee72c02fcdd92493f7eb9062cf70843e010d",
+      "newName": "Mr. Mime",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-7",
+      "oldName": "Nidoqueen",
+      "oldSourceHash": "b81e5364bb95e1930d558fbc5bf51a62f43312cbd81746fa5d91368781611e91",
+      "newId": "sv3pt5-31",
+      "newSourceHash": "0adfd9a5ffc2c318f329b0080b9f986166c2bae8f2613819dac4ba55d7182434",
+      "newName": "Nidoqueen",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-8",
+      "oldName": "Pidgeot",
+      "oldSourceHash": "d1daf7a5e39ed129b64396aeedfa7d3f72328a884748e3d4147995c0edcd3976",
+      "newId": "sv3pt5-18",
+      "newSourceHash": "ab757c6e7aecc149291155641b775f4f22024f78b14c8d4b5f058a64dead3c74",
+      "newName": "Pidgeot",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-9",
+      "oldName": "Pinsir",
+      "oldSourceHash": "9c40b492c7e6582ef13d9313fa5d689ce2b6466c53cf6cbe0f49003970a214c0",
+      "newId": "sv8pt5-3",
+      "newSourceHash": "90b3892a102a0bbfcd5dbddb5186f6f68091ff880535333730abac6f38607b5e",
+      "newName": "Pinsir",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-10",
+      "oldName": "Scyther",
+      "oldSourceHash": "4a844dcd3e2a830790591f84970b3c98fd6aee686f577ca0d85ab6f0b999ebea",
+      "newId": "sv5-1",
+      "newSourceHash": "860d6c3790ed2bb2a9125a661964227b7c2e8331b35c457a17d7d501ae5da111",
+      "newName": "Scyther",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-11",
+      "oldName": "Snorlax",
+      "oldSourceHash": "a04d139dea8ff5ac8996bc6784d416f4025531be935592af963c55798a550d77",
+      "newId": "me3-63",
+      "newSourceHash": "ccf24a9220c192b4bfe3f071e6efd19d01128d0168cfa51bcac9ff9018a15b8e",
+      "newName": "Snorlax",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-13",
+      "oldName": "Venomoth",
+      "oldSourceHash": "fce056eecfb3c49be404e7ec51a3926106740de69586b677363751360cb27cec",
+      "newId": "sv3pt5-49",
+      "newSourceHash": "bb7001471b211b0965244602d9ee8e5183ab219e67d796dc62ec242fe85bd712",
+      "newName": "Venomoth",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-14",
+      "oldName": "Victreebel",
+      "oldSourceHash": "055143baead0c5887a000db3b08a649462f4908028677a02dbdfc128ef0fc28a",
+      "newId": "sv3pt5-71",
+      "newSourceHash": "9759278d21a3ef86e73d399bd45d561947d5e8ba887a188b4cd5b3bf2bd81d68",
+      "newName": "Victreebel",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-15",
+      "oldName": "Vileplume",
+      "oldSourceHash": "6bfb154ab573233de890710d7875431e4c5910c916fa14b40e7b6e2f2798b05a",
+      "newId": "me2-3",
+      "newSourceHash": "90af1457643466c7aeae79657a9ae5909dc7540426ae1c418e4b6efc8ca8327f",
+      "newName": "Vileplume",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-16",
+      "oldName": "Wigglytuff",
+      "oldSourceHash": "134cf94f1c0050e72fd637e972c889d41a1f59591db29aed29ba285b8f116129",
+      "newId": "me2-77",
+      "newSourceHash": "04f36061ac0a66952f5412fd38d8abace1c1bcafbfa3a4c6c235440cd353ddf7",
+      "newName": "Wigglytuff",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-17",
+      "oldName": "Clefable",
+      "oldSourceHash": "742cb3895aad11c4139189308d0b0fdfc965570ac681dd2cc894124bff4dad5e",
+      "newId": "me2pt5-75",
+      "newSourceHash": "4c1e4b50c550ad88a13df9616d84acc8e1a95fe910f3c7fb2147adf5b242996c",
+      "newName": "Clefable",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-18",
+      "oldName": "Electrode",
+      "oldSourceHash": "14fd7b85f19ef1fd872b58e294538a8dacc564f4980e88173fd6644ce6eaded2",
+      "newId": "sv4pt5-134",
+      "newSourceHash": "e30f2aebcc36d9d401a5d920cb450111f040ac391f30530f863fb62694aa7e0f",
+      "newName": "Electrode",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-19",
+      "oldName": "Flareon",
+      "oldSourceHash": "58766be8c3ad6100d4a24af92d7d60efcaab03973baf1ec9a8e271727d251fc3",
+      "newId": "sv8pt5-13",
+      "newSourceHash": "667e2f2cc27ad9a82a5536bc0de75768e7d67675c5d3c89c3dcc2f66b0c531d1",
+      "newName": "Flareon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-20",
+      "oldName": "Jolteon",
+      "oldSourceHash": "43b132d5191a4f517fe466cb810222076e6ae538f2c6820fa2e74b50b2bd4407",
+      "newId": "sv8pt5-29",
+      "newSourceHash": "43f069ce2494da0a16052048150eff28a8d8112428dae41ff3c20b6108435432",
+      "newName": "Jolteon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-21",
+      "oldName": "Kangaskhan",
+      "oldSourceHash": "907ba44ff30f07f191871ab325f390f428ffb88e74433df2e8b29138c1704a5f",
+      "newId": "sv10-151",
+      "newSourceHash": "61c5151b2e19cdbf10f9f8ffdb9883cca427aff1780f432e3be95536fe413e77",
+      "newName": "Kangaskhan",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-22",
+      "oldName": "Mr. Mime",
+      "oldSourceHash": "399e271b98b627aaa2bee6c1e85de33f0573a7d6457647b4ff4b49e85e83d4b2",
+      "newId": "sv9-58",
+      "newSourceHash": "ee599b9825b4901b14839856c1bfee72c02fcdd92493f7eb9062cf70843e010d",
+      "newName": "Mr. Mime",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-23",
+      "oldName": "Nidoqueen",
+      "oldSourceHash": "bb4aec398b5ce20fda03531a37f2245be39957824c298a2d21eef7f2e80a49fe",
+      "newId": "sv3pt5-31",
+      "newSourceHash": "0adfd9a5ffc2c318f329b0080b9f986166c2bae8f2613819dac4ba55d7182434",
+      "newName": "Nidoqueen",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-24",
+      "oldName": "Pidgeot",
+      "oldSourceHash": "04d3ed94156988f1b98108ae63485493f4f88daae239ca89083cf5a4d5c07011",
+      "newId": "sv3pt5-18",
+      "newSourceHash": "ab757c6e7aecc149291155641b775f4f22024f78b14c8d4b5f058a64dead3c74",
+      "newName": "Pidgeot",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-25",
+      "oldName": "Pinsir",
+      "oldSourceHash": "14bb37f006a1820afed03e7f4fcbf8e0eb093ed81cc2530fc17530a765551f4c",
+      "newId": "sv8pt5-3",
+      "newSourceHash": "90b3892a102a0bbfcd5dbddb5186f6f68091ff880535333730abac6f38607b5e",
+      "newName": "Pinsir",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-26",
+      "oldName": "Scyther",
+      "oldSourceHash": "0c08fe2c8119d1c27392182ac29e804dfc1a0f013f6fa6e9710da7fc422976d3",
+      "newId": "sv5-1",
+      "newSourceHash": "860d6c3790ed2bb2a9125a661964227b7c2e8331b35c457a17d7d501ae5da111",
+      "newName": "Scyther",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-27",
+      "oldName": "Snorlax",
+      "oldSourceHash": "b701e3b76c3c0ccd5b9b1f076f031a66bffb25d42e4faee658a25887d228717c",
+      "newId": "me3-63",
+      "newSourceHash": "ccf24a9220c192b4bfe3f071e6efd19d01128d0168cfa51bcac9ff9018a15b8e",
+      "newName": "Snorlax",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-28",
+      "oldName": "Vaporeon",
+      "oldSourceHash": "4899bf5e85f29184f0fadff2eb8f9bbcba4488f88c425240177cc8d420b4465f",
+      "newId": "sv8pt5-22",
+      "newSourceHash": "83c1a50e425cb4405f2ecfe3ba31c4fb3f54a9c7f22164faf6f0abba2b7cd294",
+      "newName": "Vaporeon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-29",
+      "oldName": "Venomoth",
+      "oldSourceHash": "5b4deb3317f3d7bd9a27d2d47fab7f30ae8e24756217081ca438eee937d1e4c9",
+      "newId": "sv3pt5-49",
+      "newSourceHash": "bb7001471b211b0965244602d9ee8e5183ab219e67d796dc62ec242fe85bd712",
+      "newName": "Venomoth",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-30",
+      "oldName": "Victreebel",
+      "oldSourceHash": "aad77fe43d74d4f26b09c305fd62190dd7937b3121834fa026b890fb306030a3",
+      "newId": "sv3pt5-71",
+      "newSourceHash": "9759278d21a3ef86e73d399bd45d561947d5e8ba887a188b4cd5b3bf2bd81d68",
+      "newName": "Victreebel",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-31",
+      "oldName": "Vileplume",
+      "oldSourceHash": "fbc674bcc84318458a7532081300703dd31a6fdda82aa37fb0255273b781b4d2",
+      "newId": "me2-3",
+      "newSourceHash": "90af1457643466c7aeae79657a9ae5909dc7540426ae1c418e4b6efc8ca8327f",
+      "newName": "Vileplume",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-32",
+      "oldName": "Wigglytuff",
+      "oldSourceHash": "da99eb8f05a73b9b7a6bfd08488e006815e94b9980364fedbaa56854e9457fd6",
+      "newId": "me2-77",
+      "newSourceHash": "04f36061ac0a66952f5412fd38d8abace1c1bcafbfa3a4c6c235440cd353ddf7",
+      "newName": "Wigglytuff",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-34",
+      "oldName": "Dodrio",
+      "oldSourceHash": "b284d5853ed34fb7cdbb1f5d9826a0fc11603f454f6c5e5fe51a5d78cc762249",
+      "newId": "sv4pt5-200",
+      "newSourceHash": "fbe4bd43d94365644d8e4f3fa7ef3b3ea19872ee51b03e6c0f0f6058c1be245b",
+      "newName": "Dodrio",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-35",
+      "oldName": "Exeggutor",
+      "oldSourceHash": "bd0db44a4d3d2cb9f068e03bbb0ab59baf5023506ad5fb07bba94b9bc00979fc",
+      "newId": "me1-5",
+      "newSourceHash": "b80028923b3da4f2fd88a327cf2a38027a959b8ac7605b80f8afbae7cd1820a5",
+      "newName": "Exeggutor",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-36",
+      "oldName": "Fearow",
+      "oldSourceHash": "cfaaea3e9a80873e0b49881d85461966cf328cef8f2650d6da09efcf2d681704",
+      "newId": "me1-103",
+      "newSourceHash": "fe17caae4596d0b910922a443295b701f21f5553c8035df0e8df7a072fc663c5",
+      "newName": "Fearow",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-37",
+      "oldName": "Gloom",
+      "oldSourceHash": "b872777417c0165619b242a650cbdf4ec4d9ff54aa04c4ff872421f5276e621a",
+      "newId": "me2-2",
+      "newSourceHash": "e58b04215ac243e750d8f67b9beb8d0ad6666c1b185c845681b23bbb3ed6ffe3",
+      "newName": "Gloom",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-38",
+      "oldName": "Lickitung",
+      "oldSourceHash": "c0ead863bb6a410791dbd956f4550f543259ca22b8afb60421fbe2c22aceb1d0",
+      "newId": "sv5-124",
+      "newSourceHash": "f57656fd1767adb66526ce2fc31d453eadd3f6fdc83d0a2f2e7d9295d338a29a",
+      "newName": "Lickitung",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-39",
+      "oldName": "Marowak",
+      "oldSourceHash": "a2bbecc3933226761f16c1e64c097b2e784b64d6a63892fa364c79ef4b701320",
+      "newId": "sv7-73",
+      "newSourceHash": "3c06b95240a6075f91ea42191d48f05d62c1be7fa40c92f86fd4f3e310d40d9c",
+      "newName": "Marowak",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-40",
+      "oldName": "Nidorina",
+      "oldSourceHash": "5c820391f1234068a8e1a55d38c0af7241c0626ef36f5459f583e4544375ca1d",
+      "newId": "sv3pt5-30",
+      "newSourceHash": "fc1ff07af550b12212aa6e7a4e7d7152d865b606cee78f49bd28f569600b66ef",
+      "newName": "Nidorina",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-41",
+      "oldName": "Parasect",
+      "oldSourceHash": "a7fde80b06e582cdb6b3f490cf2c022f21b77261973a474cc4e517e8b635fa65",
+      "newId": "sv9-5",
+      "newSourceHash": "6871bd2c3b278a0c1f30ec57ef083de3cc8a9ba46d45962302a9b8f8d36e189c",
+      "newName": "Parasect",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-42",
+      "oldName": "Persian",
+      "oldSourceHash": "b8a45076fbcef8ebbf8d224a3956a65865e4cdb7f65ca5b96fa91d550a7faee0",
+      "newId": "sv6pt5-49",
+      "newSourceHash": "b27d339c24fc812a686ea24668209d4896aa548623f261d6ec2c6ddae69da558",
+      "newName": "Persian",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-43",
+      "oldName": "Primeape",
+      "oldSourceHash": "198e1ecfd4a78c49a7a1f1be4f19b0f197f824a0a17b1b51ac2c5888baadd1fb",
+      "newId": "me5-43",
+      "newSourceHash": "766ddee6c52a857c9b6807cc66c37497c79f11974579e1ba9d2a76965c056a10",
+      "newName": "Primeape",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-45",
+      "oldName": "Rhydon",
+      "oldSourceHash": "1ebd2c62e2ae0345455a30901cacdaee01acc4cdb21ba3b6fe3038b56d16d3b6",
+      "newId": "sv7-75",
+      "newSourceHash": "5f2cb886180b9cdbaef6422604baba0739663322c66d871678a3d3ad5d360eea",
+      "newName": "Rhydon",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-47",
+      "oldName": "Tauros",
+      "oldSourceHash": "828ba0dfd16c1edb6835ca9ff93950e0fb8128dfc01177b87ba206bb18b734af",
+      "newId": "me4-69",
+      "newSourceHash": "5f2b8859b7e11f37699490dd5e0904e88176520e445a99b2cfed7e0067a0db79",
+      "newName": "Tauros",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-48",
+      "oldName": "Weepinbell",
+      "oldSourceHash": "7b53b047f600617125bc03b13788e0c2601a7de53b36e8ded9cd0b4742eb4257",
+      "newId": "sv3pt5-70",
+      "newSourceHash": "1edcd170f0f5af0c49cac66ffde0f1e1f85dfb0e6dc09d2a9f79868964bfb9b6",
+      "newName": "Weepinbell",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-49",
+      "oldName": "Bellsprout",
+      "oldSourceHash": "ef8331980de2841f5b82402d1a1d72f845a84ca01d251f8ab3e596ac80ecc07c",
+      "newId": "sv3pt5-69",
+      "newSourceHash": "554c557015a13f4da302ba43d1adc7aa2579c050d7324327467ead7cf96ee314",
+      "newName": "Bellsprout",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-50",
+      "oldName": "Cubone",
+      "oldSourceHash": "928b147e31a02c88d793998c8465257888e1888f1958dd0127fff0d3bfca2fc9",
+      "newId": "sv9-76",
+      "newSourceHash": "556d99f9b71dfb066e8ae9c375d11008321584a260e679d7074094e8e2686fbb",
+      "newName": "Cubone",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-53",
+      "oldName": "Goldeen",
+      "oldSourceHash": "5f9160880129a41ab639150e61b2434d60daa1ad6e1f81651f1c87c09bfad37f",
+      "newId": "me5-13",
+      "newSourceHash": "4335d9ade2bb134128fb7df43b11f10f641707198a4a0193d9326b70e96f1384",
+      "newName": "Goldeen",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-54",
+      "oldName": "Jigglypuff",
+      "oldSourceHash": "a9c91341d0ad62565ea794f7ddc26fe2cd2a1ff2124dc32e6cd9e29cb1c4877c",
+      "newId": "me2-76",
+      "newSourceHash": "a011f2a50742d4f02031b29025d5f8d46e6326204d63acb8eba6cdd728c019ef",
+      "newName": "Jigglypuff",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-56",
+      "oldName": "Meowth",
+      "oldSourceHash": "e986aa7034c4e43d028b99431a71a2fb1963cf1ae8ae5651ad3267e60da4adcf",
+      "newId": "me2-106",
+      "newSourceHash": "e896c75352db79613c6884ae0bef95b6040b230f087c8b4da8e78ce59fde63cd",
+      "newName": "Meowth",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-57",
+      "oldName": "Nidoran ♀",
+      "oldSourceHash": "91eea236b8aa79fb6b8b0a83e0d084aefc98b8bc3042e7c71dddcb8f78bedd56",
+      "newId": "sv3pt5-29",
+      "newSourceHash": "f0ed3deb5a6cd46c4ddc07ed625a60f5f2edc58326ba31695d83e9f9ebc2a08b",
+      "newName": "Nidoran ♀",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-59",
+      "oldName": "Paras",
+      "oldSourceHash": "b3b1e7441812f5afad3c2907f1e0110b88bad872bb481ccd083b14bb858602a3",
+      "newId": "sv9-4",
+      "newSourceHash": "98687edbee656126b44b71f3d22728ee73e9447267180a9b99833160de9cd27d",
+      "newName": "Paras",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-60",
+      "oldName": "Pikachu",
+      "oldSourceHash": "f483f94f7176a39d9fd9b6098574d2e9d5dbe2f1cd43ba3079d2657cf3893acf",
+      "newId": "me2pt5-55",
+      "newSourceHash": "e343b700f1e55bce400497f6cac5b154c32eaf365edc495eb27715b75ce94d43",
+      "newName": "Pikachu",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base2-61",
+      "oldName": "Rhyhorn",
+      "oldSourceHash": "2a50f2264ac8ef959c79ce3793273a2473fca4f4f20c2574fcd4cc9044e5834a",
+      "newId": "sv7-74",
+      "newSourceHash": "6f771081898ff31ec7327e07065f420bebb9b08e4f63a8e14d12644b0a8930af",
+      "newName": "Rhyhorn",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-1",
+      "oldName": "Aerodactyl",
+      "oldSourceHash": "91c87b06da0c33dbcfc1ce632ec3125fc65dde0c3de6d925642fb3ae3dbd26f9",
+      "newId": "sv3pt5-142",
+      "newSourceHash": "cdfe58f8c2ca73ae9c97eeff251ed28c60da1ee370b1a85a1abe9b4476ed8974",
+      "newName": "Aerodactyl",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-2",
+      "oldName": "Articuno",
+      "oldSourceHash": "d7cb00c4146ca9beb63922f1882d0ff17e138f421cc3de9c70f492c69b70e530",
+      "newId": "sv9-32",
+      "newSourceHash": "9dffb9f97662e4aa39b48ee8baff1409ec74652231e81e36f70d3ba5e5564515",
+      "newName": "Articuno",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-3",
+      "oldName": "Ditto",
+      "oldSourceHash": "2b97dbb9ddcfed26a5c4106927c883cc382de709dccf8904299bdef83a29b3b9",
+      "newId": "sv4pt5-201",
+      "newSourceHash": "fefcc6dd2bbfde1ba4aaa1871ba45074f73468bc8ff59255f55780ddf297ae73",
+      "newName": "Ditto",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-4",
+      "oldName": "Dragonite",
+      "oldSourceHash": "4398e86911a251bd4bb28f7127c979a55e6edec82a3318ec599ee3d42d9ae45e",
+      "newId": "sv3pt5-149",
+      "newSourceHash": "9b4ef4fb031cc8b2149b643bc2f5ae3c2f3c3027ef12bce2f9230cc20e5772bd",
+      "newName": "Dragonite",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-5",
+      "oldName": "Gengar",
+      "oldSourceHash": "a2e2e296a22cd0abbadd07778538a9f791ff453512c5481759700244aed286ac",
+      "newId": "me3-50",
+      "newSourceHash": "8443c45bf0e0fac7fc966cc32967b4abfc3e8c8658fcd0e1b90f379bddd336e2",
+      "newName": "Gengar",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-6",
+      "oldName": "Haunter",
+      "oldSourceHash": "f70130aacc2470fba666770fc4bcd447e60be51c050949cc8b95f115a58b399a",
+      "newId": "me3-49",
+      "newSourceHash": "7b431f55bb21a27f0ebf3923487795c620fc7b8c98859abb8edb3525230bae5c",
+      "newName": "Haunter",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-7",
+      "oldName": "Hitmonlee",
+      "oldSourceHash": "4c5e0daabab37450b00c443510005dd59a2315b7687cf70dd2e0c5935acc9e98",
+      "newId": "sv3pt5-106",
+      "newSourceHash": "cc6f6ea9518ea57d2a0c21ead898b035bef0a01266e5fd62754e5a5d7b503736",
+      "newName": "Hitmonlee",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-8",
+      "oldName": "Hypno",
+      "oldSourceHash": "b6fc8003c32835c9da7b405fd64c28fc97daa5f7da1555fa97bdcf83e0d5084d",
+      "newId": "sv6pt5-17",
+      "newSourceHash": "161c738979202446dd3308836d9d97477542e612928afc9c90ad7b70ab1736f5",
+      "newName": "Hypno",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-9",
+      "oldName": "Kabutops",
+      "oldSourceHash": "7f2cea107aae53564fed9e02b0acfa17cf02f933abfc3d144c7ef141f869074b",
+      "newId": "sv3pt5-141",
+      "newSourceHash": "852fcf6edff7fcd6e71b000c40d15ad0324e3df4bfcae4c8db443d572ad11424",
+      "newName": "Kabutops",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-10",
+      "oldName": "Lapras",
+      "oldSourceHash": "2a278bcb3704a9ff0f9585c29febc883fd364e5f106c19b9a826dedb06ad9b06",
+      "newId": "sv7-31",
+      "newSourceHash": "9b54df8337f3f7256f9d17dc8f043b51d7a205499d7ad238050abd0cd172f724",
+      "newName": "Lapras",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-11",
+      "oldName": "Magneton",
+      "oldSourceHash": "4f8a8694df6004f8adc41a5cbbae2c1ee1b596372ea95f8a9091f2ba325d9a82",
+      "newId": "me1-46",
+      "newSourceHash": "2ed808e1219d66928d29c06f707d8486da0aba6a7370145496eac1a9f7cae30c",
+      "newName": "Magneton",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-12",
+      "oldName": "Moltres",
+      "oldSourceHash": "58c09bf16edab3372db7d2a3a965b20bbcc2c97199eebb50dd6f4848f34b59fa",
+      "newId": "me2-14",
+      "newSourceHash": "e718ee5345320bf0ab264899a0158a38b94888f81853b2ae77b52218c9525d91",
+      "newName": "Moltres",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-13",
+      "oldName": "Muk",
+      "oldSourceHash": "d8d2a3ab3dd823bcdc1cd6884a2c3a336185a200df416335680703291a1f39c5",
+      "newId": "sv3pt5-89",
+      "newSourceHash": "a52f09a41ec7b62a3cf17eb09e91d6295235581760ff2a7788fc8bb4f394640b",
+      "newName": "Muk",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-14",
+      "oldName": "Raichu",
+      "oldSourceHash": "bc72fdb769ba526cdc5deaa6def491adb13cd0bacc249ad440a32a5efcdc4af2",
+      "newId": "me2pt5-56",
+      "newSourceHash": "8cf0e1aa07642233ed167752b98dcd03f71acfb6357085d9c0cfe7abbb7a37fe",
+      "newName": "Raichu",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-15",
+      "oldName": "Zapdos",
+      "oldSourceHash": "ced6aa65f8ea072cd0e7871cc0ddde584a3e52e1b4859eff6c403daf6fafa92e",
+      "newId": "sv6-65",
+      "newSourceHash": "781f5239267fd7eba7a276a77ebc922b743fd5c881a3360475dd292863a43f9e",
+      "newName": "Zapdos",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-16",
+      "oldName": "Aerodactyl",
+      "oldSourceHash": "e8c961fe3d432b33d6c27ecd2c2cdeb6daf85db48df4d3f3194e0c65c1357d3c",
+      "newId": "sv3pt5-142",
+      "newSourceHash": "cdfe58f8c2ca73ae9c97eeff251ed28c60da1ee370b1a85a1abe9b4476ed8974",
+      "newName": "Aerodactyl",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-17",
+      "oldName": "Articuno",
+      "oldSourceHash": "20e468c162bde9b16f84e8fe255d98618172ac686fad487f409d4d55c1996c73",
+      "newId": "sv9-32",
+      "newSourceHash": "9dffb9f97662e4aa39b48ee8baff1409ec74652231e81e36f70d3ba5e5564515",
+      "newName": "Articuno",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-18",
+      "oldName": "Ditto",
+      "oldSourceHash": "9c97600f8a1da777f417ff5ea760322f95c96102f4ee5ab3f6a3af9a222b24af",
+      "newId": "sv4pt5-201",
+      "newSourceHash": "fefcc6dd2bbfde1ba4aaa1871ba45074f73468bc8ff59255f55780ddf297ae73",
+      "newName": "Ditto",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-19",
+      "oldName": "Dragonite",
+      "oldSourceHash": "51187c9c6ef57ea3fa09fc93093af29d6613bb6dfea57fa5d4f0200f5c0d5748",
+      "newId": "sv3pt5-149",
+      "newSourceHash": "9b4ef4fb031cc8b2149b643bc2f5ae3c2f3c3027ef12bce2f9230cc20e5772bd",
+      "newName": "Dragonite",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-20",
+      "oldName": "Gengar",
+      "oldSourceHash": "57f57d189c82ee415dfb5411f5c7e6ad5cc1e024f48b9b36e3e261c490869334",
+      "newId": "me3-50",
+      "newSourceHash": "8443c45bf0e0fac7fc966cc32967b4abfc3e8c8658fcd0e1b90f379bddd336e2",
+      "newName": "Gengar",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-21",
+      "oldName": "Haunter",
+      "oldSourceHash": "20007d9958067cc6dca99d466a2deafc5e5c35500461715cfce13579f4ff4e95",
+      "newId": "me3-49",
+      "newSourceHash": "7b431f55bb21a27f0ebf3923487795c620fc7b8c98859abb8edb3525230bae5c",
+      "newName": "Haunter",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-22",
+      "oldName": "Hitmonlee",
+      "oldSourceHash": "4dcbdcc9a719a17f017a344577ab30809f9ffd7edefe6fb1af4bfe45332f887d",
+      "newId": "sv3pt5-106",
+      "newSourceHash": "cc6f6ea9518ea57d2a0c21ead898b035bef0a01266e5fd62754e5a5d7b503736",
+      "newName": "Hitmonlee",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-23",
+      "oldName": "Hypno",
+      "oldSourceHash": "c3e843ed156da423f092183014c10886384176e7f916a1e97d9ca78876fd1225",
+      "newId": "sv6pt5-17",
+      "newSourceHash": "161c738979202446dd3308836d9d97477542e612928afc9c90ad7b70ab1736f5",
+      "newName": "Hypno",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-24",
+      "oldName": "Kabutops",
+      "oldSourceHash": "216df682e652bb3e84718c7015f5acdaa22c0bbd303b77de7b5da8e2f2fc5fac",
+      "newId": "sv3pt5-141",
+      "newSourceHash": "852fcf6edff7fcd6e71b000c40d15ad0324e3df4bfcae4c8db443d572ad11424",
+      "newName": "Kabutops",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-25",
+      "oldName": "Lapras",
+      "oldSourceHash": "8f3be600f0dc07be9d645b82974d6040ce3076dad2155c83627ddbb7813f705e",
+      "newId": "sv7-31",
+      "newSourceHash": "9b54df8337f3f7256f9d17dc8f043b51d7a205499d7ad238050abd0cd172f724",
+      "newName": "Lapras",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-26",
+      "oldName": "Magneton",
+      "oldSourceHash": "46f0bb5a3b1e2931508f353fa3bbfde4afcedd0ae2fcb025ad350bc368fd1433",
+      "newId": "me1-46",
+      "newSourceHash": "2ed808e1219d66928d29c06f707d8486da0aba6a7370145496eac1a9f7cae30c",
+      "newName": "Magneton",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-27",
+      "oldName": "Moltres",
+      "oldSourceHash": "5026823a920879ea3c2cf5e345726be0d10ebf93a0bc082c68ac2dd822e5ce6c",
+      "newId": "me2-14",
+      "newSourceHash": "e718ee5345320bf0ab264899a0158a38b94888f81853b2ae77b52218c9525d91",
+      "newName": "Moltres",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-28",
+      "oldName": "Muk",
+      "oldSourceHash": "a1f6a4a20f297bb60f7b54140ee8c80754051938175f4d91a359cad1b2ef08f0",
+      "newId": "sv3pt5-89",
+      "newSourceHash": "a52f09a41ec7b62a3cf17eb09e91d6295235581760ff2a7788fc8bb4f394640b",
+      "newName": "Muk",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-29",
+      "oldName": "Raichu",
+      "oldSourceHash": "71b3e84083fc28411e23f8f52dbaa394d716e5a439064c8e177339d3ad9392a1",
+      "newId": "me2pt5-56",
+      "newSourceHash": "8cf0e1aa07642233ed167752b98dcd03f71acfb6357085d9c0cfe7abbb7a37fe",
+      "newName": "Raichu",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-30",
+      "oldName": "Zapdos",
+      "oldSourceHash": "0ca51f007eee9b0c2cdec9208978158428509d818fb0aaef840d108f0f1c9e51",
+      "newId": "sv6-65",
+      "newSourceHash": "781f5239267fd7eba7a276a77ebc922b743fd5c881a3360475dd292863a43f9e",
+      "newName": "Zapdos",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-31",
+      "oldName": "Arbok",
+      "oldSourceHash": "e0b21535db753e3489fff58078b1bd305e8c8d838b43c8e7f1308f37cd1ad646",
+      "newId": "sv5-101",
+      "newSourceHash": "f360dc9aa16df9cc5aab3137dd2ed0f563411af3cf45f34b40d7433d6d56cb8d",
+      "newName": "Arbok",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-32",
+      "oldName": "Cloyster",
+      "oldSourceHash": "956b17ebb50a0726f9d72eb599f76ecd10f72181b646bdc114e629886b51f477",
+      "newId": "sv3pt5-91",
+      "newSourceHash": "c6f96f2c55660363675227721605183e8405f15a9fd78cf522c3d6c529fad8a3",
+      "newName": "Cloyster",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-33",
+      "oldName": "Gastly",
+      "oldSourceHash": "22921eb623cb5b4f047b3b27eec8568ffc8ef0bd4d7b9091bf6ac5837fa2a512",
+      "newId": "me3-48",
+      "newSourceHash": "6feb7dbecb6d3fb269634aa75419df9c0c80f8485de9a575268e6d87d93cb74f",
+      "newName": "Gastly",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-34",
+      "oldName": "Golbat",
+      "oldSourceHash": "84dc8002bc0b814e8a9ff40a839679b14604296950a7ef40783899bdb9df452a",
+      "newId": "me4-50",
+      "newSourceHash": "eee47a29a56e8cbf563276ce7a92100580158642c9169bccc0a44e4caf3f1c6b",
+      "newName": "Golbat",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-35",
+      "oldName": "Golduck",
+      "oldSourceHash": "f292d1127a0cf4a85208fdbee91aadb33f95847b867154b172f3a4204762b694",
+      "newId": "me2pt5-40",
+      "newSourceHash": "e90dd572302d78192354dc2479c99de27b1e04a915e3d823543c08eafb235921",
+      "newName": "Golduck",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-36",
+      "oldName": "Golem",
+      "oldSourceHash": "01980723e443396bf1bc24e259260a38d9a9143a8ad06884820852cee26e8b61",
+      "newId": "swsh8-137",
+      "newSourceHash": "608fd72fa66634a34e04c25cf1e908b56ea168d2440ed694f6c33d7c00702bbe",
+      "newName": "Golem",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-37",
+      "oldName": "Graveler",
+      "oldSourceHash": "6b232469e5e34188cbb13eb5363c1ab428718238a0ee7498b950f5cc9abd362a",
+      "newId": "sv3pt5-75",
+      "newSourceHash": "35024d5f4ff4baa9a4bfeca91bfb695975f36edfdb9ae845b0ab5b2ac68af7fa",
+      "newName": "Graveler",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-38",
+      "oldName": "Kingler",
+      "oldSourceHash": "05351bf919089e1c605869873a2d162956917222f702541be221a1870f952c10",
+      "newId": "sv3pt5-99",
+      "newSourceHash": "16277068ddda287952be7ad638d3d2df43c21d2c3e14ab06ac060625e09c0ce2",
+      "newName": "Kingler",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-39",
+      "oldName": "Magmar",
+      "oldSourceHash": "d480bcf5235ff0ab120846f0f664e176b028d8bfd292e5dcb2cf722de74d6e83",
+      "newId": "sv9-20",
+      "newSourceHash": "9c87a08bb2eef33799c98497f5f5b54cbb786f192cb1d677d47a4922e7b76bb6",
+      "newName": "Magmar",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-40",
+      "oldName": "Omastar",
+      "oldSourceHash": "afd214fc1ddaf778c47bf87d9d009319f6e1a76ed23a5ead23d87d7f7f93c0da",
+      "newId": "sv3pt5-139",
+      "newSourceHash": "641327e922a48436e996d4cf9222e55fa60ad4a6e276382029ad85d4d8addcfa",
+      "newName": "Omastar",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-41",
+      "oldName": "Sandslash",
+      "oldSourceHash": "5e8d90e5a2dc3705ea36ec86c337b09a3ff4ce7ed594022c5f1b92361fb84018",
+      "newId": "me1-69",
+      "newSourceHash": "c5e5dad749f9761ade99844ed5f5e98a83cf03afdc0b26ced53d5ec231178d23",
+      "newName": "Sandslash",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-42",
+      "oldName": "Seadra",
+      "oldSourceHash": "d37d33f14c12f5a9fde4ce7e07c0d56127bd40bd83a439358c779bee91af0675",
+      "newId": "sv6pt5-11",
+      "newSourceHash": "a691ac54413bf8101237c5c2d5532af0bcae7b46205589a2e3699a4d5d47f847",
+      "newName": "Seadra",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-43",
+      "oldName": "Slowbro",
+      "oldSourceHash": "264a82f7c2355f2390215b1183f0a193b6b4b5199642da40f437bf69c520ca30",
+      "newId": "me5-30",
+      "newSourceHash": "f907b6de3e6d2de823433d516af31ea830780568aed05e5c87c5a8ba8162c897",
+      "newName": "Slowbro",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-44",
+      "oldName": "Tentacruel",
+      "oldSourceHash": "6984e7d1b9563d1a7f5ed49d710671a95278e847901fa3712b400ccc1eb9409e",
+      "newId": "sv3pt5-73",
+      "newSourceHash": "b2a95cfd4487a7c480114da689c0f843313ce40d8055415d37ce37d9c7286bb9",
+      "newName": "Tentacruel",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-45",
+      "oldName": "Weezing",
+      "oldSourceHash": "b8728a99aea30a789ce80e5b0f4a62b9152084ca55222aa7ba2702a4c16753da",
+      "newId": "sv9-92",
+      "newSourceHash": "94b45f70167eb6681a8bde326e69b36524a310f328bcf188133772acdf325da4",
+      "newName": "Weezing",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-46",
+      "oldName": "Ekans",
+      "oldSourceHash": "d317a54ebf1edbe724d331f46afa1830b57372be30fad1dfb639f373abd088c4",
+      "newId": "sv5-100",
+      "newSourceHash": "ba07ff69636f6c037c6a913c219652d83ff134f8fd3d8403be884f560878f55d",
+      "newName": "Ekans",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-47",
+      "oldName": "Geodude",
+      "oldSourceHash": "a622cea282dcbcffb3ce8e002916e42a3d1112e51264b9d494209ac7a602bd4d",
+      "newId": "sv3pt5-74",
+      "newSourceHash": "0eca955023e182e46965870a4a65701209ee75be9f431c3c44c3fafc447ca741",
+      "newName": "Geodude",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-48",
+      "oldName": "Grimer",
+      "oldSourceHash": "f6fb5959d49692583dbeb5771c98047e155dcf57683b700de23a2adafe6ec7ef",
+      "newId": "sv3pt5-88",
+      "newSourceHash": "d0d0c3d5bd0837ad6c40d09f329521ca9bc953b947c675e599c07629864d431e",
+      "newName": "Grimer",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-49",
+      "oldName": "Horsea",
+      "oldSourceHash": "e41d9ad196db31ce09309c6a3c172754eae86c7ead5f8411f718b30fca2c65f2",
+      "newId": "sv6pt5-10",
+      "newSourceHash": "a7720f7c1b6bffcaff48ff5471cf6ec670244016d5e5db5aded3f971a6b0344d",
+      "newName": "Horsea",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-50",
+      "oldName": "Kabuto",
+      "oldSourceHash": "deabd0baaf6bfce26d7aa893c7f2cd4db8ffa259425debb4fc8a156acb4464cc",
+      "newId": "sv3pt5-140",
+      "newSourceHash": "fcd86dd2a684a1d44b1c5042d9c3b2eda7f3d69686874a513994bc41262f8e05",
+      "newName": "Kabuto",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-51",
+      "oldName": "Krabby",
+      "oldSourceHash": "6d0c32be9756a852d6284aa67f2c6004908511d9aa654bfe2330c5db94a78dca",
+      "newId": "sv3pt5-98",
+      "newSourceHash": "e966639ccebc1db4adf9cb9427e02b105ac41cb422cc1b98563797a53836af0d",
+      "newName": "Krabby",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-52",
+      "oldName": "Omanyte",
+      "oldSourceHash": "c87684c323ac5cc42f185cb5bd9ab20d9ed37f57570c8437ab114bc7cb5195a7",
+      "newId": "sv3pt5-138",
+      "newSourceHash": "1413c559030fb4e35e5c4398b2cac61d2c8dcfe3b4e0532400492f9c5710032f",
+      "newName": "Omanyte",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-53",
+      "oldName": "Psyduck",
+      "oldSourceHash": "7ce4726da680abc6b7820f0351e846681f13e0c07065deefdb48386a5e03fc64",
+      "newId": "me2pt5-39",
+      "newSourceHash": "9103ab062f2e84ec262ceb915f3ac8b398538014aef9ae8661a40ad6dd0cb77e",
+      "newName": "Psyduck",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-54",
+      "oldName": "Shellder",
+      "oldSourceHash": "098faf7288e5b0c4eec944b142aa29134e1f085cbfc27fcb385bb55b4270e6c9",
+      "newId": "sv3pt5-90",
+      "newSourceHash": "d05c79faef178826f27243c74006ba11d87bf05eb934d430a7197bbdaca21c39",
+      "newName": "Shellder",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-55",
+      "oldName": "Slowpoke",
+      "oldSourceHash": "9c0b13fbfd9259483f08567da70deb355cf6fae002387d690ed2236cd79b7463",
+      "newId": "me5-29",
+      "newSourceHash": "b4d66aa77a7411635db4034d93f0cef4c729e51607b43a7ecc69d9c6c73620d1",
+      "newName": "Slowpoke",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-56",
+      "oldName": "Tentacool",
+      "oldSourceHash": "b06d7b18c499e669487fe56030094a6ff4a6617c384259b0e951f9a19d42ce04",
+      "newId": "sv3pt5-72",
+      "newSourceHash": "648a2e940cc819678336ae03b04e764ece26fead63921e0ddd9e67de8a200681",
+      "newName": "Tentacool",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-57",
+      "oldName": "Zubat",
+      "oldSourceHash": "f530aa628e46e8c33c5e814142af57599d18a38d5cc080a4d8bb0f4c6e2b3fbc",
+      "newId": "me4-49",
+      "newSourceHash": "0079c6f57ccf84c0c4c66d0f202e18ec910c83c8af43152173000663bfb1bb49",
+      "newName": "Zubat",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-58",
+      "oldName": "Mr. Fuji",
+      "oldSourceHash": "07001309133856bc02cb883c33cad46af52e805486104443ee325585c319b86d",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base3-59",
+      "oldName": "Energy Search",
+      "oldSourceHash": "838054a55a213c9d597e742c6a08e274c6e3d73aaf75cec8e663dca3f981bc7a",
+      "newId": "me3-72",
+      "newSourceHash": "80c71e1fb408de43798b2428e4bbae02eeccedbf946474174b7560493a4a8bc3",
+      "newName": "Energy Search",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    },
+    {
+      "oldId": "base3-60",
+      "oldName": "Gambler",
+      "oldSourceHash": "c9f48f64afd6cd14e14644d772e8257d085346c71eb9ac0af7b00104e5623a85",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base3-61",
+      "oldName": "Recycle",
+      "oldSourceHash": "8ffca64f549f1b69e90bffa3816fc3da603d9ef5e5b7b37755f3a4d0ca8d74d3",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "base3-62",
+      "oldName": "Mysterious Fossil",
+      "oldSourceHash": "c86ca332d2105862ecbcd7664f11cd877e8817960ede776c7bc7c7780c4eb626",
+      "newId": "",
+      "newSourceHash": "",
+      "newName": "",
+      "status": "refund-unmatched",
+      "reason": "No supported modern counterpart."
+    },
+    {
+      "oldId": "basep-8",
+      "oldName": "Mew",
+      "oldSourceHash": "2eb15d145cc81aa6003ceef1d549bb2adec4c60873136146f11457ba4ed23512",
+      "newId": "swsh12pt5gg-GG10",
+      "newSourceHash": "0879e43a2d6a44a1c4fa948ec0a7f53a1779f15594e861989157bda22a128037",
+      "newName": "Mew",
+      "status": "mapped-complete",
+      "reason": "Newest supported counterpart; exact printing dispatch and resume tested. Development mappings are not comprehensive interaction certification."
+    }
+  ],
+  "refundPolicy": {
+    "amount": "FULL old shop BuyPrice per owned copy",
+    "unmatched": "refund-unmatched",
+    "trainerMatch": "exact name only",
+    "pokemonMatch": "same national species; prefer exact regular name and evolution stage",
+    "basicEnergyMatch": "canonical basic Energy type"
+  }
+}

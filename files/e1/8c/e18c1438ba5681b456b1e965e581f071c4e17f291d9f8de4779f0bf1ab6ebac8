@@ -1,0 +1,22 @@
+Starter deck cover image slots
+
+Optional PNG covers go here, using the starter deck ID as the filename:
+showdown-fire.png
+showdown-water.png
+showdown-bridge.png
+showdown-mixed.png
+showdown-dragon.png
+
+For a future starter with ID my-new-starter, its reserved slot is
+my-new-starter.png. No image is required to browse or load a deck. Unknown
+decks use the built-in navy-and-gold card-sleeve placeholder. Existing decks
+fall back to their real cover card. Missing card art also uses the placeholder.
+
+Prefer portrait cover art at a 5:7 ratio, with the focal subject in the upper
+middle. Files are limited to 16 MB / 4 megapixels. Custom cover thumbnails show
+the whole image; actual card thumbnails crop to their illustration.
+
+The adjacent deck-art.json can override the filename, fallback cover card,
+preview cards, types and summary. Files must remain in this Images folder.
+New starter definitions are automatically discovered from ShowdownDecks.All;
+the carousel has no five-deck limit. Artwork alone does not create a new deck.

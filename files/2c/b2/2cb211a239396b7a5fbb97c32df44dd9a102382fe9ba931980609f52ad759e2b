@@ -1,0 +1,97 @@
+# Music library
+
+Unity now plays menu, collection and selectable battle music from this library.
+See [Unity audio controls](../../docs/unity-audio.md).
+
+**21 downloaded tracks:** 19 Pokémon battle selections and two menu/deck-building
+loops. All files passed full audio decoding and SHA-256 checks. Two existing result
+cues are reused by reference from `assets/audio/`.
+
+## Default soundtrack
+
+| Game context | Track |
+| --- | --- |
+| Main menu | Menu Music — mrpoly |
+| Deck builder and collection | Other Center — Chris Murphy (zesona) |
+| Standard battle | HeartGold/SoulSilver Kanto trainer theme |
+| Rival battle | Black 2/White 2 rival theme |
+| Boss battle | Black 2/White 2 Kanto Gym Leader theme |
+| Championship | Showdown's `spl-elite4` selection |
+| Victory | Existing Kenney NES jingle (`jingles_NES00`) |
+| Defeat | Existing short descending cue (`phaserDown3`) |
+
+These are initial playlist choices. The battle folder also includes trainer/rival
+alternatives from Diamond/Pearl/Platinum, Black/White, X/Y, Omega Ruby/Alpha Sapphire,
+and Sun/Moon, plus Johto and Miror B. selections.
+This is a selection from Pokémon Showdown's music library; the original Pokémon
+TCG Game Boy soundtrack is not included.
+
+## Files and integration
+
+- `manifest.json`: tracks by ID, paths, hashes, durations, formats, source information,
+  volume defaults, loop points and game contexts.
+- `playlists.json`: convenient context-to-track mapping and alternatives.
+- `catalog.csv`: portable music inventory.
+- `verification.json`: decode, hash, loop-bound and playlist validation results.
+- `source/`: original download records, saved author pages and pinned loop metadata.
+- `previews/music-sampler.mp3`: menu, deck builder, Kanto battle — eight seconds each.
+
+Paths are relative to this folder. `externalManifest` paths for result sounds are
+also relative to this folder. Keep `assets/music/` and `assets/audio/` together.
+
+Battle tracks contain an intro and repeated material. Play from zero the first time,
+then repeat between `loop.startSeconds` and `loop.endSeconds`. These values come
+from Pokémon Showdown's pinned playback source and have been checked against each
+file's duration. The menu authors describe their tracks as whole-file loops; their
+end points use the decoded track duration. Loop seams still need listening review.
+
+For a future Web Audio player:
+
+```js
+// bufferSource.buffer must already contain the decoded selected track.
+bufferSource.loop = track.loop.enabled;
+bufferSource.loopStart = track.loop.startSeconds;
+bufferSource.loopEnd = track.loop.endSeconds;
+musicGain.gain.value = track.recommendedGain * userMusicVolume;
+bufferSource.connect(musicGain);
+bufferSource.start(0); // Run after a user gesture resumes the AudioContext.
+```
+
+Default music gain is 0.22. Source recordings are unchanged; only the sampler is
+edited. Keep a separate music volume and mute control, crossfade when changing
+tracks, and avoid restarting the battle track on every turn. Runtime music playback
+and transitions are not implemented by this asset folder.
+
+## Sources and credits
+
+Battle recordings: [Pokémon Showdown public audio library](https://play.pokemonshowdown.com/audio/).
+Pokémon music retains the rights of its original owners; no open license for those
+recordings is asserted here. The client source's license does not license the music.
+
+Loop metadata: [Pokémon Showdown client](https://github.com/smogon/pokemon-showdown-client),
+commit `e47b8be4103b5e027cd191a024e383be88f37bfe`,
+`play.pokemonshowdown.com/src/battle-animations.ts`. Relevant source files are
+retained locally and validated against their pinned Git blob hashes. Audio bytes
+are downloaded from the public host and independently hashed; they are not pinned
+by the client source commit.
+
+- [Menu Music](https://opengameart.org/content/menu-music), mrpoly — author lists CC0.
+- [Other Center](https://opengameart.org/content/other-center), Chris Murphy (zesona)
+  — author lists CC0 and requests that name if credited.
+- Reused result cues: Kenney, CC0; see the retained licenses in `assets/audio/sfx/`.
+
+Source pages are saved in `source/music.menu.html` and `source/music.deck-builder.html`.
+Each manifest record retains the direct download URL and applicable rights note.
+
+## Reproduce or verify
+
+Requires Node.js 20+, Python 3.9+, and FFmpeg/ffprobe on PATH:
+
+```sh
+node scripts/download-music-assets.mjs
+python scripts/catalog-music-assets.py
+```
+
+The downloader resumes files whose hashes match the saved download records.
+The second command works offline, verifies and decodes all music, checks loop
+bounds and result cue references, and rebuilds the catalog and sampler.
