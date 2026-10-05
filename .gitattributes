@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+latest.json -text
+
+latest.json.sig -text
+
+files/** -text
