@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.18",
+  "version": "0.1.19",
   "entryPoint": "PokemonCardTable.exe",
   "files": [
     {
@@ -154,12 +154,6 @@
       "source": "files/71/84/718444f6a718fa668da96eb0a58445b009673310e6129152a63dbf7a92b8de00"
     },
     {
-      "path": "PokemonCardTable_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt",
-      "sha256": "77ff2921771162b62393b435dd01986b747dac98dba60e1b573898a8aa856118",
-      "size": 229914,
-      "source": "files/77/ff/77ff2921771162b62393b435dd01986b747dac98dba60e1b573898a8aa856118"
-    },
-    {
       "path": "PokemonCardTable_Data/app.info",
       "sha256": "7b22b3f6bc9401b3149a1ea9ecc9fcd7799d410376e56faa233b02197ef8fff8",
       "size": 38,
@@ -167,21 +161,21 @@
     },
     {
       "path": "PokemonCardTable_Data/boot.config",
-      "sha256": "59bdf50bb6068a1b3f49b609dfa2109e8c6ae57aa2b83b241fcd35c437c0febf",
-      "size": 329,
-      "source": "files/59/bd/59bdf50bb6068a1b3f49b609dfa2109e8c6ae57aa2b83b241fcd35c437c0febf"
+      "sha256": "dbfb0a0cf40ce29175f35e892c83875cc93fec11aa02bf2cc4a284720a7250e1",
+      "size": 330,
+      "source": "files/db/fb/dbfb0a0cf40ce29175f35e892c83875cc93fec11aa02bf2cc4a284720a7250e1"
     },
     {
       "path": "PokemonCardTable_Data/globalgamemanagers",
-      "sha256": "9aad27462f102986e01407688e002d5af169a7eb9664a91f1c0d8779ad2f8c91",
-      "size": 98228,
-      "source": "files/9a/ad/9aad27462f102986e01407688e002d5af169a7eb9664a91f1c0d8779ad2f8c91"
+      "sha256": "77c057df49309ab05bf307cd669287933584c6a44c56d65b9b17d775ca3c9e02",
+      "size": 98308,
+      "source": "files/77/c0/77c057df49309ab05bf307cd669287933584c6a44c56d65b9b17d775ca3c9e02"
     },
     {
       "path": "PokemonCardTable_Data/globalgamemanagers.assets",
-      "sha256": "f0e27a702feb0e298cc7c0f5b1db7658ddbca72288c38ee192797b6485553af2",
-      "size": 595312,
-      "source": "files/f0/e2/f0e27a702feb0e298cc7c0f5b1db7658ddbca72288c38ee192797b6485553af2"
+      "sha256": "d010aca885a851463148de54e4fc94f88ef76d791461a47b5a08c0f5d2a21b9f",
+      "size": 595424,
+      "source": "files/d0/10/d010aca885a851463148de54e4fc94f88ef76d791461a47b5a08c0f5d2a21b9f"
     },
     {
       "path": "PokemonCardTable_Data/globalgamemanagers.assets.resS",
@@ -191,21 +185,15 @@
     },
     {
       "path": "PokemonCardTable_Data/level0",
-      "sha256": "cd572b520857401ce086bba8ff3bf41b49834ae243da3c6f7b7fe1f0fd9b3a25",
+      "sha256": "92993d083012c89832a46df59f8457eab04e7845f242ccaa455deb126b1e742d",
       "size": 1664,
-      "source": "files/cd/57/cd572b520857401ce086bba8ff3bf41b49834ae243da3c6f7b7fe1f0fd9b3a25"
+      "source": "files/92/99/92993d083012c89832a46df59f8457eab04e7845f242ccaa455deb126b1e742d"
     },
     {
       "path": "PokemonCardTable_Data/Managed/com.rlabrecque.steamworks.net.dll",
       "sha256": "00c264d7e462ce473d865144fd9f3f7f06eb8ae071dba152df52a5ccde6c9b03",
       "size": 399360,
       "source": "files/00/c2/00c264d7e462ce473d865144fd9f3f7f06eb8ae071dba152df52a5ccde6c9b03"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/com.rlabrecque.steamworks.net.pdb",
-      "sha256": "d7697bd26fd9882371ae09f33ba612f5125ce106a4093684dfb3e55545ea73f2",
-      "size": 112848,
-      "source": "files/d7/69/d7697bd26fd9882371ae09f33ba612f5125ce106a4093684dfb3e55545ea73f2"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Mono.Security.dll",
@@ -370,22 +358,10 @@
       "source": "files/59/74/59744e9961c9a5e55fc6d1b829bc82e95bf7985e417ee73a9055d63e183805f7"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Tcg.Domain.pdb",
-      "sha256": "9fbfb1746b6e028874e3fc2996a0dc8e37759414e50ccbaeebace6079ca52ce2",
-      "size": 301708,
-      "source": "files/9f/bf/9fbfb1746b6e028874e3fc2996a0dc8e37759414e50ccbaeebace6079ca52ce2"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Tcg.Unity.dll",
-      "sha256": "bf81f82adae27b7bc47124ef3bf3e889a2cd87ef8cbad8437562db4efe038b2b",
-      "size": 897536,
-      "source": "files/bf/81/bf81f82adae27b7bc47124ef3bf3e889a2cd87ef8cbad8437562db4efe038b2b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Tcg.Unity.pdb",
-      "sha256": "522b787880f940509e613fc9344f9b02a81d27b135a52d3741c835415b83d4df",
-      "size": 223532,
-      "source": "files/52/2b/522b787880f940509e613fc9344f9b02a81d27b135a52d3741c835415b83d4df"
+      "sha256": "e7aaa7f7742c2e6fc9731526cb6fc269331e13eddf197e798d6dc5daea20e972",
+      "size": 898048,
+      "source": "files/e7/aa/e7aaa7f7742c2e6fc9731526cb6fc269331e13eddf197e798d6dc5daea20e972"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Tcg.Verification.dll",
@@ -394,34 +370,16 @@
       "source": "files/7c/89/7c892ac791d165c242d9f485cf01ddf00d4128ccb5c09702052f9fe9b0ea2406"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Tcg.Verification.pdb",
-      "sha256": "1ed11e13560c3f6bad943e7061b0028b62dbaf196179e690ddfa4174d06b6d8f",
-      "size": 447164,
-      "source": "files/1e/d1/1ed11e13560c3f6bad943e7061b0028b62dbaf196179e690ddfa4174d06b6d8f"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Addressables.dll",
       "sha256": "74aaeafb725d49eb80c96f6bbd11da9af5dee42316fc4f9e73aedf2137575203",
       "size": 110080,
       "source": "files/74/aa/74aaeafb725d49eb80c96f6bbd11da9af5dee42316fc4f9e73aedf2137575203"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.Addressables.pdb",
-      "sha256": "b00ec569cd81ae4e4d0a34efc12f7cec7a3102fa20b3bd09422e26c2c0d95ba7",
-      "size": 52840,
-      "source": "files/b0/0e/b00ec569cd81ae4e4d0a34efc12f7cec7a3102fa20b3bd09422e26c2c0d95ba7"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Burst.dll",
       "sha256": "46ead052a1e4558e41a1aac7395bf2d59da4fd9487ec7290cac3cc5236a773d4",
       "size": 5120,
       "source": "files/46/ea/46ead052a1e4558e41a1aac7395bf2d59da4fd9487ec7290cac3cc5236a773d4"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.Burst.pdb",
-      "sha256": "8bac25208e1ed70f27927bbb63b3a75225649fe1cafb117ee508b696ea9877da",
-      "size": 15356,
-      "source": "files/8b/ac/8bac25208e1ed70f27927bbb63b3a75225649fe1cafb117ee508b696ea9877da"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.Collections.dll",
@@ -436,22 +394,10 @@
       "source": "files/ff/50/ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.Collections.pdb",
-      "sha256": "7867b002139dd3293778a5937ec526a120f92c3915a9a56d700c7ea052e839c5",
-      "size": 230744,
-      "source": "files/78/67/7867b002139dd3293778a5937ec526a120f92c3915a9a56d700c7ea052e839c5"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
       "sha256": "b408ada95162b95067fb0b06aa37af34fb735adfc723b60cc527973fc52d4319",
       "size": 4608,
       "source": "files/b4/08/b408ada95162b95067fb0b06aa37af34fb735adfc723b60cc527973fc52d4319"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.pdb",
-      "sha256": "57c69c5bc1bb6036ad5ac38f61a74f668ea72af909cf549734da85ff67e81756",
-      "size": 15612,
-      "source": "files/57/c6/57c69c5bc1bb6036ad5ac38f61a74f668ea72af909cf549734da85ff67e81756"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
@@ -460,34 +406,16 @@
       "source": "files/3f/22/3f228488935d173db7bf7fada88cc1fba4b32915853724f02879aca6f34dea72"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.pdb",
-      "sha256": "052e54cd4199955ba76795175a56fa9816d36cb6ba839c4cb4c15ad17d88bf99",
-      "size": 15600,
-      "source": "files/05/2e/052e54cd4199955ba76795175a56fa9816d36cb6ba839c4cb4c15ad17d88bf99"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
       "sha256": "91472ccfd71f2e058f8aac16dd65d7ec12b3700609ba560b9ac2cb3507d1daf0",
       "size": 4096,
       "source": "files/91/47/91472ccfd71f2e058f8aac16dd65d7ec12b3700609ba560b9ac2cb3507d1daf0"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.pdb",
-      "sha256": "b8f9da10d1dce1c817a1bd796d4a7276cf4ec1758360c8e6dd917c5ddab221f7",
-      "size": 15604,
-      "source": "files/b8/f9/b8f9da10d1dce1c817a1bd796d4a7276cf4ec1758360c8e6dd917c5ddab221f7"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
       "sha256": "c72d95c9a67cdc4864143538cdc3edddea68c08b1a807c4b4fbd399180969e33",
       "size": 4608,
       "source": "files/c7/2d/c72d95c9a67cdc4864143538cdc3edddea68c08b1a807c4b4fbd399180969e33"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.pdb",
-      "sha256": "3b7fd164a2c91170b175e2ccc4b309386b873a0f7652d3d4274080fe97a32661",
-      "size": 15724,
-      "source": "files/3b/7f/3b7fd164a2c91170b175e2ccc4b309386b873a0f7652d3d4274080fe97a32661"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.InputSystem.dll",
@@ -502,28 +430,10 @@
       "source": "files/af/2a/af2aca730f90d052ad591c51bfce515ee84ed5567043fa1d296804bfd49bd3a5"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.InputSystem.ForUI.pdb",
-      "sha256": "110f022c90e65e40d0a4beb7cb0f39f6bac1dc66fbcb83a1e834d27cdb2e4675",
-      "size": 18928,
-      "source": "files/11/0f/110f022c90e65e40d0a4beb7cb0f39f6bac1dc66fbcb83a1e834d27cdb2e4675"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.InputSystem.pdb",
-      "sha256": "2b258656dbd6265f37a8921fa236d0a67eb9fa8dae0b9f6499c4a5afaf2e5ddc",
-      "size": 426296,
-      "source": "files/2b/25/2b258656dbd6265f37a8921fa236d0a67eb9fa8dae0b9f6499c4a5afaf2e5ddc"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
       "sha256": "71f96d76f17e5a7a8058c3b35826e83cb9ccd7aafe961e427d0aae96754bec5b",
       "size": 4096,
       "source": "files/71/f9/71f96d76f17e5a7a8058c3b35826e83cb9ccd7aafe961e427d0aae96754bec5b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.004.pdb",
-      "sha256": "70adfea9196d134e74f25736965575c6908c3d6e5923338239effaeda8ab0f97",
-      "size": 15624,
-      "source": "files/70/ad/70adfea9196d134e74f25736965575c6908c3d6e5923338239effaeda8ab0f97"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
@@ -532,22 +442,10 @@
       "source": "files/85/2a/852a45fefd4f806384ce5ac8c887ffe301261ef2ff6762e8a3e6bc2803fb7d95"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.pdb",
-      "sha256": "f737c8b8af0a88f7d6246f6f1f68dcff461c900ab041aff6bd985b81026a5cbd",
-      "size": 15976,
-      "source": "files/f7/37/f737c8b8af0a88f7d6246f6f1f68dcff461c900ab041aff6bd985b81026a5cbd"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
       "sha256": "6617e27e54544fde5d1c2f0a7a141e850663607a8a23acb7cc2cb7f209ca3e00",
       "size": 3584,
       "source": "files/66/17/6617e27e54544fde5d1c2f0a7a141e850663607a8a23acb7cc2cb7f209ca3e00"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.pdb",
-      "sha256": "3b477b01aad4e6eaaae081c1946acc6ce8f4bb8ed9f627b52f458da96630d47b",
-      "size": 15468,
-      "source": "files/3b/47/3b477b01aad4e6eaaae081c1946acc6ce8f4bb8ed9f627b52f458da96630d47b"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.PathTracing.Runtime.dll",
@@ -556,22 +454,10 @@
       "source": "files/45/99/4599f5f00691320d28e56f407c8f8d7577c57f4b27953426b976b23edc7f4f47"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.PathTracing.Runtime.pdb",
-      "sha256": "236f8465987ba6b59c489bf91521d96ca14aa468468a0627332ca3fd1615fd39",
-      "size": 64800,
-      "source": "files/23/6f/236f8465987ba6b59c489bf91521d96ca14aa468468a0627332ca3fd1615fd39"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.Profiling.Core.dll",
       "sha256": "405404cdc6a91317422f18047a1517d629454adb5a42ca94e7607d8fe6e48888",
       "size": 10240,
       "source": "files/40/54/405404cdc6a91317422f18047a1517d629454adb5a42ca94e7607d8fe6e48888"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.Profiling.Core.pdb",
-      "sha256": "a11f00c3bf6cfe59d46e74ddb6aef0061c2c754659854e8b09eaea9558af0970",
-      "size": 18152,
-      "source": "files/a1/1f/a11f00c3bf6cfe59d46e74ddb6aef0061c2c754659854e8b09eaea9558af0970"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
@@ -580,22 +466,10 @@
       "source": "files/e0/55/e05572212053dadcb91a5cf3da5e461b7c232ab1716525d63efdd736efe57d61"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
-      "sha256": "466c4fbfb8940c2c22c4051cf0a41f62b0313cb34daee8189102afeacc862ab8",
-      "size": 15696,
-      "source": "files/46/6c/466c4fbfb8940c2c22c4051cf0a41f62b0313cb34daee8189102afeacc862ab8"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
       "sha256": "6eb687ac48b6bc23a740fe51ae7680c61bd8c21a3d8771ebb027956d9da5cc99",
       "size": 1083904,
       "source": "files/6e/b6/6eb687ac48b6bc23a740fe51ae7680c61bd8c21a3d8771ebb027956d9da5cc99"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
-      "sha256": "ba1cf0aa812f5f7c820128c070a9ce775f71cb9e5a658de46988edb60759905e",
-      "size": 319604,
-      "source": "files/ba/1c/ba1cf0aa812f5f7c820128c070a9ce775f71cb9e5a658de46988edb60759905e"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
@@ -604,22 +478,10 @@
       "source": "files/da/bc/dabcba6c40b67d4d8dabdebdc2d4119d7e87a3ff67b84b1af93e52bb983550d8"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
-      "sha256": "9f2ee600c3d1bd89cfa380ce001f1ba7e1a9ef7dc7c2c057565522c46eeee7b3",
-      "size": 17872,
-      "source": "files/9f/2e/9f2ee600c3d1bd89cfa380ce001f1ba7e1a9ef7dc7c2c057565522c46eeee7b3"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
       "sha256": "5b4d65ee3fde8556263591316c61e34ecf3b418fa237dd3142757db8b2829b30",
       "size": 3584,
       "source": "files/5b/4d/5b4d65ee3fde8556263591316c61e34ecf3b418fa237dd3142757db8b2829b30"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
-      "sha256": "645a44dadfd8533da0fab9c55983196a82a5a2fd0165d9a5d85df4eca7d85364",
-      "size": 15396,
-      "source": "files/64/5a/645a44dadfd8533da0fab9c55983196a82a5a2fd0165d9a5d85df4eca7d85364"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
@@ -628,22 +490,10 @@
       "source": "files/d8/94/d894c1dfc3d5653e760083cbe71d917f7915d5b2a03d8afc19f9612805264570"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
-      "sha256": "1e72ac6f0dec81be5800bb5a295622e56a025c51c308cc7ded60cb2dfd2ba2ca",
-      "size": 114212,
-      "source": "files/1e/72/1e72ac6f0dec81be5800bb5a295622e56a025c51c308cc7ded60cb2dfd2ba2ca"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
       "sha256": "8dc3aace34e60abac3f92017ee80d5e4f213558c13be15cf8ea0110b569f9ef2",
       "size": 3584,
       "source": "files/8d/c3/8dc3aace34e60abac3f92017ee80d5e4f213558c13be15cf8ea0110b569f9ef2"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
-      "sha256": "0ce763e1006ed38e472adce58e3fbc905b6aa9be9be432c6d798da56729034b1",
-      "size": 15396,
-      "source": "files/0c/e7/0ce763e1006ed38e472adce58e3fbc905b6aa9be9be432c6d798da56729034b1"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
@@ -652,22 +502,10 @@
       "source": "files/b0/dd/b0dde22e17c1d40d89d13d993f6500f014a5c8926fb415310b45255e92b9662d"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.pdb",
-      "sha256": "849a98e0a2e45352e4ff6d14a2a76f1867c00886edb01494ce8300d01167c89c",
-      "size": 106152,
-      "source": "files/84/9a/849a98e0a2e45352e4ff6d14a2a76f1867c00886edb01494ce8300d01167c89c"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
       "sha256": "7f80fc52928699e434ae4671374983090129c5b10ed01c4d77105937a42e94e0",
       "size": 4096,
       "source": "files/7f/80/7f80fc52928699e434ae4671374983090129c5b10ed01c4d77105937a42e94e0"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.pdb",
-      "sha256": "2d6ab93226f118874e6cc04b7d38114bee1d0cd4d81b20ca8aad42aa226c3853",
-      "size": 15476,
-      "source": "files/2d/6a/2d6ab93226f118874e6cc04b7d38114bee1d0cd4d81b20ca8aad42aa226c3853"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
@@ -676,22 +514,10 @@
       "source": "files/69/5f/695f9245d6e3c8279183661024b8d8c2b3ebffcdacc7f2d6597f55e730caf608"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Runtime.pdb",
-      "sha256": "c6e5c2c9fccc9eeb094166df08b5804efa7ddead0472a84a88c3d9da0d15badd",
-      "size": 247496,
-      "source": "files/c6/e5/c6e5c2c9fccc9eeb094166df08b5804efa7ddead0472a84a88c3d9da0d15badd"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
       "sha256": "3316a8ab2d25584d9ace699b1c09b13c32caa4900c5ad3113ff8f1111d7d3a4b",
       "size": 3584,
       "source": "files/33/16/3316a8ab2d25584d9ace699b1c09b13c32caa4900c5ad3113ff8f1111d7d3a4b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.RenderPipelines.Universal.Shaders.pdb",
-      "sha256": "ba3e66faac17cc2f32567db9174d51e5f2399237ba5feecdbe276003b1bf73c5",
-      "size": 15384,
-      "source": "files/ba/3e/ba3e66faac17cc2f32567db9174d51e5f2399237ba5feecdbe276003b1bf73c5"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.ResourceManager.dll",
@@ -700,22 +526,10 @@
       "source": "files/0a/ba/0abacd3a42a0bb26bfb99e0194e9c78cc4dc0ca2506865819efce47eec71b740"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.ResourceManager.pdb",
-      "sha256": "cec815614fe2869a87ba5547205833c324db9521cb8fc6932cbc834c849df398",
-      "size": 69612,
-      "source": "files/ce/c8/cec815614fe2869a87ba5547205833c324db9521cb8fc6932cbc834c849df398"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.ScriptableBuildPipeline.dll",
       "sha256": "b7782eb45f36477c1b5b5dca24d8533beacf85ae049186db20f41b625312a409",
       "size": 7680,
       "source": "files/b7/78/b7782eb45f36477c1b5b5dca24d8533beacf85ae049186db20f41b625312a409"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.ScriptableBuildPipeline.pdb",
-      "sha256": "d22f4ef8819eeee2cb88bbc4f4424ba5527a2881e30da8caa29807cd59c34390",
-      "size": 16912,
-      "source": "files/d2/2f/d22f4ef8819eeee2cb88bbc4f4424ba5527a2881e30da8caa29807cd59c34390"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.Scripting.dll",
@@ -724,22 +538,10 @@
       "source": "files/a8/a9/a8a97af5c9537c1e04cbd66f3ee2580bb54aa39162a4c573b51a7b6d69c55e37"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.Scripting.pdb",
-      "sha256": "532bf5489ef783ba3cf50afb6a8c91ec5f0f4f8d61ca9afd5c948f14f2b0f3e3",
-      "size": 29096,
-      "source": "files/53/2b/532bf5489ef783ba3cf50afb6a8c91ec5f0f4f8d61ca9afd5c948f14f2b0f3e3"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.SurfaceCache.Runtime.dll",
       "sha256": "68a6180bc244062e969d4a77a67c1f2b7df44d57150feb2a470c87e331367a4d",
       "size": 36352,
       "source": "files/68/a6/68a6180bc244062e969d4a77a67c1f2b7df44d57150feb2a470c87e331367a4d"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.SurfaceCache.Runtime.pdb",
-      "sha256": "56241f86810af96e30649851a8868b1540b247bff9aa0a32fa15c31b91319081",
-      "size": 25000,
-      "source": "files/56/24/56241f86810af96e30649851a8868b1540b247bff9aa0a32fa15c31b91319081"
     },
     {
       "path": "PokemonCardTable_Data/Managed/Unity.TextMeshPro.dll",
@@ -748,22 +550,10 @@
       "source": "files/32/f6/32f6c66eb95b31b9bb06cac0f6028640f4d87cc6759445ba818d8365215eef1a"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/Unity.TextMeshPro.pdb",
-      "sha256": "c24cb938817dbf72a801d6ff8060786ee8c1b9884eec9964f2fc2674c05a8592",
-      "size": 182420,
-      "source": "files/c2/4c/c24cb938817dbf72a801d6ff8060786ee8c1b9884eec9964f2fc2674c05a8592"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
       "sha256": "8212fb2a258bb5f9ae4b0a90095c26b1e9c027b1944eb59267b068dc295e79a4",
       "size": 103936,
       "source": "files/82/12/8212fb2a258bb5f9ae4b0a90095c26b1e9c027b1944eb59267b068dc295e79a4"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/Unity.UnifiedRayTracing.Runtime.pdb",
-      "sha256": "c96f0b5e725eaacae013ae12c336b718a71410d3a84916b1528295189ecd7282",
-      "size": 48940,
-      "source": "files/c9/6f/c96f0b5e725eaacae013ae12c336b718a71410d3a84916b1528295189ecd7282"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AccessibilityModule.dll",
@@ -772,22 +562,10 @@
       "source": "files/4e/15/4e151d100f8e1bf1f28074e319317a6bd86e8fde39411d574d6e0a88a6481061"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AccessibilityModule.pdb",
-      "sha256": "3b838d86d78d3c0075d823381923f33ca705ed9fc7e3dd356da3abb546761e9b",
-      "size": 20772,
-      "source": "files/3b/83/3b838d86d78d3c0075d823381923f33ca705ed9fc7e3dd356da3abb546761e9b"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
       "sha256": "4b521a7a0c0260bf6634f97cd7a01e968e8fd56f10362adf52e873fe95187dc2",
       "size": 122280,
       "source": "files/4b/52/4b521a7a0c0260bf6634f97cd7a01e968e8fd56f10362adf52e873fe95187dc2"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AdaptivePerformanceModule.pdb",
-      "sha256": "d5667e8df948cdbfdd77aebed3299fbd48d89a34866c4203b4ae6e4f79472602",
-      "size": 48720,
-      "source": "files/d5/66/d5667e8df948cdbfdd77aebed3299fbd48d89a34866c4203b4ae6e4f79472602"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AIModule.dll",
@@ -796,22 +574,10 @@
       "source": "files/4c/f7/4cf7d923f42e5b143b494336c626e171bc6a378ac10bf1bedf390607b82e63d4"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AIModule.pdb",
-      "sha256": "d3539965a7fcb7af5221e66d02b180645d383a3d2187b44650b6b2f8dcd282db",
-      "size": 23060,
-      "source": "files/d3/53/d3539965a7fcb7af5221e66d02b180645d383a3d2187b44650b6b2f8dcd282db"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AMDModule.dll",
       "sha256": "3061a85a0745f4c4c605a92e3895f416e39a5a0734aeb58a56164396f63b7ba2",
       "size": 21936,
       "source": "files/30/61/3061a85a0745f4c4c605a92e3895f416e39a5a0734aeb58a56164396f63b7ba2"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AMDModule.pdb",
-      "sha256": "056bd73c7804d291015b328690e6d0767909fa19b1162c8d38079c5fff1000ce",
-      "size": 12376,
-      "source": "files/05/6b/056bd73c7804d291015b328690e6d0767909fa19b1162c8d38079c5fff1000ce"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -820,22 +586,10 @@
       "source": "files/a6/3f/a63f30e84fcb21af164f97c72c681d19044a9278096e33c0e0819ed5753e2008"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AndroidJNIModule.pdb",
-      "sha256": "2aa93c56478acfe9f08fa4bcde98514c67e71d75dea5f16e61c2b87aefe30df8",
-      "size": 40944,
-      "source": "files/2a/a9/2aa93c56478acfe9f08fa4bcde98514c67e71d75dea5f16e61c2b87aefe30df8"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AnimationModule.dll",
       "sha256": "2fcc22910fc549e40a271afd567efc03429fc70017b2513a47729e2807496fce",
       "size": 218024,
       "source": "files/2f/cc/2fcc22910fc549e40a271afd567efc03429fc70017b2513a47729e2807496fce"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AnimationModule.pdb",
-      "sha256": "d933cdc5ff2e51445b165020c86365f4ad4016aa11ad508c80650eaac2e3dd07",
-      "size": 49452,
-      "source": "files/d9/33/d933cdc5ff2e51445b165020c86365f4ad4016aa11ad508c80650eaac2e3dd07"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ARModule.dll",
@@ -844,22 +598,10 @@
       "source": "files/ac/e8/ace87359a988de6c83680792a0ac2cf95b1b009648e2f43c4f9421cfcc9d26d4"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ARModule.pdb",
-      "sha256": "56d3797fca2abe7bc76458263babeae66381530357cc2e9ff1d41513d466a1db",
-      "size": 10812,
-      "source": "files/56/d3/56d3797fca2abe7bc76458263babeae66381530357cc2e9ff1d41513d466a1db"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AssetBundleModule.dll",
       "sha256": "4e4fe4ee0e60b98e81e598cf622b9bff69340ac9e936d607bd800498333161fe",
       "size": 42928,
       "source": "files/4e/4f/4e4fe4ee0e60b98e81e598cf622b9bff69340ac9e936d607bd800498333161fe"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AssetBundleModule.pdb",
-      "sha256": "4e2a4ae91c589b67fc3b37c3881b713c56d9721332d3b9515bb851441658a9ab",
-      "size": 13948,
-      "source": "files/4e/2a/4e2a4ae91c589b67fc3b37c3881b713c56d9721332d3b9515bb851441658a9ab"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.AudioModule.dll",
@@ -868,22 +610,10 @@
       "source": "files/62/0e/620e9f9d8a439a1697cc72046071a2c837e5cb65d2a864aabfab3718fd92eb1c"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.AudioModule.pdb",
-      "sha256": "619489c1b232a39343e49efcfb0bf28b10802244360c610cdd6bc9eceb025ff3",
-      "size": 31032,
-      "source": "files/61/94/619489c1b232a39343e49efcfb0bf28b10802244360c610cdd6bc9eceb025ff3"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.BurstModule.dll",
       "sha256": "c741536a274c3296ccebc86723fb0452ca9dfd3dd0b75537a5bab6c5a7dc0544",
       "size": 337840,
       "source": "files/c7/41/c741536a274c3296ccebc86723fb0452ca9dfd3dd0b75537a5bab6c5a7dc0544"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.BurstModule.pdb",
-      "sha256": "057dd2921627ca63583239a7792fe50f3d35cbe481f7cf8d13112e943aea62a9",
-      "size": 170492,
-      "source": "files/05/7d/057dd2921627ca63583239a7792fe50f3d35cbe481f7cf8d13112e943aea62a9"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ClothModule.dll",
@@ -892,22 +622,10 @@
       "source": "files/1b/82/1b82b85c52d524f243c52d83b80b51e64011dc6fc37350b4a2e1a5ab642c440d"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ClothModule.pdb",
-      "sha256": "b66610c4bd19caf9896ef19c3d4f1d2ddeb7d83bc230b6600f55e8c815719a60",
-      "size": 11392,
-      "source": "files/b6/66/b66610c4bd19caf9896ef19c3d4f1d2ddeb7d83bc230b6600f55e8c815719a60"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ClusterInputModule.dll",
       "sha256": "dda0129119b816203b34565b76abe075db43f6288f0958369ca6e28877845150",
       "size": 30120,
       "source": "files/dd/a0/dda0129119b816203b34565b76abe075db43f6288f0958369ca6e28877845150"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ClusterInputModule.pdb",
-      "sha256": "4627dc671d3209753e55abaa52d4f8290a3afe3eb722b11621bf7b66445d178f",
-      "size": 10260,
-      "source": "files/46/27/4627dc671d3209753e55abaa52d4f8290a3afe3eb722b11621bf7b66445d178f"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ClusterRendererModule.dll",
@@ -916,22 +634,10 @@
       "source": "files/c5/2c/c52c2c485596f1a460632c0a17ecff5c61cb1fc31135c0a724017fb9dfaccb4f"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ClusterRendererModule.pdb",
-      "sha256": "6b9fd7eb8ab3a902fad68c69c7a262e20d7af6049aa023c74a4d5cfb439dabea",
-      "size": 10728,
-      "source": "files/6b/9f/6b9fd7eb8ab3a902fad68c69c7a262e20d7af6049aa023c74a4d5cfb439dabea"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ContentLoadModule.dll",
       "sha256": "d23921912c63d12f2b5f34701f5da57c6caf13e4111b01498f5a2cd0bb0e4a7b",
       "size": 56240,
       "source": "files/d2/39/d23921912c63d12f2b5f34701f5da57c6caf13e4111b01498f5a2cd0bb0e4a7b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ContentLoadModule.pdb",
-      "sha256": "7bdf1660c3aac5ec0f7b63a919d0e9f789077438c0264cbe1aaf5dc903a431ea",
-      "size": 18096,
-      "source": "files/7b/df/7bdf1660c3aac5ec0f7b63a919d0e9f789077438c0264cbe1aaf5dc903a431ea"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.CoreModule.dll",
@@ -940,34 +646,16 @@
       "source": "files/63/6a/636aedc7dec237b979bf587355bd3ed603dd648b22197208217d0fc0b44c5e16"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.CoreModule.pdb",
-      "sha256": "c74d66a7351de8cd28a9a20213a532b00bdfd2acd42fcf0cc190ed71a3a0832d",
-      "size": 498804,
-      "source": "files/c7/4d/c74d66a7351de8cd28a9a20213a532b00bdfd2acd42fcf0cc190ed71a3a0832d"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.CrashReportingModule.dll",
       "sha256": "10f71aba71ce10b1df475cdebb263b4d4d6cf4e5d664090f4ddd71a0b1d59965",
       "size": 28584,
       "source": "files/10/f7/10f71aba71ce10b1df475cdebb263b4d4d6cf4e5d664090f4ddd71a0b1d59965"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.CrashReportingModule.pdb",
-      "sha256": "0b217fc1dc311ba55ba32443002871d0c60b6ac704eaba1a9e749a07d3c6a7af",
-      "size": 10892,
-      "source": "files/0b/21/0b217fc1dc311ba55ba32443002871d0c60b6ac704eaba1a9e749a07d3c6a7af"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.DirectorModule.dll",
       "sha256": "80b9a3eada7257dbd68ada638f55a7e9ab922ab5ebc9c51b5f3f3fe7e7917089",
       "size": 42928,
       "source": "files/80/b9/80b9a3eada7257dbd68ada638f55a7e9ab922ab5ebc9c51b5f3f3fe7e7917089"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.DirectorModule.pdb",
-      "sha256": "4242578cc9aae248aad11d2bc4ff3e922ee3bd79c82b41a2d8b693ab4bc650d2",
-      "size": 13808,
-      "source": "files/42/42/4242578cc9aae248aad11d2bc4ff3e922ee3bd79c82b41a2d8b693ab4bc650d2"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.dll",
@@ -982,22 +670,10 @@
       "source": "files/77/2d/772dedbaa40b359958bce64845154a3d256b409762e4fa7575eccf2330421d60"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.DSPGraphModule.pdb",
-      "sha256": "c12468d9866afdef819c0312bfb704193eadfd1e5f8d76fccceb69d254ebc141",
-      "size": 10472,
-      "source": "files/c1/24/c12468d9866afdef819c0312bfb704193eadfd1e5f8d76fccceb69d254ebc141"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.GameCenterModule.dll",
       "sha256": "9d2efcc9bb5a51dedbf9ec591a796ef463ca5def8e3a5810d5cae566a8985741",
       "size": 46504,
       "source": "files/9d/2e/9d2efcc9bb5a51dedbf9ec591a796ef463ca5def8e3a5810d5cae566a8985741"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.GameCenterModule.pdb",
-      "sha256": "a06b06d86c6b6e7474078c50b2a098e8e5b0b028b13c562a644a01327cf5f335",
-      "size": 16572,
-      "source": "files/a0/6b/a06b06d86c6b6e7474078c50b2a098e8e5b0b028b13c562a644a01327cf5f335"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.GIModule.dll",
@@ -1006,22 +682,10 @@
       "source": "files/49/b3/49b319100dd87e255e488939018f3b02117c15106e665a28e2e2262eb5b11404"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.GIModule.pdb",
-      "sha256": "313ce603d97ec2ab84d6dde9c4b1e04af2454d435984bf1cec917be71010ff78",
-      "size": 10132,
-      "source": "files/31/3c/313ce603d97ec2ab84d6dde9c4b1e04af2454d435984bf1cec917be71010ff78"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
       "sha256": "24de5b762b641de6edd8b09a11c86a72b1bf399ebc84ef87b600a654a92ef47e",
       "size": 14248,
       "source": "files/24/de/24de5b762b641de6edd8b09a11c86a72b1bf399ebc84ef87b600a654a92ef47e"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.pdb",
-      "sha256": "f08ab8039f23910c0d1be82fcf896900dc2ec9daa805150496f9f8b72c7aabb9",
-      "size": 10164,
-      "source": "files/f0/8a/f08ab8039f23910c0d1be82fcf896900dc2ec9daa805150496f9f8b72c7aabb9"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.GridModule.dll",
@@ -1030,22 +694,10 @@
       "source": "files/9f/a4/9fa4a084446060e7a54e019ca2eb318533adb9dcd653aae1bbd907b118c18214"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.GridModule.pdb",
-      "sha256": "013b69d47d33cf4ccd620906c537f56f66fe4c0b5a9aa6ec396c5a4297aa85df",
-      "size": 10912,
-      "source": "files/01/3b/013b69d47d33cf4ccd620906c537f56f66fe4c0b5a9aa6ec396c5a4297aa85df"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
       "sha256": "b6d6491924789fe2597c7e2f080522c9030e151ffa5780a11d37cc9a1dc75cf9",
       "size": 111528,
       "source": "files/b6/d6/b6d6491924789fe2597c7e2f080522c9030e151ffa5780a11d37cc9a1dc75cf9"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.HierarchyCoreModule.pdb",
-      "sha256": "81acae928cfb6281cbdb1bb6c7dc23051c34817e8797735529826b863c21401f",
-      "size": 34736,
-      "source": "files/81/ac/81acae928cfb6281cbdb1bb6c7dc23051c34817e8797735529826b863c21401f"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.HierarchyModule.dll",
@@ -1054,22 +706,10 @@
       "source": "files/e7/e7/e7e79efb6c59c5f71946cbb842106be3a5540be4c2b9be45a886caaafe7c8e7e"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.HierarchyModule.pdb",
-      "sha256": "ff07d665ac007cb698de368b7e0270d382fbc2e89fa5ff31b3647520ae8f7369",
-      "size": 45924,
-      "source": "files/ff/07/ff07d665ac007cb698de368b7e0270d382fbc2e89fa5ff31b3647520ae8f7369"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.HotReloadModule.dll",
       "sha256": "a9605c853cd27a9a0eecafda77a544b30943abf558d61ef16fac15f509c4d5f3",
       "size": 26024,
       "source": "files/a9/60/a9605c853cd27a9a0eecafda77a544b30943abf558d61ef16fac15f509c4d5f3"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.HotReloadModule.pdb",
-      "sha256": "3d72738981f2446fadc296b68b5b73845746fce19c6a63aa4247524d0c1adaa3",
-      "size": 10132,
-      "source": "files/3d/72/3d72738981f2446fadc296b68b5b73845746fce19c6a63aa4247524d0c1adaa3"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.IdentifiersModule.dll",
@@ -1078,22 +718,10 @@
       "source": "files/0e/8a/0e8abe3d70f81d1f462bd9d1a0caefc4f9f01c0945633bd427f4679dff4c2a0a"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.IdentifiersModule.pdb",
-      "sha256": "fca749b41480fc2bb7cb2e03a60fd9cc853ff1cdedc01e7efb65f5545c6ef152",
-      "size": 10564,
-      "source": "files/fc/a7/fca749b41480fc2bb7cb2e03a60fd9cc853ff1cdedc01e7efb65f5545c6ef152"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ImageConversionModule.dll",
       "sha256": "c8deb80f28ecc82f1b8ff7875190aa70800fa17ba6cf8cb6118cfea86fb89674",
       "size": 34216,
       "source": "files/c8/de/c8deb80f28ecc82f1b8ff7875190aa70800fa17ba6cf8cb6118cfea86fb89674"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ImageConversionModule.pdb",
-      "sha256": "3c8c3dab0376cce1f00413c4c5bc19ca672d9bce013a3fd4010de0c1e1a8cb47",
-      "size": 11344,
-      "source": "files/3c/8c/3c8c3dab0376cce1f00413c4c5bc19ca672d9bce013a3fd4010de0c1e1a8cb47"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.IMGUIModule.dll",
@@ -1102,22 +730,10 @@
       "source": "files/3d/e2/3de25843e26bb08e9b980dc18133123d1306120577af5cf2042d52ae5932787e"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.IMGUIModule.pdb",
-      "sha256": "871e0e8b7af3b96790c8eb2fdf05bea449a23f3d212670ec6d240aba38020c45",
-      "size": 64504,
-      "source": "files/87/1e/871e0e8b7af3b96790c8eb2fdf05bea449a23f3d212670ec6d240aba38020c45"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.InputForUIModule.dll",
       "sha256": "da897a9730463e9d2ee350c684586048d9b255e204587889a4ebf970df09d5df",
       "size": 56744,
       "source": "files/da/89/da897a9730463e9d2ee350c684586048d9b255e204587889a4ebf970df09d5df"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.InputForUIModule.pdb",
-      "sha256": "765fd44f9a84e64a985a1b557db6620e74ae20bc602fc0ea121f37fa3c685e13",
-      "size": 24260,
-      "source": "files/76/5f/765fd44f9a84e64a985a1b557db6620e74ae20bc602fc0ea121f37fa3c685e13"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.InputLegacyModule.dll",
@@ -1126,22 +742,10 @@
       "source": "files/3d/c7/3dc72ec665fdcb2c554e1f79b92153aacb29a96f3dad5cbfe7954c802385f46d"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.InputLegacyModule.pdb",
-      "sha256": "5c0d8546a63dd94cc20abb03a304d6fbd2c69a3c29c48852fb89313e896ccbd9",
-      "size": 14284,
-      "source": "files/5c/0d/5c0d8546a63dd94cc20abb03a304d6fbd2c69a3c29c48852fb89313e896ccbd9"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.InputModule.dll",
       "sha256": "88cf1687f95de29dee34709ce75d37b1a4df1c3c436671e7227fda1858408fae",
       "size": 32688,
       "source": "files/88/cf/88cf1687f95de29dee34709ce75d37b1a4df1c3c436671e7227fda1858408fae"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.InputModule.pdb",
-      "sha256": "42964ae8b7f7dfa2ff1d99c642d0c537b4ec4ed68ad8129ead9e61981f0a5a8e",
-      "size": 13428,
-      "source": "files/42/96/42964ae8b7f7dfa2ff1d99c642d0c537b4ec4ed68ad8129ead9e61981f0a5a8e"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.InsightsModule.dll",
@@ -1150,22 +754,10 @@
       "source": "files/25/ff/25ff95e330261130c2004527e2ef9a6e8776fda7f8f71748d242e4b4e675de94"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.InsightsModule.pdb",
-      "sha256": "d882ac01b8cfe766c884a26d3bef9ed95e4d5df65755c3c57e493bc6ed28312e",
-      "size": 10924,
-      "source": "files/d8/82/d882ac01b8cfe766c884a26d3bef9ed95e4d5df65755c3c57e493bc6ed28312e"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.JSONSerializeModule.dll",
       "sha256": "f79018c26c84fce63c2d18083fb1f2324e92938bc57b8876ad37eec666634d39",
       "size": 29096,
       "source": "files/f7/90/f79018c26c84fce63c2d18083fb1f2324e92938bc57b8876ad37eec666634d39"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.JSONSerializeModule.pdb",
-      "sha256": "44d98fb07f2139b8181e09a2e8d8ef97fdfa2272bf00e3b3909093d6f9d2502f",
-      "size": 10620,
-      "source": "files/44/d9/44d98fb07f2139b8181e09a2e8d8ef97fdfa2272bf00e3b3909093d6f9d2502f"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.LocalizationModule.dll",
@@ -1174,22 +766,10 @@
       "source": "files/e7/f9/e7f9d46b486be9188978c87990c187a2746ed4abb81e29c0563c752c57399c26"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.LocalizationModule.pdb",
-      "sha256": "e2ba975442b74b245f9d15db84ec57b8ac9f3c3916d4a485ec2c9bb1a6d350d6",
-      "size": 10560,
-      "source": "files/e2/ba/e2ba975442b74b245f9d15db84ec57b8ac9f3c3916d4a485ec2c9bb1a6d350d6"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ManagedKernelModule.dll",
       "sha256": "257c17a48673226dc6744139582d432fe1e1adbfc1fd6cd7c2fa2b59d8ac7639",
       "size": 14248,
       "source": "files/25/7c/257c17a48673226dc6744139582d432fe1e1adbfc1fd6cd7c2fa2b59d8ac7639"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ManagedKernelModule.pdb",
-      "sha256": "634d3b9080b9077e73e94847a6c594657bcc194160b2f8f37fc989e0419bcf57",
-      "size": 10164,
-      "source": "files/63/4d/634d3b9080b9077e73e94847a6c594657bcc194160b2f8f37fc989e0419bcf57"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.MarshallingModule.dll",
@@ -1198,22 +778,10 @@
       "source": "files/24/5a/245af0a62d3734af034eb528f9944a74f02c8d05242f44c165b6e47623f1c23a"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.MarshallingModule.pdb",
-      "sha256": "7f45d6b7e1b12ad4dacee097572b5d029f6eaa842e011ce0917cb6d2abd68a5a",
-      "size": 17104,
-      "source": "files/7f/45/7f45d6b7e1b12ad4dacee097572b5d029f6eaa842e011ce0917cb6d2abd68a5a"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.MathematicsModule.dll",
       "sha256": "c0b06e51cc40ea29995890110655c0f482f6735c78f5eefc5f85d7bc96d63bfa",
       "size": 740776,
       "source": "files/c0/b0/c0b06e51cc40ea29995890110655c0f482f6735c78f5eefc5f85d7bc96d63bfa"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.MathematicsModule.pdb",
-      "sha256": "0242957fb8bb173dc437dbf7d1a50a61845014757627ff45e24ecbcbac4f611d",
-      "size": 324472,
-      "source": "files/02/42/0242957fb8bb173dc437dbf7d1a50a61845014757627ff45e24ecbcbac4f611d"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.MultiplayerModule.dll",
@@ -1222,22 +790,10 @@
       "source": "files/46/99/4699563e88ed36c9c117bbec497bfc1287f30d514cec9342ba4757bf73d3081a"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.MultiplayerModule.pdb",
-      "sha256": "cbd71afa05c550ece733d56771c22e045bde460a6d7864e044779a3fd7fd40b0",
-      "size": 11320,
-      "source": "files/cb/d7/cbd71afa05c550ece733d56771c22e045bde460a6d7864e044779a3fd7fd40b0"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.NVIDIAModule.dll",
       "sha256": "2366a0ba332dc82a24839a02383fed66e7ef48e06f5e77a04b042038ea4eccfd",
       "size": 41392,
       "source": "files/23/66/2366a0ba332dc82a24839a02383fed66e7ef48e06f5e77a04b042038ea4eccfd"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.NVIDIAModule.pdb",
-      "sha256": "72a1e3fe7913db7f6f008d0f210512fabaae83132cbdb30f2f44b479fa25b799",
-      "size": 15572,
-      "source": "files/72/a1/72a1e3fe7913db7f6f008d0f210512fabaae83132cbdb30f2f44b479fa25b799"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ParticleSystemModule.dll",
@@ -1246,28 +802,10 @@
       "source": "files/19/fc/19fcaf1601c6c1f35687482fbbefed341753e680776bc9b5d52daba5de380eca"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ParticleSystemModule.pdb",
-      "sha256": "657c723d7c366a576c0677d816f761f6975620b5bdb12c90e3d2455d8f22c97e",
-      "size": 36116,
-      "source": "files/65/7c/657c723d7c366a576c0677d816f761f6975620b5bdb12c90e3d2455d8f22c97e"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.pdb",
-      "sha256": "4c687958a8659b1b9cb884ea16250e72a0380830fb3bfc54027b158ad9e2705e",
-      "size": 13180,
-      "source": "files/4c/68/4c687958a8659b1b9cb884ea16250e72a0380830fb3bfc54027b158ad9e2705e"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
       "sha256": "30849cadd8d8cc13be13d0c9f8ba966d66af46a4bddf0e5af4ffd06030cb9d90",
       "size": 27056,
       "source": "files/30/84/30849cadd8d8cc13be13d0c9f8ba966d66af46a4bddf0e5af4ffd06030cb9d90"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.PerformanceReportingModule.pdb",
-      "sha256": "f07c0bf3bbadfcf1f009f84aaca89b5da98cb9609228a38193240b59c2a91326",
-      "size": 10380,
-      "source": "files/f0/7c/f07c0bf3bbadfcf1f009f84aaca89b5da98cb9609228a38193240b59c2a91326"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.Physics2DModule.dll",
@@ -1276,22 +814,10 @@
       "source": "files/55/ac/55ac55fcb92367f08a3a0f4234acb8500017cf1683110b15ec11889090b213ee"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.Physics2DModule.pdb",
-      "sha256": "50ff47280b2a18f88ba935dd20f8a0323ff9f0c9767b566bdd3a5b2cb5135b69",
-      "size": 43444,
-      "source": "files/50/ff/50ff47280b2a18f88ba935dd20f8a0323ff9f0c9767b566bdd3a5b2cb5135b69"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
       "sha256": "688a84d5d7fd46a5ce42d6e917c8bf8effc666d222bc058690853c038ebbffa4",
       "size": 14256,
       "source": "files/68/8a/688a84d5d7fd46a5ce42d6e917c8bf8effc666d222bc058690853c038ebbffa4"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.pdb",
-      "sha256": "48feec768ddda820c51ba2b3be369b51d1f944d1a12698cf22cc42987a2650bb",
-      "size": 10156,
-      "source": "files/48/fe/48feec768ddda820c51ba2b3be369b51d1f944d1a12698cf22cc42987a2650bb"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsCore2DModule.dll",
@@ -1300,22 +826,10 @@
       "source": "files/24/e2/24e281043705c060b074e43290d01c7e91f9651807fefbd314dd5c3cd5aa53a2"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsCore2DModule.pdb",
-      "sha256": "36b6e1bb026e5033b04cd8630d5acc65323bf4084d965575bea9ef45e1048022",
-      "size": 115088,
-      "source": "files/36/b6/36b6e1bb026e5033b04cd8630d5acc65323bf4084d965575bea9ef45e1048022"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsModule.dll",
       "sha256": "908f97d9587493c6a87e3e393f34443d2fe3ef20d040dc9c3854a269ad06ba48",
       "size": 181672,
       "source": "files/90/8f/908f97d9587493c6a87e3e393f34443d2fe3ef20d040dc9c3854a269ad06ba48"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.PhysicsModule.pdb",
-      "sha256": "a8f47ba1af42f50226510f5c80ca14bb0e658b26e1368ab030a769dcf729b750",
-      "size": 39968,
-      "source": "files/a8/f4/a8f47ba1af42f50226510f5c80ca14bb0e658b26e1368ab030a769dcf729b750"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.PropertiesModule.dll",
@@ -1324,22 +838,10 @@
       "source": "files/ba/73/ba73c7e6965461b93ada4ebb79e3254fc4e9fdec252e99d0fcb3992aa3263746"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.PropertiesModule.pdb",
-      "sha256": "54a43661bec5bc6e2a19f1e2412306471b3945ed24c6af0a617c4722627a0e0e",
-      "size": 51876,
-      "source": "files/54/a4/54a43661bec5bc6e2a19f1e2412306471b3945ed24c6af0a617c4722627a0e0e"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.RenderAs2DModule.dll",
       "sha256": "aaf462f0a22e761d550ed7a24212e943edaee2ebe2eebcd847537181abbb434f",
       "size": 27568,
       "source": "files/aa/f4/aaf462f0a22e761d550ed7a24212e943edaee2ebe2eebcd847537181abbb434f"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.RenderAs2DModule.pdb",
-      "sha256": "5c6f99e956d51f4ec04469e61fcfd2bffe4ada5ecfb87c2aee4b40b03bdb0f19",
-      "size": 10192,
-      "source": "files/5c/6f/5c6f99e956d51f4ec04469e61fcfd2bffe4ada5ecfb87c2aee4b40b03bdb0f19"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
@@ -1348,22 +850,10 @@
       "source": "files/3c/fe/3cfe991a3f8054d0e8e9b988db914eeb01ff5b069f76381b842426f2c94a3c43"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb",
-      "sha256": "f4dd1f93c78e45e18458af40bd7397d228c8b932d0400b7c73b166b0c4ae5eb2",
-      "size": 10200,
-      "source": "files/f4/dd/f4dd1f93c78e45e18458af40bd7397d228c8b932d0400b7c73b166b0c4ae5eb2"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
       "sha256": "2cea805fed1000243b9f3d5a8523622a0e06cba8de2f22d4fe8781c3cdf439e4",
       "size": 28072,
       "source": "files/2c/ea/2cea805fed1000243b9f3d5a8523622a0e06cba8de2f22d4fe8781c3cdf439e4"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ScreenCaptureModule.pdb",
-      "sha256": "be026276a02d4d42503549a877bfec92d755df1225253f430b88dff0ae5cadea",
-      "size": 10664,
-      "source": "files/be/02/be026276a02d4d42503549a877bfec92d755df1225253f430b88dff0ae5cadea"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ScriptingModule.dll",
@@ -1372,22 +862,10 @@
       "source": "files/55/d3/55d3b906179b08b3c6d5dd450ed6c351abf0aaa25d745d5755f05ffeef7f80c8"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ScriptingModule.pdb",
-      "sha256": "81793e3a6f08013dede32126226ae243c5ff6420136ba07ace1d4a0e89c99dc9",
-      "size": 24592,
-      "source": "files/81/79/81793e3a6f08013dede32126226ae243c5ff6420136ba07ace1d4a0e89c99dc9"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
       "sha256": "9f85c383a80a450f66f0427a4c2a8990595b43d822dd021409d703ed9eb7db5b",
       "size": 26032,
       "source": "files/9f/85/9f85c383a80a450f66f0427a4c2a8990595b43d822dd021409d703ed9eb7db5b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.pdb",
-      "sha256": "13c6cad39ae47fa2e99e83ad2b163d9ce8d4e7c2340f8a2e8e9e90d8db5cdf5d",
-      "size": 10264,
-      "source": "files/13/c6/13c6cad39ae47fa2e99e83ad2b163d9ce8d4e7c2340f8a2e8e9e90d8db5cdf5d"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.SpriteMaskModule.dll",
@@ -1396,22 +874,10 @@
       "source": "files/d3/d6/d3d6df97bd130262c86cdcf3bb2bed413a5ffc9c276499f9f5a8358343dba205"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.SpriteMaskModule.pdb",
-      "sha256": "f679d5545e9056c44b5775981375d6cd204b0bd5db271ccc814c63fad97c8561",
-      "size": 10480,
-      "source": "files/f6/79/f679d5545e9056c44b5775981375d6cd204b0bd5db271ccc814c63fad97c8561"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.SpriteShapeModule.dll",
       "sha256": "bf0eeccca11ee05b5067485dbfa90af8b0588189947e63758f843b04d9558319",
       "size": 34216,
       "source": "files/bf/0e/bf0eeccca11ee05b5067485dbfa90af8b0588189947e63758f843b04d9558319"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.SpriteShapeModule.pdb",
-      "sha256": "c21838ab1da31ed2b33c9dbe222f9e91440305be7ba0da407c8b3ca34d91b7ae",
-      "size": 11528,
-      "source": "files/c2/18/c21838ab1da31ed2b33c9dbe222f9e91440305be7ba0da407c8b3ca34d91b7ae"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.StreamingModule.dll",
@@ -1420,22 +886,10 @@
       "source": "files/7a/84/7a8430c412550f64b45005cfccc67ca18df4b08ba02d04caac764e9efd095ee2"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.StreamingModule.pdb",
-      "sha256": "5d286abe467ace30f9d03ce90ad4e0d68fea08bfe77ba33b9b586a181a3927d7",
-      "size": 10220,
-      "source": "files/5d/28/5d286abe467ace30f9d03ce90ad4e0d68fea08bfe77ba33b9b586a181a3927d7"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.SubstanceModule.dll",
       "sha256": "65a7a147bb3489cc595db21767b95266bbf404ca49fa91fc48173d17e1c952c3",
       "size": 31144,
       "source": "files/65/a7/65a7a147bb3489cc595db21767b95266bbf404ca49fa91fc48173d17e1c952c3"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.SubstanceModule.pdb",
-      "sha256": "68c70773bb50c84c2481b95bcb8389cf2dd16cf18585f98d51c436d6e19857fc",
-      "size": 12088,
-      "source": "files/68/c7/68c70773bb50c84c2481b95bcb8389cf2dd16cf18585f98d51c436d6e19857fc"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.SubsystemsModule.dll",
@@ -1444,22 +898,10 @@
       "source": "files/02/2f/022fd296256b533d605e71c36eb8ca8567e327f598d52ce2b3b7977b0854062c"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.SubsystemsModule.pdb",
-      "sha256": "d7072155a17a9ed128925616233650dd8b63fcc01eba0baf8b0e104c1594268b",
-      "size": 16104,
-      "source": "files/d7/07/d7072155a17a9ed128925616233650dd8b63fcc01eba0baf8b0e104c1594268b"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TerrainModule.dll",
       "sha256": "65ccb0f05c44e1a131d89220739d11904dbe2bada89db7ea7ab607583d3a1c91",
       "size": 132520,
       "source": "files/65/cc/65ccb0f05c44e1a131d89220739d11904dbe2bada89db7ea7ab607583d3a1c91"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TerrainModule.pdb",
-      "sha256": "ee5915bb1d3c2a13464983e4915fba2415104e92bd3cc0890931d58a696f67fc",
-      "size": 29136,
-      "source": "files/ee/59/ee5915bb1d3c2a13464983e4915fba2415104e92bd3cc0890931d58a696f67fc"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
@@ -1468,22 +910,10 @@
       "source": "files/8f/91/8f91b99d8d45c9ba9478de53fb0a72f65c8ae9f330d8030c700eedef5f0cd3b6"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb",
-      "sha256": "fcd31fc29ae0af8f6202216c0de6755e742e107570285609cf82c536a062d5a1",
-      "size": 10580,
-      "source": "files/fc/d3/fcd31fc29ae0af8f6202216c0de6755e742e107570285609cf82c536a062d5a1"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TetgenModule.dll",
       "sha256": "97c0c7cc0ed2bdc3f4343843e01370508d4af355f90f4f0d74eb1f143cbeba38",
       "size": 26024,
       "source": "files/97/c0/97c0c7cc0ed2bdc3f4343843e01370508d4af355f90f4f0d74eb1f143cbeba38"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TetgenModule.pdb",
-      "sha256": "c1146d6ceaa8ce591e0c5588664663dbb8cce8b4c710002229816a35d8a5d556",
-      "size": 10132,
-      "source": "files/c1/14/c1146d6ceaa8ce591e0c5588664663dbb8cce8b4c710002229816a35d8a5d556"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
@@ -1492,22 +922,10 @@
       "source": "files/c9/82/c9829fe31b8e6d03d7c8719c89dd81044b5451b69a89f32547d39fbe61317150"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
-      "sha256": "1aa516e5c3e171a6fc58b062268d3318d68659d64f524ebfdefaa95682592e0d",
-      "size": 26484,
-      "source": "files/1a/a5/1aa516e5c3e171a6fc58b062268d3318d68659d64f524ebfdefaa95682592e0d"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
       "sha256": "a1b0a27149a0ef6ee429e701e9ace71ade565dbbf9148688de9ca9590c5a7a45",
       "size": 313776,
       "source": "files/a1/b0/a1b0a27149a0ef6ee429e701e9ace71ade565dbbf9148688de9ca9590c5a7a45"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
-      "sha256": "a9828611c65edb7a950e493952ab2cad0bbc8b2ef70b3fb090c8d58b4da6694c",
-      "size": 116444,
-      "source": "files/a9/82/a9828611c65edb7a950e493952ab2cad0bbc8b2ef70b3fb090c8d58b4da6694c"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TextRenderingModule.dll",
@@ -1516,22 +934,10 @@
       "source": "files/dd/36/dd363516f288032b3684e51a32fa42be53109ad89056c78002aa3c6427469439"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TextRenderingModule.pdb",
-      "sha256": "f9599736953d0238ffdd3f10c5c92f6cc851587c41a49e7e949aecc9a907f209",
-      "size": 14660,
-      "source": "files/f9/59/f9599736953d0238ffdd3f10c5c92f6cc851587c41a49e7e949aecc9a907f209"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TilemapModule.dll",
       "sha256": "9a9604a9b39d5bdfc535bda5e944f33b417fba84e52030eaa05c9027e672240b",
       "size": 75696,
       "source": "files/9a/96/9a9604a9b39d5bdfc535bda5e944f33b417fba84e52030eaa05c9027e672240b"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TilemapModule.pdb",
-      "sha256": "3270fea3d9c0c947b68f2389220c4c8f934a8ffc9d7e5689e7485f23e63ea29d",
-      "size": 22984,
-      "source": "files/32/70/3270fea3d9c0c947b68f2389220c4c8f934a8ffc9d7e5689e7485f23e63ea29d"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TimelineFoundationModule.dll",
@@ -1540,22 +946,10 @@
       "source": "files/cb/b8/cbb8df317d55364d8903d6842c69067f4536c369d5303677fcde6c8b58bc51a1"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TimelineFoundationModule.pdb",
-      "sha256": "de77431894b995052698b030ca1bd04f5df0349e66506484004c3e8283f98597",
-      "size": 81040,
-      "source": "files/de/77/de77431894b995052698b030ca1bd04f5df0349e66506484004c3e8283f98597"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.TLSModule.dll",
       "sha256": "e9589cbef1004b219c74d825e0ffc253f3fa057d5248cb5af79c149c68a765fb",
       "size": 34224,
       "source": "files/e9/58/e9589cbef1004b219c74d825e0ffc253f3fa057d5248cb5af79c149c68a765fb"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.TLSModule.pdb",
-      "sha256": "f4736770c015fc3753825545d9f40ee8829c7bb5117b957462c30ad631612d1d",
-      "size": 10320,
-      "source": "files/f4/73/f4736770c015fc3753825545d9f40ee8829c7bb5117b957462c30ad631612d1d"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.U2DRuntimeModule.dll",
@@ -1564,22 +958,10 @@
       "source": "files/57/f6/57f627c6a97c8e77f055967f843c6843c2288eec9f03b42836fb69eee69b5421"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.U2DRuntimeModule.pdb",
-      "sha256": "7cb5957e609fcc0410dba2679b411e7615eb9ed94c584fa2ff036419e8a4b906",
-      "size": 34080,
-      "source": "files/7c/b5/7cb5957e609fcc0410dba2679b411e7615eb9ed94c584fa2ff036419e8a4b906"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UI.dll",
       "sha256": "561f30ff882872806e23993d09d8c19ac77d8c5cba674e400ced66f39b47f971",
       "size": 269824,
       "source": "files/56/1f/561f30ff882872806e23993d09d8c19ac77d8c5cba674e400ced66f39b47f971"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UI.pdb",
-      "sha256": "7b90ad0caef1b83efc85cdbd3cc1f082a0ef2d1e8957f7b02fda9949f20e724e",
-      "size": 137888,
-      "source": "files/7b/90/7b90ad0caef1b83efc85cdbd3cc1f082a0ef2d1e8957f7b02fda9949f20e724e"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UIElementsModule.dll",
@@ -1588,22 +970,10 @@
       "source": "files/24/32/243204c231ea37545d15ef81795d3ecdcf398a77164a66b28ddf5c781980298e"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UIElementsModule.pdb",
-      "sha256": "7c3c31fc86254a8dbc2e87173c38de0aec2671b53ae3c87f50999e9956b00ffe",
-      "size": 1004472,
-      "source": "files/7c/3c/7c3c31fc86254a8dbc2e87173c38de0aec2671b53ae3c87f50999e9956b00ffe"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UIModule.dll",
       "sha256": "dad94eeab6641fcb39a0a6791d49ec65c3ecc421dec7f7b0ea7f560ee57bbf2d",
       "size": 56744,
       "source": "files/da/d9/dad94eeab6641fcb39a0a6791d49ec65c3ecc421dec7f7b0ea7f560ee57bbf2d"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UIModule.pdb",
-      "sha256": "6ce2ac04c6eb58c33e35ed7ba18fb53cb9b9c6038709a8544c6b3b34f5461a0c",
-      "size": 15704,
-      "source": "files/6c/e2/6ce2ac04c6eb58c33e35ed7ba18fb53cb9b9c6038709a8544c6b3b34f5461a0c"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UmbraModule.dll",
@@ -1612,22 +982,10 @@
       "source": "files/4a/4c/4a4c68c68ee0b09a6cb9dffeb2ff96c6131972c2fa53876d0a2baf57d446e066"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UmbraModule.pdb",
-      "sha256": "24dacdf80f4e3ac5b1a43db0c57c6004a137585cd7c5cc70a9b147f6974ae958",
-      "size": 10132,
-      "source": "files/24/da/24dacdf80f4e3ac5b1a43db0c57c6004a137585cd7c5cc70a9b147f6974ae958"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
       "sha256": "9862dae026be970204c492d266f7d2709ebff812a01e43cd5653e5977001e8af",
       "size": 36776,
       "source": "files/98/62/9862dae026be970204c492d266f7d2709ebff812a01e43cd5653e5977001e8af"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb",
-      "sha256": "bbd56aeb583325be527c1aff9ae06d15f4ab5c644dacd559ab4e99c83b247377",
-      "size": 13908,
-      "source": "files/bb/d5/bbd56aeb583325be527c1aff9ae06d15f4ab5c644dacd559ab4e99c83b247377"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
@@ -1636,22 +994,10 @@
       "source": "files/b8/0e/b80ecbf40cc6ff41394d6536ae39de6dd41995078e9892e7f228d1d276984220"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb",
-      "sha256": "9ebe7098973f621d37e2d6db966d5f2bdcf0445081c6410cf70aaa189296e49e",
-      "size": 18588,
-      "source": "files/9e/be/9ebe7098973f621d37e2d6db966d5f2bdcf0445081c6410cf70aaa189296e49e"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityConnectModule.dll",
       "sha256": "574b283acf5672148ca744dfbd3033a52289cca179f6c69b15c75b01f02e91dc",
       "size": 29616,
       "source": "files/57/4b/574b283acf5672148ca744dfbd3033a52289cca179f6c69b15c75b01f02e91dc"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityConnectModule.pdb",
-      "sha256": "20362dd80ee95973e1b780a515ddd9ae9810079f66b046087c54ea1a8fa73240",
-      "size": 10700,
-      "source": "files/20/36/20362dd80ee95973e1b780a515ddd9ae9810079f66b046087c54ea1a8fa73240"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityConsentModule.dll",
@@ -1660,22 +1006,10 @@
       "source": "files/29/43/2943ee532cf8ffc78f90587544dc400f17309d8812b859efe578e28326de03d5"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityConsentModule.pdb",
-      "sha256": "7d5e38fe27ac838dd9cdb29cd1d170a537de2fabe5049ffe7be06f963294193e",
-      "size": 10704,
-      "source": "files/7d/5e/7d5e38fe27ac838dd9cdb29cd1d170a537de2fabe5049ffe7be06f963294193e"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityCurlModule.dll",
       "sha256": "bb1c5d581c762d85ff0464c49a4ee021fbe02483c684ed3e516eb8e331731084",
       "size": 28080,
       "source": "files/bb/1c/bb1c5d581c762d85ff0464c49a4ee021fbe02483c684ed3e516eb8e331731084"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityCurlModule.pdb",
-      "sha256": "652b2ae17933a740c081da3fe686d2b9e1d55a87cba17acc8c6541c4498912c6",
-      "size": 10528,
-      "source": "files/65/2b/652b2ae17933a740c081da3fe686d2b9e1d55a87cba17acc8c6541c4498912c6"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
@@ -1684,22 +1018,10 @@
       "source": "files/70/ee/70ee9dbb435963585b80e3adef6943cb3cd9540ceab3cbb388f1d0e1b523e955"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb",
-      "sha256": "105b789f0a7568b1b64b1ce068383c78b2b870530fc5ac1c42d3f35ae5f5b72d",
-      "size": 11420,
-      "source": "files/10/5b/105b789f0a7568b1b64b1ce068383c78b2b870530fc5ac1c42d3f35ae5f5b72d"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
       "sha256": "3635aa369307e1a07fca83c4b355c0666e6146b4743a56f0c8c1fba16f5a59cf",
       "size": 30640,
       "source": "files/36/35/3635aa369307e1a07fca83c4b355c0666e6146b4743a56f0c8c1fba16f5a59cf"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb",
-      "sha256": "ebdb0f79cab7f020080e0ea44a9bd37243fdc376fa18d9e293af65572546607b",
-      "size": 11472,
-      "source": "files/eb/db/ebdb0f79cab7f020080e0ea44a9bd37243fdc376fa18d9e293af65572546607b"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
@@ -1708,22 +1030,10 @@
       "source": "files/45/cf/45cf91f413e1d125c90082c2b5e217e25d91e1ac080ff7e037209602ad015d73"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
-      "sha256": "236252bec96e5f1525ccccdd8311906725af3b103991439e997881bb4dfbfb0c",
-      "size": 27720,
-      "source": "files/23/62/236252bec96e5f1525ccccdd8311906725af3b103991439e997881bb4dfbfb0c"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
       "sha256": "9eed6e947b712ce0781634ca51011663d007be69f0643f84f652d4e929db7184",
       "size": 29616,
       "source": "files/9e/ed/9eed6e947b712ce0781634ca51011663d007be69f0643f84f652d4e929db7184"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb",
-      "sha256": "367fc642a45bb42eebf4fdd48da06a2ed7efac76f24ce4bffe3c1ccf146ee439",
-      "size": 11476,
-      "source": "files/36/7f/367fc642a45bb42eebf4fdd48da06a2ed7efac76f24ce4bffe3c1ccf146ee439"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
@@ -1732,22 +1042,10 @@
       "source": "files/3d/61/3d610cf6c4bc43f12425fe17e070d2b658a0aad18e29d7fe78a3c94c08a5a1c5"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb",
-      "sha256": "0603a366d9a853aed89f0e577dbabef338a740a1546c95a72177c779e4321150",
-      "size": 13112,
-      "source": "files/06/03/0603a366d9a853aed89f0e577dbabef338a740a1546c95a72177c779e4321150"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
       "sha256": "4f40855d6bc8a5d0148cb84e134db76d277332fcd29d32dc729cbb5d89d084c1",
       "size": 229296,
       "source": "files/4f/40/4f40855d6bc8a5d0148cb84e134db76d277332fcd29d32dc729cbb5d89d084c1"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.VectorGraphicsModule.pdb",
-      "sha256": "090c190fd256711530e4a9974037d20282f63c098a71bbed295dcd2927af0df2",
-      "size": 103876,
-      "source": "files/09/0c/090c190fd256711530e4a9974037d20282f63c098a71bbed295dcd2927af0df2"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.VehiclesModule.dll",
@@ -1756,22 +1054,10 @@
       "source": "files/2e/cf/2ecf6a8e28f424656e5f57b2007fe841c5076b243caf38f77a914f3b6f02f939"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.VehiclesModule.pdb",
-      "sha256": "6490d10e7fb4959800904352abd710d3efe38bf0879cb6da82ad4c2df853365a",
-      "size": 11200,
-      "source": "files/64/90/6490d10e7fb4959800904352abd710d3efe38bf0879cb6da82ad4c2df853365a"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.VFXModule.dll",
       "sha256": "0ba6b2eb39debd82609803d2c76d4c56fd8baa8e6eb23ad8b21e637c3977b0b1",
       "size": 82344,
       "source": "files/0b/a6/0ba6b2eb39debd82609803d2c76d4c56fd8baa8e6eb23ad8b21e637c3977b0b1"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.VFXModule.pdb",
-      "sha256": "66a6bfa31cba45916c7fe890c33e91e51150435409987cad747d816251c79d0a",
-      "size": 18680,
-      "source": "files/66/a6/66a6bfa31cba45916c7fe890c33e91e51150435409987cad747d816251c79d0a"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.VideoModule.dll",
@@ -1780,22 +1066,10 @@
       "source": "files/66/83/66833dfdb0b502d3eeb9fb4a651615e2e8009eac64923a1754e82b6a34c50aa6"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.VideoModule.pdb",
-      "sha256": "46cc20d2b988c2f0f35bf0d2b0d0c9c353dc5a75e015a087d3b2ed7bd2f688ac",
-      "size": 14416,
-      "source": "files/46/cc/46cc20d2b988c2f0f35bf0d2b0d0c9c353dc5a75e015a087d3b2ed7bd2f688ac"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
       "sha256": "4c9ce894d97eaa14c55117ee96a3bfe62d61bf842e5b468f9aec71d192e79b45",
       "size": 43952,
       "source": "files/4c/9c/4c9ce894d97eaa14c55117ee96a3bfe62d61bf842e5b468f9aec71d192e79b45"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.VirtualTexturingModule.pdb",
-      "sha256": "5f8db102452cacc4ea0c5528d3f68678fe337c18ed1b2a3db125cd2e8774bf7f",
-      "size": 13288,
-      "source": "files/5f/8d/5f8db102452cacc4ea0c5528d3f68678fe337c18ed1b2a3db125cd2e8774bf7f"
     },
     {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.WindModule.dll",
@@ -1804,22 +1078,10 @@
       "source": "files/11/8d/118db6b55c6c53d5c4edc7e51de9678ba686af4b836f59d4ce48ed127d70563b"
     },
     {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.WindModule.pdb",
-      "sha256": "f7d2153ea3c2f3a459ea7f50a98c50e40cced8018477063fa01c85c69d056a1c",
-      "size": 10276,
-      "source": "files/f7/d2/f7d2153ea3c2f3a459ea7f50a98c50e40cced8018477063fa01c85c69d056a1c"
-    },
-    {
       "path": "PokemonCardTable_Data/Managed/UnityEngine.XRModule.dll",
       "sha256": "0d781d97397d2525128b5025939fc8464271cb2891e8dd88d39871c3017c49db",
       "size": 96176,
       "source": "files/0d/78/0d781d97397d2525128b5025939fc8464271cb2891e8dd88d39871c3017c49db"
-    },
-    {
-      "path": "PokemonCardTable_Data/Managed/UnityEngine.XRModule.pdb",
-      "sha256": "9d7b2c9ccabb5a1f9fad1c527183bfa30ddda840a7db2256ad6b796643d21298",
-      "size": 23548,
-      "source": "files/9d/7b/9d7b2c9ccabb5a1f9fad1c527183bfa30ddda840a7db2256ad6b796643d21298"
     },
     {
       "path": "PokemonCardTable_Data/Plugins/Steamworks.NET.txt",
@@ -1834,12 +1096,6 @@
       "source": "files/1b/af/1baf265447508c2585fa4edca04355b4ba57d4f8348c035a639359291f6c9485"
     },
     {
-      "path": "PokemonCardTable_Data/Plugins/x86_64/lib_burst_generated.pdb",
-      "sha256": "cf8acc04b3b01bf6b5e571f9b503f6f5cbe057a453e429abf3c10a0146201516",
-      "size": 3235840,
-      "source": "files/cf/8a/cf8acc04b3b01bf6b5e571f9b503f6f5cbe057a453e429abf3c10a0146201516"
-    },
-    {
       "path": "PokemonCardTable_Data/Plugins/x86_64/steam_api64.dll",
       "sha256": "eb17909a76668cf9ae0b92a618a34a50f6c73d3a6787cb4dd8ce36a8b10bfb75",
       "size": 317080,
@@ -1847,9 +1103,9 @@
     },
     {
       "path": "PokemonCardTable_Data/resources.assets",
-      "sha256": "bddafc7208f93750a72379396838c9498ea0f6d39e78bc28e125faaaafb187df",
+      "sha256": "15beb7006e8de636afb6250396091889369be8448666be5ef4fcc6aa11a5a322",
       "size": 896812,
-      "source": "files/bd/da/bddafc7208f93750a72379396838c9498ea0f6d39e78bc28e125faaaafb187df"
+      "source": "files/15/be/15beb7006e8de636afb6250396091889369be8448666be5ef4fcc6aa11a5a322"
     },
     {
       "path": "PokemonCardTable_Data/resources.assets.resS",
@@ -1883,9 +1139,9 @@
     },
     {
       "path": "PokemonCardTable_Data/sharedassets0.assets",
-      "sha256": "b198d6cfb52d70e9adc40640c41ba746441d5634e93d93ef3ef431989007f225",
+      "sha256": "5bb58790aa1341efb995cf0e677e70b665249fe080439f7627a015db6312456b",
       "size": 11168,
-      "source": "files/b1/98/b198d6cfb52d70e9adc40640c41ba746441d5634e93d93ef3ef431989007f225"
+      "source": "files/5b/b5/5bb58790aa1341efb995cf0e677e70b665249fe080439f7627a015db6312456b"
     },
     {
       "path": "PokemonCardTable_Data/sharedassets0.assets.resS",
@@ -1894,1054 +1150,10 @@
       "source": "files/39/3e/393efe6399536384aa91bdfc4e64f244b4d3e1fbb6a4ff145c483ffee64ccb36"
     },
     {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/card-library.json",
-      "sha256": "b236403f61574a92c93be0e4405e4646f782fe4d95b9703ada0cdb85f8fe6209",
-      "size": 20508041,
-      "source": "files/b2/36/b236403f61574a92c93be0e4405e4646f782fe4d95b9703ada0cdb85f8fe6209"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base1.md",
-      "sha256": "86f27c8e239ae410cad618a0f855a2475455d80289c3a338fbe30f1a9dbf0865",
-      "size": 44108,
-      "source": "files/86/f2/86f27c8e239ae410cad618a0f855a2475455d80289c3a338fbe30f1a9dbf0865"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base2.md",
-      "sha256": "b2dafc0c74e141f19fd737ddb3edbbf52a934e2170b8c81b72e92436686020ae",
-      "size": 33456,
-      "source": "files/b2/da/b2dafc0c74e141f19fd737ddb3edbbf52a934e2170b8c81b72e92436686020ae"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base3.md",
-      "sha256": "5b89ee82b538233b707e55e03f492514cb1327edf3eee9b50f74b4531e653a3c",
-      "size": 33838,
-      "source": "files/5b/89/5b89ee82b538233b707e55e03f492514cb1327edf3eee9b50f74b4531e653a3c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base4.md",
-      "sha256": "d50a25509aa867080a1a08f8fc1b74d6322ba56d2c99c68ed59ae4646b430dce",
-      "size": 58440,
-      "source": "files/d5/0a/d50a25509aa867080a1a08f8fc1b74d6322ba56d2c99c68ed59ae4646b430dce"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base5.md",
-      "sha256": "9061d97c8b438141f9d7699df9dea350c64576afd01aa4aacce0e05b5bfcf64e",
-      "size": 45372,
-      "source": "files/90/61/9061d97c8b438141f9d7699df9dea350c64576afd01aa4aacce0e05b5bfcf64e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/base6.md",
-      "sha256": "bb02720858c155b85fc8d791c7e4aeb87d8c585cdbff2176099cfc8aa17ac295",
-      "size": 55400,
-      "source": "files/bb/02/bb02720858c155b85fc8d791c7e4aeb87d8c585cdbff2176099cfc8aa17ac295"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/basep.md",
-      "sha256": "cc2c966d0f649256c993a7b14ebbbf5e8413c58d20b612e32522f6ca3ac70ead",
-      "size": 29428,
-      "source": "files/cc/2c/cc2c966d0f649256c993a7b14ebbbf5e8413c58d20b612e32522f6ca3ac70ead"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bp.md",
-      "sha256": "9dd5c91cd425fedaa06a45db217ddb1ae20a467dc4bd88d580614c3c63c830ed",
-      "size": 5153,
-      "source": "files/9d/d5/9dd5c91cd425fedaa06a45db217ddb1ae20a467dc4bd88d580614c3c63c830ed"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw1.md",
-      "sha256": "84fa430b6225814ba3682403888639cfbb6a57ac93e4a02825f988031cdaad73",
-      "size": 46390,
-      "source": "files/84/fa/84fa430b6225814ba3682403888639cfbb6a57ac93e4a02825f988031cdaad73"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw10.md",
-      "sha256": "6c07087f9a7d4fe6f3dc8dc503fa00d437ac1e8e7896b2eca91800b360939211",
-      "size": 52049,
-      "source": "files/6c/07/6c07087f9a7d4fe6f3dc8dc503fa00d437ac1e8e7896b2eca91800b360939211"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw11.md",
-      "sha256": "9ba753afa3abdd69edc69017559c3d450913ab1c4c86f46ea439ff1a76d78500",
-      "size": 64823,
-      "source": "files/9b/a7/9ba753afa3abdd69edc69017559c3d450913ab1c4c86f46ea439ff1a76d78500"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw2.md",
-      "sha256": "ae7d33bbc56176311c5e41c34fcc3cd6962d26d05c5119a0f5b87229093e772f",
-      "size": 43331,
-      "source": "files/ae/7d/ae7d33bbc56176311c5e41c34fcc3cd6962d26d05c5119a0f5b87229093e772f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw3.md",
-      "sha256": "6e56e0263efaec3d69a81afaa012d6c40f6bf60b46e3b17c9ae83d62d0295fcb",
-      "size": 45085,
-      "source": "files/6e/56/6e56e0263efaec3d69a81afaa012d6c40f6bf60b46e3b17c9ae83d62d0295fcb"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw4.md",
-      "sha256": "9cd4e85ccfb1257ad320f15a6e3662870194c270dfe0c67c6cc828a6b90b2f9a",
-      "size": 48686,
-      "source": "files/9c/d4/9cd4e85ccfb1257ad320f15a6e3662870194c270dfe0c67c6cc828a6b90b2f9a"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw5.md",
-      "sha256": "01cf6e94d8054153a904d4cb0c699362a28e31a976a69aef07db2a3ed2f7091e",
-      "size": 51996,
-      "source": "files/01/cf/01cf6e94d8054153a904d4cb0c699362a28e31a976a69aef07db2a3ed2f7091e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw6.md",
-      "sha256": "ae2fa696a9a1e11c497deda49f54a5be78d6210e342090c312622b3d27c4acd6",
-      "size": 60197,
-      "source": "files/ae/2f/ae2fa696a9a1e11c497deda49f54a5be78d6210e342090c312622b3d27c4acd6"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw7.md",
-      "sha256": "8bdd9c69e44ce7f2346489ed8cedb83c7685a992ac198f4e27d6ee35bc78c0ff",
-      "size": 69328,
-      "source": "files/8b/dd/8bdd9c69e44ce7f2346489ed8cedb83c7685a992ac198f4e27d6ee35bc78c0ff"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw8.md",
-      "sha256": "7eada09ff9df7047afafd6050edf96401e6b009bf3fab8f2f70991c433af0660",
-      "size": 64244,
-      "source": "files/7e/ad/7eada09ff9df7047afafd6050edf96401e6b009bf3fab8f2f70991c433af0660"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bw9.md",
-      "sha256": "3ac41ea28fcaafa1c23a2e3f5fc2db19ad62e1fc47b1b4bcdcea1222b070d66c",
-      "size": 57589,
-      "source": "files/3a/c4/3ac41ea28fcaafa1c23a2e3f5fc2db19ad62e1fc47b1b4bcdcea1222b070d66c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/bwp.md",
-      "sha256": "a2b14a243ee0f82eadd5714ebf211f6d34ea89c2d8721b69951014c9bf38d751",
-      "size": 50201,
-      "source": "files/a2/b1/a2b14a243ee0f82eadd5714ebf211f6d34ea89c2d8721b69951014c9bf38d751"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/cel25.md",
-      "sha256": "0364d45f06cac430e2c48dcaa6d32e82167daaa602d22f736cd65608110eafcc",
-      "size": 12951,
-      "source": "files/03/64/0364d45f06cac430e2c48dcaa6d32e82167daaa602d22f736cd65608110eafcc"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/cel25c.md",
-      "sha256": "d66db63c402e5d2a77ac4bf52b65f18bc23e64a1fc1d22b3bb6f02e1f1408cfd",
-      "size": 16263,
-      "source": "files/d6/6d/d66db63c402e5d2a77ac4bf52b65f18bc23e64a1fc1d22b3bb6f02e1f1408cfd"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/col1.md",
-      "sha256": "0b1199476ecef5e29f72d5fb91db75d35667999bb8d9736dc8890f157917e22d",
-      "size": 48041,
-      "source": "files/0b/11/0b1199476ecef5e29f72d5fb91db75d35667999bb8d9736dc8890f157917e22d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dc1.md",
-      "sha256": "41da04456f0c662a722b0c5f1272b4fd170d5e4a71bafa5b0c6bce9a0d154cc0",
-      "size": 17284,
-      "source": "files/41/da/41da04456f0c662a722b0c5f1272b4fd170d5e4a71bafa5b0c6bce9a0d154cc0"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/det1.md",
-      "sha256": "a21467f21651dc90966cb074d9ab72dec0825de69f9be58c9fd7a770e673a984",
-      "size": 7577,
-      "source": "files/a2/14/a21467f21651dc90966cb074d9ab72dec0825de69f9be58c9fd7a770e673a984"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp1.md",
-      "sha256": "3d354131725fd399d095f6f1fd327fcda22a4ddcf323828f4afc7519d74dbb3f",
-      "size": 66155,
-      "source": "files/3d/35/3d354131725fd399d095f6f1fd327fcda22a4ddcf323828f4afc7519d74dbb3f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp2.md",
-      "sha256": "602cdd58be49fac4e2d5d00287377b0242c28ea0f4c82ea517211af54a29a06b",
-      "size": 69807,
-      "source": "files/60/2c/602cdd58be49fac4e2d5d00287377b0242c28ea0f4c82ea517211af54a29a06b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp3.md",
-      "sha256": "d7ea1aa051a490dd84a32346ba877661cace3110571fb7845cb3a8556d1f84f6",
-      "size": 75113,
-      "source": "files/d7/ea/d7ea1aa051a490dd84a32346ba877661cace3110571fb7845cb3a8556d1f84f6"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp4.md",
-      "sha256": "d1d9a7db9f77561d6542021f13ff7d6185fa9a3a75c782d21bcb307f6a98f9ce",
-      "size": 58807,
-      "source": "files/d1/d9/d1d9a7db9f77561d6542021f13ff7d6185fa9a3a75c782d21bcb307f6a98f9ce"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp5.md",
-      "sha256": "c763c8332356d03343380e7eba887287315417d7e9a014d1f621864efef13ed9",
-      "size": 53987,
-      "source": "files/c7/63/c763c8332356d03343380e7eba887287315417d7e9a014d1f621864efef13ed9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp6.md",
-      "sha256": "ed14d54c52f1ce0dce5c49ba27ad7d2de3a288f2cc2fb2c941efad6d984c0aaf",
-      "size": 84656,
-      "source": "files/ed/14/ed14d54c52f1ce0dce5c49ba27ad7d2de3a288f2cc2fb2c941efad6d984c0aaf"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dp7.md",
-      "sha256": "990852bfb0f2d40def8e5b017eed044476b34ce21a96d3fe33dd41063a0c9fa7",
-      "size": 65642,
-      "source": "files/99/08/990852bfb0f2d40def8e5b017eed044476b34ce21a96d3fe33dd41063a0c9fa7"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dpp.md",
-      "sha256": "651fb6e76cc31fd6e6d9a3bc17069246760588e0d27b1a2f0d9b42d55c178bc1",
-      "size": 37290,
-      "source": "files/65/1f/651fb6e76cc31fd6e6d9a3bc17069246760588e0d27b1a2f0d9b42d55c178bc1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/dv1.md",
-      "sha256": "18a598f238a7522249c9daa2d4ca3743871f747c9f5aac17a84ef9a880d9f030",
-      "size": 9577,
-      "source": "files/18/a5/18a598f238a7522249c9daa2d4ca3743871f747c9f5aac17a84ef9a880d9f030"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ecard1.md",
-      "sha256": "70bbd065911a10abcfebcba208e863646cdaded623a503175716b37db07e79e0",
-      "size": 80288,
-      "source": "files/70/bb/70bbd065911a10abcfebcba208e863646cdaded623a503175716b37db07e79e0"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ecard2.md",
-      "sha256": "cb93ba4631f05317469f631aa76ba1f53afbdad2442e478c58f1d1466397fd5d",
-      "size": 104311,
-      "source": "files/cb/93/cb93ba4631f05317469f631aa76ba1f53afbdad2442e478c58f1d1466397fd5d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ecard3.md",
-      "sha256": "dba46e0b851f6cc61ee394041c5023017cb867ddd27ebfee816bb4e47da4bd89",
-      "size": 109001,
-      "source": "files/db/a4/dba46e0b851f6cc61ee394041c5023017cb867ddd27ebfee816bb4e47da4bd89"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex1.md",
-      "sha256": "75b77102a4cafbbc21c77038151352de05aff0129f949176b9017e296441f7c1",
-      "size": 51133,
-      "source": "files/75/b7/75b77102a4cafbbc21c77038151352de05aff0129f949176b9017e296441f7c1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex10.md",
-      "sha256": "9de7b7b9a15a9ed2fbb26289d3bfff68d728417cf294a944f244c6661911081c",
-      "size": 89244,
-      "source": "files/9d/e7/9de7b7b9a15a9ed2fbb26289d3bfff68d728417cf294a944f244c6661911081c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex11.md",
-      "sha256": "830fc355e95caeae22b2f81dc5b8b695ab58c7f304bc18a60b26ef0640744cb1",
-      "size": 67829,
-      "source": "files/83/0f/830fc355e95caeae22b2f81dc5b8b695ab58c7f304bc18a60b26ef0640744cb1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex12.md",
-      "sha256": "4a9ecace963d188de194dfb7d2530583b2544cd83dd8cf6abd37b3b3e0092e59",
-      "size": 56845,
-      "source": "files/4a/9e/4a9ecace963d188de194dfb7d2530583b2544cd83dd8cf6abd37b3b3e0092e59"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex13.md",
-      "sha256": "fcb215eeb9a1a6493b9a2c02aaaab03e6efe7582fb4beaf9055adb6df97f2699",
-      "size": 58012,
-      "source": "files/fc/b2/fcb215eeb9a1a6493b9a2c02aaaab03e6efe7582fb4beaf9055adb6df97f2699"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex14.md",
-      "sha256": "cb068dd453e9dfe94acc8eb46996f53bda1adfdd1ce8f9aa3cd9d7606470bf5c",
-      "size": 53548,
-      "source": "files/cb/06/cb068dd453e9dfe94acc8eb46996f53bda1adfdd1ce8f9aa3cd9d7606470bf5c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex15.md",
-      "sha256": "ee7227322ad1bede3a28091ff13654543ecee7352a7342f90defacd398a3b37d",
-      "size": 54059,
-      "source": "files/ee/72/ee7227322ad1bede3a28091ff13654543ecee7352a7342f90defacd398a3b37d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex16.md",
-      "sha256": "678443b409f36164dcde296301e9f17df195b3b511ffd5c40ce9906aff233b8c",
-      "size": 57576,
-      "source": "files/67/84/678443b409f36164dcde296301e9f17df195b3b511ffd5c40ce9906aff233b8c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex2.md",
-      "sha256": "df40c9ab9d7556d0327b17bf890020ed45a6ee5ae36c35385e93b6f5ea4d9af8",
-      "size": 52938,
-      "source": "files/df/40/df40c9ab9d7556d0327b17bf890020ed45a6ee5ae36c35385e93b6f5ea4d9af8"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex3.md",
-      "sha256": "e6912294164ce6cb6b1844ddcaf5efb77516f55b41085a02e2f60e57794e0a6d",
-      "size": 51658,
-      "source": "files/e6/91/e6912294164ce6cb6b1844ddcaf5efb77516f55b41085a02e2f60e57794e0a6d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex4.md",
-      "sha256": "6f0cde12224aa969a4e8af9e25a99abe29076c454f9e665f60a32de64dbf916f",
-      "size": 54575,
-      "source": "files/6f/0c/6f0cde12224aa969a4e8af9e25a99abe29076c454f9e665f60a32de64dbf916f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex5.md",
-      "sha256": "60ff5a01a615448a961882476a93d83e437fdeecd872c351cc355018f3674548",
-      "size": 56434,
-      "source": "files/60/ff/60ff5a01a615448a961882476a93d83e437fdeecd872c351cc355018f3674548"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex6.md",
-      "sha256": "b8ddd05c84e3496f448b8ec78dc449511f210b1a5070fc88338d0b0d20435f12",
-      "size": 59903,
-      "source": "files/b8/dd/b8ddd05c84e3496f448b8ec78dc449511f210b1a5070fc88338d0b0d20435f12"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex7.md",
-      "sha256": "cff24abe1250324ab10400bc0d69e1a945b7cc617559699eb2f02374fa20670d",
-      "size": 66596,
-      "source": "files/cf/f2/cff24abe1250324ab10400bc0d69e1a945b7cc617559699eb2f02374fa20670d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex8.md",
-      "sha256": "5706cf29dc79302e0bde966ddccf575283221c76c466eebee7ef19a23bcf2f85",
-      "size": 62488,
-      "source": "files/57/06/5706cf29dc79302e0bde966ddccf575283221c76c466eebee7ef19a23bcf2f85"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ex9.md",
-      "sha256": "9bedfbe1bef6ddfaed72ececf6c2ebef6fe53ea9c979dba67d4351ae41e0520b",
-      "size": 50723,
-      "source": "files/9b/ed/9bedfbe1bef6ddfaed72ececf6c2ebef6fe53ea9c979dba67d4351ae41e0520b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/fut20.md",
-      "sha256": "e76201524631b263f57bdcc4f3fc009aba9d4eea716b2d5f3f14ecf83f8cbe02",
-      "size": 2398,
-      "source": "files/e7/62/e76201524631b263f57bdcc4f3fc009aba9d4eea716b2d5f3f14ecf83f8cbe02"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/g1.md",
-      "sha256": "baf9da37c757a1462edc58fd892883f59776c9d534010adaa0aea6382cb41cde",
-      "size": 53691,
-      "source": "files/ba/f9/baf9da37c757a1462edc58fd892883f59776c9d534010adaa0aea6382cb41cde"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/gym1.md",
-      "sha256": "1cfae9949cf59f8a56a40364b373e8b648ff7907c603b54f87816b40287498d1",
-      "size": 65158,
-      "source": "files/1c/fa/1cfae9949cf59f8a56a40364b373e8b648ff7907c603b54f87816b40287498d1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/gym2.md",
-      "sha256": "7c5f3283d7de2990b673c576be7234e095312002f2fa578ef5e0912c88237bee",
-      "size": 69895,
-      "source": "files/7c/5f/7c5f3283d7de2990b673c576be7234e095312002f2fa578ef5e0912c88237bee"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/hgss1.md",
-      "sha256": "a8fe88c6ce516c156490529ba8fed3b87c6bacb8df500708e69a3ec551186078",
-      "size": 55395,
-      "source": "files/a8/fe/a8fe88c6ce516c156490529ba8fed3b87c6bacb8df500708e69a3ec551186078"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/hgss2.md",
-      "sha256": "cb7592bdee7c2cd1ec7f32c13805d7b4152a19f9f977f62b245a74b986bca735",
-      "size": 47776,
-      "source": "files/cb/75/cb7592bdee7c2cd1ec7f32c13805d7b4152a19f9f977f62b245a74b986bca735"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/hgss3.md",
-      "sha256": "0c03f4a658a4708ea1683986465ceab80e9e586b96a4b7e7e20c96c5a9859e34",
-      "size": 46140,
-      "source": "files/0c/03/0c03f4a658a4708ea1683986465ceab80e9e586b96a4b7e7e20c96c5a9859e34"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/hgss4.md",
-      "sha256": "3c682095f9030e7b1209908d55f6f5109dd5eed54cab71ba45e4e3666a704213",
-      "size": 54682,
-      "source": "files/3c/68/3c682095f9030e7b1209908d55f6f5109dd5eed54cab71ba45e4e3666a704213"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/hsp.md",
-      "sha256": "ba0a51c31edb7cfe85900accd09337e73f2b35b0a0fb95039333294340b979cf",
-      "size": 12172,
-      "source": "files/ba/0a/ba0a51c31edb7cfe85900accd09337e73f2b35b0a0fb95039333294340b979cf"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd11.md",
-      "sha256": "37ff903488f6ae7d42f5d2086df057d07528f2ed0967e87e28a632aec213d1f9",
-      "size": 4653,
-      "source": "files/37/ff/37ff903488f6ae7d42f5d2086df057d07528f2ed0967e87e28a632aec213d1f9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd12.md",
-      "sha256": "0fed931a8767d03fe85c45f7df3d4ac0666c9ec7a2d544ab1a034db824fa49d2",
-      "size": 4946,
-      "source": "files/0f/ed/0fed931a8767d03fe85c45f7df3d4ac0666c9ec7a2d544ab1a034db824fa49d2"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd14.md",
-      "sha256": "9c0b3d3f4df67d93f4bcb9eadea3baeb8e3e6b0a470d4f15a92c04d2c2a195ec",
-      "size": 4254,
-      "source": "files/9c/0b/9c0b3d3f4df67d93f4bcb9eadea3baeb8e3e6b0a470d4f15a92c04d2c2a195ec"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd15.md",
-      "sha256": "69a6635a2d1cd1410eba13474b9ff57a231314ef3676a6e07d8f3285330a86ec",
-      "size": 4534,
-      "source": "files/69/a6/69a6635a2d1cd1410eba13474b9ff57a231314ef3676a6e07d8f3285330a86ec"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd16.md",
-      "sha256": "33e918a8e88f7679a3337f577fbd38e845edacc873965522ce2ec02f4497eafa",
-      "size": 4494,
-      "source": "files/33/e9/33e918a8e88f7679a3337f577fbd38e845edacc873965522ce2ec02f4497eafa"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd17.md",
-      "sha256": "69ea5429a61d346ec35c6f58e162c92de2cf0eed634c269d0061a45ca90c24b9",
-      "size": 4302,
-      "source": "files/69/ea/69ea5429a61d346ec35c6f58e162c92de2cf0eed634c269d0061a45ca90c24b9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd18.md",
-      "sha256": "f36cc351feaab3069a93dd6b2c1897618ef3fd34b5d8176614b76cd9b5508997",
-      "size": 5064,
-      "source": "files/f3/6c/f36cc351feaab3069a93dd6b2c1897618ef3fd34b5d8176614b76cd9b5508997"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd19.md",
-      "sha256": "6c2c38ec682be091eb7d8453adc9923f8d42803103d483dd8127a26ac1b8b8ff",
-      "size": 4835,
-      "source": "files/6c/2c/6c2c38ec682be091eb7d8453adc9923f8d42803103d483dd8127a26ac1b8b8ff"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd21.md",
-      "sha256": "d06ce9d7472fb559005921fc0a2bd8e6ab99ba2241ca1e0dfe5a10d8615db035",
-      "size": 8408,
-      "source": "files/d0/6c/d06ce9d7472fb559005921fc0a2bd8e6ab99ba2241ca1e0dfe5a10d8615db035"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/mcd22.md",
-      "sha256": "eef90335d5bedfaa20352d14e8f2c9d33c1a037e4e09e40c759c7e444be3ff2e",
-      "size": 6132,
-      "source": "files/ee/f9/eef90335d5bedfaa20352d14e8f2c9d33c1a037e4e09e40c759c7e444be3ff2e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me1.md",
-      "sha256": "040a7ab233972fc1aef3cb029fcda35772b899656ad91335fc061e8526eec2e6",
-      "size": 87827,
-      "source": "files/04/0a/040a7ab233972fc1aef3cb029fcda35772b899656ad91335fc061e8526eec2e6"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me2.md",
-      "sha256": "509ca9037c623739cb5041cf6f51d88fdd273352beca46f4b5876983b0e8655e",
-      "size": 60305,
-      "source": "files/50/9c/509ca9037c623739cb5041cf6f51d88fdd273352beca46f4b5876983b0e8655e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me2pt5.md",
-      "sha256": "eea00d8ac986e15ed8830af590a6195a7f3ed1ded8bf901ce8a6150694d751f4",
-      "size": 148356,
-      "source": "files/ee/a0/eea00d8ac986e15ed8830af590a6195a7f3ed1ded8bf901ce8a6150694d751f4"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me3.md",
-      "sha256": "b31effa95c032515c427ab4fd270c55da5fd51029a7c453dc57b2b0d961d1190",
-      "size": 61129,
-      "source": "files/b3/1e/b31effa95c032515c427ab4fd270c55da5fd51029a7c453dc57b2b0d961d1190"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me4.md",
-      "sha256": "d13cd7b466f74e0cead1b3f1b60e6309f50e709f8252906f20779958cf8d572e",
-      "size": 56996,
-      "source": "files/d1/3c/d13cd7b466f74e0cead1b3f1b60e6309f50e709f8252906f20779958cf8d572e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/me5.md",
-      "sha256": "6d21ac2ca77bf028b9e8c2ad430db22373c2688383cd598d64d1718b8a4b00d9",
-      "size": 56980,
-      "source": "files/6d/21/6d21ac2ca77bf028b9e8c2ad430db22373c2688383cd598d64d1718b8a4b00d9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/neo1.md",
-      "sha256": "c7ec9caa541e32c3a0985b51d388a007e857750beacdd45ab6461a23be80c29b",
-      "size": 58119,
-      "source": "files/c7/ec/c7ec9caa541e32c3a0985b51d388a007e857750beacdd45ab6461a23be80c29b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/neo2.md",
-      "sha256": "d2306cbc98f22bef65ba2480ea5cfffc8cc4ee3fde5e804c73f058b0fa0791df",
-      "size": 41350,
-      "source": "files/d2/30/d2306cbc98f22bef65ba2480ea5cfffc8cc4ee3fde5e804c73f058b0fa0791df"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/neo3.md",
-      "sha256": "b988179c5c311ed9db4787614cd066f6976047f28f6e866b8e88ab578f019b1e",
-      "size": 38530,
-      "source": "files/b9/88/b988179c5c311ed9db4787614cd066f6976047f28f6e866b8e88ab578f019b1e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/neo4.md",
-      "sha256": "18f2eab015263ee160d43bb44c865096b39c852b88d8695c1c77d1d4173b1a26",
-      "size": 65131,
-      "source": "files/18/f2/18f2eab015263ee160d43bb44c865096b39c852b88d8695c1c77d1d4173b1a26"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/np.md",
-      "sha256": "6775d689cf03f790a40cfdda6e17e1c814ec8c7d11b6a25abdc4c9ca91e52ad1",
-      "size": 20570,
-      "source": "files/67/75/6775d689cf03f790a40cfdda6e17e1c814ec8c7d11b6a25abdc4c9ca91e52ad1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pgo.md",
-      "sha256": "2f0e284c38c966b8f6c43150fb4327d73c8dda1e0a610471ff7720148df72c27",
-      "size": 43907,
-      "source": "files/2f/0e/2f0e284c38c966b8f6c43150fb4327d73c8dda1e0a610471ff7720148df72c27"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pl1.md",
-      "sha256": "d1d700a7a0c69af5c56b598026da0d116d9fff89efc5e45d874e2d40abf48dfd",
-      "size": 77852,
-      "source": "files/d1/d7/d1d700a7a0c69af5c56b598026da0d116d9fff89efc5e45d874e2d40abf48dfd"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pl2.md",
-      "sha256": "d109f3ebfdfb6626bae3cdb2e58ab80153d9c22216d4c1a24c907a82bf192b89",
-      "size": 72913,
-      "source": "files/d1/09/d109f3ebfdfb6626bae3cdb2e58ab80153d9c22216d4c1a24c907a82bf192b89"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pl3.md",
-      "sha256": "384e06a2619aea7609084ad7d3aa202685444a47621946985a0884addbfd321d",
-      "size": 79575,
-      "source": "files/38/4e/384e06a2619aea7609084ad7d3aa202685444a47621946985a0884addbfd321d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pl4.md",
-      "sha256": "28fd688d4d70d8a8dae1877f678016aad9103f3e08821688e339e7f71ab9c9da",
-      "size": 58970,
-      "source": "files/28/fd/28fd688d4d70d8a8dae1877f678016aad9103f3e08821688e339e7f71ab9c9da"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop1.md",
-      "sha256": "b44bab710bb86fc6b3c1fff9592e1a14543ddde425b6e4e8d29d893743cfd115",
-      "size": 8624,
-      "source": "files/b4/4b/b44bab710bb86fc6b3c1fff9592e1a14543ddde425b6e4e8d29d893743cfd115"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop2.md",
-      "sha256": "1e3e24129ca48e1075b6233f3ffc28311515c5c49b8a2ca180857b0238085272",
-      "size": 8871,
-      "source": "files/1e/3e/1e3e24129ca48e1075b6233f3ffc28311515c5c49b8a2ca180857b0238085272"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop3.md",
-      "sha256": "155a235e3e1cc0cdb9dbbe3d693d2d5426fd1e2adb307b11495cb97f1a117643",
-      "size": 9184,
-      "source": "files/15/5a/155a235e3e1cc0cdb9dbbe3d693d2d5426fd1e2adb307b11495cb97f1a117643"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop4.md",
-      "sha256": "fa1a2393a27ae6646c626d370cd682a7f132bea5c2967e76bf48acbee080fee2",
-      "size": 9164,
-      "source": "files/fa/1a/fa1a2393a27ae6646c626d370cd682a7f132bea5c2967e76bf48acbee080fee2"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop5.md",
-      "sha256": "eb464e3813a4d31446e0528c72688980196aebfa4d9c7ddeca0c03feb0204536",
-      "size": 9119,
-      "source": "files/eb/46/eb464e3813a4d31446e0528c72688980196aebfa4d9c7ddeca0c03feb0204536"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop6.md",
-      "sha256": "36a2f6b8654f90e79b02d3aa0542c4a4745f9e6bd312551e1f6ceea74a6f2ae3",
-      "size": 8297,
-      "source": "files/36/a2/36a2f6b8654f90e79b02d3aa0542c4a4745f9e6bd312551e1f6ceea74a6f2ae3"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop7.md",
-      "sha256": "43c355aaf9a047ac7a440ba2f931ca48611e52d27c784e482f7e1a4640318e64",
-      "size": 9446,
-      "source": "files/43/c3/43c355aaf9a047ac7a440ba2f931ca48611e52d27c784e482f7e1a4640318e64"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop8.md",
-      "sha256": "0b702ffbf790ea73d7b382149aee00bb711c6a1b0c878574744cee158442acf3",
-      "size": 8503,
-      "source": "files/0b/70/0b702ffbf790ea73d7b382149aee00bb711c6a1b0c878574744cee158442acf3"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/pop9.md",
-      "sha256": "1d76382d96bbb41ae005023c4943913bc63d5eae24575ab6e9819db73e339061",
-      "size": 9600,
-      "source": "files/1d/76/1d76382d96bbb41ae005023c4943913bc63d5eae24575ab6e9819db73e339061"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/rsv10pt5.md",
-      "sha256": "bf0ab117ffb5a750221de11f67baf3b0ee221a1af1e8d26b5dae03d297bbc96c",
-      "size": 77455,
-      "source": "files/bf/0a/bf0ab117ffb5a750221de11f67baf3b0ee221a1af1e8d26b5dae03d297bbc96c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/ru1.md",
-      "sha256": "9b725aa3e491acd8ed97100e97bc69cb8b2bdb96e6bb9fb0f4eb840e65caab17",
-      "size": 5478,
-      "source": "files/9b/72/9b725aa3e491acd8ed97100e97bc69cb8b2bdb96e6bb9fb0f4eb840e65caab17"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/si1.md",
-      "sha256": "7a015837bb456a323250c0df0cfd01c17665fde0efb2027c38bc1efc03312b59",
-      "size": 9451,
-      "source": "files/7a/01/7a015837bb456a323250c0df0cfd01c17665fde0efb2027c38bc1efc03312b59"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm1.md",
-      "sha256": "9c9e2d1703af9dc6fc5702fed8d4d41a62c6e4d97e7e3e76b951a92c3348ed74",
-      "size": 83567,
-      "source": "files/9c/9e/9c9e2d1703af9dc6fc5702fed8d4d41a62c6e4d97e7e3e76b951a92c3348ed74"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm10.md",
-      "sha256": "a68c5f3ad92b5542c3764d227325b797892af1f90fe85a68d8a9867973cf192e",
-      "size": 133509,
-      "source": "files/a6/8c/a68c5f3ad92b5542c3764d227325b797892af1f90fe85a68d8a9867973cf192e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm11.md",
-      "sha256": "84c8dcbd6527bfab6f3be6ed3714361776f6108df75d06c7b05f05c2ed3bee25",
-      "size": 136635,
-      "source": "files/84/c8/84c8dcbd6527bfab6f3be6ed3714361776f6108df75d06c7b05f05c2ed3bee25"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm115.md",
-      "sha256": "a6abf9a4ccde5e51a4113ce334d26c287247b3337ecfe377f694cee5c6a775a3",
-      "size": 30221,
-      "source": "files/a6/ab/a6abf9a4ccde5e51a4113ce334d26c287247b3337ecfe377f694cee5c6a775a3"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm12.md",
-      "sha256": "4e0f512bc21440bdf76f6bd6d237a88e0e695c074a44c0a40b7d88ce6125c75f",
-      "size": 148966,
-      "source": "files/4e/0f/4e0f512bc21440bdf76f6bd6d237a88e0e695c074a44c0a40b7d88ce6125c75f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm2.md",
-      "sha256": "50d7d0df2c6a0507d9a0c89da389fbd5305eedd87db6a67400ed7dcb3a8d3191",
-      "size": 96989,
-      "source": "files/50/d7/50d7d0df2c6a0507d9a0c89da389fbd5305eedd87db6a67400ed7dcb3a8d3191"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm3.md",
-      "sha256": "ab6dabd8886722344c0704c92a6a8fc017c6654a6236afaaf926b63b4cf648f1",
-      "size": 93408,
-      "source": "files/ab/6d/ab6dabd8886722344c0704c92a6a8fc017c6654a6236afaaf926b63b4cf648f1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm35.md",
-      "sha256": "aec733c85ebca1987f2c6c04bf3c9a5bea3745077717d072153c92585bf5d077",
-      "size": 39704,
-      "source": "files/ae/c7/aec733c85ebca1987f2c6c04bf3c9a5bea3745077717d072153c92585bf5d077"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm4.md",
-      "sha256": "65267a1f0cc09247afa7d84c1fade0296559e7a48de5ffc09a9dd1b6603c0685",
-      "size": 65623,
-      "source": "files/65/26/65267a1f0cc09247afa7d84c1fade0296559e7a48de5ffc09a9dd1b6603c0685"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm5.md",
-      "sha256": "262d647086fa80fccfa582661fc53a5f2887ea6223fe5caefa0ec7c9fbfe512e",
-      "size": 92031,
-      "source": "files/26/2d/262d647086fa80fccfa582661fc53a5f2887ea6223fe5caefa0ec7c9fbfe512e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm6.md",
-      "sha256": "8fde2de1c57bc91af550e8dddd0e6deeb18341d83a067e79435a7305fc0c20ae",
-      "size": 79027,
-      "source": "files/8f/de/8fde2de1c57bc91af550e8dddd0e6deeb18341d83a067e79435a7305fc0c20ae"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm7.md",
-      "sha256": "ebd0e41e1122175b553e11d19e3b4af535506fb274b50249050239ebd2326482",
-      "size": 97641,
-      "source": "files/eb/d0/ebd0e41e1122175b553e11d19e3b4af535506fb274b50249050239ebd2326482"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm75.md",
-      "sha256": "440ab2e2905eff763eebbb496134165980f6c4c6e2080221d5f47746e1fcb3b4",
-      "size": 42816,
-      "source": "files/44/0a/440ab2e2905eff763eebbb496134165980f6c4c6e2080221d5f47746e1fcb3b4"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm8.md",
-      "sha256": "ea4b1883c829912843d185803084855acf6beed2e5fa9c73e4f5af8713bb7efa",
-      "size": 128240,
-      "source": "files/ea/4b/ea4b1883c829912843d185803084855acf6beed2e5fa9c73e4f5af8713bb7efa"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sm9.md",
-      "sha256": "f0b3b5e5bcdc7d489c02ff17330fc36638dceefad9020dda3197bf7ea12f6252",
-      "size": 106380,
-      "source": "files/f0/b3/f0b3b5e5bcdc7d489c02ff17330fc36638dceefad9020dda3197bf7ea12f6252"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sma.md",
-      "sha256": "aed2917b1fe9486a0118b0e4b63657fb6db996bbb943663a60b44ba477086b10",
-      "size": 57532,
-      "source": "files/ae/d2/aed2917b1fe9486a0118b0e4b63657fb6db996bbb943663a60b44ba477086b10"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/smp.md",
-      "sha256": "14e6a855284cccab0837cd6187c9ff7334267ffe740dbaf4695af6e331e2737e",
-      "size": 150631,
-      "source": "files/14/e6/14e6a855284cccab0837cd6187c9ff7334267ffe740dbaf4695af6e331e2737e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv1.md",
-      "sha256": "88f80fd29facc7886ccb60b25f45df594fb04b8d7737d592eb6d76c89574a873",
-      "size": 114271,
-      "source": "files/88/f8/88f80fd29facc7886ccb60b25f45df594fb04b8d7737d592eb6d76c89574a873"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv10.md",
-      "sha256": "96593023de483fce1f9ee1fe5ef018cb3f341d1057f903b70f65f3767e89b97f",
-      "size": 118932,
-      "source": "files/96/59/96593023de483fce1f9ee1fe5ef018cb3f341d1057f903b70f65f3767e89b97f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv2.md",
-      "sha256": "b447b145bc3f619ad1899ff2f98c9a63ea632909226020534de606629e9aa9cc",
-      "size": 130526,
-      "source": "files/b4/47/b447b145bc3f619ad1899ff2f98c9a63ea632909226020534de606629e9aa9cc"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv3.md",
-      "sha256": "c56edece1b666eb4a5919fd61bd2836499ef5924c031dde329d051b364102118",
-      "size": 104795,
-      "source": "files/c5/6e/c56edece1b666eb4a5919fd61bd2836499ef5924c031dde329d051b364102118"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv3pt5.md",
-      "sha256": "000078f8560a016f010035d19746235e5057373f51f9211f6ffb3414e4ab3b21",
-      "size": 97136,
-      "source": "files/00/00/000078f8560a016f010035d19746235e5057373f51f9211f6ffb3414e4ab3b21"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv4.md",
-      "sha256": "1ee9fac049acc307bf0845bc1a2ddda0a08c7ba28711a081c836b5aca5bf2ba9",
-      "size": 134715,
-      "source": "files/1e/e9/1ee9fac049acc307bf0845bc1a2ddda0a08c7ba28711a081c836b5aca5bf2ba9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv4pt5.md",
-      "sha256": "ff025b67864724a9856bc64813377769cf73ef5f8afa48356f7a0d81e6e5ba52",
-      "size": 115427,
-      "source": "files/ff/02/ff025b67864724a9856bc64813377769cf73ef5f8afa48356f7a0d81e6e5ba52"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv5.md",
-      "sha256": "2b99ff7daa467e7229e227b38bfbe093611247cf929abdd413c660d157036d7f",
-      "size": 105877,
-      "source": "files/2b/99/2b99ff7daa467e7229e227b38bfbe093611247cf929abdd413c660d157036d7f"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv6.md",
-      "sha256": "58dbf28b03bbee646f8f3f9b432fcde19cf320adb35fb6e71856f727d8843792",
-      "size": 117631,
-      "source": "files/58/db/58dbf28b03bbee646f8f3f9b432fcde19cf320adb35fb6e71856f727d8843792"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv6pt5.md",
-      "sha256": "eb2b98878e6db39cd6e38cd1c1c5bd6aeea2518c23f788bcd200a19d6ffca1f0",
-      "size": 50075,
-      "source": "files/eb/2b/eb2b98878e6db39cd6e38cd1c1c5bd6aeea2518c23f788bcd200a19d6ffca1f0"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv7.md",
-      "sha256": "8f26967f4a1c5819d413e9ceb85c08572d6649d5f5bed279659e13311e2c9680",
-      "size": 82279,
-      "source": "files/8f/26/8f26967f4a1c5819d413e9ceb85c08572d6649d5f5bed279659e13311e2c9680"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv8.md",
-      "sha256": "19dee73698fa48c93e3809bf9f38b153911dd49a79bef763f90774060b94a704",
-      "size": 121677,
-      "source": "files/19/de/19dee73698fa48c93e3809bf9f38b153911dd49a79bef763f90774060b94a704"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv8pt5.md",
-      "sha256": "0b4cc4c6ae8d81d7058723b4e9f7d77d78d1991287cce305d076bff8686319ae",
-      "size": 96883,
-      "source": "files/0b/4c/0b4cc4c6ae8d81d7058723b4e9f7d77d78d1991287cce305d076bff8686319ae"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sv9.md",
-      "sha256": "212514394c354b10276b6375566222991afc8f65ffd474b78c0a4b82da8723ff",
-      "size": 84982,
-      "source": "files/21/25/212514394c354b10276b6375566222991afc8f65ffd474b78c0a4b82da8723ff"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/sve.md",
-      "sha256": "fc6ac9ee79c02cbd8f3d1ba51bd4a3fe7459ba93a2598a4715d54deb23ccc5bb",
-      "size": 3805,
-      "source": "files/fc/6a/fc6ac9ee79c02cbd8f3d1ba51bd4a3fe7459ba93a2598a4715d54deb23ccc5bb"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/svp.md",
-      "sha256": "4ff5a5d02d50aa1c5a7035bd181d0e4030e3c4591a047a29e554fc3c0baa28ed",
-      "size": 84294,
-      "source": "files/4f/f5/4ff5a5d02d50aa1c5a7035bd181d0e4030e3c4591a047a29e554fc3c0baa28ed"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh1.md",
-      "sha256": "cc3da8336aa1271a5db7c4f395e2f911b366358b81eec763e35b5fe4d3f4c8ea",
-      "size": 98413,
-      "source": "files/cc/3d/cc3da8336aa1271a5db7c4f395e2f911b366358b81eec763e35b5fe4d3f4c8ea"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh10.md",
-      "sha256": "9b487d1edc35e1ee05662237cb9e78005b0e5990c0cb9545ed69ea255160325b",
-      "size": 108506,
-      "source": "files/9b/48/9b487d1edc35e1ee05662237cb9e78005b0e5990c0cb9545ed69ea255160325b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh10tg.md",
-      "sha256": "8839f5b959e8f584214f17a07eab15bdc73af54bf02d43d7a66d27af7db695ee",
-      "size": 16857,
-      "source": "files/88/39/8839f5b959e8f584214f17a07eab15bdc73af54bf02d43d7a66d27af7db695ee"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh11.md",
-      "sha256": "e1188b8a4b5bd0378460b52ac9497dbc1a1c4ba0540e987e9de96dfcf6dbf59a",
-      "size": 106889,
-      "source": "files/e1/18/e1188b8a4b5bd0378460b52ac9497dbc1a1c4ba0540e987e9de96dfcf6dbf59a"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh11tg.md",
-      "sha256": "bc9d1058fcbb209a5f5dc6a93e20a09ad196dbf01e5de6d27cfe044f8a4459ae",
-      "size": 16445,
-      "source": "files/bc/9d/bc9d1058fcbb209a5f5dc6a93e20a09ad196dbf01e5de6d27cfe044f8a4459ae"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh12.md",
-      "sha256": "cc54159a14afa394ccc657ff8bc25a658dfae3d075240e43d49ab81eacb3445b",
-      "size": 106627,
-      "source": "files/cc/54/cc54159a14afa394ccc657ff8bc25a658dfae3d075240e43d49ab81eacb3445b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh12pt5.md",
-      "sha256": "b1a94c880c076a906977cc22a83406b3b7363094ecbee631da1224af937398c4",
-      "size": 73169,
-      "source": "files/b1/a9/b1a94c880c076a906977cc22a83406b3b7363094ecbee631da1224af937398c4"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh12pt5gg.md",
-      "sha256": "c91628c7cc941471ba8f2d29c904368d2936a855b908c1198d25b4502c8fbb58",
-      "size": 38267,
-      "source": "files/c9/16/c91628c7cc941471ba8f2d29c904368d2936a855b908c1198d25b4502c8fbb58"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh12tg.md",
-      "sha256": "484bb0195e5fd1dede8e8426d1c1ec4a5e7a0d3cdd2c999b5e61f5b023dd5aa7",
-      "size": 16343,
-      "source": "files/48/4b/484bb0195e5fd1dede8e8426d1c1ec4a5e7a0d3cdd2c999b5e61f5b023dd5aa7"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh2.md",
-      "sha256": "9dfcad86a825f72f3f28bda951acf446159fd6ddc1db0cb409b9f9315cbd4e0c",
-      "size": 100063,
-      "source": "files/9d/fc/9dfcad86a825f72f3f28bda951acf446159fd6ddc1db0cb409b9f9315cbd4e0c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh3.md",
-      "sha256": "9001f94d352231801548af4163677e392546574d4cae1c3daa47ebde4753f311",
-      "size": 93428,
-      "source": "files/90/01/9001f94d352231801548af4163677e392546574d4cae1c3daa47ebde4753f311"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh35.md",
-      "sha256": "46cd53bbe2ec24084e89c09654b91cff3ec750e819f84657c09ee78e3e469c40",
-      "size": 35935,
-      "source": "files/46/cd/46cd53bbe2ec24084e89c09654b91cff3ec750e819f84657c09ee78e3e469c40"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh4.md",
-      "sha256": "c8a7d93354c5692a2beacb256ada1adff8c7c0ed0b9850c170ad40970ccf86e1",
-      "size": 95723,
-      "source": "files/c8/a7/c8a7d93354c5692a2beacb256ada1adff8c7c0ed0b9850c170ad40970ccf86e1"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh45.md",
-      "sha256": "ee299ea7109c85435fdaea79dc5ecd8b9aa11cfdbc2234516603ae1743c02b2e",
-      "size": 33750,
-      "source": "files/ee/29/ee299ea7109c85435fdaea79dc5ecd8b9aa11cfdbc2234516603ae1743c02b2e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh45sv.md",
-      "sha256": "44228dde01e0caaeabc5a60543d2a523bba0e4eef42a980628ece01af20e7876",
-      "size": 58942,
-      "source": "files/44/22/44228dde01e0caaeabc5a60543d2a523bba0e4eef42a980628ece01af20e7876"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh5.md",
-      "sha256": "2bdb3e7095e473ecbab4b47fd53719150a824dda4f4da7895d41aa035306f664",
-      "size": 88884,
-      "source": "files/2b/db/2bdb3e7095e473ecbab4b47fd53719150a824dda4f4da7895d41aa035306f664"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh6.md",
-      "sha256": "76c2dea6347d5832194e7b0a2b6832887bc3015e0dd407116ecb3b9f37cec0f9",
-      "size": 114133,
-      "source": "files/76/c2/76c2dea6347d5832194e7b0a2b6832887bc3015e0dd407116ecb3b9f37cec0f9"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh7.md",
-      "sha256": "90538088eee86d2ad8934d88a109754c3e22495e3b5c5b2542dd65d86652f299",
-      "size": 120668,
-      "source": "files/90/53/90538088eee86d2ad8934d88a109754c3e22495e3b5c5b2542dd65d86652f299"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh8.md",
-      "sha256": "b7350b5d274da2e90138f5b455d53f14b8135f3196ccc675720ff3a7d633f68c",
-      "size": 125094,
-      "source": "files/b7/35/b7350b5d274da2e90138f5b455d53f14b8135f3196ccc675720ff3a7d633f68c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh9.md",
-      "sha256": "a85e1ae6b580c33b69eff4647a722dd08111cfbe5e9f4d52c7e4bd30690292b0",
-      "size": 91049,
-      "source": "files/a8/5e/a85e1ae6b580c33b69eff4647a722dd08111cfbe5e9f4d52c7e4bd30690292b0"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swsh9tg.md",
-      "sha256": "3b6144dae9193fe575d10ea60791364cd4e53540f5700df1ecb1cef3867f111d",
-      "size": 17030,
-      "source": "files/3b/61/3b6144dae9193fe575d10ea60791364cd4e53540f5700df1ecb1cef3867f111d"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/swshp.md",
-      "sha256": "22bb720caf70973244c0445ed978d1700e317c57b5fcc1b06e956df73dac9016",
-      "size": 176440,
-      "source": "files/22/bb/22bb720caf70973244c0445ed978d1700e317c57b5fcc1b06e956df73dac9016"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/tk1a.md",
-      "sha256": "2b29cc840349457296e881b52c5042e0282ca65e656273da5822efe17f0259a2",
-      "size": 3855,
-      "source": "files/2b/29/2b29cc840349457296e881b52c5042e0282ca65e656273da5822efe17f0259a2"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/tk1b.md",
-      "sha256": "202c5cf987abdf8d6e0e2d1a2c73eb922ff58d6670b7039325bc1035525d610b",
-      "size": 3886,
-      "source": "files/20/2c/202c5cf987abdf8d6e0e2d1a2c73eb922ff58d6670b7039325bc1035525d610b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/tk2a.md",
-      "sha256": "129c3cea973c1fd5908a5abfb3f5ac446f8946728f3c9128cf8b5d39cc062b94",
-      "size": 5075,
-      "source": "files/12/9c/129c3cea973c1fd5908a5abfb3f5ac446f8946728f3c9128cf8b5d39cc062b94"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/tk2b.md",
-      "sha256": "63a8c33e95359b48d95492c9b174d8c1c3c28b9b8ac76046a1d8b641ef64407e",
-      "size": 4928,
-      "source": "files/63/a8/63a8c33e95359b48d95492c9b174d8c1c3c28b9b8ac76046a1d8b641ef64407e"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy0.md",
-      "sha256": "96fd4fcf54bb705deffb7eb63f842a717d3e8882067efede4cf525925a2e2be4",
-      "size": 14376,
-      "source": "files/96/fd/96fd4fcf54bb705deffb7eb63f842a717d3e8882067efede4cf525925a2e2be4"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy1.md",
-      "sha256": "6deaf03d85a02ee5cb29232ca84108a0b4c71cdc71ce444064dc70c37ba08bdd",
-      "size": 66967,
-      "source": "files/6d/ea/6deaf03d85a02ee5cb29232ca84108a0b4c71cdc71ce444064dc70c37ba08bdd"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy10.md",
-      "sha256": "1700893fadd9f84dfc9ac2cb0565cdda5789dca1721fee84823265d05ee5bc60",
-      "size": 64414,
-      "source": "files/17/00/1700893fadd9f84dfc9ac2cb0565cdda5789dca1721fee84823265d05ee5bc60"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy11.md",
-      "sha256": "e630dd43ca34330ff4239bd36d3d27442396e060fea1685de03ecfa9609e93cc",
-      "size": 57823,
-      "source": "files/e6/30/e630dd43ca34330ff4239bd36d3d27442396e060fea1685de03ecfa9609e93cc"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy12.md",
-      "sha256": "87852950a3ef9e828ff03c508941233d3894a4883361a8fdd72437c541ac4201",
-      "size": 53649,
-      "source": "files/87/85/87852950a3ef9e828ff03c508941233d3894a4883361a8fdd72437c541ac4201"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy2.md",
-      "sha256": "cab2d37e07ffeb0252e3d8c172a1076f3bb84febf73c525770259bc97e3dd98b",
-      "size": 50882,
-      "source": "files/ca/b2/cab2d37e07ffeb0252e3d8c172a1076f3bb84febf73c525770259bc97e3dd98b"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy3.md",
-      "sha256": "bad6be3d295bb6c30546b812c36a2a0ba37849fd2dd2b97e30c91ff56c2c8891",
-      "size": 55784,
-      "source": "files/ba/d6/bad6be3d295bb6c30546b812c36a2a0ba37849fd2dd2b97e30c91ff56c2c8891"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy4.md",
-      "sha256": "2f4db97ad362aafd375a97df476c9dfdae141403f2397e8d17ed9c1df8990aad",
-      "size": 59897,
-      "source": "files/2f/4d/2f4db97ad362aafd375a97df476c9dfdae141403f2397e8d17ed9c1df8990aad"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy5.md",
-      "sha256": "a0c7b7b6f1b5a2d70aac6efbf9075921fbab8d468e161314f150506d6bc298c0",
-      "size": 79372,
-      "source": "files/a0/c7/a0c7b7b6f1b5a2d70aac6efbf9075921fbab8d468e161314f150506d6bc298c0"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy6.md",
-      "sha256": "372206dfe84c6a512356c94cf1f6ecbb417239b7060c0c204a064c26ec188824",
-      "size": 54908,
-      "source": "files/37/22/372206dfe84c6a512356c94cf1f6ecbb417239b7060c0c204a064c26ec188824"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy7.md",
-      "sha256": "37a3ab59d9b0a7afd574e97f105217049d990779d8d8377a65a1b8cdbcefde49",
-      "size": 52792,
-      "source": "files/37/a3/37a3ab59d9b0a7afd574e97f105217049d990779d8d8377a65a1b8cdbcefde49"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy8.md",
-      "sha256": "93dfd71d521101dd4e41a3bb172dff881a82bdcb1ea68225b55415a31ac1b64c",
-      "size": 79030,
-      "source": "files/93/df/93dfd71d521101dd4e41a3bb172dff881a82bdcb1ea68225b55415a31ac1b64c"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xy9.md",
-      "sha256": "0d517d365a9a54066d652546612d9b12a4087e8ee88c47c7fcf14a94f80feb23",
-      "size": 60769,
-      "source": "files/0d/51/0d517d365a9a54066d652546612d9b12a4087e8ee88c47c7fcf14a94f80feb23"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/xyp.md",
-      "sha256": "816e4a58d3817516574e97b8471a7648b5bd8be47c053c59a16e222567ec9d84",
-      "size": 118067,
-      "source": "files/81/6e/816e4a58d3817516574e97b8471a7648b5bd8be47c053c59a16e222567ec9d84"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/AI/cards/zsv10pt5.md",
-      "sha256": "17c41c622a81d95979e9a01205de40ca1c05f761d81d25f077bfe6e184facb12",
-      "size": 77513,
-      "source": "files/17/c4/17c41c622a81d95979e9a01205de40ca1c05f761d81d25f077bfe6e184facb12"
+      "path": "PokemonCardTable_Data/StreamingAssets/AI/card-library.json.gz",
+      "sha256": "739983131af03c0c477eb6261011e12e05d9b12754b3674790796e0ed57796db",
+      "size": 1594295,
+      "source": "files/73/99/739983131af03c0c477eb6261011e12e05d9b12754b3674790796e0ed57796db"
     },
     {
       "path": "PokemonCardTable_Data/StreamingAssets/AI/knowledge/card-reference.md",
@@ -2996,12 +1208,6 @@
       "sha256": "b18640f826a95357957d9ccec284301d3b48758c1bfd82fab792d5a9a89a5033",
       "size": 6247,
       "source": "files/b1/86/b18640f826a95357957d9ccec284301d3b48758c1bfd82fab792d5a9a89a5033"
-    },
-    {
-      "path": "PokemonCardTable_Data/StreamingAssets/Audio/sounds-provenance.json",
-      "sha256": "73d1148e15a3d47766848bd5f77e5b60077db88773432676de86cd953aa24056",
-      "size": 5036064,
-      "source": "files/73/d1/73d1148e15a3d47766848bd5f77e5b60077db88773432676de86cd953aa24056"
     },
     {
       "path": "PokemonCardTable_Data/StreamingAssets/Audio/sounds/sfx/casino-audio/License.txt",
@@ -3070,10 +1276,10 @@
       "source": "files/b3/d2/b3d2bbce8088e13d367ab90835e297280cd5ebc4cec74dd5b6bf5dc38aa471fd"
     },
     {
-      "path": "PokemonCardTable_Data/StreamingAssets/Content/catalog.json",
-      "sha256": "70fc7873d88df833aaa6da2187f0833c5e781e463842471a2db32e1c800bfc00",
-      "size": 7987203,
-      "source": "files/70/fc/70fc7873d88df833aaa6da2187f0833c5e781e463842471a2db32e1c800bfc00"
+      "path": "PokemonCardTable_Data/StreamingAssets/Content/catalog.json.gz",
+      "sha256": "fff8b686f968df1b2785464042865a3791973438251b14d769faec9345889a95",
+      "size": 839992,
+      "source": "files/ff/f8/fff8b686f968df1b2785464042865a3791973438251b14d769faec9345889a95"
     },
     {
       "path": "PokemonCardTable_Data/StreamingAssets/Content/coverage-summary.json",
@@ -3119,9 +1325,9 @@
     },
     {
       "path": "PokemonCardTable_Data/StreamingAssets/Content/multiplayer-build.json",
-      "sha256": "9bf44e7cd21fd6546d0fab7de572dcdbad7e17918700a6f55a8bcd390c861011",
+      "sha256": "e1c16682b4a4adfd67043e3bd19302024ff9946a387adbad3605d9bbfc9b0f6b",
       "size": 404,
-      "source": "files/9b/f4/9bf44e7cd21fd6546d0fab7de572dcdbad7e17918700a6f55a8bcd390c861011"
+      "source": "files/e1/c1/e1c16682b4a4adfd67043e3bd19302024ff9946a387adbad3605d9bbfc9b0f6b"
     },
     {
       "path": "PokemonCardTable_Data/StreamingAssets/Content/showdown-manifest.json",
