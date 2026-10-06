@@ -1,0 +1,848 @@
+# Card reference: swsh9tg
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Flareon (swsh9tg-TG01)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Fire
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fire Mane
+
+Cost: Fire, Fire, Colorless
+Damage: 100
+
+
+
+### Ability: Incandescent Awakening
+
+If this Pokémon has a Memory Capsule attached, Grass Pokémon in play (both yours and your opponent's) have no Abilities.
+
+## Vaporeon (swsh9tg-TG02)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Water
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aurora Beam
+
+Cost: Water, Colorless
+Damage: 70
+
+
+
+### Ability: Torrential Awakening
+
+If this Pokémon has a Memory Capsule attached, Fire Pokémon in play (both yours and your opponent's) have no Abilities.
+
+## Octillery (swsh9tg-TG03)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Remoraid
+Types: Water
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Waterfall
+
+Cost: Water, Colorless, Colorless
+Damage: 50
+
+
+
+### Ability: Rapid Strike Search
+
+Once during your turn, you may search your deck for a Rapid Strike card, reveal it, and put it into your hand. Then, shuffle your deck. You can't use more than 1 Rapid Strike Search Ability each turn.
+
+## Jolteon (swsh9tg-TG04)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Lightning
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electric Ball
+
+Cost: Lightning, Colorless, Colorless
+Damage: 90
+
+
+
+### Ability: Thunderous Awakening
+
+If this Pokémon has a Memory Capsule attached, Water Pokémon in play (both yours and your opponent's) have no Abilities.
+
+## Zekrom (swsh9tg-TG05)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Wild Shock
+
+Cost: Lightning, Lightning, Colorless
+Damage: 130
+
+This Pokémon also does 60 damage to itself. Your opponent's Active Pokémon is now Paralyzed.
+
+## Dusknoir (swsh9tg-TG06)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dusclops
+Types: Psychic
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spooky Shot
+
+Cost: Psychic, Colorless, Colorless
+Damage: 120
+
+
+
+### Ability: Spectral Breach
+
+All Special Energy attached to Pokémon (both yours and your opponent's) provide Colorless Energy and have no other effect.
+
+## Dedenne (swsh9tg-TG07)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dede-Flash
+
+Cost: Psychic
+Damage: 20+
+
+If your opponent has exactly 1 Prize card remaining, this attack does 60 more damage, and your opponent's Active Pokémon is now Confused.
+
+## Alcremie (swsh9tg-TG08)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Milcery
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rainbow Flavor
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+This attack does 40 more damage for each type of basic Energy attached to all of your Pokémon.
+
+### Ability: Additional Order
+
+As long as this Pokémon is in the Active Spot, your turn does not end when you use Café Master.
+
+## Ariados (swsh9tg-TG09)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Spinarak
+Types: Darkness
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Darkness, Colorless
+Damage: 30
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Ability: Spider Net
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Evolution Pokémon with their Active Pokémon.
+
+## Houndoom (swsh9tg-TG10)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Houndour
+Types: Darkness
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Darkness Fang
+
+Cost: Darkness, Colorless
+Damage: 50
+
+
+
+### Ability: Single Strike Roar
+
+Once during your turn, you may search your deck for a Single Strike Energy card and attach it to 1 of your Single Strike Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon.
+
+## Eevee (swsh9tg-TG11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vee-Search
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 3 Pokémon V, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Stampede
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Oranguru (swsh9tg-TG12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whap Down
+
+Cost: Colorless, Colorless, Colorless
+Damage: 70
+
+
+
+### Ability: Primate Wisdom
+
+Once during your turn, you may switch a card from your hand with the top card of your deck.
+
+## Boltund V (swsh9tg-TG13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 200
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electrify
+
+Cost: Lightning
+Damage: —
+
+Search your deck for up to 2 Lightning Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck.
+
+### Attack: Bolt Storm
+
+Cost: Lightning, Colorless
+Damage: 10+
+
+This attack does 30 more damage for each Lightning Energy attached to all of your Pokémon.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Sylveon V (swsh9tg-TG14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 200
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magical Shot
+
+Cost: Colorless, Colorless
+Damage: 60
+
+
+
+### Ability: Dream Gift
+
+Once during your turn, you may search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck. If you use this Ability, your turn ends.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Sylveon VMAX (swsh9tg-TG15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sylveon V
+Types: Psychic
+HP: 310
+Retreat: 2
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Precious Touch
+
+Cost: Psychic
+Damage: —
+
+Attach an Energy card from your hand to 1 of your Benched Pokémon. If you do, heal 120 damage from that Pokémon.
+
+### Attack: Max Harmony
+
+Cost: Colorless, Colorless, Colorless
+Damage: 70+
+
+This attack does 30 more damage for each different type of Pokémon on your Bench.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Mimikyu V (swsh9tg-TG16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 160
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Jealous Eyes
+
+Cost: Psychic
+Damage: —
+
+Put 3 damage counters on your opponent's Active Pokémon for each Prize card your opponent has taken.
+
+### Ability: Dummy Doll
+
+When you play this Pokémon from your hand onto your Bench during your turn, you may prevent all damage done to this Mimikyu V by attacks from your opponent's Pokémon until the end of your opponent's next turn.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Mimikyu VMAX (swsh9tg-TG17)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mimikyu V
+Types: Psychic
+HP: 300
+Retreat: 1
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ominous Numbers
+
+Cost: Colorless, Colorless
+Damage: —
+
+Put 4 damage counters on your opponent's Pokémon in any way you like. If you played Acerola's Premonition from your hand during this turn, place 13 damage counters instead.
+
+### Attack: Max Shadow
+
+Cost: Psychic, Psychic
+Damage: 120
+
+Discard a random card from your opponent's hand.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Single Strike Urshifu V (swsh9tg-TG18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Laser Focus
+
+Cost: Fighting
+Damage: —
+
+Search your deck for up to 2 Fighting Energy cards and attach them to this Pokémon. Then, shuffle your deck.
+
+### Attack: Impact Blow
+
+Cost: Fighting, Fighting, Colorless
+Damage: 180
+
+During your next turn, this Pokémon can't use Impact Blow.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Single Strike Urshifu VMAX (swsh9tg-TG19)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Single Strike Urshifu V
+Types: Fighting
+HP: 330
+Retreat: 3
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Beatdown
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+
+
+### Attack: G-Max One Blow
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 270
+
+Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Rapid Strike Urshifu V (swsh9tg-TG20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strafe
+
+Cost: Fighting
+Damage: 30
+
+You may switch this Pokémon with 1 of your Benched Pokémon.
+
+### Attack: Hundred Furious Blows
+
+Cost: Fighting, Fighting, Colorless
+Damage: 150
+
+
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Rapid Strike Urshifu VMAX (swsh9tg-TG21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Rapid Strike Urshifu V
+Types: Fighting
+HP: 330
+Retreat: 2
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gale Thrust
+
+Cost: Fighting
+Damage: 30+
+
+If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.
+
+### Attack: G-Max Rapid Flow
+
+Cost: Fighting, Fighting, Colorless
+Damage: —
+
+Discard all Energy from this Pokémon. This attack does 120 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Umbreon V (swsh9tg-TG22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 200
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mean Look
+
+Cost: Darkness
+Damage: 30
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Attack: Moonlight Blade
+
+Cost: Darkness, Colorless, Colorless
+Damage: 80+
+
+If this Pokémon has any damage counters on it, this attack does 80 more damage.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Umbreon VMAX (swsh9tg-TG23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Umbreon V
+Types: Darkness
+HP: 310
+Retreat: 2
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Max Darkness
+
+Cost: Darkness, Colorless, Colorless
+Damage: 160
+
+
+
+### Ability: Dark Signal
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Acerola's Premonition (swsh9tg-TG24)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Your opponent reveals their hand, and you draw a card for each Trainer card you find there.
+
+You may play only 1 Supporter card during your turn.
+
+## Café Master (swsh9tg-TG25)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Then, shuffle your deck. Your turn ends.
+
+You may play only 1 Supporter card during your turn.
+
+## Gloria (swsh9tg-TG26)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for up to 3 Basic Pokémon that don't have a Rule Box and put them onto your Bench. Then, shuffle your deck. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)
+
+You may play only 1 Supporter card during your turn.
+
+## Rapid Strike Style Mustard (swsh9tg-TG27)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play this card only when it is the last card in your hand.
+
+Put a Rapid Strike Pokémon from your discard pile onto your Bench. If you do, draw 5 cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Single Strike Style Mustard (swsh9tg-TG28)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play this card only when it is the last card in your hand.
+
+Search your deck for a Single Strike Pokémon and put it onto your Bench. Then, shuffle your deck. If you searched your deck in this way, draw 5 cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Single Strike Urshifu VMAX (swsh9tg-TG29)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Single Strike Urshifu V
+Types: Fighting
+HP: 330
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh9tg-TG19
+
+### Attack: Beatdown
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+
+
+### Attack: G-Max One Blow
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 270
+
+Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Rapid Strike Urshifu VMAX (swsh9tg-TG30)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Rapid Strike Urshifu V
+Types: Fighting
+HP: 330
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh9tg-TG21
+
+### Attack: Gale Thrust
+
+Cost: Fighting
+Damage: 30+
+
+If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.
+
+### Attack: G-Max Rapid Flow
+
+Cost: Fighting, Fighting, Colorless
+Damage: —
+
+Discard all Energy from this Pokémon. This attack does 120 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+

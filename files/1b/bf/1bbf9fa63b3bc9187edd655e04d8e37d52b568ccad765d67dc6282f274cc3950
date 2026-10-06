@@ -1,0 +1,3150 @@
+# Card reference: ex11
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Beedrill δ (ex11-1)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kakuna
+Types: Grass, Metal
+HP: 90
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Super Slash
+
+Cost: Grass, Metal, Colorless
+Damage: 50+
+
+If the Defending Pokémon is an Evolved Pokémon, this attack does 50 damage plus 30 more damage.
+
+### Poké-Power: Final Sting
+
+Once during your turn (before your attack), you may Knock Out Beedrill. If you do, choose 1 of your opponent's Defending Pokémon. That Pokémon is now Paralyzed and Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns. This power can't be used if Beedrill is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Grass Metal type.
+
+## Marowak δ (ex11-10)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cubone
+Types: Fighting, Metal
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Bone
+
+Cost: Fighting, Metal
+Damage: —
+
+Choose a number of your opponent's Pokémon up to the amount of Energy attached to Marowak. This attack does 20 damage to each of them.
+
+### Attack: Metal Crusher
+
+Cost: Fighting, Colorless, Colorless
+Damage: 50
+
+If the Defending Pokémon is Metal Pokémon, this attack's base damage is 90.
+
+### Printed rules
+
+This Pokémon is both Fighting Metal type.
+
+## Super Scoop Up (ex11-100)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand.
+
+## Potion (ex11-101)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).
+
+## Switch (ex11-102)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Switch 1 of your Active Pokémon with 1 of your Benched Pokémon.
+
+## Darkness Energy (ex11-103)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)
+
+## Holon Energy FF (ex11-104)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy FF provides Colorless Energy.
+
+If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémon's attack isn't affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.
+
+## Holon Energy GL (ex11-105)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy GL provides Colorless Energy.
+
+If the Pokémon that Holon Energy GL is attached to also has a basic Grass Energy card attached to it, that Pokémon can't be affected by any Special Conditions. If the Pokémon that Holon Energy GL is attached to also has a basic Lightning Energy card attached to it, damage done by your opponent's Pokémon-ex is reduced by 10. Ignore these effects if Holon Energy GL is attached to Pokémon-ex.
+
+## Holon Energy WP (ex11-106)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy WP provides Colorless Energy.
+
+If the Pokémon that Holon Energy WP is attached to also has a basic Water Energy card attached to it, prevent all effects, excluding damage, done to that Pokémon by your opponent's Pokémon. If the Pokémon that Holon Energy WP is attached to also has a basic Psychic Energy card attached to it, that Pokémon's Retreat Cost is 0. Ignore these effects if Holon Energy WP is attached to Pokémon-ex.
+
+## Metal Energy (ex11-107)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)
+
+## Flareon ex (ex11-108)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Fire
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flame Screen
+
+Cost: Fire, Colorless
+Damage: 30
+
+During your opponent's next turn, any damage done to Flareon ex by attacks is reduced by 20 (after applying Weakness and Resistance).
+
+### Attack: Heat Tackle
+
+Cost: Fire, Colorless, Colorless
+Damage: 70
+
+Flareon ex does 10 damage to itself.
+
+### Poké-Power: Evolutionary Flame
+
+Once during your turn, when you play Flareon ex from your hand to evolve 1 of your Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Burned and Confused.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Jolteon ex (ex11-109)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Lightning
+HP: 100
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Second Bite
+
+Cost: Lightning, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+
+### Attack: Thunder Blast
+
+Cost: Lightning, Colorless, Colorless
+Damage: 70
+
+Discard a Lightning Energy card attached to Jolteon ex.
+
+### Poké-Power: Evolutionary Thunder
+
+Once during your turn, when you play Jolteon ex from your hand to evolve 1 of your Pokémon, you may put 1 damage counter on each of your opponent's Pokémon.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Metagross δ (ex11-11)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Metang
+Types: Lightning, Metal
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crush and Burn
+
+Cost: Lightning, Metal
+Damage: 30+
+
+You may discard as many Energy cards as you like attached to your Pokémon in play. If you do, this attack does 30 damage plus 20 more damage for each Energy card you discarded.
+
+### Poké-Power: Delta Control
+
+Once during your turn (before your attack), you may look at the top 4 cards of your deck, choose 1 of them, and put it into your hand. Put the 3 other cards on the bottom of your deck in any order. This power can't be used if Metagross is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Vaporeon ex (ex11-110)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Water
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fastwave
+
+Cost: Water, Colorless
+Damage: 40
+
+This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.
+
+### Attack: Hydrosplash
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Poké-Power: Evolutionary Swirl
+
+Once during your turn, when you play Vaporeon ex from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle his or her hand into his or her deck. Then, your opponent draws up to 4 cards.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Groudon ★ (ex11-111)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Critical Collection
+
+Cost: Fighting
+Damage: 10
+
+Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Fighting Energy cards and attach them to Groudon Star.
+
+### Attack: Ground Slash
+
+Cost: Fighting, Fighting, Fighting, Colorless, Colorless
+Damage: 80
+
+Discard a Fighting Energy card attached to Groudon Star.
+
+### Printed rules
+
+You can't have more than 1 Pokémon Star in your deck.
+
+## Kyogre ★ (ex11-112)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Critical Collection
+
+Cost: Water
+Damage: 10
+
+Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Water Energy cards and attach them to Kyogre Star.
+
+### Attack: Sheer Cold
+
+Cost: Water, Water, Water, Colorless, Colorless
+Damage: 60
+
+Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn.
+
+### Printed rules
+
+You can't have more than 1 Pokémon Star in your deck.
+
+## Metagross ★ (ex11-113)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Critical Collection
+
+Cost: Metal
+Damage: 10
+
+Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Metal Energy cards and attach them to Metagross Star.
+
+### Attack: Hyper Beam
+
+Cost: Metal, Metal, Metal, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.
+
+### Printed rules
+
+You can't have more than 1 Pokémon Star in your deck.
+
+## Azumarill (ex11-114)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Marill
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bubblebeam
+
+Cost: Water, Water, Colorless
+Damage: 40
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Poké-Body: Thick Fat
+
+Any damage done to Azumarill by attacks from Fire Pokémon and Water Pokémon is reduced by 30 (after applying Weakness and Resistance).
+
+## Mewtwo δ (ex11-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Burst
+
+Cost: Fire, Metal
+Damage: 10×
+
+Does 10 damage times the total amount of Energy attached to Mewtwo and the Defending Pokémon.
+
+### Poké-Power: Delta Switch
+
+Once during your turn, when you put Mewtwo from your hand onto your Bench, you may move any number of basic Energy cards attached to your Pokémon to your other Pokémon (excluding Mewtwo) in any way you like.
+
+### Printed rules
+
+This Pokémon is both Fire Metal type.
+
+## Rayquaza δ (ex11-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning, Metal
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Blow
+
+Cost: Lightning
+Damage: 10×
+
+Does 10 damage times the amount of Energy attached to Rayquaza.
+
+### Attack: Lightning Storm
+
+Cost: Lightning, Metal, Colorless, Colorless
+Damage: 70
+
+Put 7 damage counters on Rayquaza.
+
+### Poké-Body: Delta Guard
+
+As long as Rayquaza has any Holon Energy cards attached to it, ignore the effect of Rayquaza's Lightning Storm attack.
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Salamence δ (ex11-14)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Fire, Metal
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fire Dance
+
+Cost: Fire, Colorless
+Damage: 30
+
+Search your discard pile for a Fire Energy card and attach it to 1 of your Pokémon.
+
+### Attack: Delta Blast
+
+Cost: Fire, Metal, Colorless, Colorless
+Damage: 100
+
+Discard a Metal Energy card attached to Salamence.
+
+### Printed rules
+
+This Pokémon is both Fire Metal type.
+
+## Starmie δ (ex11-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Staryu
+Types: Water, Metal
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Water
+Damage: —
+
+Draw 3 cards.
+
+### Attack: Energy Loop
+
+Cost: Metal
+Damage: 30
+
+Return an Energy card attached to Starmie to your hand.
+
+### Poké-Power: Metal Navigation
+
+Once during your turn (before your attack), you may search your deck for a Metal Energy card and attach it to Starmie. Shuffle your deck afterward. This power can't be used if Starmie is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Water Metal type.
+
+## Tyranitar δ (ex11-16)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Fire, Metal
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Crush
+
+Cost: Fire, Metal, Colorless
+Damage: 50+
+
+You may discard an Energy card attached to Tyranitar. If you do, this attack does 50 damage plus 20 more damage.
+
+### Poké-Power: Crush Draw
+
+Once during your turn (before your attack), you may reveal the top card of your deck. If that card is a basic Energy card, attach it to 1 of your Pokémon. If not, put the card back on top of your deck. This power can't be used if Tyranitar is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Fire Metal type.
+
+## Umbreon δ (ex11-17)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Darkness, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Feint Attack
+
+Cost: Darkness, Metal
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.
+
+### Poké-Body: Delta Moon
+
+When your opponent attaches a Special Energy card from his or her hand to 1 of his or her Pokémon, put 1 damage counter on that Pokémon. You can't use more than 1 Delta Moon Poké-Body each turn.
+
+### Printed rules
+
+This Pokémon is both Darkness Metal type.
+
+## Vaporeon δ (ex11-18)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Water, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Search
+
+Cost: Colorless
+Damage: 10
+
+Search your deck for a Holon Energy card and attach it to Vaporeon. Shuffle your deck afterward.
+
+### Attack: Return Wave
+
+Cost: Water, Metal, Colorless
+Damage: 50
+
+You may return an Energy card attached to Vaporeon to your hand. If you do, choose an Energy card attached to the Defending Pokémon and return it to your opponent's hand.
+
+### Printed rules
+
+This Pokémon is both Water Metal type.
+
+## Azumarill δ (ex11-19)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Marill
+Types: Water, Metal
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bubblebeam
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Rolling Tackle
+
+Cost: Water, Colorless, Colorless
+Damage: 50
+
+
+
+### Printed rules
+
+This Pokémon is both Water Metal type.
+
+## Crobat δ (ex11-2)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Golbat
+Types: Grass, Metal
+HP: 90
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Radar Jam
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn.
+
+### Attack: Target Attack
+
+Cost: Grass, Metal, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. If that Pokémon already has damage counters on it, this attack does 60 damage instead. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+This Pokémon is both Grass Metal type.
+
+## Azurill (ex11-20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Type Match
+
+Cost: Colorless
+Damage: —
+
+Choose a basic Energy card in your hand and show it to your opponent. Then, search your deck for a Basic Pokémon or Evolution card of that Energy type, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts as evolving Azurill) and remove all damage counters from Azurill.
+
+## Holon's Electrode (ex11-21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Holon's Voltorb
+Types: Lightning
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dazzle Blast
+
+Cost: Lightning, Colorless
+Damage: 30
+
+The Defending Pokémon is now Confused.
+
+### Printed rules
+
+You may attach this as an Energy card from your hand to 1 of your Pokémon that already has an Energy card attached to it. When you attach this card, return an Energy card attached to that Pokémon to your hand. While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time. (Has no effect other than providing Energy.)
+
+## Holon's Magneton (ex11-22)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Holon's Magnemite
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Extra Ball
+
+Cost: Metal, Colorless
+Damage: 30+
+
+If the Defending Pokémon is Pokémon-ex, this attack does 30 damage plus 20 more damage.
+
+### Printed rules
+
+You may attach this as an Energy card from your hand to 1 of your Pokémon that already has an Energy card attached to it. When you attach this card, return an Energy card attached to that Pokémon to your hand. While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time. (Has no effect other than providing Energy.)
+
+## Hypno (ex11-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drowzee
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleep Inducer
+
+Cost: Colorless
+Damage: —
+
+Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. The new Defending Pokémon is now Asleep.
+
+### Attack: Psyshot
+
+Cost: Psychic, Colorless
+Damage: 40
+
+
+
+### Poké-Body: Binding Aura
+
+Your opponent can't play any Basic Pokémon or Evolution cards from his or her hand to evolve an Active Pokémon and can't attach any Energy cards from his or her hand to an Asleep Pokémon.
+
+## Mightyena δ (ex11-24)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Poochyena
+Types: Darkness, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Fang
+
+Cost: Darkness, Colorless
+Damage: 20
+
+If the Defending Pokémon is Pokémon-ex, that Pokémon can't attack during your opponent's next turn.
+
+### Attack: Gang Up
+
+Cost: Metal, Colorless
+Damage: 10×
+
+Does 10 damage times the number of Darkness Pokémon and Metal Pokémon you have in play.
+
+### Printed rules
+
+This Pokémon is both Darkness Metal type.
+
+## Porygon2 (ex11-25)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Porygon
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Machine Burst
+
+Cost: Colorless, Colorless
+Damage: 30
+
+If Porygon2 has a Technical Machine card attached to it, the Defending Pokémon is now Asleep and Burned.
+
+### Poké-Power: Backup
+
+Once during your turn (before your attack), if you have less than 6 cards in your hand, you may draw cards until you have 6 cards in your hand. This power can't be used if Porygon2 is affected by a Special Condition.
+
+## Rain Castform (ex11-26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Holon Splash
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30+
+
+Does 30 damage plus 10 more damage for each Holon Energy card attached to Rain Castform.
+
+### Poké-Power: Temperamental Weather
+
+Once during your turn (before your attack), you may search your deck for Castform, Sunny Castform, or Snow-cloud Castform and switch it with Rain Castform. (Any cards attached to Rain Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Rain Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.
+
+## Sandslash δ (ex11-27)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sandshrew
+Types: Fighting, Metal
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rend
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+If the Defending Pokémon already has any damage counters on it, this attack does 20 damage plus 20 more damage.
+
+### Attack: Slash
+
+Cost: Metal, Colorless, Colorless
+Damage: 50
+
+
+
+### Poké-Body: Delta Storm
+
+As long as Sandslash is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon-ex between turns.
+
+### Printed rules
+
+This Pokémon is both Fighting Metal type.
+
+## Slowking (ex11-28)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Slowpoke
+Types: Water
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psychic Option
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+If Slowking has a Water Energy card attached to it, this attack does 20 damage plus 20 more damage. If Slowking has a Psychic Energy card attached to it, discard a Special Energy card attached to the Defending Pokémon, if any.
+
+### Poké-Power: Prize Shift
+
+Once during your turn (before your attack), you may choose a card from your hand and put it as a Prize card face up. If you do, choose 1 of your face-down Prize cards without looking and put it into your hand. This power can't be used if Slowking is affected by a Special Condition or if all of your Prize cards are face up.
+
+## Snow-cloud Castform (ex11-29)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Holon Blizzard
+
+Cost: Water, Colorless
+Damage: 20
+
+If Snow-cloud Castform has any Holon Energy cards attached to it, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Power: Temperamental Weather
+
+Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Sunny Castform and switch it with Snow-cloud Castform. (Any cards attached to Snow-cloud Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Snow-cloud Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.
+
+## Dragonite δ (ex11-3)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dragonair
+Types: Lightning, Metal
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Agility
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Dragonite during your opponent's next turn.
+
+### Attack: Heavy Impact
+
+Cost: Lightning, Metal, Colorless, Colorless
+Damage: 70
+
+
+
+### Poké-Power: Delta Charge
+
+Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Dragonite is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Starmie δ (ex11-30)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Staryu
+Types: Water, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Surf
+
+Cost: Water
+Damage: 20
+
+
+
+### Attack: Swift
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50
+
+This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.
+
+### Printed rules
+
+This Pokémon is both Water Metal type.
+
+## Sunny Castform (ex11-31)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Holon Search
+
+Cost: Colorless, Colorless
+Damage: —
+
+Search your deck for a Holon Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.
+
+### Poké-Power: Temperamental Weather
+
+Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Snow-cloud Castform and switch it with Sunny Castform. (Any cards attached to Sunny Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Sunny Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.
+
+## Swellow (ex11-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Taillow
+Types: Colorless
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Steep Dive
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn. If tails, during your next turn, Swellow's Glide attack's base damage is 100.
+
+### Attack: Glide
+
+Cost: Colorless, Colorless, Colorless
+Damage: 40
+
+
+
+## Weezing (ex11-33)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Koffing
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mist Attack
+
+Cost: Grass
+Damage: —
+
+Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Sludge Whirlpool
+
+Cost: Grass, Colorless, Colorless
+Damage: 50
+
+
+
+### Poké-Body: Body Odor
+
+As long as Weezing is the Active Pokémon, put 1 damage counter on each of your opponent's Pokémon that has any Poké-Bodies between turns.
+
+## Castform (ex11-34)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Holon Draw
+
+Cost: Colorless
+Damage: —
+
+Draw a card. If Castform has any Holon Energy cards attached to it, draw 2 more cards.
+
+### Poké-Power: Temperamental Weather
+
+Once during your turn (before your attack), you may search your deck for Sunny Castform, Rain Castform, or Snow-cloud Castform and switch it with Castform. (Any cards attached to Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.
+
+## Ditto (ex11-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Link
+
+Cost: Colorless
+Damage: 10
+
+Search your discard pile for an Energy card and attach it to Ditto.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-36)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Toxic
+
+Cost: Grass, Colorless
+Damage: —
+
+The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-37)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rage
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each damage counter on Ditto.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Copy
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Ditto doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Ditto performs that attack.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunderbolt
+
+Cost: Lightning, Colorless
+Damage: 40
+
+Discard all Energy cards attached to Ditto.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Espeon δ (ex11-4)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Psychic, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyshock
+
+Cost: Psychic, Metal
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Poké-Power: Delta Heal
+
+Once during your turn (before your attack), you may remove 1 damage counter from each of your Pokémon that has δ on its card. You can't use more than 1 Delta Heal Poké-Power each turn. This power can't be used if Espeon is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Psychic Metal type.
+
+## Ditto (ex11-40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smash Turn
+
+Cost: Water, Colorless
+Damage: 20
+
+After your attack, you may switch Ditto with 1 of your Benched Pokémon.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Dragonair δ (ex11-41)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dratini
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+Flip 2 coin. This attack does 20 damage times the number of heads.
+
+### Attack: Dragon Rage
+
+Cost: Lightning, Colorless, Colorless
+Damage: 40
+
+
+
+## Dragonair δ (ex11-42)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dratini
+Types: Lightning
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Twister
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon.
+
+## Golbat (ex11-43)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zubat
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Super Poison Breath
+
+Cost: Grass
+Damage: —
+
+Each Defending Pokémon is now Poisoned.
+
+### Attack: Sonic Signal
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose 2 of your opponent's Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Hariyama (ex11-44)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Makuhita
+Types: Fighting
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slap Push
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Brick Smash
+
+Cost: Fighting, Fighting, Colorless
+Damage: 50
+
+This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.
+
+### Poké-Body: Reversal Aura
+
+As long as you have more Prize cards left than your opponent, each of Hariyama's attacks does 20 more damage to the Active Pokémon (before applying Weakness and Resistance) and damage done by the Active Pokémon to Hariyama is reduced by 20 (after applying Weakness and Resistance).
+
+## Illumise (ex11-45)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.
+
+### Attack: Strange Rasping
+
+Cost: Grass, Colorless
+Damage: 20
+
+If the Defending Pokémon is an Evolved Pokémon, the Defending Pokémon is now Confused.
+
+### Poké-Body: Beacon Protection
+
+As long as you have Volbeat in play, prevent all effects, including damage, done to Illumise by attacks from your opponent's Pokémon that has Dark in its name.
+
+## Kakuna (ex11-46)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Weedle
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fast Evolution
+
+Cost: Grass
+Damage: —
+
+Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Rollout
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+
+
+## Kirlia (ex11-47)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ralts
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Calm Mind
+
+Cost: Colorless
+Damage: —
+
+Remove 3 damage counters from Kirlia.
+
+### Attack: Psychic Boom
+
+Cost: Psychic, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon.
+
+## Magneton (ex11-48)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magnemite
+Types: Lightning
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Supersonic
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Speed Ball
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+
+
+## Metang δ (ex11-49)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Beldum
+Types: Lightning
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharp Claws
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+
+### Attack: Magnetic Blast
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+
+
+## Flareon δ (ex11-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Fire, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Search
+
+Cost: Colorless
+Damage: 10
+
+Search your deck for a Holon Energy card and attach it to Flareon. Shuffle your deck afterward.
+
+### Attack: Return Burn
+
+Cost: Fire, Metal, Colorless
+Damage: 50
+
+You may return an Energy card attached to Flareon to your hand. If you do, the Defending Pokémon is now Burned.
+
+### Printed rules
+
+This Pokémon is both Fire Metal type.
+
+## Persian (ex11-50)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Meowth
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Snap Tail
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Power: Prowl
+
+Once during your turn, when you play Persian from your hand to evolve 1 of your Pokémon, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.
+
+## Pupitar δ (ex11-51)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Fire
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Paralyzing Gaze
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Double-edge
+
+Cost: Fire, Colorless, Colorless
+Damage: 40
+
+Pupitar does 10 damage to itself.
+
+## Rapidash (ex11-52)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ponyta
+Types: Fire
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Super Singe
+
+Cost: Fire
+Damage: —
+
+The Defending Pokémon is now Burned.
+
+### Attack: Stomp
+
+Cost: Fire, Colorless
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 damage plus 10 more damage.
+
+## Shelgon δ (ex11-53)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bagon
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tight Jaw
+
+Cost: Fire
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Combustion
+
+Cost: Fire, Colorless, Colorless
+Damage: 40
+
+
+
+## Shelgon δ (ex11-54)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bagon
+Types: Fire
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heat Blast
+
+Cost: Fire, Colorless
+Damage: 30
+
+
+
+### Poké-Body: Exoskeleton
+
+Any damage done to Shelgon by attacks is reduced by 10 (after applying Weakness and Resistance).
+
+## Skarmory (ex11-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cry for Help
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Metal Pokémon (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Steel Wing
+
+Cost: Metal, Colorless
+Damage: 20
+
+During your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 (after applying Weakness and Resistance).
+
+### Poké-Body: Shining Horn
+
+As long as Skarmory is the only Pokémon you have in play, your opponent's Basic Pokémon can't attack.
+
+## Volbeat (ex11-56)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swift
+
+Cost: Grass, Colorless
+Damage: 30
+
+This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.
+
+### Poké-Body: Extra Protection
+
+As long as you have Illumise in play, prevent all effects, including damage, done to Volbeat by attacks from your opponent's Pokémon-ex.
+
+## Bagon δ (ex11-57)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Bagon δ (ex11-58)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ember
+
+Cost: Fire, Colorless
+Damage: 30
+
+Discard a Fire Energy card attached to Bagon.
+
+## Beldum δ (ex11-59)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Take Down
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Beldum does 10 damage to itself.
+
+### Poké-Body: Conductive Body
+
+As long as Beldum is your Active Pokémon, you pay Colorless less to retreat Beldum for each Beldum on your Bench.
+
+## Gardevoir δ (ex11-6)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kirlia
+Types: Psychic, Metal
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psychic Rage
+
+Cost: Metal, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage for each damage counter on Gardevoir to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Black Magic
+
+Cost: Psychic, Colorless, Colorless
+Damage: 10+
+
+Does 10 damage plus 20 more damage times the number of your opponent's Benched Pokémon.
+
+### Poké-Power: Energy Jump
+
+Once during your turn (before your attack), you may move an Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Gardevoir is affected by a Special Condition.
+
+### Printed rules
+
+This Pokémon is both Psychic Metal type.
+
+## Cubone (ex11-60)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Beat
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Rage
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each damage counter on Cubone.
+
+## Ditto (ex11-61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fireworks
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If tails, discard a Fire Energy card attached to Ditto.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-62)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linear Attack
+
+Cost: Fighting, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-63)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thundershock
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Ditto (ex11-64)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Drain
+
+Cost: Water, Colorless
+Damage: 20
+
+Remove 3 damage counters from Ditto (all if there are less than 3).
+
+### Poké-Power: Duplicate
+
+Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.
+
+## Dratini δ (ex11-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hook
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Thunder Jolt
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If tails, Dratini does 10 damage to itself.
+
+## Dratini δ (ex11-66)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Wave
+
+Cost: Lightning
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Drowzee (ex11-67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Disable
+
+Cost: Psychic
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Eevee δ (ex11-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Scoop
+
+Cost: Colorless
+Damage: 10
+
+Search your discard pile for a Metal Energy card and attach it to Eevee.
+
+## Eevee (ex11-69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.
+
+### Attack: Rear Kick
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Jolteon δ (ex11-7)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Lightning, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Search
+
+Cost: Colorless
+Damage: 10
+
+Search your deck for a Holon Energy card and attach it to Jolteon. Shuffle your deck afterward.
+
+### Attack: Return Spark
+
+Cost: Lightning, Metal, Colorless
+Damage: 50
+
+You may return an Energy card attached to Jolteon to your hand. If you do, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Holon's Magnemite (ex11-70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linear Attack
+
+Cost: Metal
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+You may attach this as an Energy card from your hand to 1 of your Pokémon. While attached, this card is a Special Energy card and provides Colorless Energy.
+
+## Holon's Voltorb (ex11-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thundershock
+
+Cost: Lightning
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Printed rules
+
+You may attach this as an Energy card from your hand to 1 of your Pokémon. While attached, this card is a Special Energy card and provides Colorless Energy.
+
+## Koffing (ex11-72)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Confusion Gas
+
+Cost: Grass
+Damage: —
+
+The Defending Pokémon is now Confused.
+
+### Attack: Ram
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Larvitar δ (ex11-73)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Rising Lunge
+
+Cost: Fire, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+
+## Magnemite (ex11-74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Magnetic Blast
+
+Cost: Lightning
+Damage: 10
+
+
+
+## Makuhita (ex11-75)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sand Attack
+
+Cost: Colorless
+Damage: 10
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+## Marill (ex11-76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rollout
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Jump On
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage.
+
+## Meowth (ex11-77)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pickup Power
+
+Cost: Colorless
+Damage: —
+
+Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Ponyta (ex11-78)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flare
+
+Cost: Fire
+Damage: 10
+
+
+
+## Poochyena (ex11-79)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Roar
+
+Cost: Colorless
+Damage: —
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.
+
+### Attack: Ambush
+
+Cost: Darkness, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage.
+
+## Latias δ (ex11-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning, Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Drain
+
+Cost: Metal, Colorless
+Damage: 20
+
+Remove 2 damage counters fro Latias.
+
+### Attack: Extra Crush
+
+Cost: Lightning, Metal, Colorless, Colorless, Colorless
+Damage: 80
+
+If your opponent has no Pokémon-ex in play, this attack does nothing.
+
+### Poké-Body: Delta Aura
+
+If you have Latios or Latios ex in play, the attack cost of Latias's Extra Crush is now Lightning MetalColorless.
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Porygon (ex11-80)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharpen
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+## Ralts (ex11-81)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Quick Blow
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage.
+
+## Sandshrew (ex11-82)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dig Under
+
+Cost: Fighting
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance.
+
+### Attack: Scratch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Slowpoke (ex11-83)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Yawn
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Tackle
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Staryu (ex11-84)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Spinning Attack
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Staryu (ex11-85)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Surprise Attack
+
+Cost: Colorless
+Damage: 20
+
+Flip a coin. If tails, this attack does nothing.
+
+### Attack: Recover
+
+Cost: Water
+Damage: —
+
+Discard a Water Energy card attached to Staryu and remove 4 damage counters from Staryu (all if there are less than 4).
+
+## Taillow (ex11-86)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Skill Dive
+
+Cost: Colorless
+Damage: —
+
+Does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Weedle (ex11-87)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: String Shot
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Zubat (ex11-88)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Fang
+
+Cost: Grass
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+## Dual Ball (ex11-89)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip 2 coins. For each heads, search your deck for a Basic Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Latios δ (ex11-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning, Metal
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Claw
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Psychic Force
+
+Cost: Lightning, Metal, Colorless, Colorless, Colorless
+Damage: 80
+
+If your opponent has no Stage 2 Evolved Pokémon in play, this attack does nothing.
+
+### Poké-Body: Delta Aura
+
+If you have Latias or Latias ex in play, the attack cost of Latios's Psychic Force is now Lightning MetalColorless.
+
+### Printed rules
+
+This Pokémon is both Lightning Metal type.
+
+## Great Ball (ex11-90)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a Basic Pokémon (excluding Pokémon-ex) and put it onto your Bench. Shuffle your deck afterward.
+
+## Holon Farmer (ex11-91)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+Search your discard pile for 3 basic Energy cards and any combination of 3 Basic Pokémon or Evolution cards, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward.
+
+## Holon Lass (ex11-92)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+Count the total number of Prize cards left (both yours and your opponent's). Look at that many cards from the top of your deck, choose as many Energy cards as you like, show them to your opponent, and put them into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.
+
+## Holon Mentor (ex11-93)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+Search your deck for up to 3 Basic Pokémon that each has 100 HP or less, show them to your opponent, and put them into your hand. Shuffle your deck afterward.
+
+## Holon Research Tower (ex11-94)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+Each player's basic Energy cards attached to Pokémon that has δ on its card are both their usual Energy type and Metal type but provide only 1 Energy at a time. (Has no effect other than providing Energy.)
+
+## Holon Researcher (ex11-95)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+Search your deck for a Metal Energy card or a Basic Pokémon (or Evolution card) that has δ on its card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Holon Ruins (ex11-96)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+Each player that has any Pokémon in play that has δ on its card may draw a card once during his or her turn. If the player does, he or she discards a card from his or her hand.
+
+## Holon Scientist (ex11-97)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+If you have less cards in your hand than your opponent, draw cards until you have the same number of cards as your opponent.
+
+## Holon Transceiver (ex11-98)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. Or, search your discard pile for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand.
+
+## Master Ball (ex11-99)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Look at the top 7 cards from your deck. Choose a Basic Pokémon or Evolution card from those cards, show it to your opponent, and put it into your hand. Put the other 6 cards back on top of your deck. Shuffle your deck afterward.
+

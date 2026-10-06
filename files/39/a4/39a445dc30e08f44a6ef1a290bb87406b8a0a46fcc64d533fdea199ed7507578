@@ -1,0 +1,150 @@
+# Card reference: fut20
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Pikachu on the Ball (fut20-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tail Whap
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Lightning Shot
+
+Cost: Lightning, Lightning, Colorless
+Damage: 120
+
+Flip a coin. If tails, this attack does nothing.
+
+## Eevee on the Ball (fut20-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Make the Assist
+
+Cost: Colorless
+Damage: —
+
+Attach a basic Energy card from your hand to 1 of your Benched Pokémon.
+
+### Attack: Tackle
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Grookey on the Ball (fut20-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tenacious Defense
+
+Cost: Grass
+Damage: —
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Attack: Razor Leaf
+
+Cost: Grass, Grass, Colorless
+Damage: 50
+
+
+
+## Scorbunny on the Ball (fut20-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fiery Dribbling
+
+Cost: Fire
+Damage: 20×
+
+Flip a coin until you get tails. This attack does 20 damage for each heads.
+
+### Attack: Reckless Charge
+
+Cost: Fire, Colorless
+Damage: 30
+
+This Pokémon also does 10 damage to itself.
+
+## Sobble on the Ball (fut20-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spectacular Save
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon.
+
+### Attack: Rain Splash
+
+Cost: Water, Colorless
+Damage: 20
+
+
+

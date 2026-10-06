@@ -1,0 +1,685 @@
+# Card reference: cel25
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Ho-Oh (cel25-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sacred Fire
+
+Cost: Fire, Colorless
+Damage: —
+
+This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Fire Blast
+
+Cost: Fire, Fire, Colorless
+Damage: 120
+
+Discard an Energy from this Pokémon.
+
+## Zekrom (cel25-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Field Crush
+
+Cost: Colorless, Colorless
+Damage: 30
+
+If your opponent has a Stadium in play, discard it.
+
+### Attack: White Thunder
+
+Cost: Lightning, Lightning, Colorless
+Damage: 80+
+
+If Reshiram is on your Bench, this attack does 80 more damage.
+
+## Mew (cel25-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh12pt5gg-GG10
+
+### Attack: Psyshot
+
+Cost: Psychic, Colorless
+Damage: 30
+
+
+
+### Ability: Mysterious Tail
+
+Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.
+
+## Xerneas (cel25-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Breath of Life
+
+Cost: Colorless, Colorless
+Damage: —
+
+Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck.
+
+### Attack: Aurora Horns
+
+Cost: Psychic, Colorless, Colorless
+Damage: 100
+
+
+
+## Cosmog (cel25-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Star Protection
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+
+## Cosmoem (cel25-14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cosmog
+Types: Psychic
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Star Protection
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+
+## Lunala (cel25-15)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Cosmoem
+Types: Psychic
+HP: 160
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lunar Pain
+
+Cost: Colorless, Colorless
+Damage: —
+
+Double the number of damage counters on each of your opponent's Pokémon.
+
+### Attack: Psychic Shot
+
+Cost: Psychic, Colorless, Colorless
+Damage: 130
+
+This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Zacian V (cel25-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 220
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh12pt5gg-GG48
+
+### Attack: Storm Slash
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60+
+
+This attack does 30 more damage for each Psychic Energy attached to this Pokémon.
+
+### Ability: Roar of the Sword
+
+Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Groudon (cel25-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magma Volcano
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80×
+
+Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.
+
+### Attack: Massive Rend
+
+Cost: Fighting, Fighting, Colorless, Colorless
+Damage: 120
+
+
+
+## Zamazenta V (cel25-18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heavy Impact
+
+Cost: Fighting, Fighting, Colorless
+Damage: 150
+
+
+
+### Ability: Growl of the Shield
+
+All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Yveltal (cel25-19)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cry of Destruction
+
+Cost: Colorless, Colorless
+Damage: —
+
+Discard up to 3 Special Energy from your opponent's Pokémon.
+
+### Attack: Dark Feather
+
+Cost: Darkness, Colorless, Colorless
+Damage: 100
+
+
+
+## Reshiram (cel25-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scorching Wind
+
+Cost: Colorless, Colorless
+Damage: —
+
+This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Black Flame
+
+Cost: Fire, Fire, Colorless
+Damage: 80+
+
+If Zekrom is on your Bench, this attack does 80 more damage.
+
+## Dialga (cel25-20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Temporal Backflow
+
+Cost: Metal
+Damage: —
+
+Put a card from your discard pile into your hand.
+
+### Attack: Metal Blast
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60+
+
+This attack does 20 more damage for each Metal Energy attached to this Pokémon.
+
+## Solgaleo (cel25-21)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Cosmoem
+Types: Metal
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Solar Geyser
+
+Cost: Colorless, Colorless
+Damage: 100
+
+Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.
+
+### Ability: Rush In
+
+Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.
+
+## Lugia (cel25-22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aero Ball
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+This attack does 20 damage for each Energy attached to both Active Pokémon.
+
+### Attack: Deep Crush
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 160
+
+During your next turn, this Pokémon can't attack.
+
+## Professor's Research (Professor Oak) (cel25-23)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Discard your hand and draw 7 cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Professor's Research (Professor Oak) (cel25-24)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: cel25-23
+
+### Printed rules
+
+Discard your hand and draw 7 cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Mew (cel25-25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh12pt5gg-GG10
+
+### Attack: Psyshot
+
+Cost: Psychic, Colorless
+Damage: 30
+
+
+
+### Ability: Mysterious Tail
+
+Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.
+
+## Kyogre (cel25-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Storm
+
+Cost: Water, Water, Colorless
+Damage: —
+
+Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Surf
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 120
+
+
+
+## Palkia (cel25-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Overdrive Smash
+
+Cost: Water, Colorless, Colorless
+Damage: 80+
+
+During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).
+
+### Ability: Absolute Space
+
+As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.
+
+## Pikachu (cel25-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gnaw
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Thunder Jolt
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If tails, this Pokémon also does 10 damage to itself.
+
+## Flying Pikachu V (cel25-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 190
+Retreat: 0
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Shock
+
+Cost: Lightning
+Damage: 20
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Fly
+
+Cost: Colorless, Colorless, Colorless
+Damage: 120
+
+Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Flying Pikachu VMAX (cel25-7)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Flying Pikachu V
+Types: Lightning
+HP: 310
+Retreat: 0
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Max Balloon
+
+Cost: Lightning, Colorless, Colorless
+Damage: 160
+
+During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Surfing Pikachu V (cel25-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 200
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Surf
+
+Cost: Water, Water, Water
+Damage: 150
+
+
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Surfing Pikachu VMAX (cel25-9)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Surfing Pikachu V
+Types: Lightning
+HP: 310
+Retreat: 1
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Max Surfer
+
+Cost: Water, Water, Water
+Damage: 160
+
+This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+

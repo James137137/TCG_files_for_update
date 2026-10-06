@@ -1,0 +1,6144 @@
+# Card reference: xyp
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Chespin (xyp-XY01)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vine Whip
+
+Cost: Grass
+Damage: 10
+
+
+
+### Attack: Seed Bomb
+
+Cost: Grass, Colorless
+Damage: 20
+
+
+
+## Fennekin (xyp-XY02)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Fire
+Damage: 10
+
+
+
+### Attack: Live Coal
+
+Cost: Fire, Colorless
+Damage: 20
+
+
+
+## Froakie (xyp-XY03)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pound
+
+Cost: Water
+Damage: 10
+
+
+
+### Attack: Water Drip
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Sylveon (xyp-XY04)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Fairy
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Disarming Voice
+
+Cost: Fairy
+Damage: 20
+
+Your opponent's Active Pokémon is now Confused.
+
+### Attack: Fairy Wind
+
+Cost: Fairy, Colorless, Colorless
+Damage: 60
+
+
+
+## Xerneas (xyp-XY05)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Geomancy
+
+Cost: Fairy
+Damage: —
+
+Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a Fairy Energy card and attach it to that Pokémon. Shuffle your deck afterward.
+
+### Attack: Rainbow Spear
+
+Cost: Fairy, Fairy, Colorless
+Damage: 100
+
+Discard an Energy attached to this Pokémon.
+
+## Yveltal (xyp-XY06)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Oblivion Wing
+
+Cost: Darkness
+Damage: 30
+
+Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon.
+
+### Attack: Darkness Blade
+
+Cost: Darkness, Darkness, Colorless
+Damage: 100
+
+Flip a coin. If tails, this Pokémon can't attack during your next turn.
+
+## Xerneas-EX (xyp-XY07)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Break Through
+
+Cost: Fairy, Colorless, Colorless
+Damage: 60
+
+This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: X Blast
+
+Cost: Fairy, Fairy, Colorless, Colorless
+Damage: 140
+
+This Pokémon can't use X Blast during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Yveltal-EX (xyp-XY08)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Evil Ball
+
+Cost: Darkness, Colorless
+Damage: 20+
+
+This attack does 20 more damage times the amount of Energy attached to both Active Pokémon.
+
+### Attack: Y Cyclone
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Garchomp-EX (xyp-XY09)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dual Chop
+
+Cost: Fighting, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: Power Blast
+
+Cost: Water, Fighting, Colorless
+Damage: 120
+
+Discard an Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Dragalge (xyp-XY10)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Skrelp
+Types: Dragon
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Breath
+
+Cost: Water, Psychic, Colorless
+Damage: 60
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.
+
+### Ability: Poison Barrier
+
+Your opponent's Poisoned Pokémon can't retreat.
+
+## Mewtwo (xyp-XY100)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psy Bolt
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Zen Blade
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 100
+
+This Pokémon can't use Zen Blade during your next turn.
+
+## Mewtwo (xyp-XY101)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psy Bolt
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Zen Blade
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 100
+
+This Pokémon can't use Zen Blade during your next turn.
+
+## Aurorus-EX (xyp-XY102)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crystal Breath
+
+Cost: Water, Water, Water, Colorless
+Damage: 160
+
+This Pokémon can't attack during your next turn.
+
+### Ability: Frozen Charm
+
+Each of your Pokémon that has any Water Energy attached to it can't be Paralyzed. (If any of those Pokémon are Paralyzed, remove that Special Condition.)
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Mawile-EX (xyp-XY103)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smack
+
+Cost: Fairy
+Damage: 20
+
+
+
+### Attack: Wonder Bomb
+
+Cost: Fairy, Fairy, Fairy
+Damage: 100
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Mawile-EX (xyp-XY104)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Mawile-EX
+Types: Fairy
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Twin Grapple
+
+Cost: Fairy, Fairy, Fairy
+Damage: 130
+
+Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Mawile Spirit Link (xyp-XY105)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Mawile-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gyarados-EX (xyp-XY106)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stormy Seas
+
+Cost: Colorless
+Damage: —
+
+Flips a coin until you get tails. For each heads, search your deck for a Water Energy card and attach it to this Pokémon. Shuffle your deck afterward.
+
+### Attack: Splash Burn
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 130
+
+This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Mewtwo-EX (xyp-XY107)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shatter Shot
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage times the amount of Psychic Energy attached to this Pokémon.
+
+### Attack: Damage Change
+
+Cost: Psychic, Psychic, Colorless
+Damage: —
+
+Switch all damage counters on this Pokémon with those on your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Machamp-EX (xyp-XY108)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Steaming Mad
+
+Cost: Fighting, Colorless
+Damage: 20×
+
+
+
+### Attack: Crazy Hammer
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80+
+
+If this Pokémon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Gyarados (xyp-XY109)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magikarp
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Berserker Splash
+
+Cost: Water, Colorless, Colorless
+Damage: 80
+
+This attack does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Aqua Tail
+
+Cost: Water, Colorless, Colorless, Colorless
+Damage: 90+
+
+Flip a coin for each Water Energy attached to this Pokémon. This attack does 30 more damage for each heads.
+
+## Skiddo (xyp-XY11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Take Down
+
+Cost: Grass, Grass
+Damage: 30
+
+This Pokémon does 10 damage to itself.
+
+## Mew (xyp-XY110)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Clairvoyance
+
+Cost: Colorless
+Damage: —
+
+Your opponent reveals his or her hand.
+
+### Attack: Psychic
+
+Cost: Psychic, Colorless, Colorless
+Damage: 40+
+
+This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.
+
+## Celebi (xyp-XY111)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Time Call
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.
+
+### Attack: Leech Seed
+
+Cost: Grass
+Damage: 10
+
+Heal 10 damage from this Pokémon.
+
+## Jirachi (xyp-XY112)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Precognitive Dream
+
+Cost: Metal
+Damage: —
+
+Draw 3 cards. This Pokémon is now Asleep.
+
+### Attack: Iron Head
+
+Cost: Colorless, Colorless
+Damage: —
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+## Manaphy (xyp-XY113)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Marine Guidance
+
+Cost: Water
+Damage: —
+
+Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Aqua Ring
+
+Cost: Water, Water
+Damage: 30
+
+Switch this Pokémon with 1 of your Benched Pokémon.
+
+## Darkrai (xyp-XY114)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Cutter
+
+Cost: Darkness, Colorless
+Damage: 30
+
+
+
+### Attack: Abyssal Sleep
+
+Cost: Darkness, Darkness, Colorless
+Damage: 80
+
+Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pokémon is still Asleep.
+
+## Shaymin (xyp-XY115)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aromatherapy
+
+Cost: Colorless, Colorless
+Damage: —
+
+Heal 30 damage from each of your Pokémon.
+
+### Attack: Magical Leaf
+
+Cost: Grass, Colorless, Colorless
+Damage: 40+
+
+Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon.
+
+## Arceus (xyp-XY116)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Type Switch
+
+Cost: Colorless
+Damage: —
+
+Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. Until the ends of your next turn, this Pokémon is that type.
+
+### Attack: Power Blast
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 120
+
+Discard an Energy attached to this Pokémon.
+
+## Victini (xyp-XY117)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Assist
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.
+
+### Attack: Victory Ball
+
+Cost: Fire, Colorless
+Damage: 50
+
+Discard a Fire Energy attached to this Pokémon.
+
+## Keldeo (xyp-XY118)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sacred Sword
+
+Cost: Water, Water, Water
+Damage: 100
+
+This Pokémon can't use Sacred Sword during your next turn.
+
+### Ability: Justified
+
+This Pokémon's attacks do 50 more damage to your opponent's Darkness Pokémon (before applying Weakness and Resistance).
+
+## Genesect (xyp-XY119)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linear Attack
+
+Cost: Metal, Colorless
+Damage: —
+
+This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Destructor Beam
+
+Cost: Metal, Metal, Metal
+Damage: 90
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+## Honedge (xyp-XY12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 50
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swords Dance
+
+Cost: Colorless
+Damage: —
+
+During your next turn, this Pokémon's Slash attack's base damage is 40.
+
+### Attack: Slash
+
+Cost: Metal, Colorless
+Damage: 20
+
+
+
+## Meloetta (xyp-XY120)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Soprano Wave
+
+Cost: Psychic
+Damage: —
+
+Flip 3 coins. This attack does 10 damage times the number of heads to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Entrancing Melody
+
+Cost: Psychic, Psychic
+Damage: 30
+
+Your opponent's Active Pokémon is now Confused.
+
+## Charizard-EX (xyp-XY121)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wing Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+
+
+### Attack: Combustion Blast
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 150
+
+This Pokémon can't use Combustion Blast during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Blastoise-EX (xyp-XY122)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rapid Spin
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Switch this Pokémon with 1 of your Benched Pokémon. The, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Splash Bomb
+
+Cost: Water, Water, Water
+Damage: 120
+
+Flip a coin. If heads, this Pokémon does 30 damage to itself.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Venusaur-EX (xyp-XY123)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Powder
+
+Cost: Grass, Colorless, Colorless
+Damage: 60
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Attack: Jungle Hammer
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 90
+
+Heal 30 damage from this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Pikachu-EX (xyp-XY124)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Iron Tail
+
+Cost: Colorless
+Damage: 30×
+
+
+
+### Attack: Overspark
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50×
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Mewtwo-EX (xyp-XY125)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Photon Wave
+
+Cost: Colorless, Colorless
+Damage: 30
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).
+
+### Attack: Psyburn
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 120
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Mew-EX (xyp-XY126)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Replace
+
+Cost: Psychic
+Damage: —
+
+Move as many Energy attached to your Pokémon to your other Pokémon in any way you like.
+
+### Ability: Versatile
+
+This Pokémon can use the attacks of any Pokémon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Moltres (xyp-XY127)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Combustion
+
+Cost: Fire
+Damage: 20
+
+
+
+### Attack: Flying Flare
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 80+
+
+You may do 40 more damage. If you do, this Pokémon does 20 damage to itself.
+
+## White Kyurem (xyp-XY128)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Burning Icicles
+
+Cost: Water, Colorless
+Damage: 40
+
+If this Pokémon has any Fire Energy attached to it, this attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Blizzard Burn
+
+Cost: Water, Water, Colorless
+Damage: 130
+
+This Pokémon can't attack during your next turn.
+
+## Zygarde (xyp-XY129)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rumble
+
+Cost: Fighting, Colorless
+Damage: 30
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+### Attack: Geostrike
+
+Cost: Fighting, Fighting, Colorless
+Damage: 120
+
+This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Machamp (xyp-XY13)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Machoke
+Types: Fighting
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Machamp Crush
+
+Cost: Fighting, Fighting, Fighting
+Damage: 80
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance).
+
+### Ability: Fighting Fury
+
+Each of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+## Tyranitar (xyp-XY130)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Darkness
+HP: 160
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Mountain
+
+Cost: Darkness, Darkness, Darkness, Darkness, Darkness
+Damage: 150+
+
+Discard the top 2 cards of your deck. This attack does 50 more damage for each Supporter card discard in this way.
+
+### Ability: Raging Roar
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may attach 1 Darkness Energy from your discard pile to this Pokémon for each Prize card your opponent has taken.
+
+## Pansear (xyp-XY131)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fury Swipes
+
+Cost: Colorless
+Damage: 10×
+
+Flip 3 coins. This attack does 10 damage times the number of heads.
+
+## Gastly (xyp-XY132)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleep Poison
+
+Cost: Psychic
+Damage: —
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Asleep and Poisoned.
+
+## Ash-Greninja-EX (xyp-XY133)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 170
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dancing Shuriken
+
+Cost: Water, Colorless
+Damage: —
+
+Flip 3 coins. This attack does 20 damage times the number of heads to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Ninja Blade
+
+Cost: Water, Water, Colorless
+Damage: 130
+
+This Pokémon can't use Ninja Blade during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Empoleon BREAK (xyp-XY134)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Empoleon
+Types: Water
+HP: 170
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Emperor's Command
+
+Cost: Water, Colorless
+Damage: 30×
+
+This attack does 30 damage times the number of Pokémon your opponent has in play.
+
+### Printed rules
+
+BREAK Evolution Rule: Empoleon BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Beheeyem BREAK (xyp-XY135)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Beheeyem
+Types: Psychic
+HP: 130
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cosmic Circle
+
+Cost: Psychic, Psychic, Psychic
+Damage: 100
+
+Move as many Psychic Energy attached to your Pokémon to your other Pokémon in any way you like.
+
+### Printed rules
+
+BREAK Evolution Rule: Beheeyem BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Noctowl BREAK (xyp-XY136)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Noctowl
+Types: Colorless
+HP: 130
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Night Scan
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60+
+
+Your opponent reveals his or her hand. This attack does 30 more damage for each Trainer card you find there.
+
+### Printed rules
+
+BREAK Evolution Rule: Noctowl BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Vivillon (xyp-XY137)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Spewpa
+Types: Grass
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dizzying Poison
+
+Cost: Colorless
+Damage: —
+
+Your opponent's Active Pokémon is now Confused and Poisoned.
+
+### Attack: Powder
+
+Cost: Grass
+Damage: 30+
+
+This attack does 30 more damage for each Fire Energy attached to your opponent's Active Pokémon.
+
+## Froakie (xyp-XY138)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bubble
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+## Floette (xyp-XY139)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Flabébé
+Types: Fairy
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aromatherapy
+
+Cost: Fairy
+Damage: —
+
+Heal 30 damage from each of your Pokémon.
+
+### Attack: Magical Leaf
+
+Cost: Fairy, Fairy
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon.
+
+## Trevenant (xyp-XY14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Phantump
+Types: Psychic
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Eerie Wave
+
+Cost: Psychic
+Damage: 20
+
+Your opponent's Active Pokémon is now Confused.
+
+### Attack: Wood Hammer
+
+Cost: Psychic, Psychic, Colorless
+Damage: 90
+
+Flip a coin. If tails, this Pokémon does 20 damage to itself.
+
+## Lucario (xyp-XY140)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Riolu
+Types: Fighting
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bone Rush
+
+Cost: Fighting
+Damage: 30×
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+### Attack: Mach Claw
+
+Cost: Fighting, Fighting, Fighting
+Damage: 90
+
+This attack's damage isn't affected by Resistance.
+
+## Rayquaza (xyp-XY141)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dual Claw
+
+Cost: Fire, Colorless
+Damage: 20×
+
+Flip 2 coins. This attack does 20 damage times the number of heads.
+
+### Attack: Dragon Blast
+
+Cost: Fire, Lightning, Colorless, Colorless
+Damage: 120
+
+Discard 1 Fire Energy and 1 Lightning Energy attached to this Pokémon.
+
+## Azelf (xyp-XY142)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shining Eyes
+
+Cost: Psychic
+Damage: —
+
+Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it.
+
+### Attack: Mind Bend
+
+Cost: Psychic, Colorless, Colorless
+Damage: 30
+
+Your opponent's Active Pokémon is now Confused.
+
+## Magikarp (xyp-XY143)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Epic Splash
+
+Cost: Water
+Damage: 30
+
+Flip 2 coins. If either of them is tails, this attack does nothing.
+
+## Yanmega (xyp-XY144)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Yanma
+Types: Grass
+HP: 110
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Assault Boom
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50+
+
+If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 70 more damage.
+
+### Ability: Sonic Vision
+
+If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pokémon's attacks.
+
+## Volcanion (xyp-XY145)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Heater
+
+Cost: Fire
+Damage: 20
+
+Choose 2 of your Benched Pokémon. Attach a Fire Energy card from your discard pile to each of those Pokémon.
+
+### Attack: Steam Artillery
+
+Cost: Fire, Fire, Fire
+Damage: 100
+
+
+
+## Clawitzer (xyp-XY146)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Clauncher
+Types: Water
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crabhammer
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Ability: Mega Boost
+
+Once during your turn (before your attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pokémon.
+
+## Hoopa (xyp-XY147)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyperspace Punch
+
+Cost: Colorless
+Damage: —
+
+This attack does 20 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Portal Strike
+
+Cost: Psychic, Psychic, Psychic
+Damage: 130
+
+This Pokémon can't use Portal Strike during your next turn.
+
+## Shaymin-EX (xyp-XY148)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Floral Gain
+
+Cost: Grass, Colorless, Colorless
+Damage: 60
+
+Heal 20 damage and remove all Special Conditions from this Pokémon.
+
+### Ability: Aroma of Gratitude
+
+Once during your turn (before your attack), you may heal 20 damage from each of your Benched Basic Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Xerneas-EX (xyp-XY149)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Break Through
+
+Cost: Fairy, Colorless, Colorless
+Damage: 60
+
+This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: X Blast
+
+Cost: Fairy, Fairy, Colorless, Colorless
+Damage: 140
+
+This Pokémon can't use X Blast during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Slurpuff (xyp-XY15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Swirlix
+Types: Fairy
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cotton Guard
+
+Cost: Fairy, Colorless
+Damage: 30
+
+During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance).
+
+### Attack: Sleepy Ball
+
+Cost: Fairy, Colorless, Colorless
+Damage: 60
+
+Your opponent's Active Pokémon is now Asleep.
+
+## Yveltal-EX (xyp-XY150)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Evil Ball
+
+Cost: Darkness, Colorless
+Damage: 20+
+
+This attack does 20 more damage times the amount of Energy attached to both Active Pokémon.
+
+### Attack: Y Cyclone
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Yveltal-EX (xyp-XY150a)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Evil Ball
+
+Cost: Darkness, Colorless
+Damage: 20+
+
+This attack does 20 more damage times the amount of Energy attached to both Active Pokémon.
+
+### Attack: Y Cyclone
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Zygarde-EX (xyp-XY151)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 190
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Land's Pulse
+
+Cost: Fighting
+Damage: 20+
+
+If there is any Stadium card in play, this attack does 20 more damage.
+
+### Attack: Cell Storm
+
+Cost: Fighting, Colorless
+Damage: 60
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Land's Wrath
+
+Cost: Fighting, Fighting, Colorless
+Damage: 100
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Zygarde (xyp-XY152)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rumble
+
+Cost: Fighting, Colorless
+Damage: 20
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+### Attack: Geostrike
+
+Cost: Fighting, Fighting, Colorless
+Damage: 120
+
+This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Ho-Oh (xyp-XY153)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stoke
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Shuffle your deck afterward.
+
+### Attack: Fire Wing
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 100
+
+
+
+## Ho-Oh BREAK (xyp-XY154)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Ho-Oh
+Types: Fire
+HP: 150
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shining Flame
+
+Cost: Fire, Fire, Fire, Colorless, Colorless
+Damage: 160
+
+This Pokémon can't use Shining Flame during your next turn.
+
+### Printed rules
+
+BREAK Evolution Rule: Ho-Oh BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Wobbuffet BREAK (xyp-XY155)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Wobbuffet
+Types: Psychic
+HP: 140
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Right Back at You
+
+Cost: Psychic, Colorless
+Damage: —
+
+Discard all Energy attached to this Pokémon. During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.
+
+### Printed rules
+
+BREAK Evolution Rule: Wobbuffet BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Lugia (xyp-XY156)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gust
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Aeroblast
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 80+
+
+Flip 2 coins. This attack does 20 more damage for each heads.
+
+## Beedrill-EX (xyp-XY157)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 160
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Scrapper
+
+Cost: Colorless
+Damage: —
+
+Discard up to 2 Pokémon Tool cards attached to your opponent's Pokémon.
+
+### Attack: Pin Missile
+
+Cost: Grass, Colorless
+Damage: 40×
+
+Flip 4 coins. This attack does 40 damage times the number of heads.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Beedrill-EX (xyp-XY158)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Beedrill-EX
+Types: Grass
+HP: 200
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hazard Stinger
+
+Cost: Grass, Grass
+Damage: 40
+
+Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed and Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Beedrill Spirit Link (xyp-XY159)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Beedrill-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gogoat (xyp-XY16)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Skiddo
+Types: Grass
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Push Down
+
+Cost: Grass, Colorless
+Damage: 30
+
+Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Forest Press
+
+Cost: Grass, Colorless, Colorless
+Damage: 60+
+
+Flip a coin for each Grass Energy attached to this Pokémon. This attack does 30 more damage for each heads.
+
+## Black Kyurem (xyp-XY160)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ice Wing
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Attack: Frosty Thunder
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 120
+
+If this Pokémon has any Lightning Energy attached to it, this attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Braixen (xyp-XY161)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Fennekin
+Types: Fire
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Destructive Flame
+
+Cost: Fire
+Damage: 20
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Attack: Crackling Ribbon
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+## Greninja (xyp-XY162)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Frogadier
+Types: Water
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Shower
+
+Cost: Water
+Damage: —
+
+This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Dual Cut
+
+Cost: Water, Colorless
+Damage: 60×
+
+Flip 2 coins. This attack does 60 damage times the number of heads.
+
+## Weezing (xyp-XY163)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Koffing
+Types: Psychic
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smokescreen
+
+Cost: Psychic
+Damage: 30
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+### Ability: Levitate
+
+If this Pokémon has any Energy attached to it, this Pokémon has no Retreat Cost.
+
+## Volcanion (xyp-XY164)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Concentrated Fire
+
+Cost: Fire, Colorless, Colorless
+Damage: 50×
+
+Flip a coin for each Fire Energy attached to this Pokémon. This attack does 50 damage times the number of heads.
+
+### Attack: Combustion Impact
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 100
+
+Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+## Magearna (xyp-XY165)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Entertain
+
+Cost: Colorless
+Damage: —
+
+Heal 40 damage from 1 of your Benched Pokémon.
+
+### Attack: Prismatic Wave
+
+Cost: Metal
+Damage: 20×
+
+This attack does 20 damage times the number of different types of Pokémon on your opponent's Bench.
+
+## M Gengar-EX (xyp-XY166)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Gengar-EX
+Types: Psychic
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hollow Geist
+
+Cost: Psychic, Psychic, Psychic, Colorless
+Damage: 120
+
+Your opponent's Active Pokémon is now Confused and Poisoned.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Garchomp-EX (xyp-XY167)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shred
+
+Cost: Fighting
+Damage: 30
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Attack: Hyper Beam
+
+Cost: Water, Fighting, Fighting, Colorless
+Damage: 100
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Garchomp-EX (xyp-XY168)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Garchomp-EX
+Types: Dragon
+HP: 210
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crimson Edge
+
+Cost: Water, Fighting, Fighting, Colorless
+Damage: 180
+
+This Pokémon does 10 damage to itself for each damage counter on it.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Garchomp Spirit Link (xyp-XY169)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Garchomp-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Charizard-EX (xyp-XY17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mega Ascension
+
+Cost: Fire, Colorless
+Damage: —
+
+Search your deck for M Charizard-EX, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Brave Fire
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 120
+
+This Pokémon does 30 damage to itself.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Salamence-EX (xyp-XY170)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Beastly Fang
+
+Cost: Fire, Colorless, Colorless
+Damage: 10+
+
+This attack does 50 more damage for each of your opponent's Pokémon-EX.
+
+### Attack: Dragon Strike
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 130
+
+This Pokémon can't use Dragon Strike during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Salamence-EX (xyp-XY171)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Salamence-EX
+Types: Dragon
+HP: 230
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Savage Wing
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 100+
+
+Discard as many basic Fire Energy attached to this Pokémon as you like. This attack does 40 more damage for each Energy card you discarded in this way.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Salamence Spirit Link (xyp-XY172)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Salamence-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Volcanion-EX (xyp-XY173)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire, Water
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Volcanic Heat
+
+Cost: Fire, Fire, Colorless
+Damage: 130
+
+This Pokémon can't attack during your next turn.
+
+### Ability: Steam Up
+
+Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Pikachu-EX (xyp-XY174)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Shock
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If heads your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Mega Thunderbolt
+
+Cost: Lightning, Lightning, Colorless
+Damage: 160
+
+Discard all Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Magearna-EX (xyp-XY175)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 160
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Soul Blaster
+
+Cost: Metal, Colorless, Colorless
+Damage: 120
+
+During your next turn, this Pokémon's Soul Blaster attack's base damage is 60.
+
+### Ability: Mystic Heart
+
+Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Metal Energy attached to it. (Existing effects are not removed.)
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Champions Festival (xyp-XY176)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+## Karen (xyp-XY177)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Each player shuffles all Pokémon in his or her discard pile into his or her deck.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Karen (xyp-XY177a)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Each player shuffles all Pokémon in his or her discard pile into his or her deck.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Absol (xyp-XY178)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shadow Cage
+
+Cost: Darkness, Colorless, Colorless
+Damage: 60
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+### Ability: Lamentation
+
+If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), discard a random card from your opponent's hand.
+
+## Snorlax (xyp-XY179)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Body Slam
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Ability: Immunity
+
+This Pokémon can't be affected by any Special Conditions. (Remove any Special Conditions affecting this Pokémon.)
+
+## Chesnaught-EX (xyp-XY18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pin Missile
+
+Cost: Grass, Colorless, Colorless
+Damage: 40×
+
+Flip 4 coins. This attack does 40 damage times the number of heads.
+
+### Attack: Wild Tackle
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 120
+
+This Pokémon does 20 damage to itself.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Arcanine BREAK (xyp-XY180)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Arcanine
+Types: Fire
+HP: 160
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Turbo Flame
+
+Cost: Fire, Colorless
+Damage: 80
+
+Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.
+
+### Printed rules
+
+BREAK Evolution Rule: Arcanine BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Crobat BREAK (xyp-XY181)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Crobat
+Types: Psychic
+HP: 160
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Silent Bite
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+You may leave your opponent's Active Pokémon Paralyzed. If you do, shuffle this Pokémon and all cards attached to into your deck.
+
+### Printed rules
+
+BREAK Evolution Rule: Crobat BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Mandibuzz BREAK (xyp-XY182)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Mandibuzz
+Types: Darkness
+HP: 140
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wings of Disaster
+
+Cost: Colorless
+Damage: —
+
+This attack does 20 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.
+
+### Printed rules
+
+BREAK Evolution Rule: Mandibuzz BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.
+
+## Mewtwo-EX (xyp-XY183)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Photon Wave
+
+Cost: Colorless, Colorless
+Damage: 30
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).
+
+### Attack: Psyburn
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 120
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Giratina (xyp-XY184)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shadow Claw
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 110
+
+Discard a random card from your opponent's hand.
+
+### Ability: Devour Light
+
+Each Pokémon BREAK has no Abilities (this includes Abilities of its previous Evolution).
+
+## Volcanion (xyp-XY185)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Concentrated Fire
+
+Cost: Fire, Colorless, Colorless
+Damage: 50×
+
+Flip a coin for each Fire Energy attached to this Pokémon. This attack does 50 damage times the number of heads.
+
+### Attack: Combustion Impact
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 100
+
+Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+## Magearna (xyp-XY186)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Entertain
+
+Cost: Colorless
+Damage: —
+
+Heal 40 damage from 1 of your Benched Pokémon.
+
+### Attack: Prismatic Wave
+
+Cost: Metal
+Damage: 20×
+
+This attack does 20 damage times the number of different types of Pokémon on your opponent's Bench.
+
+## Celebi (xyp-XY187)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Time Call
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.
+
+### Attack: Leech Seed
+
+Cost: Grass
+Damage: 10
+
+Heal 10 damage from this Pokémon.
+
+## Shaymin (xyp-XY188)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aromatherapy
+
+Cost: Colorless, Colorless
+Damage: —
+
+Heal 30 damage from each of your Pokémon.
+
+### Attack: Magical Leaf
+
+Cost: Grass, Colorless, Colorless
+Damage: 40+
+
+Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon.
+
+## Victini (xyp-XY189)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Assist
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.
+
+### Attack: Victory Ball
+
+Cost: Fire, Colorless
+Damage: 50
+
+Discard a Fire Energy attached to this Pokémon.
+
+## Delphox-EX (xyp-XY19)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psybeam
+
+Cost: Fire
+Damage: 20
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Confused.
+
+### Attack: Wonder Flare
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 80+
+
+Your opponent reveals his or her hand. This attack does 40 more damage for each Energy card in your opponent's hand.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Manaphy (xyp-XY190)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Marine Guidance
+
+Cost: Water
+Damage: —
+
+Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Aqua Ring
+
+Cost: Water, Water
+Damage: 30
+
+Switch this Pokémon with 1 of your Benched Pokémon.
+
+## Keldeo (xyp-XY191)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sacred Sword
+
+Cost: Water, Water, Water
+Damage: 100
+
+This Pokémon can't use Sacred Sword during your next turn.
+
+### Ability: Justified
+
+This Pokémon's attacks do 50 more damage to your opponent's Darkness Pokémon (before applying Weakness and Resistance).
+
+## Mew (xyp-XY192)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Clairvoyance
+
+Cost: Colorless
+Damage: —
+
+Your opponent reveals his or her hand.
+
+### Attack: Psychic
+
+Cost: Psychic, Colorless, Colorless
+Damage: 40+
+
+This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.
+
+## Meloetta (xyp-XY193)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Soprano Wave
+
+Cost: Psychic
+Damage: —
+
+Flip 3 coins. This attack does 10 damage times the number of heads to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Entrancing Melody
+
+Cost: Psychic, Psychic
+Damage: 30
+
+Your opponent's Active Pokémon is now Confused.
+
+## Darkrai (xyp-XY194)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Cutter
+
+Cost: Darkness, Colorless
+Damage: 30
+
+
+
+### Attack: Abyssal Sleep
+
+Cost: Darkness, Darkness, Colorless
+Damage: 80
+
+Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, the Pokémon is still Asleep.
+
+## Jirachi (xyp-XY195)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Precognitive Dream
+
+Cost: Metal
+Damage: —
+
+Draw 3 cards. This Pokémon is now Asleep.
+
+### Attack: Iron Head
+
+Cost: Colorless, Colorless
+Damage: 30×
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+## Genesect (xyp-XY196)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linear Attack
+
+Cost: Metal, Colorless
+Damage: —
+
+This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Destructor Beam
+
+Cost: Metal, Metal, Metal
+Damage: 90
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+## Arceus (xyp-XY197)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Type Switch
+
+Cost: Colorless
+Damage: —
+
+Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. Until the end of your next turn, this Pokémon is that type.
+
+### Attack: Power Blast
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 120
+
+Discard an Energy attached to this Pokémon.
+
+## M Camerupt-EX (xyp-XY198)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Camerupt-EX
+Types: Fire
+HP: 230
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magma Eruption
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 120+
+
+You may discard the top 3 cards of each player's deck. If you do, this attack does 40 more damage for each Energy card you discarded in this way.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Camerupt-EX (xyp-XY198a)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Camerupt-EX
+Types: Fire
+HP: 230
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magma Eruption
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 120+
+
+You may discard the top 3 cards of each player's deck. If you do, this attack does 40 more damage for each Energy card you discarded in this way.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Camerupt Spirit Link (xyp-XY199)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Camerupt-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Greninja-EX (xyp-XY20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 170
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharpshooting
+
+Cost: Water
+Damage: —
+
+This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Aqua Blast
+
+Cost: Water, Water, Colorless
+Damage: 120
+
+Discard 1 Water Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Sharpedo-EX (xyp-XY200)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Sharpedo-EX
+Types: Darkness
+HP: 210
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Torpedo Dive
+
+Cost: Darkness, Darkness, Colorless
+Damage: 120
+
+This attack does 10 damage to each of your opponent's Benched Pokémon for each Colorless in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Sharpedo-EX (xyp-XY200a)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Sharpedo-EX
+Types: Darkness
+HP: 210
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Torpedo Dive
+
+Cost: Darkness, Darkness, Colorless
+Damage: 120
+
+This attack does 10 damage to each of your opponent's Benched Pokémon for each Colorless in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Sharpedo Spirit Link (xyp-XY201)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Sharpedo-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Pikachu (xyp-XY202)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charge
+
+Cost: Lightning
+Damage: —
+
+Search your deck for a Lightning Energy card and attach it to this Pokémon. Shuffle your deck afterward.
+
+### Attack: Thunderbolt
+
+Cost: Lightning, Lightning, Lightning
+Damage: 70
+
+Discard all Energy attached to this Pokémon.
+
+## Gym Badge (xyp-XY203)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY204)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY205)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY206)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY207)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY208)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Gym Badge (xyp-XY209)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Bronzong (xyp-XY21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bronzor
+Types: Metal
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hammer In
+
+Cost: Metal, Metal, Colorless
+Damage: 60
+
+
+
+### Ability: Metal Links
+
+Once during your turn (before your attack), you may attach a Metal Energy card from your discard pile to 1 of your Benched Pokémon.
+
+## Gym Badge (xyp-XY210)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin until you get tails. For each heads, draw a card.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Lucario Spirit Link (xyp-XY211)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Lucario-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Darkrai (xyp-XY22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnoblast
+
+Cost: Darkness, Colorless
+Damage: 30
+
+Your opponent's Active Pokémon is now Asleep.
+
+### Attack: Deep Wind
+
+Cost: Darkness, Darkness, Colorless
+Damage: 60+
+
+If your opponent's Active Pokémon is Asleep, this attack does 60 more damage and heal 30 damage from this Pokémon.
+
+## Shiftry (xyp-XY23)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Nuzleaf
+Types: Grass
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whisk Away
+
+Cost: Grass
+Damage: 30+
+
+Your opponent reveals his or her hand. Choose a Pokémon you find there and put it on the bottom your opponent's deck. If you do, this attack does 30 more damage.
+
+### Attack: Spirit Dance
+
+Cost: Grass, Colorless, Colorless
+Damage: 60+
+
+Flip 2 coins. This attack does 30 more damage for each heads.
+
+## Greninja (xyp-XY24)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Frogadier
+Types: Darkness
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shadow Bullet
+
+Cost: Darkness, Colorless
+Damage: 60
+
+This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)
+
+### Ability: Mist Concealment
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon during your opponent's next turn.
+
+## Krookodile-EX (xyp-XY25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Second Bite
+
+Cost: Darkness, Colorless, Colorless
+Damage: 40+
+
+This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.
+
+### Attack: Megaton Fang
+
+Cost: Darkness, Darkness, Colorless, Colorless
+Damage: 130
+
+Discard a card from your hand. If you can't discard a card, this attack does nothing.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Pyroar (xyp-XY26)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Litleo
+Types: Fire
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Attack: Royal Flare
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 120
+
+Discard 2 Energy attached to this Pokémon.
+
+## Champions Festival (xyp-XY27)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+## Venusaur-EX (xyp-XY28)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Powder
+
+Cost: Grass, Colorless, Colorless
+Damage: 60
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Attack: Jungle Hammer
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 90
+
+Heal 30 damage from this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Charizard-EX (xyp-XY29)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stoke
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward.
+
+### Attack: Fire Blast
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 120
+
+Discard an Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Blastoise-EX (xyp-XY30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rapid Spin
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Switch this Pokémon with 1 of your Benched Pokémon. Then, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Splash Bomb
+
+Cost: Water, Water, Water
+Damage: 130
+
+Flip a coin. If tails, this Pokémon does 30 damage to itself.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Xerneas (xyp-XY31)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aurora Gain
+
+Cost: Fairy, Colorless, Colorless
+Damage: 50
+
+During your opponent's next turn, this Pokémon has no weakness.
+
+### Attack: Light of Life
+
+Cost: Fairy, Fairy, Colorless, Colorless
+Damage: 80+
+
+If your opponent has Yveltal (including Yveltal-EX) in play, this attack does 40 more damage.
+
+## Yveltal (xyp-XY32)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Air Crash
+
+Cost: Darkness, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Attack: Wings of Destruction
+
+Cost: Darkness, Darkness, Colorless, Colorless
+Damage: 80+
+
+If your opponent has Xerneas (including Xerneas-EX) in play, this attack does 40 more damage.
+
+## Trevor (xyp-XY33)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Metagross-EX (xyp-XY34)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magnetic Laser
+
+Cost: Metal, Colorless
+Damage: 20
+
+You may move a Metal Energy from 1 of your Benched Pokémon to this Pokémon.
+
+### Attack: Squared Attack
+
+Cost: Metal, Metal, Colorless, Colorless
+Damage: 50×
+
+Flip 4 coins. This attack does 50 damage times the number of heads.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Metagross-EX (xyp-XY35)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Metagross-EX
+Types: Metal
+HP: 220
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gatling Slug
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 130+
+
+This attack does 10 more damage for each Metal Energy attached to this Pokémon.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Treecko (xyp-XY36)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Grass
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 more damage.
+
+## Torchic (xyp-XY37)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ember
+
+Cost: Fire
+Damage: 20
+
+Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.
+
+## Mudkip (xyp-XY38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Water
+Damage: 10
+
+
+
+### Attack: Mud-Slap
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Kingdra (xyp-XY39)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Seadra
+Types: Dragon
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gather Strength
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.
+
+### Attack: Dragon Blast
+
+Cost: Water, Water, Lightning
+Damage: 150
+
+Discard a Water and a Lightning Energy attached to this Pokémon.
+
+## Ditto (xyp-XY40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stick On
+
+Cost: Colorless
+Damage: 10
+
+Attach a basic Energy card from your discard pile to this Pokémon.
+
+### Ability: Metamorphosis Gene
+
+If this Pokémon is your Active Pokémon, it can use the attacks of your opponent's Active Pokémon. (You still need the necessary Energy to use each attack.)
+
+## Kyogre-EX (xyp-XY41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Pulse
+
+Cost: Water, Colorless
+Damage: 30
+
+Your opponent's Active Pokémon is now Asleep.
+
+### Attack: Giant Whirlpool
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 140
+
+Return 2 Water Energy attached to this Pokémon to your hand.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Groudon-EX (xyp-XY42)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rip Claw
+
+Cost: Fighting, Colorless
+Damage: 30
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Attack: Massive Rend
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 130
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Diancie-EX (xyp-XY43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Moonblast
+
+Cost: Colorless, Colorless
+Damage: 20
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Attack: Luminous Swirl
+
+Cost: Fairy, Fairy, Colorless
+Damage: 80+
+
+Flip 2 coins. This attack does 40 more damage for each heads.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Diancie-EX (xyp-XY44)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Diancie-EX
+Types: Fairy
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Diamond Force
+
+Cost: Fairy, Fairy, Colorless
+Damage: 100
+
+During your opponent's next turn, prevent all damage done to each of your Pokémon from your opponent's Pokémon-EX. (If this Pokémon is no longer your Active Pokémon, this effect ends.)
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Gallade-EX (xyp-XY45)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Assault Sword
+
+Cost: Psychic, Colorless, Colorless
+Damage: 40+
+
+If your opponent's Active Pokémon has no Energy attached to it, this attack does 40 more damage.
+
+### Attack: Cross Slash
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 140
+
+This Pokémon can't use Cross Slash during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Altaria (xyp-XY46)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Swablu
+Types: Colorless
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wing Attack
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Ability: Clear Humming
+
+Each of your Colorless Pokémon has no Weakness.
+
+## Heliolisk (xyp-XY47)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Helioptile
+Types: Lightning
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyper Beam
+
+Cost: Lightning, Colorless, Colorless
+Damage: 30
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Ability: Dry Skin
+
+Any damage done to this Pokémon by an attack from 1 of your opponent's Water Pokémon is reduced by 30 (after applying Weakness and Resistance).
+
+## Meowstic (xyp-XY48)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Espurr
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyblast
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Ability: Mysterious Ears
+
+If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Confused.
+
+## Regirock (xyp-XY49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Land Maker
+
+Cost: Fighting
+Damage: —
+
+Put 2 Stadium cards from your discard pile into your hand.
+
+### Attack: Stone Edge
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 80+
+
+Flip a coin. If heads, this attack does 40 more damage.
+
+## Pangoro (xyp-XY50)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pancham
+Types: Fighting
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crazy Knuckle
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80+
+
+If this Pokémon is affected by a Special Condition, this attack does 40 more damage.
+
+### Ability: Benevolent Boss
+
+If this Pokémon is your Active Pokémon, it gets +20 HP for each of your Benched Pokémon.
+
+## Kyogre (xyp-XY51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spring Tides
+
+Cost: Water, Colorless
+Damage: 30×
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+### Attack: Ocean Cyclone
+
+Cost: Water, Water, Water, Colorless
+Damage: 80
+
+This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Groudon (xyp-XY52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Smash
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+### Attack: Break Ground
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 100
+
+This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Sceptile-EX (xyp-XY53)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 170
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Agility
+
+Cost: Grass
+Damage: 20
+
+Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.
+
+### Attack: Strong Slash
+
+Cost: Grass, Grass, Grass
+Damage: 130
+
+This Pokémon can't use Strong Slash during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Blaziken-EX (xyp-XY54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fist of Focus
+
+Cost: Fire, Colorless
+Damage: 30
+
+Attach an Energy card from your discard pile to this Pokémon.
+
+### Attack: Flare Storm
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 100+
+
+Flip a coin for each Fire Energy attached to this Pokémon. This attack does 20 more damage for each heads.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Swampert-EX (xyp-XY55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mud Flood
+
+Cost: Water, Colorless, Colorless
+Damage: 40+
+
+Reveal the top 4 cards of your deck. This attack does 40 more damage for each Water Energy you find there. Shuffle the revealed cards back into your deck.
+
+### Attack: Hydro Tackle
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 120
+
+This Pokémon does 20 damage to itself.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Blissey (xyp-XY56)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Chansey
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Slap
+
+Cost: Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+### Attack: Nurse's Egg
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: —
+
+Heal 100 damage from each of your Benched Pokémon. Then, discard 2 Energy attached to this Pokémon.
+
+## Fearow (xyp-XY57)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Spearow
+Types: Colorless
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Repeating Drill
+
+Cost: Colorless
+Damage: 20×
+
+Flip 5 coins. This attack does 20 damage times the number of heads.
+
+### Attack: Nosedive
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+This Pokémon does 20 damage to itself.
+
+## Malamar (xyp-XY58)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Inkay
+Types: Darkness
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Conform
+
+Cost: Darkness, Colorless, Colorless
+Damage: 40
+
+If you have the same number of cards in your hand as your opponent, your opponent's Active Pokémon is now Confused.
+
+### Ability: Contrary
+
+If this Pokémon is your Active Pokémon, whenever your opponent flips a coin during his or her turn, treat it as tails.
+
+## Salamence (xyp-XY59)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Dragon
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Goons
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.
+
+### Attack: Dragon Pulse
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 130
+
+Discard the top card of your deck.
+
+## Gyarados (xyp-XY60)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magikarp
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Full Retaliation
+
+Cost: Colorless, Colorless
+Damage: 30+
+
+This attack does 30 more damage for each damage counter on each of your Benched Magikarp.
+
+### Attack: Thrash
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 100+
+
+Flip a coin. If heads, this attack does 30 more damage. If tails, this Pokémon does 30 damage to itself.
+
+## Flygon-EX (xyp-XY61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Buzz
+
+Cost: Grass, Fighting, Fighting, Colorless
+Damage: 80+
+
+Flip a coin until you get tails. This attack does 30 more damage for each heads.
+
+### Ability: Voice of the Sands
+
+Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Absol-EX (xyp-XY62)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Fang
+
+Cost: Darkness
+Damage: 20
+
+Flip a coin. If heads, discard a random card from your opponent's hand.
+
+### Attack: Dark Edge
+
+Cost: Darkness, Darkness, Colorless
+Damage: 100
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Absol-EX (xyp-XY63)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Absol-EX
+Types: Darkness
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Disaster Wing
+
+Cost: Darkness, Darkness
+Damage: 80+
+
+Discard the top card of your opponent's deck. If that card is a Trainer card, this attack does 80 more damage.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Rayquaza (xyp-XY64)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Pulse
+
+Cost: Fire, Fire, Lightning, Colorless
+Damage: 130
+
+Discard the top 3 cards of your deck.
+
+### Ability: Ozone Wall
+
+As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's.)
+
+## Latios (xyp-XY65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Supersonic Flight
+
+Cost: Colorless, Colorless
+Damage: 40
+
+Flip a coin. If tails, this attack does nothing.
+
+### Attack: Psyburn
+
+Cost: Psychic, Psychic, Colorless
+Damage: 70
+
+
+
+## Rayquaza-EX (xyp-XY66)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mega Ascension
+
+Cost: Colorless, Colorless
+Damage: —
+
+Search your deck for M Rayquaza-EX, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Aeroscream
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 130
+
+Flip a coin. If tails, discard 2 Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Jirachi (xyp-XY67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stardust
+
+Cost: Colorless
+Damage: 10
+
+Discard a Special Energy attached to your opponent's Active Pokémon. If you do, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.
+
+### Attack: Dream Dance
+
+Cost: Metal, Colorless
+Damage: 20
+
+Both Active Pokémon are now Asleep.
+
+## Jirachi (xyp-XY67a)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stardust
+
+Cost: Colorless
+Damage: 10
+
+Discard a Special Energy attached to your opponent's Active Pokémon. If you do, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.
+
+### Attack: Dream Dance
+
+Cost: Metal, Colorless
+Damage: 20
+
+Both Active Pokémon are now Asleep.
+
+## Chesnaught (xyp-XY68)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Quilladin
+Types: Grass
+HP: 160
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spike Lariat
+
+Cost: Grass, Colorless, Colorless
+Damage: 60+
+
+If your opponent's Active Pokémon already has any damage counters on it, this attack does 60 more damage.
+
+### Attack: Adamantine Press
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 100
+
+During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).
+
+## Rayquaza-EX (xyp-XY69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mega Ascension
+
+Cost: Colorless, Colorless
+Damage: —
+
+Search your deck for M Rayquaza-EX, reveal it, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Aeroscream
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 130
+
+Flip a coin. If tails, discard 2 Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Tyrantrum-EX (xyp-XY70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Fang
+
+Cost: Fighting, Metal, Metal, Colorless
+Damage: 190
+
+Discard 3 Energy attached to this Pokémon.
+
+### Ability: Despotic Fang
+
+Damage from this Pokémon's attacks isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Hoopa-EX (xyp-XY71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyperspace Fury
+
+Cost: Psychic, Psychic, Psychic
+Damage: —
+
+Discard 2 Energy attached to this Pokémon. This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Scoundrel Ring
+
+When you play this Pokémon from your hand onto your Bench, you may search your deck for up to 3 Pokémon-EX (except for Hoopa-EX), reveal them, and put them into your hand. Shuffle your deck afterward.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Latios-EX (xyp-XY72)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fast Raid
+
+Cost: Psychic
+Damage: 40
+
+If you go first, you can use this attack on your first turn.
+
+### Attack: Light Pulse
+
+Cost: Water, Psychic, Psychic, Colorless
+Damage: 110
+
+Prevent all effects of your opponent's attacks, except damage, done to this Pokémon during your opponent's next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Rayquaza-EX (xyp-XY73)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Claw
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Dragon Strike
+
+Cost: Fire, Fire, Lightning, Colorless
+Damage: 130
+
+Flip a coin. If tails, this Pokémon can't use Dragon Strike during your next turn.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Reshiram (xyp-XY74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Repeater Blaze
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 90+
+
+Flip a coin until you get tails. This attack does 20 more damage for each heads.
+
+## Palkia (xyp-XY75)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wave Splash
+
+Cost: Water, Colorless
+Damage: 30
+
+
+
+### Attack: Cross Slicer
+
+Cost: Water, Water, Colorless
+Damage: 80
+
+Your opponent can't attach Energy from his or her hand to the Defending Pokémon during his or her next turn.
+
+## Zekrom (xyp-XY76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Voltage Storm
+
+Cost: Lightning, Lightning, Colorless, Colorless
+Damage: 90
+
+This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Dialga (xyp-XY77)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Claw
+
+Cost: Metal, Colorless
+Damage: 30
+
+
+
+### Attack: Time Freeze
+
+Cost: Metal, Metal, Colorless
+Damage: 80
+
+Your opponent can't play any Pokémon from his or her hand to evolve the Defending Pokémon during his or her next turn.
+
+## Latias (xyp-XY78)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Eon Connection
+
+Cost: Fire
+Damage: —
+
+Draw a card. If Latios is on your Bench, draw 1 more card.
+
+### Attack: Speed Wing
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+
+
+## Latios (xyp-XY79)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Glide
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Sky Blade
+
+Cost: Water, Psychic, Colorless, Colorless
+Damage: 70+
+
+If Latias is on your Bench, this attack does 50 more damage.
+
+## Black Kyurem (xyp-XY80)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Nail
+
+Cost: Lightning, Colorless, Colorless
+Damage: 40
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Frozen Slice
+
+Cost: Water, Lightning, Lightning, Colorless
+Damage: 120
+
+This Pokémon does 20 damage to itself.
+
+## White Kyurem (xyp-XY81)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyper Beam
+
+Cost: Fire, Colorless, Colorless
+Damage: 40
+
+Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.
+
+### Attack: Flare Blizzard
+
+Cost: Fire, Fire, Water, Colorless
+Damage: 120
+
+This Pokémon can't use Flare Blizzard during your next turn.
+
+## Regigigas (xyp-XY82)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gigas Punch
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 100
+
+Flip 2 coins. If both of them are tails, this attack does nothing.
+
+### Ability: Earthen Awakening
+
+Whenever you attach an Energy card from your hand to this Pokémon, heal 20 damage from it.
+
+## Arceus (xyp-XY83)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gather Light
+
+Cost: Colorless
+Damage: —
+
+Move as many Energy as you like from your Benched Pokémon to this Pokémon.
+
+### Attack: Judgment Blast
+
+Cost: Colorless, Colorless, Colorless
+Damage: 10+
+
+This attack does 30 more damage for each different type of basic Energy attached to this Pokémon.
+
+## Pikachu-EX (xyp-XY84)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Iron Tail
+
+Cost: Colorless
+Damage: 30×
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+### Attack: Overspark
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50×
+
+Discard all Lightning Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Hoopa-EX (xyp-XY85)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyperspace Ring
+
+Cost: Psychic
+Damage: —
+
+Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Shuffle your deck afterward.
+
+### Attack: Wonder Trick
+
+Cost: Psychic, Psychic, Psychic
+Damage: 100
+
+Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Blaziken-EX (xyp-XY86)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Blaziken-EX
+Types: Fire
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Moonsault Blaze
+
+Cost: Fire, Fire, Colorless, Colorless
+Damage: 100
+
+During your next turn, this Pokémon's Moonsault Blaze attack does 100 more damage (before applying Weakness and Resistance).
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Swampert-EX (xyp-XY87)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Swampert-EX
+Types: Water
+HP: 220
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strongarm Impact
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 130+
+
+You may do 30 more damage. If you do, discard the top 3 cards of each player's deck.
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Chespin (xyp-XY88)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vine Whip
+
+Cost: Grass, Colorless
+Damage: 30
+
+
+
+## Pikachu (xyp-XY89)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Wave
+
+Cost: Lightning
+Damage: —
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Electric Ring
+
+Cost: Lightning, Colorless, Colorless
+Damage: 30+
+
+If Hoopa is on your Bench, this attack does 30 more damage.
+
+## Hoopa (xyp-XY90)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Summoning Draw
+
+Cost: Colorless
+Damage: —
+
+If Pikachu is on your Bench, draw 3 cards.
+
+### Attack: Double Spin
+
+Cost: Psychic, Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Champions Festival (xyp-XY91)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+## Sableye (xyp-XY92)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Hunt
+
+Cost: Psychic
+Damage: —
+
+Flip 3 coins. For each heads, attach a basic Energy card from your discard pile to your Benched Pokémon-EX in any way you like.
+
+### Attack: Claw Slash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Celebi (xyp-XY93)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sparkle Motion
+
+Cost: Grass
+Damage: —
+
+Put 1 damage counter on each of your opponent's Pokémon.
+
+### Ability: Leap Through Time
+
+When this Pokémon is Knocked Out, flip a coin. If heads, shuffle this Pokémon and all cards attached to it into your deck, and your opponent can't take any Prize cards for it.
+
+## Trevenant (xyp-XY94)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Phantump
+Types: Psychic
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Press
+
+Cost: Psychic, Colorless, Colorless
+Damage: 70+
+
+This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.
+
+### Ability: Nervous Seed
+
+As long as this Pokémon is your Active Pokémon, the attacks of your opponent's Basic Pokémon cost Colorless more.
+
+## Pikachu (xyp-XY95)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Let's Eat Together
+
+Cost: Colorless
+Damage: —
+
+Heal 30 damage from both Active Pokémon.
+
+### Attack: Quick Attack
+
+Cost: Lightning, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Umbreon (xyp-XY96)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Darkness
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mach Claw
+
+Cost: Darkness, Colorless
+Damage: 30
+
+This attack's damage isn't affected by Resistance.
+
+### Attack: Lunatic Sense
+
+Cost: Darkness, Colorless, Colorless
+Damage: 60+
+
+Turn 1 of your face-down Prize cards face up. If that Prize card is a Pokémon, this attack does 60 more damage. (That Prize card remains up for the rest of the game.)
+
+## Aerodactyl-EX (xyp-XY97)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 170
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Smash
+
+Cost: Fighting, Colorless
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 more damage.
+
+### Attack: Land Crush
+
+Cost: Fighting, Colorless, Colorless
+Damage: 70
+
+
+
+### Printed rules
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## M Aerodactyl-EX (xyp-XY98)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Aerodactyl-EX
+Types: Fighting
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Drill Dive
+
+Cost: Fighting, Colorless, Colorless
+Damage: 110
+
+This attack does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.
+
+Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Aerodactyl Spirit Link (xyp-XY99)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+Your turn does not end if the Pokémon this card is attached to becomes M Aerodactyl-EX.
+
+You may play as many Item cards as you like during your turn (before your attack).
+

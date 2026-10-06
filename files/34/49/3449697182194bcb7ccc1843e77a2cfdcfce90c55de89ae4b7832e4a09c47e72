@@ -1,0 +1,3425 @@
+# Card reference: dp1
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Dialga (dp1-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Time Bellow
+
+Cost: Metal
+Damage: 10
+
+Draw a card.
+
+### Attack: Flash Cannon
+
+Cost: Metal, Metal, Colorless
+Damage: 40
+
+You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck.
+
+## Mismagius (dp1-10)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Misdreavus
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Avenge
+
+Cost: Psychic
+Damage: —
+
+Count the number of your Pokémon that have any damage counters on them. Put that many damage counters on the Defending Pokémon.
+
+### Attack: Psywave
+
+Cost: Psychic, Psychic, Colorless
+Damage: 30+
+
+Does 30 damage plus 20 more damage for each Energy attached to the Defending Pokémon.
+
+## Sneasel (dp1-100)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Slap
+
+Cost: Colorless
+Damage: 10×
+
+Flip 2 coins. This attack does 10 damage times the number of heads.
+
+### Attack: Feint Attack
+
+Cost: Darkness, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.
+
+## Starly (dp1-101)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gust
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Quick Attack
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage.
+
+## Stunky (dp1-102)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Severe Gas
+
+Cost: Darkness, Colorless
+Damage: 10
+
+The Defending Pokémon is now Poisoned.
+
+## Turtwig (dp1-103)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Razor Leaf
+
+Cost: Grass
+Damage: 20
+
+
+
+## Wurmple (dp1-104)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Needling Sting
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 10 more damage.
+
+### Attack: String Shot
+
+Cost: Grass
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Double Full Heal (dp1-105)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Remove all Special Conditions from each of your Active Pokémon.
+
+## Energy Restore (dp1-106)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip 3 coins. For each heads, put a basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand.
+
+## Energy Switch (dp1-107)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon.
+
+## Night Pokémon Center (dp1-108)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Choose 1 of your Pokémon. Flip 2 coins. If both are heads, remove all damage counters from that Pokémon. If both are tails, discard all Energy cards attached to that Pokémon.
+
+## PlusPower (dp1-109)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach PlusPower to 1 of your Pokémon. Discard this card at the end of your turn.
+
+If the Pokémon PlusPower is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).
+
+## Palkia (dp1-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spacial Rend
+
+Cost: Water
+Damage: 10
+
+Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.
+
+### Attack: Transback
+
+Cost: Water, Water, Colorless
+Damage: 40
+
+You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward.
+
+## Poké Ball (dp1-110)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Pokédex HANDY910is (dp1-111)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck.
+
+## Professor Rowan (dp1-112)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Choose 1 card in your hand and shuffle the rest of your cards into your deck. Then, draw 4 cards. (If this is the only card in your hand, you can't play this card.)
+
+## Rival (dp1-113)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Reveal the top 5 cards of your deck. Your opponent chooses 3 of those cards. Put those cards into your hand and put other 2 cards on top of your deck. Shuffle your deck afterward.
+
+## Speed Stadium (dp1-114)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+Once during each player's turn, the player may flip a coin until he or she gets tails. For each heads, that player draws a card.
+
+## Super Scoop Up (dp1-115)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand.
+
+## Warp Point (dp1-116)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Your opponent switches 1 of his or her Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch 1 of your Active Pokémon with 1 of your Benched Pokémon, if any.
+
+## Energy Search (dp1-117)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Potion (dp1-118)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).
+
+## Switch (dp1-119)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Switch 1 of your Active Pokémon with 1 of your Benched Pokémon.
+
+## Rhyperior (dp1-12)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Rhydon
+Types: Fighting
+HP: 140
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Wrecker
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80
+
+This attack's damage isn't affected by Weakness or Resistance. Rhyperior can't attack during your next turn.
+
+### Poké-Power: Earth Fissure
+
+Once during your turn, when you play Rhyperior from your hand to evolve 1 of your Pokémon, you may discard the top 3 cards from your opponent's deck.
+
+## Empoleon LV.X (dp1-120)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Empoleon
+Types: Water
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hydro Impact
+
+Cost: Water, Water, Water
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn.
+
+### Poké-Power: Supreme Command
+
+Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Infernape LV.X (dp1-121)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Infernape
+Types: Fire
+HP: 120
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flare Up
+
+Cost: Fire, Fire
+Damage: 150
+
+Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)
+
+### Poké-Power: Burning Head
+
+Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Torterra LV.X (dp1-122)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Torterra
+Types: Grass
+HP: 160
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vigorous Dash
+
+Cost: Grass, Grass, Grass, Colorless
+Damage: 100
+
+Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself.
+
+### Poké-Power: Forest Murmurs
+
+Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Grass Energy (dp1-123)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Fire Energy (dp1-124)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Water Energy (dp1-125)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Lightning Energy (dp1-126)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Psychic Energy (dp1-127)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Fighting Energy (dp1-128)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Darkness Energy (dp1-129)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Roserade (dp1-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Roselia
+Types: Grass
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Grass, Grass
+Damage: 30
+
+The Defending Pokémon is now Poisoned.
+
+### Attack: Spike Whip
+
+Cost: Grass, Grass, Colorless
+Damage: 50
+
+If Budew is anywhere under Roserade, choose 1 of your opponent's Benched Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Metal Energy (dp1-130)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Shiftry (dp1-14)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Nuzleaf
+Types: Darkness
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spirit Dance
+
+Cost: Darkness, Darkness, Colorless
+Damage: 50+
+
+Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.
+
+### Poké-Power: Darkness Fan
+
+Once during your turn (before your attack), if Shiftry is your Active Pokémon, you may flip a coin. If heads, choose 1 Evolved Pokémon on your opponent's Bench, remove the highest Stage Evolution card from that Pokémon, and put it back into his or her hand. This power can't be used if Shiftry is affected by a Special Condition.
+
+## Skuntank (dp1-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Stunky
+Types: Darkness
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Frustration
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your opponent's Pokémon that doesn't have any damage counters on it. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Toxic Cloud
+
+Cost: Darkness, Darkness, Colorless
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns.
+
+## Staraptor (dp1-16)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Staravia
+Types: Colorless
+HP: 100
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Accelerative Dive
+
+Cost: Colorless
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing. If heads, prevent all damage done to Staraptor by attacks (both yours and your opponent's) until the end of your next turn.
+
+### Attack: Brave Heart
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 100
+
+Flip a coin. If tails, Staraptor does 100 damage to itself.
+
+## Torterra (dp1-17)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Grotle
+Types: Grass
+HP: 140
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Body Slam
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Leaf Storm
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 60
+
+Remove 2 damage counters from each of your Grass Pokémon.
+
+## Azumarill (dp1-18)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Marill
+Types: Water
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Defense Curl
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, prevent all damage done to Azumarill during your opponent's next turn.
+
+### Attack: Bubble Pump
+
+Cost: Water, Water
+Damage: 40+
+
+If Azumarill has 3 or more Energy attached to it, this attack does 40 damage plus 20 more damage. If Azurill is anywhere under Azumarill, flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Beautifly (dp1-19)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Silcoon
+Types: Grass
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whirlwind
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Giga Drain
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 50
+
+After your attack, remove from Beautifly the number of damage counters equal to the damage you did to the Defending Pokémon.
+
+## Dusknoir (dp1-2)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dusclops
+Types: Psychic
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hard Feelings
+
+Cost: Psychic, Psychic, Colorless
+Damage: —
+
+Put 5 damage counters on the Defending Pokémon. Then, count the number of Prize cards your opponent has taken and put that many damage counters on the Defending Pokémon.
+
+### Poké-Power: Dark Palm
+
+Once during your turn (before your attack), if your opponent has 4 or more Benched Pokémon, you may choose 1 of them and shuffle that Pokémon and all cards attached to it into his or her deck. This power can't be used if Dusknoir if affected by a Special Condition.
+
+## Bibarel (dp1-20)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bidoof
+Types: Colorless
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rest
+
+Cost: Colorless
+Damage: —
+
+Remove all Special Conditions and 4 damage counters from Bibarel. Bibarel is now Asleep.
+
+### Attack: Take Down
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+Bibarel does 10 damage to itself.
+
+## Carnivine (dp1-21)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swallow Up
+
+Cost: Grass, Colorless
+Damage: 30
+
+Before doing damage, count the remaining HP of the Defending Pokémon and Carnivine. If the Defending Pokémon has fewer remaining HP than Carnivine's, this attack does 60 damage instead.
+
+### Attack: Wring Out
+
+Cost: Grass, Grass
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon.
+
+## Clefable (dp1-22)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Clefairy
+Types: Colorless
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Slap
+
+Cost: Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: Metronome
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) Clefable performs that attack.
+
+## Drapion (dp1-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Skorupi
+Types: Psychic
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stomp
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 20 more damage.
+
+### Attack: Poison Claws
+
+Cost: Psychic, Psychic, Colorless
+Damage: 50
+
+The Defending Pokémon is now Poisoned.
+
+## Drifblim (dp1-24)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drifloon
+Types: Psychic
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wind Wave
+
+Cost: Colorless
+Damage: —
+
+Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck.
+
+### Attack: Explosive Smoke
+
+Cost: Psychic, Psychic, Psychic
+Damage: 60
+
+Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Dustox (dp1-25)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Cascoon
+Types: Grass
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stun Spore
+
+Cost: Grass, Colorless
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Toxic Dust
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 50
+
+The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns.
+
+## Floatzel (dp1-26)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Buizel
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Screw Tail
+
+Cost: Water, Colorless
+Damage: 30
+
+Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.
+
+### Attack: Water Gun
+
+Cost: Water, Water
+Damage: 40+
+
+Does 40 damage plus 20 more damage for each Water Energy attached to Floatzel but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way.
+
+## Gengar (dp1-27)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Haunter
+Types: Psychic
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Life Drain
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10 HP away from being Knocked Out.
+
+### Attack: Shadow Dance
+
+Cost: Psychic, Psychic, Colorless
+Damage: —
+
+Put 4 damage counters on your opponent's Pokémon in any way you like. Then, switch Gengar with 1 of your Benched Pokémon.
+
+## Heracross (dp1-28)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pitch
+
+Cost: Colorless
+Damage: 10
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Horn Slash
+
+Cost: Grass, Grass
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 damage plus 30 more damage.
+
+## Hippowdon (dp1-29)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hippopotas
+Types: Fighting
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vacuum Up
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+### Attack: Sand Eject
+
+Cost: Fighting, Fighting, Colorless, Colorless
+Damage: 60
+
+During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage.
+
+## Electivire (dp1-3)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Electabuzz
+Types: Lightning
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Giga Impact
+
+Cost: Lightning, Lightning, Lightning, Colorless
+Damage: 60
+
+You may discard all Lightning Energy attached to Electivire. If you do, this attack's base damage is 120 instead of 60.
+
+### Poké-Power: Intense Voltage
+
+As often as you like during your turn (before your attack), if Elekid is anywhere under Electivire, you may move a Lightning Energy attached to your Pokémon to Electivire. This power can't be used if Electivire is affected by a Special Condition.
+
+## Lopunny (dp1-30)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Buneary
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Healing Wish
+
+Cost: Colorless
+Damage: —
+
+Flip a coin until you get tails. Remove a number of damage counters equal to the number of heads from 1 of your Pokémon.
+
+### Attack: Flop
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) You may switch Lopunny with 1 of your Benched Pokémon.
+
+## Machamp (dp1-31)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Machoke
+Types: Fighting
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Revenge
+
+Cost: Fighting
+Damage: 20+
+
+If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 50 more damage.
+
+### Attack: Dynamic Punch
+
+Cost: Fighting, Fighting, Fighting
+Damage: 60+
+
+Flip a coin. If heads, this attack does 60 damage plus 30 more damage and the Defending Pokémon is now Confused.
+
+## Medicham (dp1-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Meditite
+Types: Fighting
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Force Palm
+
+Cost: Fighting
+Damage: —
+
+Count the number of damage counters on Medicham. Put that many damage counters on 1 of your opponent's Pokémon.
+
+### Attack: Spinning Kick
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80
+
+Medicham does 20 damage to itself.
+
+## Munchlax (dp1-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heave
+
+Cost: Colorless
+Damage: 30×
+
+Discard 2 cards from your hand. (If you can't discard 2 cards, this attack does nothing.) Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.
+
+## Noctowl (dp1-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hoothoot
+Types: Colorless
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: See Beyond
+
+Cost: Colorless
+Damage: —
+
+Choose a card from your hand and put it as a Prize card face up. Then, choose 1 of your face-down Prize cards without looking and put it into your hand. This attack does nothing if all of your Prize cards are face up.
+
+### Attack: Extrasensory
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30+
+
+If you have the same number of cards in your hand as your opponent, this attack does 30 damage plus 50 more damage.
+
+## Pachirisu (dp1-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Minor Errand-Running
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Thunder Jolt
+
+Cost: Lightning
+Damage: 20
+
+Flip a coin. If tails, Pachirisu does 10 damage to itself.
+
+## Purugly (dp1-36)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Glameow
+Types: Colorless
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: High Hat
+
+Cost: Colorless
+Damage: —
+
+Choose 1 card from your opponent's hand without looking and discard it.
+
+### Attack: Body Slam
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Snorlax (dp1-37)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Block
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+### Attack: Ease Up
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 40+
+
+Snorlax is now Asleep. If Snorlax is evolved from Munchlax, this attack does 40 damage plus 30 more damage.
+
+## Steelix (dp1-38)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Onix
+Types: Metal
+HP: 110
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Metal
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: Metal Slash
+
+Cost: Metal, Metal, Colorless, Colorless
+Damage: 100
+
+Steelix can't attack during your next turn.
+
+## Vespiquen (dp1-39)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Combee
+Types: Grass
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Leaf Honey
+
+Cost: Grass
+Damage: —
+
+Discard a Grass Energy attached to Vespiquen and remove all damage counters from 1 of your Benched Grass Pokémon.
+
+### Attack: Attack Order
+
+Cost: Grass, Colorless, Colorless
+Damage: 10×
+
+Does 10 damage times the number of Grass Pokémon in play (both yours and your opponent's).
+
+## Empoleon (dp1-4)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Prinplup
+Types: Water
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ice Blade
+
+Cost: Water, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Aqua Jet
+
+Cost: Water, Water, Colorless
+Damage: 70
+
+Flip a coin. If heads, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Weavile (dp1-40)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sneasel
+Types: Darkness
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nasty Plot
+
+Cost: Darkness
+Damage: —
+
+Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Dark Pulse
+
+Cost: Darkness, Darkness, Darkness
+Damage: 10×
+
+Does 10 damage times the total amount of Darkness Energy attached to all of your Pokémon.
+
+## Wobbuffet (dp1-41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Countercharge
+
+Cost: Psychic, Colorless
+Damage: —
+
+Flip a coin. If heads, move all damage counters from Wobbuffet to the Defending Pokémon.
+
+## Wynaut (dp1-42)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Astonish
+
+Cost: 
+Damage: —
+
+Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut) and remove all damage counters from Wynaut.
+
+## Budew (dp1-43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Errand-Running
+
+Cost: 
+Damage: —
+
+Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Roselia from your hand onto Budew (this counts as evolving Budew) and remove all damage counters from Budew.
+
+## Cascoon (dp1-44)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wurmple
+Types: Grass
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Harden
+
+Cost: Grass
+Damage: —
+
+During your opponent's next turn, if Cascoon would be damaged by an attack, prevent that attack's damage done to Cascoon if that damage is 30 or less.
+
+### Attack: Gooey Thread
+
+Cost: Grass, Colorless
+Damage: 20
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+## Cherrim (dp1-45)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cherubi
+Types: Grass
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Worry Seed
+
+Cost: Grass
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Magical Leaf
+
+Cost: Grass, Grass
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim.
+
+## Drifloon (dp1-46)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Blowing Wind
+
+Cost: Psychic
+Damage: —
+
+Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to on top of your deck. Shuffle your deck afterward.
+
+### Attack: Ominous Wind
+
+Cost: Psychic, Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn.
+
+## Dusclops (dp1-47)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Duskull
+Types: Psychic
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Roam
+
+Cost: Psychic, Colorless
+Damage: —
+
+Flip a coin. If heads, put 2 damage counters on each of your opponent's Pokémon. If tails, put 2 damage counters on 1 of your Pokémon.
+
+### Attack: Gravity Wave
+
+Cost: Psychic, Psychic
+Damage: 30
+
+Does 10 damage to each of your opponent's Benched Pokémon that doesn't have a Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Elekid (dp1-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Outlet
+
+Cost: 
+Damage: —
+
+Search your deck for a Lightning Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Electabuzz from your hand onto Elekid (this counts as evolving Elekid) and remove all damage counters from Elekid.
+
+## Grotle (dp1-49)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Turtwig
+Types: Grass
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Synthesis
+
+Cost: Grass
+Damage: —
+
+Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.
+
+### Attack: Cut
+
+Cost: Grass, Colorless, Colorless
+Damage: 50
+
+
+
+## Infernape (dp1-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Monferno
+Types: Fire
+HP: 100
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Meteor Punch
+
+Cost: Colorless
+Damage: 30×
+
+Flip a coin until you get tails. This attack does 30 damage times the number of heads.
+
+### Attack: Flare Blitz
+
+Cost: Fire, Fire
+Damage: 90
+
+Discard all Fire Energy attached to Infernape.
+
+## Haunter (dp1-50)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Gastly
+Types: Psychic
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnosis
+
+Cost: Psychic
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Dream Eater
+
+Cost: Psychic, Psychic
+Damage: 60
+
+If the Defending Pokémon is not Asleep, this attack does nothing.
+
+## Hippopotas (dp1-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Yawn
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Sand Attack
+
+Cost: Fighting
+Damage: 10
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+## Luxio (dp1-52)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shinx
+Types: Lightning
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fasten Claws
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 30 more damage.
+
+### Attack: Thunder Fang
+
+Cost: Lightning, Lightning
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Machoke (dp1-53)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Machop
+Types: Fighting
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Karate Chop
+
+Cost: Fighting, Colorless
+Damage: 40-
+
+Does 40 damage minus 10 damage for each damage counter on Machoke.
+
+### Attack: Seismic Toss
+
+Cost: Fighting, Fighting, Colorless
+Damage: 60
+
+
+
+## Magneton (dp1-54)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magnemite
+Types: Metal
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tri Attack
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+Flip 3 coins. This attack does 20 damage times the number of heads.
+
+### Attack: Magnetic Ray
+
+Cost: Metal, Colorless, Colorless
+Damage: 40
+
+Before doing damage, you may choose 1 of your opponent's Benched Pokémon that has any Energy attached to it and switch that Pokémon with 1 of the Defending Pokémon.
+
+## Mantyke (dp1-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Friends
+
+Cost: 
+Damage: —
+
+Search your deck for a Water Basic Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Mantine from your hand onto Mantyke (this counts as evolving Mantyke) and remove all damage counters from Mantyke.
+
+## Monferno (dp1-56)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Chimchar
+Types: Fire
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flame Dance
+
+Cost: Fire
+Damage: 30
+
+Search your discard pile for a Fire Energy card and attach it to Monferno.
+
+### Attack: Fury Swipes
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+Flip 3 coins. This attack does 20 damage times the number of heads.
+
+## Nuzleaf (dp1-57)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Seedot
+Types: Darkness
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dirty Trick
+
+Cost: Darkness
+Damage: —
+
+Flip a coin. If heads, discard an Energy card attached to 1 of your opponent's Pokémon.
+
+### Attack: Razor Wind
+
+Cost: Darkness, Darkness
+Damage: 40
+
+Flip a coin. If tails, this attack does nothing.
+
+## Prinplup (dp1-58)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Piplup
+Types: Water
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Shower
+
+Cost: Water
+Damage: —
+
+Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Brine
+
+Cost: Water, Water
+Damage: —
+
+Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Rapidash (dp1-59)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ponyta
+Types: Fire
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Overrun
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Blaze Up
+
+Cost: Fire, Fire, Colorless
+Damage: 50
+
+Flip a coin. If tails, discard a Fire Energy attached to Rapidash and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Lucario (dp1-6)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Riolu
+Types: Fighting
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Feint
+
+Cost: Colorless
+Damage: 30
+
+This attack's damage isn't affected by Resistance.
+
+### Attack: Aura Sphere
+
+Cost: Fighting, Fighting
+Damage: 40
+
+Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Rhydon (dp1-60)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Rhyhorn
+Types: Fighting
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Storm Up
+
+Cost: Fighting, Colorless
+Damage: 30+
+
+If there is any Stadium card in play, this attack does 30 damage plus 20 more damage. Discard that Stadium card.
+
+### Attack: Crash Impact
+
+Cost: Fighting, Fighting, Colorless
+Damage: 60
+
+Rhydon does 10 damage to itself. Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.
+
+## Riolu (dp1-61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wild Kick
+
+Cost: Fighting
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+## Seaking (dp1-62)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Goldeen
+Types: Water
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flail
+
+Cost: Colorless, Colorless
+Damage: 10×
+
+Does 10 damage times the number of damage counters on Seaking.
+
+### Attack: Horn Drill
+
+Cost: Water, Water
+Damage: 50
+
+
+
+## Silcoon (dp1-63)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wurmple
+Types: Grass
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Harden
+
+Cost: Grass
+Damage: —
+
+During your opponent's next turn, If Silcoon would be damaged by an attack, prevent that attack's damage done to Silcoon if that damage is 30 or less.
+
+### Attack: Entangling String
+
+Cost: Grass, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+
+## Staravia (dp1-64)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Starly
+Types: Colorless
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whirlwind
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+
+### Attack: Clutch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+## Unown [A] (dp1-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Poké-Power: ANALYZE
+
+Once during your turn (before your attack), if Unown A is on your Bench, you may look at the top 2 cards of your deck and put them back on top of your deck in any order.
+
+## Unown [B] (dp1-66)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Poké-Power: BOUNCE
+
+Once during your turn (before your attack), if Unown B is on your Bench, you may flip a coin. If heads, discard all cards attached to any 1 of your Unown and shuffle that Pokémon back into your deck.
+
+## Unown [C] (dp1-67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Poké-Power: CALL
+
+Once during your turn (before your attack), if Unown C is on your Bench, you may flip coin. If heads, search your deck for any 1 Unown and put it onto your Bench. Shuffle your deck afterward.
+
+## Unown [D] (dp1-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Poké-Power: DRAW
+
+Once during your turn (before your attack), if Unown D is on your Bench, you may flip a coin. If heads, each player may draw a card. (You draw your card first.)
+
+## Azurill (dp1-69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delivery
+
+Cost: 
+Damage: —
+
+Put any 1 card from your discard pile into your hand.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts a evolving Azurill) and remove all damage counters from Azurill.
+
+## Luxray (dp1-7)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Luxio
+Types: Lightning
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lightning Star
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 80
+
+Move all Lightning Energy attached to Luxray to 1 of your Benched Pokémon. (Ignore this effect if you don't have any Benched Pokémon.)
+
+### Poké-Power: Gleam Eyes
+
+Once during your turn, when you play Luxray from your hand to evolve 1 of your Pokémon, you may look at your opponent's hand. If your opponent's Bench isn't full, choose 1 Basic Pokémon from your opponent's hand, and put it onto his or her Bench. Then, switch it with the Defending Pokémon.
+
+## Bidoof (dp1-70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Amnesia
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Scavenge
+
+Cost: Colorless
+Damage: —
+
+Search your discard pile for a Trainer card, show it to your opponent, and put it into your hand.
+
+## Bonsly (dp1-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fake Tears
+
+Cost: 
+Damage: —
+
+Flip a coin. If heads, your opponent can't play any Trainer cards from his or her hand during your opponent's next turn, and any damage done to Bonsly by attacks is reduced by 30 (after applying Weakness and Resistance).
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Sudowoodo from your hand onto Bonsly (this counts as evolving Bonsly) and remove all damage counters from Bonsly.
+
+## Buizel (dp1-72)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splash About
+
+Cost: Water
+Damage: 10+
+
+If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.
+
+## Buneary (dp1-73)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splash
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Jump Kick
+
+Cost: Colorless, Colorless
+Damage: 10
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Chatot (dp1-74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Me First
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Tone-Deaf
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Cherubi (dp1-75)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleep Powder
+
+Cost: Grass
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Leech Seed
+
+Cost: Grass, Colorless
+Damage: 20
+
+If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi.
+
+## Chimchar (dp1-76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Ember
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If tails, discard a Fire Energy attached to Chimchar.
+
+## Clefairy (dp1-77)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sing
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Moon Impact
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+If Clefairy is evolved from Cleffa, this attack does 20 damage plus 20 more damage.
+
+## Cleffa (dp1-78)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Eeek
+
+Cost: 
+Damage: —
+
+Draw a card.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Clefairy from your hand onto Cleffa (this counts as evolving Cleffa) and remove all damage counters from Cleffa.
+
+## Combee (dp1-79)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Soliciting Nectar
+
+Cost: Grass
+Damage: —
+
+Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. The new Defending Pokémon is now Asleep.
+
+### Attack: Gust
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Magnezone (dp1-8)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Magneton
+Types: Metal
+HP: 120
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Blast
+
+Cost: Metal, Colorless, Colorless
+Damage: 50+
+
+Does 50 damage plus 10 more damage for each Metal Energy attached to Magnezone.
+
+### Poké-Body: Magnetize
+
+If you have any Metal Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.
+
+## Duskull (dp1-80)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Disable
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Night Shade
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Electabuzz (dp1-81)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunderpunch
+
+Cost: Lightning, Colorless
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, Electabuzz does 10 damage to itself.
+
+### Attack: Shock Wave
+
+Cost: Lightning, Lightning
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If Electabuzz is evolved from Elekid, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Gastly (dp1-82)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pain Payback
+
+Cost: Psychic
+Damage: —
+
+Move 1 damage counter from Gastly to 1 of your opponent's Pokémon.
+
+## Glameow (dp1-83)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charm
+
+Cost: Colorless
+Damage: —
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Attack: Pose
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+## Goldeen (dp1-84)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Horn Attack
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Take Down
+
+Cost: Water, Colorless
+Damage: 30
+
+Goldeen does 10 damage to itself.
+
+## Hoothoot (dp1-85)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnosis
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Kick Shot
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+## Machop (dp1-86)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Low Kick
+
+Cost: Fighting
+Damage: 20
+
+
+
+## Magnemite (dp1-87)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Sound
+
+Cost: Metal
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Resonance
+
+Cost: Metal, Colorless
+Damage: 20+
+
+If the Defending Pokémon is Confused, this attack does 20 damage plus 20 more damage.
+
+## Marill (dp1-88)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rollout
+
+Cost: Colorless
+Damage: 10+
+
+If Marill is evolved from Azurill, this attack does 10 damage plus 20 more damage.
+
+### Attack: Splashing Turn
+
+Cost: Water, Water
+Damage: 20
+
+Switch Marill with 1 of your Benched Pokémon.
+
+## Meditite (dp1-89)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Detect
+
+Cost: Fighting
+Damage: —
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Meditite during your opponent's next turn.
+
+### Attack: Meditate
+
+Cost: Fighting, Colorless
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+
+## Manaphy (dp1-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.
+
+### Attack: Aqua Ring
+
+Cost: Water, Water
+Damage: 30
+
+Switch Manaphy with 1 of your Benched Pokémon.
+
+## Mime Jr. (dp1-90)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mime
+
+Cost: Psychic
+Damage: —
+
+Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.
+
+## Misdreavus (dp1-91)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Astonish
+
+Cost: Colorless
+Damage: —
+
+Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.
+
+### Attack: Confuse Ray
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Onix (dp1-92)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tunneling
+
+Cost: Fighting
+Damage: —
+
+Choose up to 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) Onix can't attack during your next turn.
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Piplup (dp1-93)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Peck
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Water Splash
+
+Cost: Water, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+
+## Ponyta (dp1-94)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Flame Tail
+
+Cost: Fire, Fire
+Damage: 30
+
+
+
+## Rhyhorn (dp1-95)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Horn Attack
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Take Down
+
+Cost: Fighting, Colorless
+Damage: 30
+
+Rhyhorn does 10 damage to itself.
+
+## Roselia (dp1-96)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Toxic Spikes
+
+Cost: Grass
+Damage: —
+
+The Defending Pokémon is now Poisoned. If Roselia is evolved from Budew, this attack does 10 damage to the Defending Pokémon.
+
+### Attack: Sweet Spike
+
+Cost: Grass, Grass
+Damage: 10
+
+The Defending Pokémon is now Asleep. Remove 2 damage counters from 1 of your Pokémon.
+
+## Seedot (dp1-97)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bide
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, if Seedot would be Knocked Out by damage from an attack, Seedot is not Knocked Out and its remaining HP becomes 10 instead.
+
+### Attack: Rollout
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Shinx (dp1-98)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spark
+
+Cost: Lightning
+Damage: 10
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Skorupi (dp1-99)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Psychic
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Attack: Pin Missile
+
+Cost: Colorless, Colorless
+Damage: 10×
+
+Flip 4 coins. This attack does 10 damage times the number of heads.
+

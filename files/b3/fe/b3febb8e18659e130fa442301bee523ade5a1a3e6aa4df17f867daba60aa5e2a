@@ -1,0 +1,11 @@
+# Reading exact card records
+
+Card IDs identify exact printings. Name alone is not enough: two printings of the same Pokémon can have different attacks, abilities, types, evolution stages or effects. Search may find multiple versions. Retrieve the desired IDs and make the selected version clear.
+
+Search terms match printed name, ID, set, evolution parent, subtypes, attack names and text, and ability names and text. Use category and type filters where useful. active_only=true narrows results to cards eligible for decks in this game. Set active_only=false to answer questions about archived records. Paginate results rather than assuming the first page is complete.
+
+Basic Energy is exempt from the four-per-name limit. Special Energy is not. Retrieve Energy rule text and restrictions before recommending it. 'Printed damage' can include + or × and is not necessarily the final damage. Attack text and effects explain conditional damage, costs and exceptions.
+
+Evolution-family results include alternative versions. Select a compatible printed path using evolves_from and stage, including V-to-VMAX/VSTAR rules where applicable. Not every Pokémon with a related species or name can evolve into every variant.
+
+Card rules and development coverage are distinct: printed text explains the real card, while available_in_game tells whether the current game permits it. Ask the player when the requested version is ambiguous or unavailable, and offer supported alternatives.

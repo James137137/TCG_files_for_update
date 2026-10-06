@@ -1,0 +1,371 @@
+# Card reference: ru1
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Venusaur (ru1-1)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Ivysaur
+Types: Grass
+HP: 140
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Giga Drain
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 50
+
+Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon.
+
+## Mew (ru1-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cut
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Will-o'-the-wisp
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+
+
+## Diglett (ru1-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dig
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Lucario (ru1-12)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Riolu
+Types: Fighting
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Claw
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+
+
+### Attack: Pulse Blast
+
+Cost: Fighting, Metal, Colorless, Colorless
+Damage: 80
+
+
+
+## Skuntank (ru1-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Stunky
+Types: Darkness
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rage
+
+Cost: Darkness, Colorless, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each damage counter on Skuntank.
+
+## Bastiodon (ru1-14)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shieldon
+Types: Metal
+HP: 120
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strength
+
+Cost: Metal, Colorless, Colorless
+Damage: 40
+
+
+
+## Rattata (ru1-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Bibarel (ru1-16)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bidoof
+Types: Colorless
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rollout
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50
+
+
+
+## Cherrim (ru1-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cherubi
+Types: Grass
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Solarbeam
+
+Cost: Grass, Colorless, Colorless
+Damage: 60
+
+
+
+## Ninetales (ru1-3)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Vulpix
+Types: Fire
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flame Tail
+
+Cost: Fire, Colorless, Colorless
+Damage: 60
+
+
+
+## Heatran (ru1-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 110
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heat Boiler
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 60+
+
+If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage.
+
+## Starmie (ru1-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Staryu
+Types: Water
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Drain
+
+Cost: Water, Colorless, Colorless
+Damage: 50
+
+Remove 1 damage counter from Starmie.
+
+## Gyarados (ru1-6)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magikarp
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thrash Tackle
+
+Cost: Water, Colorless, Colorless, Colorless
+Damage: 80
+
+Gyarados does 20 damage to itself.
+
+## Pikachu (ru1-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Volt Tackle
+
+Cost: Lightning, Colorless, Colorless
+Damage: 60
+
+Pikachu does 10 damage to itself.
+
+## Zapdos (ru1-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Drill Peck
+
+Cost: Lightning, Colorless, Colorless, Colorless
+Damage: 70
+
+
+
+## Mewtwo (ru1-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Super Psy Bolt
+
+Cost: Psychic, Psychic, Colorless
+Damage: 70
+
+
+

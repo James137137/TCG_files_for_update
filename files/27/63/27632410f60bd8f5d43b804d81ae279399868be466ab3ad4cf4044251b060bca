@@ -1,0 +1,1649 @@
+# Card reference: base3
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Aerodactyl (base3-1)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wing Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+
+
+### Pokémon Power: Prehistoric Power
+
+No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.
+
+## Lapras (base3-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+### Attack: Confuse Ray
+
+Cost: Water, Water
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Magneton (base3-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magnemite
+Types: Lightning
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sonicboom
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)
+
+### Attack: Selfdestruct
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 100
+
+Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself.
+
+## Moltres (base3-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wildfire
+
+Cost: Fire
+Damage: —
+
+You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck.
+
+### Attack: Dive Bomb
+
+Cost: Fire, Fire, Fire, Fire
+Damage: 80
+
+Flip a coin. If tails, this attack does nothing.
+
+## Muk (base3-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Grimer
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sludge
+
+Cost: Grass, Grass, Grass
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Pokémon Power: Toxic Gas
+
+Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.
+
+## Raichu (base3-14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gigashock
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 30
+
+Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do the damage to each of them.
+
+## Zapdos (base3-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunderstorm
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 40
+
+For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself.
+
+## Aerodactyl (base3-16)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wing Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+
+
+### Pokémon Power: Prehistoric Power
+
+No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.
+
+## Articuno (base3-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Freeze Dry
+
+Cost: Water, Water, Water
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Blizzard
+
+Cost: Water, Water, Water, Water
+Damage: 50
+
+Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Ditto (base3-18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Pokémon Power: Transform
+
+If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.
+
+## Dragonite (base3-19)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dragonair
+Types: Colorless
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+### Pokémon Power: Step In
+
+Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.
+
+## Articuno (base3-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Freeze Dry
+
+Cost: Water, Water, Water
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Blizzard
+
+Cost: Water, Water, Water, Water
+Damage: 50
+
+Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Gengar (base3-20)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Haunter
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Mind
+
+Cost: Psychic, Psychic, Psychic
+Damage: 30
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Pokémon Power: Curse
+
+Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.
+
+## Haunter (base3-21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Gastly
+Types: Psychic
+HP: 50
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nightmare
+
+Cost: Psychic, Colorless
+Damage: 10
+
+The Defending Pokémon is now Asleep.
+
+### Pokémon Power: Transparency
+
+Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.
+
+## Hitmonlee (base3-22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stretch Kick
+
+Cost: Fighting, Fighting
+Damage: —
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: High Jump Kick
+
+Cost: Fighting, Fighting, Fighting
+Damage: 50
+
+
+
+## Hypno (base3-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drowzee
+Types: Psychic
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Prophecy
+
+Cost: Psychic
+Damage: —
+
+Look at up to 3 cards from the top of either player's deck and rearrange them as you like.
+
+### Attack: Dark Mind
+
+Cost: Psychic, Psychic, Psychic
+Damage: 30
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Kabutops (base3-24)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kabuto
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharp Sickle
+
+Cost: Fighting, Fighting
+Damage: 30
+
+
+
+### Attack: Absorb
+
+Cost: Fighting, Fighting, Fighting, Fighting
+Damage: 40
+
+Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them.
+
+## Lapras (base3-25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+### Attack: Confuse Ray
+
+Cost: Water, Water
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Magneton (base3-26)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magnemite
+Types: Lightning
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sonicboom
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)
+
+### Attack: Selfdestruct
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 100
+
+Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself.
+
+## Moltres (base3-27)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wildfire
+
+Cost: Fire
+Damage: —
+
+You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck.
+
+### Attack: Dive Bomb
+
+Cost: Fire, Fire, Fire, Fire
+Damage: 80
+
+Flip a coin. If tails, this attack does nothing.
+
+## Muk (base3-28)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Grimer
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sludge
+
+Cost: Grass, Grass, Grass
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Pokémon Power: Toxic Gas
+
+Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.
+
+## Raichu (base3-29)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gigashock
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 30
+
+Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do that damage to each of them.
+
+## Ditto (base3-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Pokémon Power: Transform
+
+If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.
+
+## Zapdos (base3-30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunderstorm
+
+Cost: Lightning, Lightning, Lightning, Lightning
+Damage: 40
+
+For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself.
+
+## Arbok (base3-31)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ekans
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Terror Strike
+
+Cost: Grass
+Damage: 10
+
+Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)
+
+### Attack: Poison Fang
+
+Cost: Grass, Grass, Colorless
+Damage: 20
+
+The Defending Pokémon is now Poisoned.
+
+## Cloyster (base3-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shellder
+Types: Water
+HP: 50
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Clamp
+
+Cost: Water, Water
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).
+
+### Attack: Spike Cannon
+
+Cost: Water, Water
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Gastly (base3-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lick
+
+Cost: Psychic
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Energy Conversion
+
+Cost: Psychic, Psychic
+Damage: —
+
+Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself.
+
+## Golbat (base3-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zubat
+Types: Grass
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wing Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Leech Life
+
+Cost: Grass, Grass, Colorless
+Damage: 20
+
+Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them.
+
+## Golduck (base3-35)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Psyduck
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyshock
+
+Cost: Psychic
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Hyper Beam
+
+Cost: Water, Water, Colorless
+Damage: 20
+
+If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.
+
+## Golem (base3-36)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Graveler
+Types: Fighting
+HP: 80
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Avalanche
+
+Cost: Fighting, Fighting, Fighting, Colorless
+Damage: 60
+
+
+
+### Attack: Selfdestruct
+
+Cost: Fighting, Fighting, Fighting, Fighting
+Damage: 100
+
+Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself.
+
+## Graveler (base3-37)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Geodude
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Harden
+
+Cost: Fighting, Fighting
+Damage: —
+
+During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)
+
+### Attack: Rock Throw
+
+Cost: Fighting, Fighting, Colorless
+Damage: 40
+
+
+
+## Kingler (base3-38)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Krabby
+Types: Water
+HP: 60
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flail
+
+Cost: Water
+Damage: 10×
+
+Does 10 damage times the number of damage counters on Kingler.
+
+### Attack: Crabhammer
+
+Cost: Water, Water, Colorless
+Damage: 40
+
+
+
+## Magmar (base3-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smokescreen
+
+Cost: Fire
+Damage: 10
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+### Attack: Smog
+
+Cost: Fire, Fire
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+## Dragonite (base3-4)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dragonair
+Types: Colorless
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+### Pokémon Power: Step In
+
+Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.
+
+## Omastar (base3-40)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Omanyte
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+### Attack: Spike Cannon
+
+Cost: Water, Water
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Sandslash (base3-41)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sandshrew
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Fury Swipes
+
+Cost: Fighting, Fighting
+Damage: 20×
+
+Flip 3 coins. This attack does 20 damage times the number of heads.
+
+## Seadra (base3-42)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Horsea
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+### Attack: Agility
+
+Cost: Water, Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra.
+
+## Slowbro (base3-43)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Slowpoke
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyshock
+
+Cost: Psychic, Psychic
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Pokémon Power: Strange Behavior
+
+As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed.
+
+## Tentacruel (base3-44)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Tentacool
+Types: Water
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Supersonic
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Jellyfish Sting
+
+Cost: Water, Water
+Damage: 10
+
+The Defending Pokémon is now Poisoned.
+
+## Weezing (base3-45)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Koffing
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smog
+
+Cost: Grass, Grass
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Attack: Selfdestruct
+
+Cost: Grass, Grass, Colorless
+Damage: 60
+
+Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Weezing does 60 damage to itself.
+
+## Ekans (base3-46)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spit Poison
+
+Cost: Grass
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Attack: Wrap
+
+Cost: Grass, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Geodude (base3-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stone Barrage
+
+Cost: Fighting, Colorless
+Damage: 10×
+
+Flip a coin until you get tails. This attack does 10 damage times the number of heads.
+
+## Grimer (base3-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nasty Goo
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Minimize
+
+Cost: Grass
+Damage: —
+
+All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance).
+
+## Horsea (base3-49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smokescreen
+
+Cost: Water
+Damage: 10
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+## Gengar (base3-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Haunter
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dark Mind
+
+Cost: Psychic, Psychic, Psychic
+Damage: 30
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Pokémon Power: Curse
+
+Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.
+
+## Kabuto (base3-50)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Fighting
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Pokémon Power: Kabuto Armor
+
+Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed.
+
+## Krabby (base3-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Water
+Damage: —
+
+Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench if full.)
+
+### Attack: Irongrip
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Omanyte (base3-52)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+### Pokémon Power: Clairvoyance
+
+Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed.
+
+## Psyduck (base3-53)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headache
+
+Cost: Psychic
+Damage: —
+
+Your opponent can't play Trainer cards during his or her next turn.
+
+### Attack: Fury Swipes
+
+Cost: Water
+Damage: 10×
+
+Flip 3 coins. This attack does 10 damage times the number of heads.
+
+## Shellder (base3-54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Supersonic
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Hide in Shell
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, prevent all damage done to Shellder during your opponent's next turn. (Any other effects of attacks still happen.)
+
+## Slowpoke (base3-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spacing Out
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it.
+
+### Attack: Scavenge
+
+Cost: Psychic, Psychic
+Damage: —
+
+Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand.
+
+## Tentacool (base3-56)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Acid
+
+Cost: Water
+Damage: 10
+
+
+
+### Pokémon Power: Cowardice
+
+At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed.
+
+## Zubat (base3-57)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Supersonic
+
+Cost: Colorless, Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Attack: Leech Life
+
+Cost: Grass, Colorless
+Damage: 10
+
+Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them.
+
+## Mr. Fuji (base3-58)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Choose a Pokémon on your Bench. Shuffle it and any cards attached to it into your deck.
+
+## Energy Search (base3-59)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward.
+
+## Haunter (base3-6)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Gastly
+Types: Psychic
+HP: 50
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nightmare
+
+Cost: Psychic, Colorless
+Damage: 10
+
+The Defending Pokémon is now Asleep.
+
+### Pokémon Power: Transparency
+
+Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.
+
+## Gambler (base3-60)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card.
+
+## Recycle (base3-61)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, put a card in your discard pile on top of your deck.
+
+## Mysterious Fossil (base3-62)
+
+Category: Trainer
+Stage: Basic
+Evolution parent: —
+Types: 
+HP: 10
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play.
+
+## Hitmonlee (base3-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stretch Kick
+
+Cost: Fighting, Fighting
+Damage: —
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: High Jump Kick
+
+Cost: Fighting, Fighting, Fighting
+Damage: 50
+
+
+
+## Hypno (base3-8)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drowzee
+Types: Psychic
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Prophecy
+
+Cost: Psychic
+Damage: —
+
+Look at up to 3 cards from the top of either player's deck and rearrange them as you like.
+
+### Attack: Dark Mind
+
+Cost: Psychic, Psychic, Psychic
+Damage: 30
+
+If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Kabutops (base3-9)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kabuto
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharp Sickle
+
+Cost: Fighting, Fighting
+Damage: 30
+
+
+
+### Attack: Absorb
+
+Cost: Fighting, Fighting, Fighting, Fighting
+Damage: 40
+
+Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them.
+

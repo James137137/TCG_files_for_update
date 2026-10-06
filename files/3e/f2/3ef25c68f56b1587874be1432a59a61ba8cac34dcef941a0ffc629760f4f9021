@@ -1,0 +1,2692 @@
+# Card reference: ex15
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Ampharos δ (ex15-1)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Flaaffy
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Circle
+
+Cost: Colorless, Colorless, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each Pokémon you have in play that has δ on its card.
+
+### Poké-Body: Holon Veil
+
+Treat each Basic Pokémon and Evolution card in your deck, in your discard pile, in your hand, and in play as a Pokémon that has δ on its card.
+
+## Snorlax δ (ex15-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Poké-Body: Bedhead
+
+As long as Snorlax remains Asleep between turns, put 2 damage counters on 1 of the Defending Pokémon.
+
+### Poké-Power: Dozing
+
+Once during your turn (before your attack), if Snorlax is your Active Pokémon, you may remove 2 damage counters from Snorlax and Snorlax is now Asleep. This power can't be used if Snorlax is affected by a Special Condition.
+
+## Charizard ★ δ (ex15-100)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rotating Claws
+
+Cost: Darkness, Colorless
+Damage: 20
+
+You may discard an Energy card attached to Charizard Star. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Charizard Star.
+
+### Attack: Dark Swirl
+
+Cost: Darkness, Darkness, Darkness, Darkness, Colorless
+Damage: 150
+
+Discard all Energy cards attached to Charizard Star and discard the top 3 cards from your opponent's deck.
+
+### Printed rules
+
+You can't have more than 1 Pokémon Star in your deck.
+
+## Mew ★ δ (ex15-101)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mimicry
+
+Cost: Colorless
+Damage: —
+
+Choose an attack on 1 of your opponent's Pokémon in play. Mimicry copies that attack. This attack does nothing if Mew Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew Star performs that attack.
+
+### Attack: Rainbow Wave
+
+Cost: Water
+Damage: —
+
+Choose 1 basic Energy card attached to Mew Star. This attack does 20 damage to each of your opponent's Pokémon that is the same type as the basic Energy card that you chose. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+You can't have more than 1 Pokémon Star in your deck.
+
+## Togetic δ (ex15-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Togepi
+Types: Water
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Copy
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose an attack on 1 of your opponent's Pokémon in play that has δ on its card. Delta Copy copies that attack except for its Energy cost. (You must still do anything else required for that attack.) Togetic performs that attack.
+
+### Attack: Wave Splash
+
+Cost: Water, Colorless
+Damage: 30
+
+
+
+## Typhlosion δ (ex15-12)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Quilava
+Types: Psychic
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Burning Ball
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+If Typhlosion has at least 2 Fire Energy attached to it, the Defending Pokémon is now Burned.
+
+### Poké-Power: Shady Move
+
+Once during your turn (before your attack), if Typhlosion is your Active Pokémon, you may move 1 damage counter from either player's Pokémon to another Pokémon (yours or your opponent's). This power can't be used if Typhlosion is affected by a Special Condition.
+
+## Arbok δ (ex15-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ekans
+Types: Fire
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Burning Venom
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Burned and Poisoned.
+
+### Attack: Strangle
+
+Cost: Fire, Fire, Colorless
+Damage: 50+
+
+If the Defending Pokémon has δ on its card, this attack does 50 damage plus 30 more damage.
+
+## Cloyster δ (ex15-14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shellder
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Grind
+
+Cost: Fighting
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each Energy attached to Cloyster.
+
+### Poké-Body: Solid Shell
+
+Prevent all effects of attacks, including damage, done by your opponent's Pokémon to each of your Benched Pokémon that has δ on its card.
+
+## Dewgong δ (ex15-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Seel
+Types: Colorless
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ice Beam
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Surge
+
+Cost: Colorless, Colorless, Colorless
+Damage: 40+
+
+If Dewgong has at least 2 Water Energy attached to it, this attack does 40 damage plus 20 more damage.
+
+### Poké-Body: Delta Protection
+
+Any damage done to Dewgong by attacks from your opponent's Pokémon that has δ on its card is reduced by 40 (after applying Weakness and Resistance).
+
+## Gligar δ (ex15-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sting Turn
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed and switch Gligar with 1 of your Benched Pokémon.
+
+### Attack: Tail Sting
+
+Cost: Colorless
+Damage: 10+
+
+If the Defending Pokémon is Pokémon-ex, this attack does 10 damage plus 10 more damage and the Defending Pokémon is now Poisoned.
+
+## Jynx δ (ex15-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fire Punch
+
+Cost: Fire, Colorless
+Damage: 30
+
+
+
+### Poké-Body: Stages of Evolution
+
+As long as Jynx is an Evolved Pokémon, you pay Colorless less to retreat your Fire and Psychic Pokémon.
+
+## Ledian δ (ex15-18)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ledyba
+Types: Metal
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Star
+
+Cost: Metal, Colorless
+Damage: 30
+
+If Ledian has a Pokémon Tool card attached to it, draw 3 cards.
+
+### Poké-Power: Prowl
+
+Once during your turn, when you play Ledian from your hand to evolve 1 of your Pokémon, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.
+
+## Lickitung δ (ex15-19)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lap Up
+
+Cost: Colorless
+Damage: —
+
+Draw 2 cards.
+
+### Attack: Delta Mind
+
+Cost: Psychic
+Damage: —
+
+Put 1 damage counter on 1 of your opponent's Pokémon. If that Pokémon has δ on its card, put 3 damage counters instead.
+
+## Feraligatr δ (ex15-2)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Croconaw
+Types: Lightning
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Drag Off
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch.
+
+### Attack: Sharp Fang
+
+Cost: Lightning, Lightning, Colorless
+Damage: 60
+
+
+
+### Poké-Body: Battle Aura
+
+Each of your Pokémon that has δ on its card does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).
+
+## Mantine δ (ex15-20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Drain
+
+Cost: Lightning
+Damage: 10
+
+Remove 1 damage counter from Mantine.
+
+### Poké-Power: Power Circulation
+
+Once during your turn (before your attack), you may search your discard pile for a basic Energy card, show it to your opponent, and put it on top of your deck. If you do, put 1 damage counter on Mantine. This power can't be used if Mantine is affected by a Special Condition.
+
+## Quagsire δ (ex15-21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wooper
+Types: Grass
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pump Out
+
+Cost: Grass, Colorless, Colorless
+Damage: 50+
+
+If Quagsire has a Pokémon Tool card attached to it, this attack does 50 damage plus 20 more damage.
+
+### Poké-Power: Dig Up
+
+Once during your turn, when you play Quagsire from your hand to evolve 1 of your Pokémon, you may search your discard pile for up to 2 Pokémon Tool cards, show them to your opponent, and put them into your hand.
+
+## Seadra δ (ex15-22)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Horsea
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smokescreen
+
+Cost: Colorless, Colorless
+Damage: 20
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+### Attack: Razor Wing
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+
+
+## Tropius δ (ex15-23)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Grind
+
+Cost: Metal
+Damage: 10×
+
+Does 10 damage times the amount of Energy attached to Tropius.
+
+### Poké-Power: Tropical Heal
+
+Once during your turn, when you put Tropius from your hand onto your Bench, you may remove all Special Conditions, Imprison markers, and Shock-wave markers from your Pokémon.
+
+## Vibrava δ (ex15-24)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Trapinch
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Blow
+
+Cost: Colorless, Colorless, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 20 more damage.
+
+### Poké-Body: Psychic Wing
+
+If Vibrava has any Psychic Energy attached to it, the Retreat Cost for Vibrava is 0.
+
+## Xatu δ (ex15-25)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Natu
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Confuse Ray
+
+Cost: Darkness, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+### Poké-Body: Extra Feather
+
+Each of your Stage 2 Pokémon-ex does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance).
+
+## Bayleef δ (ex15-26)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Chikorita
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poisonpowder
+
+Cost: Fighting, Colorless
+Damage: 20
+
+The Defending Pokémon is now Poisoned.
+
+## Croconaw δ (ex15-27)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Totodile
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scary Face
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn.
+
+### Attack: Slash
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+
+
+## Dragonair δ (ex15-28)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dratini
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wrap
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Horn Attack
+
+Cost: Grass, Colorless, Colorless
+Damage: 40
+
+
+
+## Electabuzz δ (ex15-29)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swift
+
+Cost: Fighting, Colorless
+Damage: 30
+
+This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.
+
+### Poké-Power: Power of Evolution
+
+Once during your turn (before your attack), if Electabuzz is an Evolved Pokémon, you may draw a card from the bottom of your deck. This power can't be used if Electabuzz is affected by a Special Condition.
+
+## Heracross δ (ex15-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dig Deep
+
+Cost: Colorless
+Damage: —
+
+Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.
+
+### Attack: Extra Claws
+
+Cost: Fire, Colorless
+Damage: 30+
+
+If the Defending Pokémon is Pokémon-ex, this attack does 30 damage plus 20 more damage.
+
+### Poké-Body: Shining Horn
+
+As long as Heracross is the only Pokémon you have in play, your opponent's Basic Pokémon can't attack.
+
+## Flaaffy δ (ex15-30)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mareep
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thundershock
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Horsea δ (ex15-31)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Reverse Thrust
+
+Cost: Fighting, Colorless
+Damage: 20
+
+Switch Horsea with 1 of your Benched Pokémon.
+
+## Kirlia (ex15-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ralts
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyshock
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Link Blast
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+If Kirlia and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 30 instead of 60.
+
+## Kirlia δ (ex15-33)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ralts
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flickering Flames
+
+Cost: Fire, Colorless
+Damage: 20
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Smack
+
+Cost: Fire, Colorless, Colorless
+Damage: 40
+
+
+
+## Nidorina δ (ex15-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Nidoran ♀
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Colorless, Colorless
+Damage: 10
+
+The Defending Pokémon is now Poisoned.
+
+### Attack: Rear Kick
+
+Cost: Metal, Colorless, Colorless
+Damage: 40
+
+
+
+## Nidorino δ (ex15-35)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Nidoran ♂
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rage
+
+Cost: Darkness, Colorless
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each damage counter on Nidorino.
+
+### Attack: Horn Drill
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+
+
+## Quilava δ (ex15-36)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cyndaquil
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smash Kick
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Quick Attack
+
+Cost: Psychic, Colorless, Colorless
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 damage plus 20 more damage.
+
+## Seadra δ (ex15-37)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Horsea
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ram
+
+Cost: Fighting, Colorless
+Damage: 20
+
+
+
+### Attack: Extra Ball
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30+
+
+If the Defending Pokémon is a Pokémon-ex, this attack does 30 damage plus 30 more damage.
+
+## Shelgon δ (ex15-38)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bagon
+Types: Water
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Double-edge
+
+Cost: Water, Colorless, Colorless
+Damage: 50
+
+Shelgon does 10 damage to itself.
+
+## Smeargle δ (ex15-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Flickering Tail
+
+Cost: Colorless
+Damage: 10+
+
+If the Defending Pokémon is Pokémon-ex, this attack does 10 damage plus 10 more damage and the Defending Pokémon is now Asleep.
+
+## Meganium δ (ex15-4)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Bayleef
+Types: Fighting
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Reduction
+
+Cost: Fighting, Colorless
+Damage: 40
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).
+
+### Attack: Mega Impact
+
+Cost: Fighting, Colorless, Colorless
+Damage: 60
+
+
+
+### Poké-Power: Evolutionary Call
+
+Once during your turn, when you play Meganium from your hand to evolve 1 of your Pokémon, you may search your deck for up to 3 in any combination of Basic Pokémon or Evolution cards. Show them to your opponent and put them into your hand. Shuffle your deck afterward.
+
+## Swellow δ (ex15-40)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Taillow
+Types: Fire
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Agility
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn.
+
+### Poké-Body: Extra Wing
+
+The Retreat Cost for each of your Stage 2 Pokémon-ex is 0.
+
+## Togepi δ (ex15-41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charm
+
+Cost: Water
+Damage: —
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+## Vibrava δ (ex15-42)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Trapinch
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Sonic Noise
+
+Cost: Psychic, Colorless
+Damage: 30
+
+If the Defending Pokémon is Pokémon-ex, that Pokémon is now Confused.
+
+## Bagon δ (ex15-43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Granite Head
+
+Cost: Water
+Damage: 10
+
+During your opponent's next turn, any damage done to Bagon by attacks is reduced by 10 (after applying Weakness and Resistance).
+
+## Chikorita δ (ex15-44)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleep Powder
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Tackle
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Cyndaquil δ (ex15-45)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swift
+
+Cost: Psychic, Colorless
+Damage: 30
+
+This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.
+
+## Dratini δ (ex15-46)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ram
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Ekans δ (ex15-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Tail Snap
+
+Cost: Fire, Colorless
+Damage: 20
+
+
+
+## Elekid δ (ex15-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Spear
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Electabuzz from your hand onto Elekid (this counts as evolving Elekid) and remove all damage counters from Elekid.
+
+## Feebas δ (ex15-49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flail
+
+Cost: Fire
+Damage: 10×
+
+Does 10 damage times the number of damage counters on Feebas.
+
+## Milotic δ (ex15-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Feebas
+Types: Fire
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flare
+
+Cost: Fire, Fire, Colorless
+Damage: 60
+
+
+
+### Poké-Power: Sharing
+
+Once during your turn (before your attack), you may look at your opponent's hand. You may use the effect of a Supporter card you find there as the effect of this power. (The Supporter card remains in your opponent's hand.) You can't use more than 1 Sharing Poké-Power each turn. This power can't be used if Milotic is affected by a Special Condition.
+
+## Horsea δ (ex15-50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleepy Ball
+
+Cost: Colorless
+Damage: 10
+
+The Defending Pokémon is now Asleep.
+
+## Larvitar (ex15-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Fighting
+Damage: 10
+
+
+
+### Attack: Mud Slap
+
+Cost: Fighting, Colorless
+Damage: 20
+
+
+
+## Larvitar δ (ex15-52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Paralyzing Gaze
+
+Cost: Lightning
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Horn Attack
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Ledyba δ (ex15-53)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Supersonic
+
+Cost: Metal
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Mareep δ (ex15-54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tail Whap
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Natu δ (ex15-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flop
+
+Cost: Darkness
+Damage: 10
+
+
+
+## Nidoran ♀ δ (ex15-56)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tail Whip
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Nidoran ♂ δ (ex15-57)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Peck
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Poison Horn
+
+Cost: Darkness
+Damage: —
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+## Pupitar (ex15-58)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Fighting
+Damage: 20
+
+
+
+## Pupitar δ (ex15-59)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyper Beam
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.
+
+## Nidoking δ (ex15-6)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Nidorino
+Types: Darkness
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linear Attack
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Dark Horn
+
+Cost: Darkness, Colorless, Colorless
+Damage: 60
+
+You may discard a Basic Pokémon or Evolution card from your hand. If you do, choose 1 of your opponent's Benched Pokémon and do 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Ralts (ex15-60)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnosis
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Psychic Boom
+
+Cost: Psychic
+Damage: 10×
+
+Does 10 damage times the amount of Energy attached to the Defending Pokémon.
+
+## Ralts δ (ex15-61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Calm Mind
+
+Cost: Colorless
+Damage: —
+
+Remove 2 damage counters from Ralts.
+
+### Attack: Will-o'-the-wisp
+
+Cost: Fire, Colorless
+Damage: 20
+
+
+
+## Seel δ (ex15-62)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pound
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Aurora Beam
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Shellder δ (ex15-63)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shell Grab
+
+Cost: Fighting
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Smoochum δ (ex15-64)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Alluring Kiss
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Basic Pokémon and basic Energy card, show them to your opponent, and put them into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Jynx from your hand onto Smoochum (this counts as evolving Smoochum) and remove all damage counters from Smoochum.
+
+## Swablu δ (ex15-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splash About
+
+Cost: Water
+Damage: 10+
+
+If Swablu has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.
+
+## Taillow δ (ex15-66)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Fire
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 10 more damage.
+
+## Totodile δ (ex15-67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Rage
+
+Cost: Lightning, Colorless
+Damage: 10+
+
+Does 10 damage plus 10 more damage for each damage counter on Totodile.
+
+## Trapinch δ (ex15-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gnaw
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Dig
+
+Cost: Psychic, Colorless
+Damage: 20
+
+
+
+## Trapinch δ (ex15-69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Bind
+
+Cost: Psychic
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.
+
+## Nidoqueen δ (ex15-7)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Nidorina
+Types: Metal
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vengeance
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30+
+
+Does 30 damage plus 10 more damage for each Basic Pokémon and each Evolution card in your discard pile. You can't add more than 60 damage in this way.
+
+### Poké-Power: Invitation
+
+Once during your turn (before your attack), you may search your deck for a Basic Pokémon or Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Nidoqueen is affected by a Special Condition.
+
+## Vulpix δ (ex15-70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnotic Gaze
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Will-o'-the-wisp
+
+Cost: Psychic, Colorless
+Damage: 20
+
+
+
+## Wooper δ (ex15-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Amnesia
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Tail Slap
+
+Cost: Grass, Colorless
+Damage: 20
+
+
+
+## Buffer Piece (ex15-72)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach Buffer Piece to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.
+
+Damage done to the Pokémon Buffer Piece is attached to by an opponent's attack is reduced by 20 (after applying Weakness and Resistance). At the end of your opponent's turn after you played Buffer Piece, discard Buffer Piece.
+
+## Copycat (ex15-73)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Shuffle your hand into your deck. Then, count the number of cards in your opponent's hand and draw that many cards.
+
+## Holon Legacy (ex15-74)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+Each Pokémon in play that has δ on its card (both yours and your opponent's) has no Weakness and can't use any Poké-Powers.
+
+## Holon Mentor (ex15-75)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Discard a card from your hand. If you can't discard a card from your hand, you can't play this card.
+
+Search your deck for up to 3 Basic Pokémon that each has 100 HP or less, show them to your opponent, and put them into your hand. Shuffle your deck afterward.
+
+## Island Hermit (ex15-76)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Choose up to 2 of your Prize cards and put them face up. (These cards remain face up for the rest of the game.) Draw 2 cards.
+
+## Mr. Stone's Project (ex15-77)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward. Or, search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.
+
+## Old Rod (ex15-78)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip 2 coins. If both are heads, search your discard pile for a Basic Pokémon or Evolution card, show it to your opponent, and put it into your hand. If both are tails, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand.
+
+## Professor Elm's Training Method (ex15-79)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Ninetales δ (ex15-8)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Vulpix
+Types: Psychic
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Trick Tail
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Search your discard pile for an Energy card and attach it to 1 of your Pokémon.
+
+### Poké-Power: Volunteer
+
+Once during your turn (before your attack), you may remove 4 damage counters from Ninetales and discard Ninetales from Vulpix. If you do, search your deck for Ninetales or Ninetales ex and put it onto Vulpix (this counts as evolving Vulpix). Shuffle your deck afterward.
+
+## Professor Oak's Research (ex15-80)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Shuffle your hand into your deck, then draw 5 cards.
+
+## Strength Charm (ex15-81)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach Strength Charm to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.
+
+Whenever an attack from the Pokémon that Strength Charm is attached to does damage to the Active Pokémon, this attack does 10 more damage (before applying Weakness and Resistance). Discard Strength Charm at the end of the turn in which this Pokémon attacks.
+
+## TV Reporter (ex15-82)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.
+
+Draw 3 cards. Then discard any 1 card from your hand.
+
+## Switch (ex15-83)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Switch 1 of your Active Pokémon with 1 of your Benched Pokémon.
+
+## Holon Energy FF (ex15-84)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy FF provides Colorless Energy.
+
+If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémon's attack isn't affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.
+
+## Holon Energy GL (ex15-85)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy GL provides Colorless Energy.
+
+If the Pokémon that Holon Energy GL is attached to also has a basic Grass Energy card attached to it, that Pokémon can't be affected by any Special Conditions. If the Pokémon that Holon Energy GL is attached to also has a basic Lightning Energy card attached to it, damage done to that Pokémon by attacks from your opponent's Pokémon-ex is reduced by 10. Ignore these effects if Holon Energy GL is attached to Pokémon-ex.
+
+## Holon Energy WP (ex15-86)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Holon Energy WP provides Colorless Energy.
+
+If the Pokémon that Holon Energy WP is attached to also has a basic Water Energy card attached to it, prevent all effects of attacks, excluding damage, done to that Pokémon by your opponent's Pokémon. If the Pokémon that Holon Energy WP is attached to also has a basic Psychic Energy card attached to it, that Pokémon's Retreat Cost is 0. Ignore these effects if Holon Energy WP is attached to Pokémon-ex.
+
+## Boost Energy (ex15-87)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides ColorlessColorlessColorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy.
+
+## δ Rainbow Energy (ex15-88)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+δ Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has δ on its card, δ Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)
+
+## Scramble Energy (ex15-89)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Scramble Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). Scramble Energy provides Colorless Energy. While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time. If the Pokémon Scramble Energy is attached to isn't an Evolved Pokémon (or evolves into Pokémon-ex), discard Scramble Energy.
+
+## Pinsir δ (ex15-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Delta Call
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Pokémon that has δ on its card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Guillotine
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+
+
+### Poké-Body: Armor
+
+If your opponent has 5 of more cards in his or her hand, any damage done to Pinsir by attacks is reduced by 30 (after applying Weakness and Resistance).
+
+## Altaria ex δ (ex15-90)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Swablu
+Types: Water
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Healing Light
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+Remove 1 damage counter from each of your Pokémon.
+
+### Poké-Power: Extra Boost
+
+Once during your turn (before your attack), you may attach a basic Energy card from your hand to 1 of your Stage 2 Pokémon-ex. This power can't be used if Altaria ex is affected by a Special Condition.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Dragonite ex δ (ex15-91)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dragonair
+Types: Grass
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Deafen
+
+Cost: Colorless, Colorless
+Damage: 40
+
+Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn.
+
+### Attack: Dragon Roar
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: —
+
+Put 8 damage counters on the Defending Pokémon. If that Pokémon would be Knocked Out by this attack, put any damage counters not necessary to Knock Out the Defending Pokémon on your opponent's Benched Pokémon in any way you like.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Flygon ex δ (ex15-92)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Vibrava
+Types: Psychic
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psychic Pulse
+
+Cost: Psychic, Psychic, Colorless
+Damage: 80
+
+Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Body: Sand Damage
+
+As long as Flygon ex is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Gardevoir ex δ (ex15-93)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kirlia
+Types: Fire
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flame Ball
+
+Cost: Fire, Colorless, Colorless
+Damage: 80
+
+You may move a Fire Energy card attached to Gardevoir ex to 1 of your Benched Pokémon.
+
+### Poké-Power: Imprison
+
+Once during your turn (before your attack), if Gardevoir ex is your Active Pokémon, you may put an Imprison marker on 1 of your opponent's Pokémon. Any Pokémon that has any Imprison markers on it can't use any Poké-Powers or Poké-Bodies. This power can't be used if Gardevoir ex is affected by a Special Condition.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Kingdra ex δ (ex15-94)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Seadra
+Types: Fighting
+HP: 140
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Link
+
+Cost: Fighting, Colorless
+Damage: 40
+
+Search your discard pile for an Energy card and attach it to Kingdra ex.
+
+### Attack: Protective Swirl
+
+Cost: Fighting, Colorless, Colorless
+Damage: 80
+
+Kingdra ex has no Weakness during your opponent's next turn.
+
+### Poké-Body: Extra Smoke
+
+Any damage done to your Stage 2 Pokémon-ex by your opponent's attacks is reduced by 10 (before applying Weakness and Resistance).
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Latias ex δ (ex15-95)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Crush
+
+Cost: Fire, Fire, Colorless
+Damage: 90
+
+If the Defending Pokémon is Knocked Out by this attack, discard 2 Fire Energy attached to Latias ex.
+
+### Poké-Power: Fellow Boost
+
+Once during your turn (before your attack), you may attach a basic Energy card from your hand to your Latias, Latias ex, Latios, or Latios ex. If you do, your turn ends. This power can't be used if Latias ex is affected by a Special Condition.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Latios ex δ (ex15-96)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ice Barrier
+
+Cost: Water, Colorless
+Damage: 30
+
+Prevent all effects of attack, including damage, done to Latios ex by your opponent's Pokémon-ex during your opponent's next turn.
+
+### Attack: Hydro Splash
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Poké-Body: Link Wing
+
+The Retreat Cost for each of your Latias, Latias ex, Latios, and Latios ex is 0.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Rayquaza ex δ (ex15-97)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Special Circuit
+
+Cost: Lightning, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 30 damage to the Pokémon. If you choose a Pokémon that has any Poké-Powers or Poké-Bodies, this attack does 50 damage instead. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Sky-high Claws
+
+Cost: Lightning, Lightning, Colorless, Colorless
+Damage: 70
+
+
+
+### Poké-Body: Rage Aura
+
+If you have more Prize cards left than your opponent, ignore all Colorless Energy necessary to use Rayquaza ex's Special Circuit and Sky-high Claws attacks.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Salamence ex δ (ex15-98)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Water
+HP: 160
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Claw Swipe
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Attack: Dual Stream
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 80
+
+You may do up to 40 damage instead of 80 to the Defending Pokémon. If you do, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Poké-Power: Type Shift
+
+Once during your turn (before your attack), you may use this power. Salamence ex's type is Fire until the end of your turn.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Tyranitar ex δ (ex15-99)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Lightning
+HP: 150
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electromark
+
+Cost: Lightning, Colorless
+Damage: —
+
+Put a Shock-wave marker on 1 of your opponent's Pokémon.
+
+### Attack: Hyper Claws
+
+Cost: Lightning, Colorless, Colorless
+Damage: 70+
+
+If the Defending Pokémon is a Stage 2 Evolved Pokémon, this attack does 70 damage plus 20 more damage.
+
+### Attack: Shock-wave
+
+Cost: Lightning, Lightning, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon that has any Shock-wave markers on it. That Pokémon is Knocked Out.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+

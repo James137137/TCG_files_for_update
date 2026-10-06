@@ -1,0 +1,485 @@
+# Card reference: pop9
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Garchomp (pop9-1)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Gabite
+Types: Colorless
+HP: 130
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Rage
+
+Cost: Colorless
+Damage: 80
+
+Flip 2 coins. If either of them is tails, this attack does nothing.
+
+### Attack: Jet Sword
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+Discard 2 Energy attached to Garchomp and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Pachirisu (pop9-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Wave
+
+Cost: Lightning
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Poison Berry
+
+Cost: Lightning, Colorless
+Damage: 20+
+
+If you have Croagunk in play, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Poisoned.
+
+## Pichu (pop9-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Find a Friend
+
+Cost: 
+Damage: —
+
+Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.
+
+## Buneary (pop9-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dizzy Punch
+
+Cost: Colorless
+Damage: 10×
+
+Flip 2 coins. This attack does 10 damage times the number of heads.
+
+### Attack: Defense Curl
+
+Cost: Colorless, Colorless
+Damage: —
+
+Flip a coin. If heads, prevent all damage done to Buneary by attacks during your opponent's next turn.
+
+## Chimchar (pop9-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Serial Swipes
+
+Cost: Fire
+Damage: 10×
+
+Flip 4 coins. This attack does 10 damage times the number of heads.
+
+### Attack: Sleepy
+
+Cost: Fire, Colorless, Colorless
+Damage: 40+
+
+If you have Piplup in play, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Asleep.
+
+## Gible (pop9-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Push Down
+
+Cost: Colorless
+Damage: 10
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+
+## Pikachu (pop9-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Growl
+
+Cost: Colorless
+Damage: —
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Attack: Numb
+
+Cost: Lightning, Colorless, Colorless
+Damage: 30
+
+If Pikachu evolved from Pichu during this turn, the Defending Pokémon is now Paralyzed.
+
+## Piplup (pop9-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Sport
+
+Cost: Water
+Damage: 10+
+
+If Piplup has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus more 10 more damage.
+
+### Attack: Wavelet
+
+Cost: Water, Colorless, Colorless
+Damage: 40
+
+If you have Buizel in play, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Turtwig (pop9-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Absorb
+
+Cost: Grass
+Damage: 10
+
+Remove 1 damage counter from Turtwig.
+
+### Attack: Parboil
+
+Cost: Grass, Colorless, Colorless
+Damage: 40+
+
+If you have Chimchar in play, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Burned.
+
+## Manaphy (pop9-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dive
+
+Cost: Water
+Damage: —
+
+Look at the top 7 cards of your deck, choose 1 of them, and put it into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.
+
+### Attack: Water Glow
+
+Cost: Water
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Remove from Manaphy the number of damage counters equal to the damage you did to that Pokémon.
+
+## Raichu (pop9-3)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: High Volt
+
+Cost: Lightning, Lightning, Lightning
+Damage: 60
+
+If Raichu evolved from Pikachu during this turn, this attack's base damage is 100 instead of 60.
+
+## Regigigas (pop9-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Body Slam
+
+Cost: Colorless, Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Double Stomp
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50+
+
+Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.
+
+## Rotom (pop9-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poltergeist
+
+Cost: Psychic, Colorless
+Damage: 30+
+
+Look at your opponent's hand. This attack does 30 damage plus 10 more damage for each Trainer, Supporter, and Stadium card in your opponent's hand.
+
+### Poké-Power: Type Shift
+
+Once during your turn (before your attack), you may use this power. Rotom's type is Psychic until the end of your turn.
+
+## Buizel (pop9-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whirlpool
+
+Cost: Water
+Damage: —
+
+Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.
+
+### Attack: Super Fast
+
+Cost: Water, Water
+Damage: 30
+
+If you have Pachirisu in play, flip a coin. If heads, prevent all effects of an attack, including damage, done to Buizel during your opponent's next turn.
+
+## Croagunk (pop9-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Knock Off
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it.
+
+### Attack: Nimble
+
+Cost: Psychic, Psychic
+Damage: 30
+
+If you have Turtwig in play, remove from Croagunk the number of damage counters equal to the damage you did to the Defending Pokémon.
+
+## Gabite (pop9-8)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Gible
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Burrow
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, prevent all damage done to Gabite by attacks during your opponent's next turn.
+
+### Attack: Distored Wave
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+Before doing damage, remove 2 damage counters from the Defending Pokémon.
+
+## Lopunny (pop9-9)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Buneary
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Jump Kick
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Jazzed
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50
+
+If Lopunny evolved from Buneary during this turn, remove all damage counters from Lopunny.
+

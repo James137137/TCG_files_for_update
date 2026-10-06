@@ -1,0 +1,445 @@
+# Card reference: det1
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Bulbasaur (det1-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Find a Friend
+
+Cost: Grass
+Damage: —
+
+Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+## Detective Pikachu (det1-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scout
+
+Cost: Lightning
+Damage: —
+
+Your opponent reveals their hand.
+
+### Attack: Surprise Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+Flip a coin. If tails, this attack does nothing.
+
+## Mr. Mime (det1-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Juggling
+
+Cost: Psychic, Colorless
+Damage: 20×
+
+Flip 4 coins. This attack does 20 damage for each heads.
+
+### Ability: Pantomime
+
+When you play this Pokémon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck.
+
+## Mewtwo (det1-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psyjack
+
+Cost: Psychic, Colorless
+Damage: 30
+
+Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Break Burn
+
+Cost: Psychic, Psychic, Colorless
+Damage: 130
+
+Discard 2 Psychic Energy from this Pokémon.
+
+## Machamp (det1-13)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Machoke
+Types: Fighting
+HP: 160
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Directing Traffic
+
+Cost: Fighting
+Damage: —
+
+Look at the top 5 cards of your deck and put them back in any order.
+
+### Attack: Cross Chop
+
+Cost: Fighting, Fighting
+Damage: 80+
+
+Flip a coin. If heads, this attack does 60 more damage.
+
+## Jigglypuff (det1-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Healing Melody
+
+Cost: Fairy
+Damage: —
+
+Heal 10 damage from each of your Pokémon.
+
+## Snubbull (det1-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Play Rough
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 30 more damage.
+
+## Lickitung (det1-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Continuous Lick
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+Flip a coin until you get tails. This attack does 20 damage for each heads.
+
+## Ditto (det1-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Copy Anything
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.
+
+## Slaking (det1-18)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Vigoroth
+Types: Colorless
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pitch
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 150
+
+Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.
+
+## Ludicolo (det1-2)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Lombre
+Types: Grass
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Punch and Run
+
+Cost: Grass, Colorless, Colorless
+Damage: 70
+
+Switch this Pokémon with 1 of your Benched Pokémon.
+
+### Ability: Table Service
+
+Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon.
+
+## Morelull (det1-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sleep Spore
+
+Cost: Grass
+Damage: 10
+
+Your opponent's Active Pokémon is now Asleep.
+
+## Charmander (det1-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Reckless Charge
+
+Cost: Colorless
+Damage: 20
+
+This Pokémon does 10 damage to itself.
+
+## Charizard (det1-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Charmeleon
+Types: Fire
+HP: 180
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Fire, Colorless, Colorless
+Damage: 70
+
+
+
+### Attack: Wild Tackle
+
+Cost: Fire, Colorless, Colorless, Colorless
+Damage: 180
+
+This Pokémon does 50 damage to itself.
+
+## Arcanine (det1-6)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Growlithe
+Types: Fire
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sharp Fang
+
+Cost: Fire, Colorless, Colorless
+Damage: 90
+
+
+
+### Ability: Security Guard
+
+As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).
+
+## Psyduck (det1-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Panic
+
+Cost: Water
+Damage: 10
+
+This Pokémon is now Confused.
+
+## Magikarp (det1-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hold Still
+
+Cost: Water
+Damage: —
+
+Heal 10 damage from this Pokémon.
+
+## Greninja (det1-9)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Frogadier
+Types: Water
+HP: 140
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Furious Shurikens
+
+Cost: Water, Water
+Damage: —
+
+This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Evasion Jutsu
+
+If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.
+

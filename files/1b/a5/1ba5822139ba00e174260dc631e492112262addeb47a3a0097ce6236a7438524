@@ -1,0 +1,572 @@
+# Card reference: dv1
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Dratini (dv1-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wrap
+
+Cost: Grass, Lightning
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Latios (dv1-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sky Blade
+
+Cost: Water, Colorless
+Damage: 20+
+
+If Latias is on your Bench, this attack does 20 more damage.
+
+### Attack: Speed Wing
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+
+
+## Rayquaza (dv1-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Pulse
+
+Cost: Lightning
+Damage: 40
+
+Discard the top 2 cards of your deck.
+
+### Attack: Shred
+
+Cost: Fire, Lightning, Colorless
+Damage: 90
+
+This attack's damage isn't affected by any effects on the Defending Pokémon.
+
+## Axew (dv1-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Signs of Evolution
+
+Cost: Fighting
+Damage: —
+
+Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand, Shuffle your deck afterward.
+
+### Attack: Scratch
+
+Cost: Metal
+Damage: 10
+
+
+
+## Axew (dv1-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lunge
+
+Cost: Fighting, Metal
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+## Fraxure (dv1-14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Axew
+Types: Dragon
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Claw
+
+Cost: Fighting, Metal, Colorless
+Damage: 60
+
+
+
+### Ability: Grit
+
+If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).
+
+## Fraxure (dv1-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Axew
+Types: Dragon
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Metal, Colorless
+Damage: 20
+
+
+
+### Attack: Sharp Fang
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+
+
+## Haxorus (dv1-16)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Fraxure
+Types: Dragon
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Axe Slugger
+
+Cost: Colorless, Colorless
+Damage: 60+
+
+If the Defending Pokémon is a Colorless Pokémon, this attack does 60 more damage.
+
+### Attack: Dragon Pulse
+
+Cost: Fighting, Metal, Colorless, Colorless
+Damage: 100
+
+Discard the top card of your deck.
+
+## Druddigon (dv1-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tight Jaw
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Dragon Tail
+
+Cost: Fire, Water, Colorless
+Damage: 80×
+
+Flip 2 coins. This attack does 80 damage times the number of heads.
+
+## Exp. Share (dv1-18)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
+
+When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokémon to the Pokémon this card is attached to.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## First Ticket (dv1-19)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Before you flip a coin to decide who goes first in a game, you may play this card. Don't flip that coin, and you go first. If both players play First Ticket, flip the coin as normal. (You may play only 1 First Ticket before you flip that coin.)
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Dratini (dv1-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnotic Gaze
+
+Cost: Grass
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+### Attack: Tail Whap
+
+Cost: Lightning
+Damage: 10
+
+
+
+## Super Rod (dv1-20)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Kyurem (dv1-21)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Claw
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+
+
+### Attack: Blizzard
+
+Cost: Water, Psychic, Colorless, Colorless
+Damage: 90
+
+Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Dragonair (dv1-3)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dratini
+Types: Dragon
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tail Whap
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Dragon Pulse
+
+Cost: Grass, Lightning, Colorless
+Damage: 70
+
+Discard the top card of your deck.
+
+## Dragonair (dv1-4)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dratini
+Types: Dragon
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Healing Melody
+
+Cost: Grass
+Damage: —
+
+Heal 10 damage from each of your Pokémon.
+
+### Attack: Slam
+
+Cost: Lightning, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Dragonite (dv1-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dragonair
+Types: Dragon
+HP: 150
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hyper Beam
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.
+
+### Attack: Hurricane Tail
+
+Cost: Grass, Colorless, Colorless, Colorless
+Damage: 60×
+
+Flip 4 coins. This attack does 60 damage times the number of heads.
+
+## Bagon (dv1-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Dragon Claw
+
+Cost: Fire, Water
+Damage: 20
+
+
+
+## Shelgon (dv1-7)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bagon
+Types: Dragon
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Knock Away
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+### Attack: Rollout
+
+Cost: Fire, Water, Colorless
+Damage: 50
+
+
+
+## Salamence (dv1-8)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Dragon
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shred
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 90
+
+This attack's damage isn't affected by any effects on the Defending Pokémon.
+
+### Ability: Scornful Storm
+
+Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.
+
+## Latias (dv1-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Assist
+
+Cost: Colorless
+Damage: —
+
+Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.
+
+### Attack: Sky Heal
+
+Cost: Fire, Psychic
+Damage: 40
+
+If Latios is on your Bench, heal 20 damage from this Pokémon.
+

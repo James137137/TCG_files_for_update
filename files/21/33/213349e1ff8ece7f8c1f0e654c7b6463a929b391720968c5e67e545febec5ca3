@@ -1,0 +1,623 @@
+# Existing starter strategies
+
+These notes describe existing in-game starter themes. Verify exact current card IDs with tools before using a list.
+
+# Core starter decks
+
+The five improved lists formerly named V2 now replace their original versions. The source starter roster contains one Burn Bright, Ice Current, Rocket Current, Garden Furnace and Dragon Tempest, plus the two mascot, ten Legendary-theme and two [Water and Grass decks](element-starter-decks.md): 19 before the latest Dragon additions. [Dragon's Ascent](dragon-ascent-deck.md) and [Axe Forge](axe-forge-deck.md) bring the current Windows quick-build roster to 21. The Water and Grass additions are included in the current Windows quick build. Starter previews now use the actual featured Pokémon card with the automatic supporting fan; decorated custom covers are no longer loaded. Ice Current and Dragon Tempest now use the balance-tested lists described below.
+
+Their canonical IDs are `showdown-fire`, `showdown-water`, `showdown-bridge`, `showdown-mixed` and `showdown-dragon`. Previous `-v2` IDs resolve to these decks for compatibility but are not listed as separate starters. Existing saved custom deck copies are independent and are not deleted or rewritten.
+
+| Deck | Identity and changes | Pokémon / Trainers / Energy |
+|---|---|---|
+| Burn Bright | Charizard doubles Fire Energy for Magmortar's heavy attacks; Entei supplies Burn. More evolution search and recovery support rotating attackers. | 17 / 30 / 13 |
+| Ice Current | Ice Dance Frosmoth prepares the Bench and Articuno gathers Energy. Three Pokémon 151 Lapras offer Aqua Edge and Basic search; two Mantine support setup. Irida finds a Water Pokémon and an Item. | 17 / 29 / 14 |
+| Rocket Current | Vaporeon pressures ex/V while Weezing suppresses Abilities and Yveltal traps the Active. Judge, Counter Catcher and Crushing Hammer reinforce disruption. | 18 / 29 / 13 |
+| Garden Furnace | Cherrim and Charizard jointly power Scovillain's Grass/Fire attack. Tapu Bulu supplies a powerful secondary attack. This deck relies on Trainer draw rather than Bibarel. | 18 / 28 / 14 |
+| Dragon Tempest | One Salamence ex spreads damage for two single-prize Salamence with Fierce Dragon. Two Rare Candy speed evolution and three Crispin supply mixed Energy. Druddigon and Rayquaza support the attackers. | 16 / 30 / 14 |
+
+Each deck contains one copy of its thematic Legendary. All use the project's
+Modern practice pool, rather than official current Standard rotation. The
+picker uses actual Pokémon card scans on the featured stack. Supporting cards,
+type accents and summaries are configured in
+`unity/PokemonTCG/Assets/StreamingAssets/UI/StarterDecks/deck-art.json`.
+
+Definitions are in `ShowdownDecks.cs`. Runtime printing replacement selects the currently active printing without changing quantities.
+
+The old generated cover images are historical assets; the game no longer uses image overrides.
+
+## Applied balance changes (2026-10-05)
+
+The final seven-deck experiment in `reports/simulations/seven-decks-dragon-buff-500-20261005/` ran 500 games per pairing. Its lists are now applied to the canonical starters:
+
+- Ice Current removes Freezing Chill Frosmoth and replaces its previous three Lapras with three `sv3pt5-131` Lapras; Mantine increases from one to two. Three Ice Dance Frosmoth remain.
+- Dragon Tempest reduces Shelgon from three to two and Salamence ex from three to one, adds two `swsh7-109` Salamence, two Rare Candy and three Crispin, removes both Level Ball and the Energy Search, and reduces Energy Retrieval from three to two.
+- Pika Power changes from three Thunderbolt Raichu / one Strong Volt Raichu to one / three; see the mascot guide.
+
+Burn Bright, Rocket Current, Garden Furnace, Eevee's Rainbow and the ten newer theme decks retain their lists. The seven-deck experiment put Dragon at 50.5% mean win rate and Ice Current at 48.4%; Pika at 59.7% and Garden at 40.9% still need further balancing. These are AI estimates against the six other tested decks, not predictions for the expanded 17-deck roster or human play. Application evidence is under `reports/starter-balance-applied-20261005/`.
+
+## Consolidation verification before balance changes
+
+The consolidation build passed all 5,384 native scenarios and the simulator self-tests. Desktop (1672×941) and smaller-window (1100×800) picker runs each passed 892 checks with no text overflow, including exact template copies, retained covers, paging, Random, Undo, persistence and battle selection. At that milestone, the retained five lists were compared against their pre-rename V2 definitions and were unchanged. Evidence: `reports/starter-consolidation/acceptance.json`.
+
+## Historical V2 verification evidence
+
+The following records describe the earlier ten-template roster. Current consolidation evidence is in `reports/starter-consolidation/`.
+
+
+
+`reports/starter-v2/legality-audit.md` contains the independent rulebook review,
+exact resolved card lists and Ability/Trainer compatibility checks. Simulator
+self-tests and all ten Modern starter validations pass. The Modern domain run
+passes 3,464 scenarios and 40 seeded matches. A 20-game batch for each of the 45
+pairings across all ten starters completes 900 matches without errors or
+timeouts. Detailed results are in `reports/starter-v2/tournament`.
+
+The Windows player is `builds/DeckBuilderStarterV2/PokemonCardTable.exe`;
+`Play-Unity.ps1` and `Play-Multiplayer.ps1` select it through the latest-build
+record. The Unity Editor build passes 3,504 scenarios. After correcting custom
+cover aspect ratios and making existing UI smoke expectations independent of
+starter count, the final current sources are compiled into that Mono player.
+Desktop (1672×941) and smaller-window (1100×800) native runs each pass 605
+checks with no overflowing text. They verify all ten exact template copies,
+all five V2 covers, paging, Random, Undo, deletion and persistence using isolated
+profiles. Screenshots and reports are under
+`reports/starter-v2/ui-wide-acceptance` and `ui-narrow-acceptance`.
+
+These match batches establish that the decks run under the implemented rules;
+they do not establish equal power or expert-human win rates. In particular,
+Water remains strong under the current AI and type weaknesses produce large
+matchup differences.
+
+The content import uses its checked presentation-compatible transition: card
+definitions remain identical, and prior match hashes stay recognized because
+only starter definitions changed in the domain source.
+
+
+---
+
+# Mascot starter decks
+
+These two additional Modern practice starters keep Pikachu and Eevee at the centre of their themes. They are available as borrowed battle decks and editable starter templates, including Random selection. Existing starters remain available.
+
+## Pika Power
+
+14 Pokémon, 32 Trainers, 14 Basic Lightning Energy.
+
+- 3 charging Pikachu (`swsh1-65`) and 1 Wild Charge Pikachu (`swsh12pt5-160`).
+- 1 Raichu with Electrocharge and 200-damage Thunderbolt (`sv2-64`), plus 3 Raichu with Strong Volt (`me2pt5-56`). This is the tested 2026-10-05 balance split.
+- 2 Dedenne (`sv8-87`) recover discarded Trainers using the Colorless-cost Electromagnetic Sonar; the deck does not supply Psychic Energy for Gnaw.
+- 2 Bidoof and 2 Bibarel support drawing cards.
+
+Use Charge or Electrocharge to prepare Raichu. Thunderbolt discards its Energy, so Energy Retrieval returns Basic Energy to hand and Super Rod returns Pokémon and Energy to the deck. Switch and Air Balloon help rotate attackers. Energy Retrieval requires Basic Energy in your own discard pile.
+
+## Eevee’s Rainbow
+
+14 Pokémon, 31 Trainers, 15 Energy (4 Fire, 4 Water, 4 Lightning, 3 Double Turbo).
+
+- 2 Eevee with Signs of Evolution (`swsh45-52`) find an evolution.
+- 2 Eevee with Colorful Catch (`sv6pt5-50`) find Basic Energy of different types.
+- 2 each of Vaporeon (`sv8pt5-22`), Jolteon (`sv8pt5-29`) and Flareon (`sv8pt5-13`).
+- 2 Bidoof and 2 Bibarel support drawing cards.
+
+Choose an evolution based on the available Energy and opposing Pokémon. Vaporeon can heal, Jolteon can target the Bench, and Flareon can discard opposing Energy on a coin flip. Each has a stronger attack against Pokémon ex and V. Double Turbo pays the two Colorless requirements but reduces attack damage by 20. Super Rod recycles the four Eevee, which share the four-copy name limit across their two printings.
+
+The picker uses existing card artwork: Pikachu or Eevee on the featured stack, with the supporting Pokémon fanned behind it. These fan decks do not require a Legendary. Their printings are active and implemented in the game; the pool's implemented-unreviewed label still applies.
+
+
+---
+
+# Legendary theme starter decks
+
+Ten additional 60-card Modern practice starters. The source roster is now 21 after consolidating the five original/V2 pairs and adding [Shell Surge and Verdant Guardians](element-starter-decks.md) and the Dragon additions [Dragon's Ascent](dragon-ascent-deck.md) and [Axe Forge](axe-forge-deck.md). Each deck below contains exactly one copy of its featured Legendary (Giratina uses Giratina V), with no other Legendary Pokemon. These use the game's supported pool, not official Standard rotation.
+
+## Continental Clash
+
+Coalossal recovers Fighting and Fire Energy to fuel Groudon's Magma Purge. Stonjourner holds the front while the volcano grows.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Groudon | `sv8pt5-49` |
+| 3 | Rolycoly | `swsh45sv-SV067` |
+| 3 | Carkol | `swsh45sv-SV068` |
+| 3 | Coalossal | `swsh45sv-SV069` |
+| 2 | Stonjourner | `me1-81` |
+| 2 | Bidoof | `swsh9-120` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 10 | Fighting Energy | `swsh12pt5-157` |
+| 4 | Fire Energy | `swsh12pt5-153` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 2 | Lady | `swsh11-159` |
+
+## Abyssal Tide
+
+Frosmoth powers ocean giants while Wailord absorbs damage. Reversal Energy strengthens its comeback attacks, and Kyogre threatens two Benched Pokemon with Aqua Storm.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Kyogre | `cel25-3` |
+| 3 | Switch | `me2-123` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 2 | Energy Retrieval | `me4-108` |
+| 3 | Wailmer | `me5-15` |
+| 2 | Super Rod | `sv2-188` |
+| 4 | Reversal Energy | `sv4-266` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Evolution Incense | `swsh1-163` |
+| 3 | Snom | `swsh1-63` |
+| 3 | Frosmoth | `swsh10tg-TG04` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Wailord | `swsh12-38` |
+| 12 | Water Energy | `swsh12pt5-154` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 4 | Irida | `swsh12pt5gg-GG63` |
+| 2 | Bidoof | `swsh9-120` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+
+## Thunder Safari
+
+Boltund and Eelektrik charge the pack. Raikou hits harder once four Lightning Energy are in play; Switch keeps fresh attackers moving.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Raikou | `me1-48` |
+| 3 | Yamper | `swsh5-52` |
+| 2 | Boltund | `sv5-59` |
+| 1 | Boltund | `swsh1-76` |
+| 3 | Tynamo | `me2pt5-59` |
+| 3 | Eelektrik | `me2pt5-60` |
+| 2 | Bidoof | `swsh9-120` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 14 | Lightning Energy | `swsh12pt5-155` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 1 | Lady | `swsh11-159` |
+
+## Royal Armory
+
+Aegislash shields the team while Perrserker sharpens Metal attacks. Zacian recovers Energy and rotates out after Brave Blade.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Zacian | `sv4-136` |
+| 3 | Honedge | `swsh5-105` |
+| 3 | Doublade | `swsh2-134` |
+| 3 | Aegislash | `swsh2-135` |
+| 3 | Galarian Meowth | `swsh45sv-SV086` |
+| 3 | Galarian Perrserker | `swsh45sv-SV087` |
+| 14 | Metal Energy | `swsh12pt5-159` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 2 | Judge | `me3-76` |
+
+## Psychic Experiment
+
+Xatu supplies Psychic Energy and draws cards while Reuniclus develops the whole laboratory. Mewtwo recycles discarded Energy and becomes dangerous late.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Mewtwo | `swsh12pt5-59` |
+| 3 | Solosis | `zsv10pt5-37` |
+| 3 | Duosion | `zsv10pt5-38` |
+| 3 | Reuniclus | `zsv10pt5-39` |
+| 3 | Natu | `sv4pt5-25` |
+| 3 | Xatu | `sv4pt5-26` |
+| 14 | Psychic Energy | `swsh12pt5-156` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 3 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 1 | Lady | `swsh11-159` |
+
+## Enchanted Grove
+
+Gardevoir ex and Clefairy supply Psychic Energy for Xerneas's Geo Storm. Rare Candy speeds evolution while Clefable and Indeedee heal the grove.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 2 | Rare Candy | `me1-125` |
+| 3 | Switch | `me2-123` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Ralts | `me2pt5-87` |
+| 2 | Energy Retrieval | `me4-108` |
+| 1 | Xerneas | `me4-42` |
+| 2 | Super Rod | `sv2-188` |
+| 1 | Gardevoir ex | `sv4pt5-29` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 2 | Indeedee | `sv8-93` |
+| 2 | Air Balloon | `swsh1-156` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Gardevoir | `swsh10tg-TG05` |
+| 3 | Clefairy | `swsh11-62` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 2 | Kirlia | `swsh12-68` |
+| 15 | Psychic Energy | `swsh12pt5-156` |
+| 2 | Clefable | `swsh4-64` |
+| 1 | Level Ball | `swsh5-129` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+
+## Distortion World
+
+Giratina V trades cards into the Lost Zone, Gengar spreads damage and Trevenant blocks hand attachments to the defending Pokemon. Xatu prepares the next attacker.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Giratina V | `swsh11-130` |
+| 3 | Phantump | `me4-38` |
+| 3 | Trevenant | `me4-39` |
+| 3 | Gastly | `sv3pt5-92` |
+| 2 | Haunter | `sv3pt5-93` |
+| 2 | Gengar | `sv3pt5-94` |
+| 2 | Natu | `sv4pt5-25` |
+| 2 | Xatu | `sv4pt5-26` |
+| 10 | Psychic Energy | `swsh12pt5-156` |
+| 4 | Grass Energy | `swsh12pt5-152` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+
+## Stormwing Squadron
+
+Talonflame traps opponents with Clutch or attacks with Nitro Dive. Dodrio supplies extra cards, and Lugia returns Energy for the next bird.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 3 | Switch | `me2-123` |
+| 3 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 2 | Judge | `me3-76` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 1 | Doduo | `sv4pt5-199` |
+| 1 | Dodrio | `sv4pt5-200` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 2 | Air Balloon | `swsh1-156` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 4 | Double Turbo Energy | `swsh10-216` |
+| 1 | Lady | `swsh11-159` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 12 | Fire Energy | `swsh12pt5-153` |
+| 1 | Lugia | `swsh3-140` |
+| 2 | Level Ball | `swsh5-129` |
+| 3 | Fletchling | `swsh7-138` |
+| 3 | Fletchinder | `swsh7-139` |
+| 3 | Talonflame | `swsh7-140` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+
+## Phoenix Rising
+
+Ho-Oh revives fallen Basic Pokemon. Mach Flight Talonflame holds opponents in place, while Fiery Breeze and recovery cards rebuild the flock.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 3 | Switch | `me2-123` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 1 | Ho-Oh | `me4-10` |
+| 3 | Energy Retrieval | `me4-108` |
+| 3 | Fletchling | `sv2-163` |
+| 3 | Super Rod | `sv2-188` |
+| 3 | Fletchinder | `sv2-29` |
+| 1 | Talonflame | `sv2-30` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Torkoal | `sv9-25` |
+| 2 | Air Balloon | `swsh1-156` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 15 | Fire Energy | `swsh12pt5-153` |
+| 1 | Bibarel | `swsh12pt5gg-GG25` |
+| 2 | Talonflame | `swsh3-32` |
+| 2 | Level Ball | `swsh5-129` |
+| 1 | Bidoof | `swsh9-120` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+
+## Ancient Colossi
+
+Stonjourner stands guard, Claydol devolves opponents and Bronzong shields the ancient team. Regigigas delivers a massive blow against Tera Pokemon.
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 1 | Regigigas | `sv8pt5-86` |
+| 3 | Stonjourner | `me1-81` |
+| 3 | Baltoy | `me4-46` |
+| 3 | Claydol | `me4-47` |
+| 3 | Bronzor | `sv8pt5-66` |
+| 3 | Bronzong | `sv8pt5-67` |
+| 8 | Fighting Energy | `swsh12pt5-157` |
+| 4 | Metal Energy | `swsh12pt5-159` |
+| 4 | Double Turbo Energy | `swsh10-216` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 3 | Evolution Incense | `swsh1-163` |
+| 2 | Level Ball | `swsh5-129` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 3 | Switch | `me2-123` |
+| 2 | Air Balloon | `swsh1-156` |
+| 2 | Energy Retrieval | `me4-108` |
+| 2 | Super Rod | `sv2-188` |
+| 2 | Judge | `me3-76` |
+
+## Validation and availability
+
+The ten additions are discovered through `ShowdownDecks.All()` by starter templates, borrowed solo decks, the multiplayer starter picker and Random selection. Each uses its Legendary card artwork with three supporting-card previews.
+
+The structural audit checks 60 cards, name-copy limits, active playable printings, complete evolution lines, supplied attack Energy types and actual preview artwork. The shared Legendary scenario verifies one featured Legendary copy per themed deck and that its attacks can be paid for.
+
+An initial 1,200 Hard-AI matches (40 against each of two existing decks and one neighboring new theme per addition) completed without errors or timeouts. Abyssal Tide was then revised to include two Wailord V; another 300 matches of that final list completed cleanly. Its wins were 55/100 against Burn Bright V2, 30/100 against Ice Current V2 and 21/100 against Thunder Safari. These small AI batches check playability and flag consistency issues; they do not establish equal balance or human win rates. Initial match snapshots preserve the earlier list.
+
+Evidence and final deck lists are under `reports/legendary-decks/`. Card definitions were unchanged, and the content import preserved compatible prior match hashes.
+
+The Windows build passed all 5,384 native verification scenarios. Final picker checks passed 1,073 checks each at 1672×941 and 1100×800, with no text overflow. They verify all 22 exact starter copies, paging, Random, Undo, persistence and battle selection. The test now removes disposable starter copies before later fixtures, avoiding the 30-saved-deck limit as the roster grows. The final rebuild reused the byte-verified native evidence after this UI-test-only fix. Run `Play-Unity.ps1` for the updated `builds/ModernWindows/PokemonCardTable.exe`.
+
+## Approved balance update — 5 October 2026
+
+The approved Abyssal Tide, Enchanted Grove, Stormwing Squadron and Phoenix Rising lists now match the simulation-only recommendation exactly. The other 13 starters retain their existing lists. The game descriptions and starter previews reflect the new cards.
+
+The combined proposal completed 13,600 Hard-AI games (100 per pairing across all 17 decks), with one draw, zero errors and zero timeouts. Mean win rates were 45.4%, 50.4%, 53.4% and 54.6%, respectively. These results estimate play under the implemented AI and rules; they are not guaranteed human win rates. Earlier validation above describes historical lists and builds.
+
+The exact approved lists, before/after heat matrix and 90% intervals remain in [the proposal report](../reports/simulations/four-deck-balance-proposal-100-20261005/matrix.html). Build and application evidence is recorded in `reports/approved-four-deck-balance-20261005/`.
+
+
+---
+
+# Water and Grass starter decks
+
+Two additional Modern practice starters, each with 15 Pokémon, 31 Trainers and 14 Basic Energy: 60 cards total. Each includes exactly one Legendary copy and a complete 4–3–3 featured evolution line. These additions raised the roster to 19, with the preceding 17 lists unchanged. The source roster is now 21 following [Dragon's Ascent](dragon-ascent-deck.md) and [Axe Forge](axe-forge-deck.md).
+
+These use active, implemented cards from the game's supported pool. They are practice decks, not official Standard-rotation lists.
+
+## Shell Surge — Water
+
+ID: `showdown-shell`. Evolve Squirtle into Blastoise and prepare Hydro Pump with Water Energy. Vitality Spring searches for up to six Energy and attaches them, but **ends your turn**; finish other actions before using it. Frosmoth's Ice Dance attaches Water Energy from hand to Benched Water Pokémon, so switching helps prepare an attacker. Suicune's Crystal Fall reaches 120 damage when at least four Water Energy are in play.
+
+| Qty | Pokémon | Printing |
+|---:|---|---|
+| 4 | Squirtle | `pgo-15` |
+| 3 | Wartortle | `pgo-16` |
+| 3 | Blastoise | `pgo-17` |
+| 1 | Suicune | `me2-26` |
+| 2 | Snom | `swsh1-63` |
+| 2 | Frosmoth | `swsh10tg-TG04` |
+| 14 | Basic Water Energy | `swsh12pt5-154` |
+
+Irida finds a Water Pokémon and an Item. Rare Candy accelerates the Stage 2 setup while all three Wartortle remain available for ordinary evolution. Energy Retrieval returns discarded Water Energy to hand for Ice Dance; Super Rod recycles Pokémon and Basic Energy into the deck.
+
+## Verdant Guardians — Grass
+
+ID: `showdown-verdant`. Evolve Bulbasaur into Venusaur. Loopy Lasso can bring an opposing Benched Pokémon Active and make it Asleep and Poisoned on a successful coin flip. Ivysaur's Summoning Aroma finds Pokémon, and Bibarel draws toward a five-card hand. Virizion heals with Giga Drain or attacks for 130 with Emerald Blade; Emerald Blade prevents it attacking next turn, so switching it out and back clears that attack effect.
+
+| Qty | Pokémon | Printing |
+|---:|---|---|
+| 4 | Bulbasaur | `pgo-1` |
+| 3 | Ivysaur | `pgo-2` |
+| 3 | Venusaur | `pgo-3` |
+| 1 | Virizion | `rsv10pt5-10` |
+| 2 | Bidoof | `swsh9-120` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 14 | Basic Grass Energy | `swsh12pt5-152` |
+
+Rare Candy helps establish Venusaur, with three Ivysaur retained for the full evolution path. Boss's Orders supplies a reliable target change alongside the coin-based Loopy Lasso. Switch and Air Balloon support rotating Virizion. Venusaur and Virizion are vulnerable to Fire, and the deck relies on normal Energy attachments.
+
+## Trainer lists
+
+| Trainer | Water qty | Grass qty | Printing |
+|---|---:|---:|---|
+| Professor's Research | 4 | 4 | `zsv10pt5-85` |
+| Irida | 4 | 0 | `swsh12pt5gg-GG63` |
+| Judge | 0 | 2 | `me3-76` |
+| Nest Ball | 3 | 3 | `sv4pt5-84` |
+| Ultra Ball | 3 | 3 | `me2pt5-213` |
+| Evolution Incense | 2 | 3 | `swsh1-163` |
+| Rare Candy | 3 | 3 | `me1-125` |
+| Buddy-Buddy Poffin | 2 | 2 | `me2pt5-184` |
+| Level Ball | 0 | 1 | `swsh5-129` |
+| Boss's Orders | 0 | 2 | `swsh11tg-TG24` |
+| Switch | 3 | 3 | `me2-123` |
+| Air Balloon | 2 | 2 | `swsh1-156` |
+| Energy Retrieval | 2 | 1 | `me4-108` |
+| Super Rod | 2 | 2 | `sv2-188` |
+| Lady | 1 | 0 | `swsh11-159` |
+| **Total** | **31** | **31** | |
+
+## Covers and availability
+
+The existing `ShowdownDecks.All()` integration discovers both decks for starter templates, borrowed solo/local/multiplayer selection and Random. Picker metadata supplies the type accents, strategy summary and supporting-card fans. Each preview card belongs to its deck.
+
+The picker shows Blastoise or Venusaur directly as its featured card, with the actual supporting cards fanned behind it. Decorated custom-cover image overrides have been removed.
+
+## Validation — 5 October 2026
+
+- All 19 starters pass the standalone simulator's Modern deck validation. Its 12 self-tests, AI tactics/policy checks and active-printing checks pass.
+- All 5,335 Modern core domain scenarios pass, including the featured 4–3–3 evolution lines, Pokémon/Trainer/Energy totals, exactly one Legendary per themed deck and payable Legendary attacks. The verifier also completed 40 seeded matches.
+- The structural/artwork audit confirms 60 cards, name-copy limits, complete evolution parents, active executable printings, attack Energy types, actual supporting-card images, unique picker mappings and valid cover dimensions. Both covers were visually inspected.
+- All prior 17 deck definitions and every card definition are unchanged. The content import retained compatible prior match hashes through the presentation-compatible transition.
+- The test tools completed 700 Hard-AI games: 100 for each new deck against Burn Bright, Ice Current and Garden Furnace, plus 100 between the new decks. Seats alternate; setup determines the actual first player. There were **zero errors, timeouts or draws**.
+
+| New deck | vs Burn Bright | vs Ice Current | vs Garden Furnace | vs the other new deck |
+|---|---:|---:|---:|---:|
+| Shell Surge | 50/100 | 49/100 | 44/100 | 56/100 |
+| Verdant Guardians | 23/100 | 42/100 | 32/100 | 44/100 |
+
+These are small AI playability samples, not proof of equal balance or expected human win rates. Grass struggled against the two decks with Fire attackers; the approved lists remain intact.
+
+Local evidence and resolved deck lists are under `reports/element-starters-20261005/`, including `audit.json`, `experiment.json`, `simulation-summary.json`, per-matchup reports and `verification/modern-domain-verification.json`. Reports are ignored by Git.
+
+The initial implementation omitted a Unity game build as requested. After subsequent approval, `Build-Quick.ps1` produced `builds/ModernWindows/PokemonCardTable.exe` with zero build errors and 43 warnings, and packaged `updater.exe` beside it. The quick build skipped verification scenarios and simulations; the results above are from the earlier standalone validation.
+
+Packaging checks confirm both compiled deck definitions, picker entries, byte-identical cover images and featured evolution/Legendary cards in the built catalog. Evidence is under `reports/quick-build/`, including `build-result.json`, `build.log` and `element-decks-packaging.json`. Runtime picker smoke tests were not performed for this quick build. Run `Play-Unity.ps1` to launch the updated game.
+
+
+---
+
+# Dragon's Ascent
+
+A second Dragon-themed Modern practice starter, ID `showdown-ascent`. The deck uses 19 Pokémon, 27 Trainers and 14 Basic Energy: 60 cards total. It includes exactly one Legendary copy, Zekrom. The existing 19 starters are unchanged, giving 20 in source at its introduction. [Axe Forge](axe-forge-deck.md) subsequently raised the source roster to 21.
+
+## Strategy
+
+Build Dratini into Dragonair, whose Evolutionary Guidance finds Evolution Pokémon when it has Energy attached. Two Jet Cruise Dragonite give your Pokémon free retreat and attack for 180 with Water and Lightning Energy. Their Dragon Pulse discards the top two cards of your deck, so manage the remaining deck carefully.
+
+Eelektrik's Dynamotor attaches discarded Basic Lightning Energy to a Benched Pokémon. Use Ultra Ball or Professor's Research to put Lightning Energy in the discard, then move a charged attacker forward. Crispin finds two different Basic Energy types and attaches one, helping meet the mixed Water/Lightning costs.
+
+The third Dragonite uses Energy Hurricane: 180 damage plus up to three Basic Energy attachments from the deck. It costs four Energy, giving a heavier option that prepares the next attacker. Zekrom's Wild Shock deals 130 and Paralyzes the opponent, but deals 60 to itself; three consecutive uses without healing would Knock it Out. Bibarel supports drawing, while Super Rod recycles Pokémon and Basic Energy.
+
+Retreat is still limited to once per turn, even with Jet Cruise. Free retreat does not remove status or effect restrictions that prevent retreat. Keep the single Switch for those situations.
+
+This deck focuses on mobility and Energy recovery; Dragon Tempest retains its Salamence and Bench-damage strategy. Zekrom is a Legendary Pokémon with a Lightning-type card in this Dragon-themed deck. The list uses the game's active Modern practice pool, not official Standard rotation.
+
+## Complete list
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 4 | Dratini | `sv3-157` |
+| 3 | Dragonair | `me2pt5-151` |
+| 2 | Dragonite | `sv3pt5-149` |
+| 1 | Dragonite | `swsh12-131` |
+| 1 | Zekrom | `swsh9tg-TG05` |
+| 2 | Tynamo | `me2pt5-59` |
+| 2 | Eelektrik | `me2pt5-60` |
+| 2 | Bidoof | `swsh9-120` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 7 | Water Energy | `swsh12pt5-154` |
+| 7 | Lightning Energy | `swsh12pt5-155` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 2 | Evolution Incense | `swsh1-163` |
+| 3 | Rare Candy | `me1-125` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 3 | Crispin | `sv8pt5-105` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 1 | Switch | `me2-123` |
+| 2 | Super Rod | `sv2-188` |
+| 1 | Energy Retrieval | `me4-108` |
+| 1 | Lady | `swsh11-159` |
+
+## Artwork and availability
+
+The existing starter registry makes this deck available to starter templates, borrowed battle decks and Random after the next game build. Picker metadata includes Dragon, Water and Lightning accents, with Dragonair, Eelektrik and Zekrom previews. The picker shows Dragonite directly as its featured card, with Dragonair, Eelektrik and Zekrom fanned behind it. Decorated custom-cover image overrides have been removed.
+
+## Validation — 5 October 2026
+
+All 20 starters pass the simulator's active-card and 60-card validation, plus its 12 self-tests and AI-policy checks. All 5335 Modern core domain scenarios pass, including the one-Legendary and payable-attack checks; the verifier also completed 40 seeded games.
+
+The structural/artwork audit checks evolution parents, name-copy limits, supplied attack Energy types, actual preview images and cover dimensions. All prior 19 deck definitions and every card definition remain unchanged, with compatible previous match hashes preserved. The cover was visually inspected.
+
+Four Hard-AI matchups used 100 games each with alternating deck seats and distinct deterministic seeds. Dragon's Ascent won 56/100 against Burn Bright, 61/100 against Ice Current, 60/100 against Garden Furnace and 57/100 against Dragon Tempest. All 400 games completed with zero errors, timeouts or draws. These small samples check playability and give a rough balance indication; they do not establish human win rates.
+
+Evidence, resolved deck lists, the before-state snapshots and matchup reports are in `reports/dragon-ascent-20261005/` (ignored by Git). The subsequent Windows quick build includes this deck and Axe Forge, bringing the built roster to 21.
+
+The 5 October 2026 quick build succeeded with zero errors and four warnings. Packaging checks confirm all 21 compiled starter definitions and picker mappings, both new Dragon covers matching their source bytes, and their featured cards in the active catalog. The quick build skipped new scenario/simulation runs; standalone validation above was completed before building. Runtime UI smoke tests were not run. Build evidence is in `reports/quick-build/build-result.json`, `build.log` and `dragon-decks-packaging.json`. Launch with `Play-Unity.ps1`.
+
+## Confirmed in the game — 6 October 2026
+
+A fresh Windows quick build after clearing generated Unity compilation caches includes all 21 starters. Direct checks confirm both Dragon definitions, picker entries, covers and active featured cards. The rebuilt executable passed 1,096 starter UI checks with an isolated profile, including creating playable templates and preserving the exact lists for Dragon's Ascent and Axe Forge. Evidence: `reports/deck-confirmation-20261006/packaging.json` and `fresh-player/starter-features-smoke.json`. The build succeeded with zero errors; the gameplay scenario suite was skipped for the quick build.
+
+
+---
+
+# Axe Forge
+
+A separate Haxorus-themed Modern practice starter, ID `showdown-forge`. It uses 19 Pokémon, 26 Trainers and 15 Basic Energy: 60 cards total. There is exactly one Legendary copy, Dialga. The source roster is now 21, with the previous 20 starter lists unchanged.
+
+## Strategy
+
+Start with Axew's Gather Strength to find Basic Energy, then evolve through Fraxure to Haxorus or use Rare Candy. Two Haxorus have Dragon Pulse for 230 damage at a Fighting + Metal cost. Bring Down the Axe can Knock Out an opponent whose Active Pokémon has Special Energy attached. The third Haxorus has Cross-Cut for 160 against Evolution Pokémon, or Axe Blast to Knock Out a Basic Pokémon at a Fighting + Metal + Colorless cost. Each effect remains subject to applicable defending effects.
+
+Metang's Metal Maker looks at four cards and attaches the Basic Metal Energy found there to your Pokémon, putting the others on the bottom of your deck. Nine Metal Energy support this engine; six Fighting Energy and three Crispin help supply Haxorus's other cost. Beldum's Call for Family finds Basic Pokémon, while Bibarel supports drawing. Switch rotates attackers.
+
+Dragon Pulse discards the top three cards of your deck. Watch the deck count: repeated attacks and drawing can cause deck-out. Dialga's Temporal Backflow recovers one discarded card to hand instead of dealing damage; its Metal Blast grows stronger with attached Metal Energy. Two Super Rod recycle Pokémon and Basic Energy into the deck.
+
+The full Axew → Fraxure → Haxorus line is 4–3–3. This deck uses **only Fighting and Metal Energy**, so it does not require mixing Dragon's Ascent's Water and Lightning Energy into the same list. Haxorus is a Dragon-type card; Dialga's selected printing is Metal. These are supported Modern practice cards, not an official Standard-rotation list.
+
+## Complete list
+
+| Qty | Card | Printing |
+|---:|---|---|
+| 4 | Axew | `zsv10pt5-68` |
+| 3 | Fraxure | `sv6pt5-45` |
+| 2 | Haxorus | `sv6pt5-46` |
+| 1 | Haxorus | `zsv10pt5-70` |
+| 1 | Dialga | `cel25-20` |
+| 2 | Beldum | `swsh4-116` |
+| 2 | Metang | `sv5-114` |
+| 2 | Bidoof | `swsh9-120` |
+| 2 | Bibarel | `swsh12pt5gg-GG25` |
+| 6 | Fighting Energy | `swsh12pt5-157` |
+| 9 | Metal Energy | `swsh12pt5-159` |
+| 4 | Professor's Research | `zsv10pt5-85` |
+| 3 | Nest Ball | `sv4pt5-84` |
+| 3 | Ultra Ball | `me2pt5-213` |
+| 2 | Evolution Incense | `swsh1-163` |
+| 3 | Rare Candy | `me1-125` |
+| 2 | Buddy-Buddy Poffin | `me2pt5-184` |
+| 3 | Crispin | `sv8pt5-105` |
+| 2 | Boss's Orders | `swsh11tg-TG24` |
+| 2 | Switch | `me2-123` |
+| 2 | Super Rod | `sv2-188` |
+
+## Artwork and availability
+
+The shared starter registry includes this deck in starter templates, borrowed battle selection and Random after the next game build. Picker previews show Axew, Metang and Dialga, with Dragon/Fighting/Metal labels. The picker shows Haxorus directly as its featured card, with Axew, Metang and Dialga fanned behind it. Decorated custom-cover image overrides have been removed.
+
+## Validation — 5 October 2026
+
+All 21 starters pass the simulator's active-card and 60-card validation, its 12 self-tests and AI-policy checks. All 5335 Modern core domain scenarios pass, including exactly one Legendary and payable Legendary attacks, plus 40 seeded verification games.
+
+The structural/artwork audit checks full evolution parents, name-copy limits, supplied attack Energy types, actual preview images and cover dimensions. All prior 20 deck definitions and every card definition remain unchanged. The content import preserved compatible prior match hashes.
+
+Four Hard-AI matchups used 100 games each with alternating seats and unique deterministic seeds. Axe Forge won 40/100 against Burn Bright, 58/100 against Ice Current, 49/100 against Dragon Tempest and 51/100 against Dragon's Ascent. All 400 games completed with zero errors, timeouts or draws. These small samples indicate playability and rough matchup balance, not guaranteed human win rates.
+
+Local evidence, resolved deck lists, before-state snapshots and matchup reports are under `reports/axe-forge-20261005/` (ignored by Git). The subsequent Windows quick build includes Axe Forge and Dragon's Ascent, bringing the built roster to 21.
+
+The 5 October 2026 quick build succeeded with zero errors and four warnings. Packaging checks confirm all 21 compiled starter definitions and picker mappings, both new Dragon covers matching their source bytes, and their featured cards in the active catalog. The quick build skipped new scenario/simulation runs; standalone validation above was completed before building. Runtime UI smoke tests were not run. Build evidence is in `reports/quick-build/build-result.json`, `build.log` and `dragon-decks-packaging.json`. Launch with `Play-Unity.ps1`.
+
+## Confirmed in the game — 6 October 2026
+
+A fresh Windows quick build after clearing generated Unity compilation caches includes all 21 starters. Direct checks confirm both Dragon definitions, picker entries, covers and active featured cards. The rebuilt executable passed 1,096 starter UI checks with an isolated profile, including creating playable templates and preserving the exact lists for Dragon's Ascent and Axe Forge. Evidence: `reports/deck-confirmation-20261006/packaging.json` and `fresh-player/starter-features-smoke.json`. The build succeeded with zero errors; the gameplay scenario suite was skipped for the quick build.

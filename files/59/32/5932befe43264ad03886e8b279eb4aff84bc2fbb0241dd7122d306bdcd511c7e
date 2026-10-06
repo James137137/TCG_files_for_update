@@ -1,0 +1,2644 @@
+# Card reference: sv6pt5
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: 042c7a64aa2c372fa44054cac797c18b72b6b2c117b816b757adcb345d62bc2f
+
+## Joltik (sv6pt5-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splashing Dodge
+
+Cost: Grass
+Damage: 10
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+
+## Horsea (sv6pt5-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hold Still
+
+Cost: Water
+Damage: —
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Razor Fin
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Seadra (sv6pt5-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Horsea
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Backup
+
+Cost: Water
+Damage: —
+
+Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Sharp Fin
+
+Cost: Colorless, Colorless
+Damage: 40
+
+
+
+## Kingdra ex (sv6pt5-12)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Seadra
+Types: Water
+HP: 310
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: King's Order
+
+Cost: Water
+Damage: —
+
+Put up to 3 Water Pokémon from your discard pile onto your Bench.
+
+### Attack: Hydro Pump
+
+Cost: Colorless, Colorless
+Damage: 50+
+
+This attack does 50 more damage for each Water Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Sneasel (sv6pt5-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-44
+
+### Attack: Cut
+
+Cost: Water
+Damage: 10
+
+
+
+### Attack: Beset
+
+Cost: Water, Water
+Damage: 30
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+## Weavile (sv6pt5-14)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sneasel
+Types: Water
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-45
+
+### Attack: Slash
+
+Cost: Water
+Damage: 40
+
+
+
+### Attack: Hail Claw
+
+Cost: Water, Water
+Damage: 70
+
+Discard all Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed.
+
+## Revavroom ex (sv6pt5-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Varoom
+Types: Lightning
+HP: 280
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Accelerator Flash
+
+Cost: Metal
+Damage: 20+
+
+If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.
+
+### Attack: Shattering Speed
+
+Cost: Metal, Metal, Metal
+Damage: 250
+
+Discard this Pokémon and all attached cards.
+
+### Printed rules
+
+As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Drowzee (sv6pt5-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Eerie Gaze
+
+Cost: Psychic
+Damage: 10
+
+Your opponent reveals their hand.
+
+## Hypno (sv6pt5-17)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drowzee
+Types: Psychic
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Daydream
+
+Cost: Psychic, Colorless
+Damage: 80
+
+During your opponent's next turn, if they attach an Energy card from their hand to the Defending Pokémon, their turn ends.
+
+## Duskull (sv6pt5-18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-35
+
+### Attack: Come and Get You
+
+Cost: Psychic
+Damage: —
+
+Put up to 3 Duskull from your discard pile onto your Bench.
+
+### Attack: Mumble
+
+Cost: Psychic, Psychic
+Damage: 30
+
+
+
+## Dusclops (sv6pt5-19)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Duskull
+Types: Psychic
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-36
+
+### Attack: Will-O-Wisp
+
+Cost: Psychic, Psychic
+Damage: 50
+
+
+
+### Ability: Cursed Blast
+
+Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+
+## Galvantula (sv6pt5-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Joltik
+Types: Grass
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shocking Web
+
+Cost: Grass, Colorless
+Damage: 50+
+
+If this Pokémon has any Lightning Energy attached, this attack does 80 more damage.
+
+### Ability: Compound Eyes
+
+Attacks used by this Pokémon do 50 more damage to your opponent's Active Pokémon that has an Ability (before applying Weakness and Resistance).
+
+## Dusknoir (sv6pt5-20)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dusclops
+Types: Psychic
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-37
+
+### Attack: Shadow Bind
+
+Cost: Psychic, Psychic, Colorless
+Damage: 150
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Ability: Cursed Blast
+
+Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+
+## Cresselia (sv6pt5-21)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Healing Pirouette
+
+Cost: Psychic
+Damage: —
+
+Heal 20 damage from each of your Pokémon.
+
+### Attack: Crescent Purge
+
+Cost: Psychic, Psychic, Psychic
+Damage: 80+
+
+You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)
+
+## Sylveon (sv6pt5-22)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Psychic
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mystical Return
+
+Cost: Psychic
+Damage: —
+
+Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon. Shuffle that Pokémon and all attached cards into their deck.
+
+### Attack: Disarming Voice
+
+Cost: Psychic, Colorless, Colorless
+Damage: 90
+
+Your opponent's Active Pokémon is now Confused.
+
+## Croagunk (sv6pt5-23)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Light Punch
+
+Cost: Fighting
+Damage: 10
+
+
+
+### Attack: Frog Hop
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Toxicroak (sv6pt5-24)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Croagunk
+Types: Fighting
+HP: 130
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corkscrew Punch
+
+Cost: Colorless, Colorless
+Damage: 50
+
+
+
+### Attack: Clean Hit
+
+Cost: Fighting, Colorless, Colorless
+Damage: 90+
+
+If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 90 more damage.
+
+## Bloodmoon Ursaluna (sv6pt5-25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 150
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-54
+
+### Attack: Mad Bite
+
+Cost: Fighting, Fighting, Colorless
+Damage: 100+
+
+This attack does 30 more damage for each damage counter on your opponent's Active Pokémon.
+
+### Ability: Battle-Hardened
+
+When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Basic Fighting Energy cards from your hand to this Pokémon.
+
+## Slither Wing (sv6pt5-26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Iron Smasher
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+If your opponent has any Future Pokémon in play, this attack does 120 more damage.
+
+### Attack: Smashing Wing
+
+Cost: Fighting, Fighting, Colorless
+Damage: 130
+
+Discard 2 Energy from this Pokémon.
+
+## Zubat (sv6pt5-27)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lead
+
+Cost: Darkness
+Damage: —
+
+Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.
+
+### Attack: Darkness Fang
+
+Cost: Darkness
+Damage: 10
+
+
+
+## Golbat (sv6pt5-28)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zubat
+Types: Darkness
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Speed Dive
+
+Cost: Darkness
+Damage: 30
+
+
+
+### Attack: Pitch-Black Blade
+
+Cost: Darkness, Colorless
+Damage: 80
+
+During your next turn, this Pokémon can't attack.
+
+## Crobat (sv6pt5-29)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Golbat
+Types: Darkness
+HP: 130
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Fang
+
+Cost: Darkness, Colorless
+Damage: 120
+
+Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 2 damage counters on that Pokémon instead of 1.
+
+### Ability: Shadowy Envoy
+
+Once during your turn, if you played Janine's Secret Art from your hand this turn, you may draw cards until you have 8 cards in your hand.
+
+## Rowlet (sv6pt5-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Add On
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Leafage
+
+Cost: Grass
+Damage: 10
+
+
+
+## Absol (sv6pt5-30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Darkfall
+
+Cost: Colorless
+Damage: 20+
+
+If you have at least 3 Darkness Energy in play, this attack does 50 more damage.
+
+## Zorua (sv6pt5-31)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stampede
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Double Scratch
+
+Cost: Darkness, Colorless
+Damage: 20×
+
+Flip 2 coins. This attack does 20 damage for each heads.
+
+## Zoroark (sv6pt5-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zorua
+Types: Darkness
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Illusory Hijacking
+
+Cost: Colorless, Colorless
+Damage: 60×
+
+This attack does 60 damage for each of your opponent's Pokémon ex and Pokémon V in play.
+
+### Attack: Claw Slash
+
+Cost: Darkness, Colorless, Colorless
+Damage: 110
+
+
+
+## Inkay (sv6pt5-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mischievous Tentacles
+
+Cost: Colorless
+Damage: —
+
+Look at the top card of your opponent's deck. You may have your opponent shuffle their deck.
+
+### Attack: Peck
+
+Cost: Darkness
+Damage: 10
+
+
+
+## Malamar (sv6pt5-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Inkay
+Types: Darkness
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Colluding Tentacles
+
+Cost: Darkness
+Damage: —
+
+Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 120 damage to the new Active Pokémon. If you didn't play Xerosic's Machinations from your hand during this turn, this attack does nothing.
+
+### Attack: Spinning Attack
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+
+
+## Yveltal (sv6pt5-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corrosive Winds
+
+Cost: Darkness
+Damage: —
+
+Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it.
+
+### Attack: Destructive Beam
+
+Cost: Darkness, Darkness, Colorless
+Damage: 100
+
+Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+
+## Okidogi ex (sv6pt5-36)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 250
+Retreat: 3
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poisonous Musculature
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned.
+
+### Attack: Chain-Crazed
+
+Cost: Darkness, Darkness, Colorless
+Damage: 130+
+
+If this Pokémon is Poisoned, this attack does 130 more damage.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Munkidori ex (sv6pt5-37)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dirty Headbutt
+
+Cost: Darkness, Darkness, Colorless
+Damage: 190
+
+During your next turn, this Pokémon can't use Dirty Headbutt.
+
+### Ability: Oh No You Don't
+
+If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Fezandipiti ex (sv6pt5-38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-142
+
+### Attack: Cruel Arrow
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Flip the Script
+
+Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pecharunt ex (sv6pt5-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-163
+
+### Attack: Irritated Outburst
+
+Cost: Darkness, Darkness
+Damage: 60×
+
+This attack does 60 damage for each Prize card your opponent has taken.
+
+### Ability: Subjugating Chains
+
+Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Dartrix (sv6pt5-4)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Rowlet
+Types: Grass
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: United Wings
+
+Cost: Colorless
+Damage: 20×
+
+This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack.
+
+### Attack: Cutting Wind
+
+Cost: Grass
+Damage: 30
+
+
+
+## Genesect (sv6pt5-40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magnetic Blast
+
+Cost: Metal, Colorless, Colorless
+Damage: 100
+
+
+
+### Ability: ACE Nullifier
+
+If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand.
+
+## Cufant (sv6pt5-41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Metal, Colorless
+Damage: 30
+
+
+
+### Attack: Confront
+
+Cost: Metal, Metal, Colorless
+Damage: 70
+
+
+
+## Copperajah (sv6pt5-42)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cufant
+Types: Metal
+HP: 200
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nasal Lariat
+
+Cost: Metal, Metal, Metal, Colorless
+Damage: 130+
+
+You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack.
+
+### Ability: Massive Body
+
+As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.
+
+## Varoom (sv6pt5-43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rigidify
+
+Cost: Metal
+Damage: —
+
+During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
+
+### Attack: Headbutt Bounce
+
+Cost: Metal, Metal
+Damage: 20
+
+
+
+## Axew (sv6pt5-44)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Fighting
+Damage: 10
+
+
+
+### Attack: Sharp Fang
+
+Cost: Fighting, Metal
+Damage: 30
+
+
+
+## Fraxure (sv6pt5-45)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Axew
+Types: Dragon
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Pulse
+
+Cost: Fighting, Metal
+Damage: 80
+
+Discard the top card of your deck.
+
+### Ability: Unnerve
+
+Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+
+## Haxorus (sv6pt5-46)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Fraxure
+Types: Dragon
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bring Down the Axe
+
+Cost: Fighting
+Damage: —
+
+If your opponent's Active Pokémon has any Special Energy attached, it is Knocked Out.
+
+### Attack: Dragon Pulse
+
+Cost: Fighting, Metal
+Damage: 230
+
+Discard the top 3 cards of your deck.
+
+## Kyurem (sv6pt5-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Trifrost
+
+Cost: Water, Water, Metal, Metal, Colorless
+Damage: —
+
+Discard all Energy from this Pokémon. This attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Plasma Bane
+
+If your opponent has any cards in their discard pile that have "Colress" in the name, this Pokémon can use the Trifrost attack for Colorless.
+
+## Meowth (sv6pt5-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2-106
+
+### Attack: Fury Swipes
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+Flip 3 coins. This attack does 20 damage for each heads.
+
+## Persian (sv6pt5-49)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Meowth
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fury Swipes
+
+Cost: Colorless, Colorless
+Damage: 50×
+
+Flip 3 coins. This attack does 50 damage for each heads.
+
+### Attack: Slashing Claw
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+
+
+## Decidueye (sv6pt5-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dartrix
+Types: Grass
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stock Up on Feathers
+
+Cost: Colorless
+Damage: —
+
+Draw cards until you have 7 cards in your hand.
+
+### Attack: Power Shot
+
+Cost: Grass
+Damage: 170
+
+Discard a Basic Grass Energy card from your hand. If you can't, this attack does nothing.
+
+## Eevee (sv6pt5-50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Colorful Catch
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 3 Basic Energy cards of different types, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Furfrou (sv6pt5-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Assist
+
+Cost: Colorless
+Damage: 30
+
+Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon.
+
+## Stufful (sv6pt5-52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Take Down
+
+Cost: Colorless
+Damage: 30
+
+This Pokémon also does 10 damage to itself.
+
+## Bewear (sv6pt5-53)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Stufful
+Types: Colorless
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Charger
+
+Cost: Colorless
+Damage: 30
+
+Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck.
+
+### Attack: Hammer In
+
+Cost: Colorless, Colorless, Colorless
+Damage: 130
+
+
+
+## Academy at Night (sv6pt5-54)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Once during each player's turn, that player may put a card from their hand on top of their deck.
+
+You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+## Binding Mochi (sv6pt5-55)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-95
+
+### Printed rules
+
+Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
+
+## Cassiopeia (sv6pt5-56)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Colress's Tenacity (sv6pt5-57)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a Stadium card and an Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Dangerous Laser (sv6pt5-58)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can't have more than 1 ACE SPEC card in your deck.
+
+Your opponent's Active Pokémon is now Burned and Confused.
+
+You may play any number of Item cards during your turn.
+
+## Janine's Secret Art (sv6pt5-59)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-112
+
+### Printed rules
+
+Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.
+
+You may play only 1 Supporter card during your turn.
+
+## Tapu Bulu (sv6pt5-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wood Hammer
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 220
+
+This Pokémon also does 30 damage to itself.
+
+## Neutralization Zone (sv6pt5-60)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: ace-spec
+Superseded by: —
+
+### Printed rules
+
+You can't have more than 1 ACE SPEC card in your deck.
+
+Prevent all damage done to Pokémon that don't have a Rule Box (both yours and your opponent's) by attacks from the opponent's Pokémon ex and Pokémon V. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)    This card can't be put into your hand or deck from the discard pile.
+
+You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+## Night Stretcher (sv6pt5-61)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-196
+
+### Printed rules
+
+Put a Pokémon or a Basic Energy card from your discard pile into your hand.
+
+You may play any number of Item cards during your turn.
+
+## Poké Vital A (sv6pt5-62)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+You can't have more than 1 ACE SPEC card in your deck.
+
+Heal 150 damage from 1 of your Pokémon.    This card can't be put into your hand or deck from the discard pile.
+
+You may play any number of Item cards during your turn.
+
+## Powerglass (sv6pt5-63)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.
+
+You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
+
+## Xerosic's Machinations (sv6pt5-64)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Your opponent discards cards from their hand until they have 3 cards in their hand.
+
+You may play only 1 Supporter card during your turn.
+
+## Tapu Bulu (sv6pt5-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-6
+
+### Attack: Wood Hammer
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 220
+
+This Pokémon also does 30 damage to itself.
+
+## Houndoom (sv6pt5-66)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Houndour
+Types: Fire
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-8
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 50
+
+
+
+### Attack: Snarl
+
+Cost: Fire, Colorless, Colorless
+Damage: 100
+
+During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance).
+
+## Horsea (sv6pt5-67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-10
+
+### Attack: Hold Still
+
+Cost: Water
+Damage: —
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Razor Fin
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Duskull (sv6pt5-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-35
+
+### Attack: Come and Get You
+
+Cost: Psychic
+Damage: —
+
+Put up to 3 Duskull from your discard pile onto your Bench.
+
+### Attack: Mumble
+
+Cost: Psychic, Psychic
+Damage: 30
+
+
+
+## Dusclops (sv6pt5-69)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Duskull
+Types: Psychic
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-36
+
+### Attack: Will-O-Wisp
+
+Cost: Psychic, Psychic
+Damage: 50
+
+
+
+### Ability: Cursed Blast
+
+Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+
+## Houndour (sv6pt5-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gnaw
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Rear Kick
+
+Cost: Fire, Colorless, Colorless
+Damage: 50
+
+
+
+## Dusknoir (sv6pt5-70)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dusclops
+Types: Psychic
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-37
+
+### Attack: Shadow Bind
+
+Cost: Psychic, Psychic, Colorless
+Damage: 150
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Ability: Cursed Blast
+
+Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+
+## Cresselia (sv6pt5-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-21
+
+### Attack: Healing Pirouette
+
+Cost: Psychic
+Damage: —
+
+Heal 20 damage from each of your Pokémon.
+
+### Attack: Crescent Purge
+
+Cost: Psychic, Psychic, Psychic
+Damage: 80+
+
+You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)
+
+## Munkidori (sv6pt5-72)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-99
+
+### Attack: Mind Bend
+
+Cost: Psychic, Colorless
+Damage: 60
+
+Your opponent's Active Pokémon is now Confused.
+
+### Ability: Adrena-Brain
+
+Once during your turn, if this Pokémon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent's Pokémon.
+
+## Fezandipiti (sv6pt5-73)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-45
+
+### Attack: Energy Feather
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage for each Energy attached to this Pokémon.
+
+### Ability: Adrena-Pheromone
+
+If this Pokémon has any Darkness Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.
+
+## Okidogi (sv6pt5-74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-57
+
+### Attack: Good Punch
+
+Cost: Fighting, Fighting
+Damage: 70
+
+
+
+### Ability: Adrena-Power
+
+If this Pokémon has any Darkness Energy attached, it gets +100 HP, and the attacks it uses do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+## Zorua (sv6pt5-75)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-31
+
+### Attack: Stampede
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Double Scratch
+
+Cost: Darkness, Colorless
+Damage: 20×
+
+Flip 2 coins. This attack does 20 damage for each heads.
+
+## Cufant (sv6pt5-76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-41
+
+### Attack: Tackle
+
+Cost: Metal, Colorless
+Damage: 30
+
+
+
+### Attack: Confront
+
+Cost: Metal, Metal, Colorless
+Damage: 70
+
+
+
+## Fraxure (sv6pt5-77)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Axew
+Types: Dragon
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-45
+
+### Attack: Dragon Pulse
+
+Cost: Fighting, Metal
+Damage: 80
+
+Discard the top card of your deck.
+
+### Ability: Unnerve
+
+Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+
+## Persian (sv6pt5-78)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Meowth
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-49
+
+### Attack: Fury Swipes
+
+Cost: Colorless, Colorless
+Damage: 50×
+
+Flip 3 coins. This attack does 50 damage for each heads.
+
+### Attack: Slashing Claw
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+
+
+## Bewear (sv6pt5-79)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Stufful
+Types: Colorless
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-53
+
+### Attack: Power Charger
+
+Cost: Colorless
+Damage: 30
+
+Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck.
+
+### Attack: Hammer In
+
+Cost: Colorless, Colorless, Colorless
+Damage: 130
+
+
+
+## Houndoom (sv6pt5-8)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Houndour
+Types: Fire
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 50
+
+
+
+### Attack: Snarl
+
+Cost: Fire, Colorless, Colorless
+Damage: 100
+
+During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance).
+
+## Kingdra ex (sv6pt5-80)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Seadra
+Types: Water
+HP: 310
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-12
+
+### Attack: King's Order
+
+Cost: Water
+Damage: —
+
+Put up to 3 Water Pokémon from your discard pile onto your Bench.
+
+### Attack: Hydro Pump
+
+Cost: Colorless, Colorless
+Damage: 50+
+
+This attack does 50 more damage for each Water Energy attached to this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Revavroom ex (sv6pt5-81)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Varoom
+Types: Lightning
+HP: 280
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-15
+
+### Attack: Accelerator Flash
+
+Cost: Metal
+Damage: 20+
+
+If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.
+
+### Attack: Shattering Speed
+
+Cost: Metal, Metal, Metal
+Damage: 250
+
+Discard this Pokémon and all attached cards.
+
+### Printed rules
+
+As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Okidogi ex (sv6pt5-82)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 250
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-36
+
+### Attack: Poisonous Musculature
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned.
+
+### Attack: Chain-Crazed
+
+Cost: Darkness, Darkness, Colorless
+Damage: 130+
+
+If this Pokémon is Poisoned, this attack does 130 more damage.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Munkidori ex (sv6pt5-83)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-37
+
+### Attack: Dirty Headbutt
+
+Cost: Darkness, Darkness, Colorless
+Damage: 190
+
+During your next turn, this Pokémon can't use Dirty Headbutt.
+
+### Ability: Oh No You Don't
+
+If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Fezandipiti ex (sv6pt5-84)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-142
+
+### Attack: Cruel Arrow
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Flip the Script
+
+Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pecharunt ex (sv6pt5-85)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-163
+
+### Attack: Irritated Outburst
+
+Cost: Darkness, Darkness
+Damage: 60×
+
+This attack does 60 damage for each Prize card your opponent has taken.
+
+### Ability: Subjugating Chains
+
+Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Cassiopeia (sv6pt5-86)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-56
+
+### Printed rules
+
+You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Colress's Tenacity (sv6pt5-87)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-57
+
+### Printed rules
+
+Search your deck for a Stadium card and an Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Janine's Secret Art (sv6pt5-88)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-112
+
+### Printed rules
+
+Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.
+
+You may play only 1 Supporter card during your turn.
+
+## Xerosic's Machinations (sv6pt5-89)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-64
+
+### Printed rules
+
+Your opponent discards cards from their hand until they have 3 cards in their hand.
+
+You may play only 1 Supporter card during your turn.
+
+## Iron Moth (sv6pt5-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Suction
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
+
+### Attack: Anachronism Repulsor
+
+Cost: Fire, Fire, Colorless
+Damage: 120
+
+During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Ancient Pokémon.
+
+## Okidogi ex (sv6pt5-90)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 250
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-36
+
+### Attack: Poisonous Musculature
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned.
+
+### Attack: Chain-Crazed
+
+Cost: Darkness, Darkness, Colorless
+Damage: 130+
+
+If this Pokémon is Poisoned, this attack does 130 more damage.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Munkidori ex (sv6pt5-91)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-37
+
+### Attack: Dirty Headbutt
+
+Cost: Darkness, Darkness, Colorless
+Damage: 190
+
+During your next turn, this Pokémon can't use Dirty Headbutt.
+
+### Ability: Oh No You Don't
+
+If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Fezandipiti ex (sv6pt5-92)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-142
+
+### Attack: Cruel Arrow
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Flip the Script
+
+Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pecharunt ex (sv6pt5-93)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-163
+
+### Attack: Irritated Outburst
+
+Cost: Darkness, Darkness
+Damage: 60×
+
+This attack does 60 damage for each Prize card your opponent has taken.
+
+### Ability: Subjugating Chains
+
+Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Cassiopeia (sv6pt5-94)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-56
+
+### Printed rules
+
+You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Pecharunt ex (sv6pt5-95)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-163
+
+### Attack: Irritated Outburst
+
+Cost: Darkness, Darkness
+Damage: 60×
+
+This attack does 60 damage for each Prize card your opponent has taken.
+
+### Ability: Subjugating Chains
+
+Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Earthen Vessel (sv6pt5-96)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv8pt5-106
+
+### Printed rules
+
+You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play any number of Item cards during your turn.
+
+## Powerglass (sv6pt5-97)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6pt5-63
+
+### Printed rules
+
+At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.
+
+You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
+
+## Basic Darkness Energy (sv6pt5-98)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+## Basic Metal Energy (sv6pt5-99)
+
+Category: Energy
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
