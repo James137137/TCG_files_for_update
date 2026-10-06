@@ -1,0 +1,318 @@
+# Card reference: mcd12
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Servine (mcd12-1)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Snivy
+Types: Grass
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wrap
+
+Cost: Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Tackle
+
+Cost: Grass, Colorless
+Damage: 30
+
+
+
+## Scraggy (mcd12-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Klang (mcd12-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Klink
+Types: Metal
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Sound
+
+Cost: Colorless
+Damage: —
+
+The Defending Pokémon is now Confused.
+
+### Attack: Guard Press
+
+Cost: Metal, Metal, Colorless
+Damage: 60
+
+During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).
+
+## Axew (mcd12-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dual Chop
+
+Cost: Colorless
+Damage: 10×
+
+Flip 2 coins. This attack does 10 damage times the number of heads.
+
+## Pansage (mcd12-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Scratch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Dwebble (mcd12-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Withdraw
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn.
+
+### Attack: Slash
+
+Cost: Grass, Colorless
+Damage: 20
+
+
+
+## Pignite (mcd12-4)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Tepig
+Types: Fire
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flame Charge
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward.
+
+### Attack: Heat Crash
+
+Cost: Fire, Fire, Colorless
+Damage: 50
+
+
+
+## Dewott (mcd12-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Oshawott
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Colorless, Colorless
+Damage: 30
+
+
+
+### Attack: Razor Shell
+
+Cost: Water, Water, Colorless
+Damage: 40+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Emolga (mcd12-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thundershock
+
+Cost: Lightning
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Acrobatics
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip 2 coins. This attack does 20 more damage for each heads.
+
+## Woobat (mcd12-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psy Bolt
+
+Cost: Psychic, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Drilbur (mcd12-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hone ClawsScratch
+
+Cost: Colorless, Fighting
+Damage: 10
+
+During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance).
+
+## Purrloin (mcd12-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Knock Off
+
+Cost: Darkness, Colorless
+Damage: 20
+
+Flip a coin. If heads, discard a random card from your opponent's hand.
+

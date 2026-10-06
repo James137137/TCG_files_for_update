@@ -1,0 +1,4960 @@
+# Card reference: sv9
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Caterpie (sv9-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bug Bite
+
+Cost: Grass
+Damage: 20
+
+
+
+## Foongus (sv9-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spore Ball
+
+Cost: Grass
+Damage: 10
+
+Your opponent's Active Pokémon is now Asleep.
+
+## Lokix (sv9-100)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Nymble
+Types: Darkness
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Low Sweep
+
+Cost: Darkness
+Damage: 60
+
+
+
+## Bombirdier (sv9-101)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Glide
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Drop Shot
+
+Cost: Darkness, Darkness, Colorless
+Damage: —
+
+Discard all Energy from this Pokémon, and this attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Escavalier (sv9-102)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Karrablast
+Types: Metal
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pierce
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Iron Buster
+
+Cost: Metal, Colorless
+Damage: 120
+
+During your next turn, this Pokémon can't attack.
+
+## N's Klink (sv9-103)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Spin
+
+Cost: Colorless
+Damage: 10×
+
+Flip 2 coins. This attack does 10 damage for each heads.
+
+## N's Klang (sv9-104)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Klink
+Types: Metal
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spinning Gears
+
+Cost: Colorless
+Damage: 20
+
+Your opponent's Active Pokémon is now Confused.
+
+### Attack: Confront
+
+Cost: Metal, Colorless
+Damage: 40
+
+
+
+## N's Klinklang (sv9-105)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: N's Klang
+Types: Metal
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magnetic Blast
+
+Cost: Colorless
+Damage: 50
+
+
+
+### Attack: Triple Smash
+
+Cost: Metal, Metal, Colorless
+Damage: 120×
+
+Flip 3 coins. This attack does 120 damage for each heads.
+
+## Galarian Stunfisk (sv9-106)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mud-Slap
+
+Cost: Colorless, Colorless
+Damage: 40
+
+
+
+### Attack: Bounding Bite
+
+Cost: Colorless, Colorless, Colorless
+Damage: 100
+
+This Pokémon also does 30 damage to itself.
+
+## Magearna (sv9-107)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spike Draw
+
+Cost: Colorless
+Damage: 20
+
+Draw 2 cards.
+
+### Ability: Auto Heal
+
+As long as this Pokémon is in the Active Spot, whenever you attach an Energy card from your hand to 1 of your Pokémon, heal 90 damage from that Pokémon.
+
+## Hop's Corviknight (sv9-108)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Hop's Corvisquire
+Types: Metal
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shoot Through
+
+Cost: Colorless
+Damage: 50
+
+This attack also does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Steel Wing
+
+Cost: Metal, Metal, Colorless
+Damage: 150
+
+During your opponent's next turn, this Pokémon takes 60 less damage from attacks (after applying Weakness and Resistance).
+
+## Cufant (sv9-109)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rollout
+
+Cost: Metal, Metal, Colorless
+Damage: 80
+
+
+
+## Amoonguss ex (sv9-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Foongus
+Types: Grass
+HP: 260
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spore Ball
+
+Cost: Grass
+Damage: 30
+
+Your opponent's Active Pokémon is now Asleep.
+
+### Attack: Champignon's Swing
+
+Cost: Grass, Colorless
+Damage: 100+
+
+Flip a coin. If heads, this attack does 80 more damage.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Copperajah (sv9-110)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cufant
+Types: Metal
+HP: 190
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ram
+
+Cost: Metal, Metal, Colorless
+Damage: 100
+
+
+
+### Attack: Mega Impact
+
+Cost: Metal, Metal, Colorless, Colorless
+Damage: 160
+
+
+
+## Hop's Zacian ex (sv9-111)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 230
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Insta-Strike
+
+Cost: Colorless
+Damage: 30
+
+This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Brave Slash
+
+Cost: Metal, Metal, Metal, Colorless
+Damage: 240
+
+During your next turn, this Pokémon can't use Brave Slash.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Bagon (sv9-112)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Reckless Charge
+
+Cost: Fire, Water
+Damage: 50
+
+This Pokémon also does 10 damage to itself.
+
+## Shelgon (sv9-113)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bagon
+Types: Dragon
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Guard Press
+
+Cost: Colorless, Colorless
+Damage: 30
+
+During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
+
+### Attack: Heavy Impact
+
+Cost: Fire, Water, Colorless
+Damage: 80
+
+
+
+## Salamence ex (sv9-114)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Dragon
+HP: 320
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wide Blast
+
+Cost: Fire, Colorless, Colorless
+Damage: —
+
+This attack does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Dragon Impact
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 300
+
+Discard 2 Energy from this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Druddigon (sv9-115)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon's Fury
+
+Cost: Colorless
+Damage: 20
+
+Attach a Basic Fire Energy card from your discard pile to 1 of your Dragon Pokémon.
+
+### Attack: Slashing Claw
+
+Cost: Fire, Water, Colorless
+Damage: 120
+
+
+
+## N's Reshiram (sv9-116)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-154
+
+### Attack: Powerful Rage
+
+Cost: Fire, Lightning
+Damage: 20×
+
+This attack does 20 damage for each damage counter on this Pokémon.
+
+### Attack: Virtuous Flame
+
+Cost: Fire, Fire, Lightning, Colorless
+Damage: 170
+
+
+
+## Hop's Snorlax (sv9-117)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 150
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dynamic Press
+
+Cost: Colorless, Colorless, Colorless
+Damage: 140
+
+This Pokémon also does 80 damage to itself.
+
+### Ability: Extra Helpings
+
+Attacks used by your Hop's Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). The effect of Extra Helpings doesn't stack.
+
+## Sentret (sv9-118)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smack
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Furret (sv9-119)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sentret
+Types: Colorless
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 40
+
+
+
+### Attack: Jet Headbutt
+
+Cost: Colorless, Colorless
+Damage: 70
+
+
+
+## Shelmet (sv9-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shell Smack
+
+Cost: Grass, Colorless
+Damage: 20
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+
+## Dunsparce (sv9-120)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Trading Places
+
+Cost: Colorless
+Damage: —
+
+Switch this Pokémon with 1 of your Benched Pokémon.
+
+### Attack: Ram
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Dudunsparce ex (sv9-121)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dunsparce
+Types: Colorless
+HP: 270
+Retreat: 3
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tenacious Tail
+
+Cost: Colorless
+Damage: 60×
+
+This attack does 60 damage for each of your opponent's Pokémon ex in play.
+
+### Attack: Destructive Drill
+
+Cost: Colorless, Colorless, Colorless
+Damage: 150
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Kecleon (sv9-122)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stealth Attack
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+
+## Tropius (sv9-123)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fruit Bearing
+
+Cost: Colorless
+Damage: —
+
+Discard a card from your hand. If you do, draw 3 cards.
+
+### Attack: Gust
+
+Cost: Colorless, Colorless
+Damage: 50
+
+
+
+## Audino (sv9-124)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Beckon
+
+Cost: Colorless
+Damage: —
+
+Put a Supporter card from your discard pile into your hand.
+
+### Attack: Zen Headbutt
+
+Cost: Colorless, Colorless, Colorless
+Damage: 70
+
+
+
+## Minccino (sv9-125)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slap
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Cinccino (sv9-126)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Minccino
+Types: Colorless
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tail Smack
+
+Cost: Colorless
+Damage: 50
+
+
+
+## Noibat (sv9-127)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rapid Draw
+
+Cost: Colorless
+Damage: 10
+
+Draw a card.
+
+## Noivern (sv9-128)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Noibat
+Types: Colorless
+HP: 110
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Frightening Howl
+
+Cost: Colorless, Colorless, Colorless
+Damage: 110
+
+Your opponent's Active Pokémon is now Confused.
+
+### Ability: Tuning Echo
+
+If you have the same number of cards in your hand as your opponent, ignore all Energy in the cost of Frightening Howl used by this Pokémon.
+
+## Komala (sv9-129)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slumbering Smack
+
+Cost: Colorless
+Damage: 30
+
+Both Active Pokémon are now Asleep. During your next turn, attacks used by this Pokémon do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+## Accelgor (sv9-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shelmet
+Types: Grass
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poisonous Ploy
+
+Cost: Grass, Colorless
+Damage: 70
+
+Your opponent's Active Pokémon is now Confused and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon.
+
+## Drampa (sv9-130)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ram
+
+Cost: Colorless
+Damage: 30
+
+
+
+### Attack: Dragon Claw
+
+Cost: Colorless, Colorless
+Damage: 50
+
+
+
+## Skwovet (sv9-131)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Gnaw
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Greedent (sv9-132)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Skwovet
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gluttonous Tail
+
+Cost: Colorless, Colorless
+Damage: 60
+
+Draw 2 cards.
+
+## Hop's Rookidee (sv9-133)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Intimidating Stare
+
+Cost: Colorless
+Damage: —
+
+During your opponent's next turn, attacks used by the Defending Pokémon do 20 less damage (before applying Weakness and Resistance).
+
+### Attack: Peck
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Hop's Corvisquire (sv9-134)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hop's Rookidee
+Types: Colorless
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Speed Dive
+
+Cost: Colorless
+Damage: 30
+
+
+
+### Attack: Razor Wing
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+
+
+## Hop's Wooloo (sv9-135)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smash Kick
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50
+
+
+
+## Hop's Dubwool (sv9-136)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hop's Wooloo
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+
+
+### Ability: Defiant Horn
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+
+## Cramorant (sv9-137)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ceaseless Spitting
+
+Cost: Colorless, Colorless
+Damage: 50×
+
+Flip a coin until you get tails. This attack does 50 damage for each heads.
+
+## Hop's Cramorant (sv9-138)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-177
+
+### Attack: Fickle Spitting
+
+Cost: Colorless
+Damage: 120
+
+If your opponent doesn't have exactly 3 or 4 Prize cards remaining, this attack does nothing.
+
+## Lechonk (sv9-139)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ram
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Durant (sv9-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Grass, Colorless
+Damage: 50
+
+Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+
+## Oinkologne (sv9-140)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Lechonk
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aromatic Stomps
+
+Cost: Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, during your opponent's next turn, the Defending Pokémon can't attack.
+
+### Attack: Headbutt Bounce
+
+Cost: Colorless, Colorless, Colorless
+Damage: 120
+
+
+
+## Squawkabilly (sv9-141)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Add On
+
+Cost: Colorless
+Damage: —
+
+Draw 2 cards.
+
+### Attack: Hyper Voice
+
+Cost: Colorless, Colorless
+Damage: 40
+
+
+
+## Billy & O'Nare (sv9-142)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Draw 2 cards. Then, if you have 10 or more cards in your hand, draw 2 more cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Black Belt's Training (sv9-143)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-255
+
+### Printed rules
+
+During this turn, attacks used by your Pokémon do 40 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).
+
+You may play only 1 Supporter card during your turn.
+
+## Black Belt's Training (sv9-144)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-255
+
+### Printed rules
+
+During this turn, attacks used by your Pokémon do 40 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).
+
+You may play only 1 Supporter card during your turn.
+
+## Black Belt's Training (sv9-145)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-255
+
+### Printed rules
+
+During this turn, attacks used by your Pokémon do 40 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).
+
+You may play only 1 Supporter card during your turn.
+
+## Brock's Scouting (sv9-146)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for up to 2 Basic Pokémon or 1 Evolution Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Hop's Bag (sv9-147)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for up to 2 Basic Hop's Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+You may play any number of Item cards during your turn.
+
+## Hop's Choice Band (sv9-148)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attacks used by the Hop's Pokémon this card is attached to cost Colorless less and do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
+
+## Iris's Fighting Spirit (sv9-149)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-190
+
+### Printed rules
+
+You can use this card only if you discard another card from your hand.  Draw cards until you have 6 cards in your hand.
+
+You may play only 1 Supporter card during your turn.
+
+## Virizion (sv9-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Leaf Drain
+
+Cost: Grass, Colorless
+Damage: 30
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Slicing Blade
+
+Cost: Grass, Colorless, Colorless
+Damage: 100
+
+
+
+## Levincia (sv9-150)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv10-244
+
+### Printed rules
+
+Once during each player's turn, that player may put up to 2 Basic Lightning Energy cards from their discard pile into their hand.
+
+You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+## Lillie's Pearl (sv9-151)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+If the Lillie's Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card.
+
+You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
+
+## N's Castle (sv9-152)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+N's Pokémon in play (both yours and your opponent's) have no Retreat Cost.
+
+You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+## N's PP Up (sv9-153)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-195
+
+### Printed rules
+
+Attach a Basic Energy card from your discard pile to 1 of your Benched N's Pokémon.
+
+You may play any number of Item cards during your turn.
+
+## Postwick (sv9-154)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Attacks used by Hop's Pokémon (both yours and your opponent's) do 30 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).
+
+You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+## Professor's Research (sv9-155)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: zsv10pt5-85
+
+### Printed rules
+
+Discard your hand and draw 7 cards.
+
+You may play only 1 Supporter card during your turn.
+
+## Redeemable Ticket (sv9-156)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Count your Prize cards, shuffle them, and put them on the bottom of your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.
+
+You may play any number of Item cards during your turn.
+
+## Ruffian (sv9-157)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Discard a Pokémon Tool and a Special Energy from 1 of your opponent's Pokémon.
+
+You may play only 1 Supporter card during your turn.
+
+## Super Potion (sv9-158)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Heal 60 damage from 1 of your Pokémon. If you healed any damage in this way, discard an Energy from that Pokémon.
+
+You may play any number of Item cards during your turn.
+
+## Spiky Energy (sv9-159)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+As long as this card is attached to a Pokémon, it provides Colorless Energy.  If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.
+
+## Sprigatito (sv9-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tons of Treading
+
+Cost: Colorless
+Damage: 10×
+
+Flip 3 coins. This attack does 10 damage for each heads.
+
+## Maractus (sv9-160)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-8
+
+### Attack: Corner
+
+Cost: Colorless
+Damage: 20
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Ability: Exploding Needles
+
+If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, put 6 damage counters on the Attacking Pokémon.
+
+## Articuno (sv9-161)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-32
+
+### Attack: Frigid Fluttering
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Water Energy cards and attach them to this Pokémon. Then, shuffle your deck.
+
+### Attack: Ice Blast
+
+Cost: Water, Water, Colorless
+Damage: 110
+
+
+
+## Wailord (sv9-162)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wailmer
+Types: Water
+HP: 240
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-41
+
+### Attack: Hydro Pump
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 10+
+
+This attack does 50 more damage for each Water Energy attached to this Pokémon.
+
+## Iono's Kilowattrel (sv9-163)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Wattrel
+Types: Lightning
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-72
+
+### Attack: Mach Bolt
+
+Cost: Lightning, Colorless, Colorless
+Damage: 70
+
+
+
+### Ability: Flashing Draw
+
+You must discard a Basic Lightning Energy from this Pokémon in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.
+
+## Lillie's Ribombee (sv9-164)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Lillie's Cutiefly
+Types: Psychic
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-67
+
+### Attack: Magical Shot
+
+Cost: Psychic
+Damage: 50
+
+
+
+### Ability: Inviting Wink
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand and you put any number of Basic Pokémon you find there onto their Bench.
+
+## Swinub (sv9-165)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv9-77
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+### Attack: Lunge Out
+
+Cost: Fighting
+Damage: 10
+
+
+
+## Lycanroc (sv9-166)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Rockruff
+Types: Fighting
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-85
+
+### Attack: Clamping Fangs
+
+Cost: Colorless, Colorless, Colorless
+Damage: 40+
+
+This attack does 40 more damage for each damage counter on your opponent's Active Pokémon.
+
+### Ability: Spike-Clad
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Spiky Energy cards from your discard pile to this Pokémon.
+
+## N's Reshiram (sv9-167)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-154
+
+### Attack: Powerful Rage
+
+Cost: Fire, Lightning
+Damage: 20×
+
+This attack does 20 damage for each damage counter on this Pokémon.
+
+### Attack: Virtuous Flame
+
+Cost: Fire, Fire, Lightning, Colorless
+Damage: 170
+
+
+
+## Furret (sv9-168)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sentret
+Types: Colorless
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv9-119
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 40
+
+
+
+### Attack: Jet Headbutt
+
+Cost: Colorless, Colorless
+Damage: 70
+
+
+
+## Noibat (sv9-169)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv9-127
+
+### Attack: Rapid Draw
+
+Cost: Colorless
+Damage: 10
+
+Draw a card.
+
+## Floragato (sv9-17)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Sprigatito
+Types: Grass
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magical Leaf
+
+Cost: Colorless, Colorless
+Damage: 30+
+
+Flip a coin. If heads, this attack does 30 more damage, and heal 30 damage from this Pokémon.
+
+## Hop's Wooloo (sv9-170)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: sv9-135
+
+### Attack: Smash Kick
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50
+
+
+
+## Volcanion ex (sv9-171)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 220
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-31
+
+### Attack: Scorching Cyclone
+
+Cost: Fire, Fire, Colorless
+Damage: 160
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Ability: Scalding Steam
+
+Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Burned.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Iono's Bellibolt ex (sv9-172)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Tadbulb
+Types: Lightning
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-70
+
+### Attack: Thunderous Bolt
+
+Cost: Lightning, Lightning, Lightning, Colorless
+Damage: 230
+
+During your next turn, this Pokémon can't attack.
+
+### Ability: Electric Streamer
+
+As often as you like during your turn, you may attach a Basic Lightning Energy card from your hand to 1 of your Iono's Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Lillie's Clefairy ex (sv9-173)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-76
+
+### Attack: Full Moon Rondo
+
+Cost: Psychic, Colorless
+Damage: 20+
+
+This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).
+
+### Ability: Fairy Zone
+
+The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. (Apply Weakness as ×2.)
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Mamoswine ex (sv9-174)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Piloswine
+Types: Fighting
+HP: 340
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-79
+
+### Attack: Rumbling March
+
+Cost: Fighting, Fighting
+Damage: 180+
+
+This attack does 40 more damage for each Stage 2 Pokémon on your Bench.
+
+### Ability: Mammoth Hauler
+
+Once during your turn, you may search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## N's Zoroark ex (sv9-175)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Zorua
+Types: Darkness
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-137
+
+### Attack: Night Joker
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.
+
+### Ability: Trade
+
+You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Hop's Zacian ex (sv9-176)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 230
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-111
+
+### Attack: Insta-Strike
+
+Cost: Colorless
+Damage: 30
+
+This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Brave Slash
+
+Cost: Metal, Metal, Metal, Colorless
+Damage: 240
+
+During your next turn, this Pokémon can't use Brave Slash.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Salamence ex (sv9-177)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Dragon
+HP: 320
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-114
+
+### Attack: Wide Blast
+
+Cost: Fire, Colorless, Colorless
+Damage: —
+
+This attack does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Dragon Impact
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 300
+
+Discard 2 Energy from this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Dudunsparce ex (sv9-178)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Dunsparce
+Types: Colorless
+HP: 270
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-121
+
+### Attack: Tenacious Tail
+
+Cost: Colorless
+Damage: 60×
+
+This attack does 60 damage for each of your opponent's Pokémon ex in play.
+
+### Attack: Destructive Drill
+
+Cost: Colorless, Colorless, Colorless
+Damage: 150
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Brock's Scouting (sv9-179)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-146
+
+### Printed rules
+
+Search your deck for up to 2 Basic Pokémon or 1 Evolution Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Meowscarada (sv9-18)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Floragato
+Types: Grass
+HP: 160
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rising Bloom
+
+Cost: Colorless, Colorless
+Damage: 90+
+
+If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.
+
+### Ability: Showtime
+
+Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.
+
+## Iris's Fighting Spirit (sv9-180)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-190
+
+### Printed rules
+
+You can use this card only if you discard another card from your hand.  Draw cards until you have 6 cards in your hand.
+
+You may play only 1 Supporter card during your turn.
+
+## Ruffian (sv9-181)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-157
+
+### Printed rules
+
+Discard a Pokémon Tool and a Special Energy from 1 of your opponent's Pokémon.
+
+You may play only 1 Supporter card during your turn.
+
+## Volcanion ex (sv9-182)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 220
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-31
+
+### Attack: Scorching Cyclone
+
+Cost: Fire, Fire, Colorless
+Damage: 160
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Ability: Scalding Steam
+
+Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Burned.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Iono's Bellibolt ex (sv9-183)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Tadbulb
+Types: Lightning
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-70
+
+### Attack: Thunderous Bolt
+
+Cost: Lightning, Lightning, Lightning, Colorless
+Damage: 230
+
+During your next turn, this Pokémon can't attack.
+
+### Ability: Electric Streamer
+
+As often as you like during your turn, you may attach a Basic Lightning Energy card from your hand to 1 of your Iono's Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Lillie's Clefairy ex (sv9-184)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-76
+
+### Attack: Full Moon Rondo
+
+Cost: Psychic, Colorless
+Damage: 20+
+
+This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).
+
+### Ability: Fairy Zone
+
+The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. (Apply Weakness as ×2.)
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## N's Zoroark ex (sv9-185)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Zorua
+Types: Darkness
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-137
+
+### Attack: Night Joker
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.
+
+### Ability: Trade
+
+You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Hop's Zacian ex (sv9-186)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 230
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-111
+
+### Attack: Insta-Strike
+
+Cost: Colorless
+Damage: 30
+
+This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Brave Slash
+
+Cost: Metal, Metal, Metal, Colorless
+Damage: 240
+
+During your next turn, this Pokémon can't use Brave Slash.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Salamence ex (sv9-187)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Shelgon
+Types: Dragon
+HP: 320
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-114
+
+### Attack: Wide Blast
+
+Cost: Fire, Colorless, Colorless
+Damage: —
+
+This attack does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Dragon Impact
+
+Cost: Fire, Water, Colorless, Colorless
+Damage: 300
+
+Discard 2 Energy from this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Iono's Bellibolt ex (sv9-188)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Tadbulb
+Types: Lightning
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-70
+
+### Attack: Thunderous Bolt
+
+Cost: Lightning, Lightning, Lightning, Colorless
+Damage: 230
+
+During your next turn, this Pokémon can't attack.
+
+### Ability: Electric Streamer
+
+As often as you like during your turn, you may attach a Basic Lightning Energy card from your hand to 1 of your Iono's Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## N's Zoroark ex (sv9-189)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Zorua
+Types: Darkness
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-137
+
+### Attack: Night Joker
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.
+
+### Ability: Trade
+
+You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Nymble (sv9-19)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rear Kick
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Spiky Energy (sv9-190)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv9-159
+
+### Printed rules
+
+As long as this card is attached to a Pokémon, it provides Colorless Energy.  If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.
+
+## Metapod (sv9-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Caterpie
+Types: Grass
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Harden
+
+Cost: Grass
+Damage: —
+
+During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 60 or less.
+
+## Magmar (sv9-20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Searing Flame
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Burned.
+
+## Magmortar (sv9-21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magmar
+Types: Fire
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Searing Flame
+
+Cost: Fire, Fire, Colorless
+Damage: 90
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Burned.
+
+### Ability: Magma Surge
+
+During Pokémon Checkup, put 3 more damage counters on your opponent's Burned Pokémon.
+
+## Torchic (sv9-22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Fire, Colorless
+Damage: 30
+
+
+
+## Combusken (sv9-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Torchic
+Types: Fire
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Fire, Colorless
+Damage: 50
+
+
+
+## Blaziken ex (sv9-24)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Combusken
+Types: Fire
+HP: 320
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smolder-sault
+
+Cost: Fire, Colorless
+Damage: 200
+
+During your next turn, this Pokémon can't attack.
+
+### Ability: Seething Spirit
+
+Once during your turn, you may attach a Basic Energy card from your discard pile to 1 of your Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Torkoal (sv9-25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Live Coal
+
+Cost: Fire
+Damage: 20
+
+
+
+### Attack: Heat Blast
+
+Cost: Fire, Fire, Colorless
+Damage: 110
+
+
+
+## N's Darumaka (sv9-26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-32
+
+### Attack: Rolling Tackle
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Flare
+
+Cost: Fire, Fire, Colorless
+Damage: 50
+
+
+
+## N's Darmanitan (sv9-27)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Darumaka
+Types: Fire
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-33
+
+### Attack: Back Draft
+
+Cost: Colorless, Colorless
+Damage: 30×
+
+This attack does 30 damage for each Basic Energy card in your opponent's discard pile.
+
+### Attack: Flamebody Cannon
+
+Cost: Fire, Fire, Colorless
+Damage: 90
+
+Discard all Energy from this Pokémon, and this attack also does 90 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Larvesta (sv9-28)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Will-O-Wisp
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Volcarona (sv9-29)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvesta
+Types: Fire
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smoldering Scales
+
+Cost: Fire, Colorless
+Damage: 80
+
+
+
+## Butterfree (sv9-3)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Metapod
+Types: Grass
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scale Hurricane
+
+Cost: Grass
+Damage: 60×
+
+Flip 4 coins. This attack does 60 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Paralyzed.
+
+## Reshiram ex (sv9-30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fire Wing
+
+Cost: Fire
+Damage: 40
+
+
+
+### Attack: Scorching Fire
+
+Cost: Fire, Fire, Colorless
+Damage: 200
+
+Discard an Energy from this Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Volcanion ex (sv9-31)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 220
+Retreat: 3
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scorching Cyclone
+
+Cost: Fire, Fire, Colorless
+Damage: 160
+
+Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+
+### Ability: Scalding Steam
+
+Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Burned.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Articuno (sv9-32)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Frigid Fluttering
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Water Energy cards and attach them to this Pokémon. Then, shuffle your deck.
+
+### Attack: Ice Blast
+
+Cost: Water, Water, Colorless
+Damage: 110
+
+
+
+## Remoraid (sv9-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flail
+
+Cost: Water
+Damage: 10×
+
+This attack does 10 damage for each damage counter on this Pokémon.
+
+### Attack: Rain Splash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Octillery (sv9-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Remoraid
+Types: Water
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Wash
+
+Cost: Water
+Damage: 20
+
+You may put an Energy attached to your opponent's Active Pokémon into their hand.
+
+### Attack: Octo Beatdown
+
+Cost: Water, Colorless, Colorless
+Damage: 90×
+
+Flip a coin until you get tails. This attack does 90 damage for each heads.
+
+## Lotad (sv9-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water
+Damage: 20
+
+
+
+## Lombre (sv9-36)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Lotad
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Slash
+
+Cost: Water, Water
+Damage: 70
+
+During your next turn, this Pokémon can't attack.
+
+## Ludicolo (sv9-37)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Lombre
+Types: Water
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hydro Splash
+
+Cost: Water, Water, Colorless
+Damage: 130
+
+
+
+### Ability: Vibrant Dance
+
+All of your Pokémon in play get +40 HP. The effect of Vibrant Dance doesn't stack.
+
+## Wingull (sv9-38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flap
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Pelipper (sv9-39)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wingull
+Types: Water
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spit Up
+
+Cost: Colorless
+Damage: 30
+
+
+
+### Attack: Speed Dive
+
+Cost: Water, Colorless
+Damage: 70
+
+
+
+## Paras (sv9-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Leech Life
+
+Cost: Grass
+Damage: 10
+
+Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
+
+## Wailmer (sv9-40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Surf
+
+Cost: Colorless, Colorless, Colorless
+Damage: 60
+
+
+
+## Wailord (sv9-41)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Wailmer
+Types: Water
+HP: 240
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hydro Pump
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 10+
+
+This attack does 50 more damage for each Water Energy attached to this Pokémon.
+
+## Regice (sv9-42)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Icicle
+
+Cost: Water, Colorless
+Damage: 30
+
+
+
+### Attack: Blizzard
+
+Cost: Water, Colorless, Colorless
+Damage: 90
+
+This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Veluza ex (sv9-43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 210
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Razor Fin
+
+Cost: Water
+Damage: 30
+
+
+
+### Attack: Purging Strike
+
+Cost: Water, Water, Colorless
+Damage: 120+
+
+You may discard your hand. If you discarded any cards in this way, this attack does 120 more damage.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Alolan Geodude (sv9-44)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Knuckle Punch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Tiny Charge
+
+Cost: Lightning, Colorless
+Damage: 30
+
+
+
+## Alolan Graveler (sv9-45)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Alolan Geodude
+Types: Lightning
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rolling Tackle
+
+Cost: Colorless
+Damage: 30
+
+
+
+### Attack: Electric Punch
+
+Cost: Lightning, Colorless
+Damage: 50
+
+
+
+## Alolan Golem (sv9-46)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Alolan Graveler
+Types: Lightning
+HP: 180
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electromagnetic Catapult
+
+Cost: Lightning
+Damage: 70×
+
+Flip a coin until you get tails. This attack does 70 damage for each heads.
+
+### Attack: Megaton Fall
+
+Cost: Lightning, Colorless
+Damage: 160
+
+This Pokémon also does 40 damage to itself.
+
+## Iono's Voltorb (sv9-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Voltaic Chain
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+This attack does 20 more damage for each Lightning Energy attached to all of your Iono's Pokémon.
+
+## Iono's Electrode (sv9-48)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Voltorb
+Types: Lightning
+HP: 100
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thump-Thump Boom
+
+Cost: Lightning, Lightning
+Damage: —
+
+This Pokémon does 100 damage to itself. Flip a coin. If heads, your opponent's Active Pokémon is Knocked Out.
+
+### Attack: Electric Ball
+
+Cost: Lightning, Lightning, Colorless
+Damage: 100
+
+
+
+## N's Joltik (sv9-49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Zapping Short
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon. If you discarded a Pokémon Tool in this way, your opponent's Active Pokémon is now Paralyzed.
+
+## Parasect (sv9-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Paras
+Types: Grass
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spore
+
+Cost: Colorless
+Damage: —
+
+Your opponent's Active Pokémon is now Asleep.
+
+### Attack: Scissor Swing
+
+Cost: Grass, Colorless
+Damage: 60+
+
+Flip 2 coins. This attack does 30 more damage for each heads.
+
+## Togedemaru (sv9-50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Toge Spark
+
+Cost: Lightning, Colorless
+Damage: 40
+
+Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+
+## Tapu Koko ex (sv9-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 200
+Retreat: 0
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Linked Lightning
+
+Cost: Lightning, Colorless
+Damage: 60+
+
+This attack does 20 more damage for each of your Benched Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Iono's Tadbulb (sv9-52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-69
+
+### Attack: Tiny Charge
+
+Cost: Lightning, Colorless
+Damage: 30
+
+
+
+## Iono's Bellibolt ex (sv9-53)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Tadbulb
+Types: Lightning
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-70
+
+### Attack: Thunderous Bolt
+
+Cost: Lightning, Lightning, Lightning, Colorless
+Damage: 230
+
+During your next turn, this Pokémon can't attack.
+
+### Ability: Electric Streamer
+
+As often as you like during your turn, you may attach a Basic Lightning Energy card from your hand to 1 of your Iono's Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Iono's Wattrel (sv9-54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-71
+
+### Attack: Quick Attack
+
+Cost: Lightning
+Damage: 10+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Iono's Kilowattrel (sv9-55)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Iono's Wattrel
+Types: Lightning
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-72
+
+### Attack: Mach Bolt
+
+Cost: Lightning, Colorless, Colorless
+Damage: 70
+
+
+
+### Ability: Flashing Draw
+
+You must discard a Basic Lightning Energy from this Pokémon in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.
+
+## Lillie's Clefairy ex (sv9-56)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-76
+
+### Attack: Full Moon Rondo
+
+Cost: Psychic, Colorless
+Damage: 20+
+
+This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).
+
+### Ability: Fairy Zone
+
+The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. (Apply Weakness as ×2.)
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Alolan Marowak (sv9-57)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Cubone
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Retaliate
+
+Cost: Psychic
+Damage: 30+
+
+If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage.
+
+### Attack: Will-O-Wisp
+
+Cost: Psychic, Colorless, Colorless
+Damage: 90
+
+
+
+## Mr. Mime (sv9-58)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mimic
+
+Cost: Psychic
+Damage: —
+
+Shuffle your hand into your deck. Then, draw a card for each card in your opponent's hand.
+
+### Attack: Psy Bolt
+
+Cost: Psychic, Colorless
+Damage: 40
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+## Shuppet (sv9-59)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-90
+
+### Attack: Spooky Shot
+
+Cost: Psychic
+Damage: 20
+
+
+
+## Petilil (sv9-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Leaf Step
+
+Cost: Grass, Colorless
+Damage: 30
+
+
+
+## Banette (sv9-60)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shuppet
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-91
+
+### Attack: Cursed Words
+
+Cost: Psychic
+Damage: —
+
+Your opponent chooses 3 cards from their hand and shuffles those cards into their deck.
+
+### Attack: Spooky Shot
+
+Cost: Psychic, Colorless
+Damage: 70
+
+
+
+## Beldum (sv9-61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spinning Attack
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Attack: Beam
+
+Cost: Psychic, Psychic
+Damage: 30
+
+
+
+## Metang (sv9-62)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Beldum
+Types: Psychic
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psypunch
+
+Cost: Psychic
+Damage: 30
+
+
+
+### Attack: Zen Headbutt
+
+Cost: Psychic, Psychic
+Damage: 50
+
+
+
+## Metagross (sv9-63)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Metang
+Types: Psychic
+HP: 170
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wrack Down
+
+Cost: Psychic
+Damage: 60
+
+
+
+### Attack: Conjoined Beams
+
+Cost: Psychic, Psychic
+Damage: 130+
+
+If Beldum and Metang are on your Bench, this attack does 150 more damage.
+
+## N's Sigilyph (sv9-64)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Psychic Sphere
+
+Cost: Psychic
+Damage: 20
+
+
+
+### Attack: Victory Symbol
+
+Cost: Psychic, Colorless, Colorless
+Damage: —
+
+If you use this attack when you have exactly 1 Prize card remaining, you win this game.
+
+## Oricorio (sv9-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+### Attack: Spooky Shot
+
+Cost: Psychic
+Damage: 20
+
+
+
+## Lillie's Cutiefly (sv9-66)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hold Still
+
+Cost: Psychic
+Damage: —
+
+Heal 10 damage from this Pokémon.
+
+## Lillie's Ribombee (sv9-67)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Lillie's Cutiefly
+Types: Psychic
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magical Shot
+
+Cost: Psychic
+Damage: 50
+
+
+
+### Ability: Inviting Wink
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand and you put any number of Basic Pokémon you find there onto their Bench.
+
+## Lillie's Comfey (sv9-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Inviting Flowers
+
+Cost: Colorless
+Damage: —
+
+You may search your deck for any number of Basic Lillie's Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+### Attack: Fade Out
+
+Cost: Psychic
+Damage: 30
+
+Put this Pokémon and all attached cards into your hand.
+
+## Mimikyu ex (sv9-69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mischievous Hands
+
+Cost: Psychic, Colorless
+Damage: —
+
+Choose 2 of your opponent's Pokémon and put 3 damage counters on each of them.
+
+### Attack: Ghostly Trip
+
+Cost: Psychic, Psychic, Colorless
+Damage: 120
+
+Your opponent's Active Pokémon is now Confused.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Lilligant (sv9-7)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Petilil
+Types: Grass
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spinning Attack
+
+Cost: Grass, Colorless, Colorless
+Damage: 60
+
+
+
+### Ability: Sunny Day
+
+Attacks used by your Grass Pokémon and Fire Pokémon do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+## Dhelmise (sv9-70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bind Down
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Attack: Anchor Smash
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: 130
+
+
+
+## Impidimp (sv9-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gentle Slap
+
+Cost: Psychic
+Damage: 20
+
+
+
+## Morgrem (sv9-72)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Impidimp
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Light Punch
+
+Cost: Psychic
+Damage: 30
+
+
+
+### Attack: Smash Kick
+
+Cost: Psychic, Colorless
+Damage: 50
+
+
+
+## Grimmsnarl (sv9-73)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Morgrem
+Types: Psychic
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shadowy Knot
+
+Cost: Psychic
+Damage: 50×
+
+This attack does 50 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.
+
+### Attack: Mega Punch
+
+Cost: Psychic, Colorless
+Damage: 120
+
+
+
+## Milcery (sv9-74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Alcremie ex (sv9-75)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Milcery
+Types: Psychic
+HP: 250
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whipped Shot
+
+Cost: Psychic, Colorless, Colorless
+Damage: 160
+
+
+
+### Ability: Confectionary Gift
+
+Once during your turn, you may heal 30 damage from 1 of your Pokémon.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Cubone (sv9-76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stampede
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Light Punch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Swinub (sv9-77)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+### Attack: Lunge Out
+
+Cost: Fighting
+Damage: 10
+
+
+
+## Piloswine (sv9-78)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Swinub
+Types: Fighting
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strength
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Impaling Tusk
+
+Cost: Fighting, Fighting
+Damage: 50
+
+
+
+## Mamoswine ex (sv9-79)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Piloswine
+Types: Fighting
+HP: 340
+Retreat: 4
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rumbling March
+
+Cost: Fighting, Fighting
+Damage: 180+
+
+This attack does 40 more damage for each Stage 2 Pokémon on your Bench.
+
+### Ability: Mammoth Hauler
+
+Once during your turn, you may search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Maractus (sv9-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corner
+
+Cost: Colorless
+Damage: 20
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Ability: Exploding Needles
+
+If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, put 6 damage counters on the Attacking Pokémon.
+
+## Larvitar (sv9-80)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+
+## Pupitar (sv9-81)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Fighting
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Take Down
+
+Cost: Colorless, Colorless
+Damage: 60
+
+This Pokémon also does 20 damage to itself.
+
+## Regirock (sv9-82)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Breaching Lariat
+
+Cost: Fighting, Fighting, Fighting
+Damage: 120
+
+This attack's damage isn't affected by Resistance.
+
+### Ability: Rock Armor
+
+If this Pokémon has any Energy attached, it takes 30 less damage from attacks (after applying Weakness and Resistance).
+
+## Pancham (sv9-83)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corkscrew Punch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Focus Fist
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If tails, this attack does nothing.
+
+## Rockruff (sv9-84)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dig It Up
+
+Cost: Colorless
+Damage: —
+
+Look at the top card of your deck. You may discard that card.
+
+### Attack: Stampede
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Lycanroc (sv9-85)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Rockruff
+Types: Fighting
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Clamping Fangs
+
+Cost: Colorless, Colorless, Colorless
+Damage: 40+
+
+This attack does 40 more damage for each damage counter on your opponent's Active Pokémon.
+
+### Ability: Spike-Clad
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Spiky Energy cards from your discard pile to this Pokémon.
+
+## Hop's Silicobra (sv9-86)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Turf Maker
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck.
+
+### Attack: Gnaw
+
+Cost: Fighting, Colorless
+Damage: 20
+
+
+
+## Hop's Sandaconda (sv9-87)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hop's Silicobra
+Types: Fighting
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rumble
+
+Cost: Fighting, Colorless
+Damage: 30
+
+During your opponent's next turn, the Defending Pokémon can't retreat.
+
+### Attack: Break Ground
+
+Cost: Fighting, Colorless, Colorless
+Damage: 140
+
+This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Toedscool (sv9-88)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spray Fluid
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Toedscruel (sv9-89)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Toedscool
+Types: Fighting
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mud Shot
+
+Cost: Fighting, Colorless, Colorless
+Damage: 80
+
+
+
+### Ability: Secret Forest Path
+
+As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is ColorlessColorless less.
+
+## Karrablast (sv9-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Push Down
+
+Cost: Colorless
+Damage: 10
+
+Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+
+## Klawf (sv9-90)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Snipping Pincers
+
+Cost: Colorless, Colorless
+Damage: —
+
+Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon.
+
+### Attack: Hammer In
+
+Cost: Fighting, Colorless, Colorless
+Damage: 100
+
+
+
+## Koffing (sv9-91)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Suffocating Gas
+
+Cost: Darkness, Colorless
+Damage: 20
+
+
+
+## Weezing (sv9-92)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Koffing
+Types: Darkness
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pervasive Gas
+
+Cost: Darkness
+Damage: 30
+
+Your opponent's Active Pokémon is now Confused.
+
+### Attack: Crazy Blast
+
+Cost: Darkness, Colorless
+Damage: 50+
+
+If this Pokémon used Pervasive Gas during your last turn, this attack does 120 more damage.
+
+## Paldean Wooper (sv9-93)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2-102
+
+### Attack: Trip Over
+
+Cost: Darkness
+Damage: 10+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Paldean Clodsire ex (sv9-94)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Paldean Wooper
+Types: Darkness
+HP: 280
+Retreat: 3
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: ex
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Ring
+
+Cost: Darkness, Colorless
+Damage: 60
+
+Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat.
+
+### Attack: Giga Impact
+
+Cost: Darkness, Darkness, Colorless
+Damage: 220
+
+During your next turn, this Pokémon can't attack.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Tyranitar (sv9-95)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Darkness
+HP: 190
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cracking Stomp
+
+Cost: Darkness, Colorless
+Damage: 150
+
+Discard the top 2 cards of your opponent's deck.
+
+### Ability: Daunting Gaze
+
+As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards from their hand.
+
+## N's Purrloin (sv9-96)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thieving Swipe
+
+Cost: Darkness, Colorless
+Damage: 30
+
+Your opponent reveals their hand, and you choose a card you find there and put it on the bottom of their deck.
+
+## N's Zorua (sv9-97)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-136
+
+### Attack: Scratch
+
+Cost: Darkness
+Damage: 20
+
+
+
+## N's Zoroark ex (sv9-98)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: N's Zorua
+Types: Darkness
+HP: 280
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: me2pt5-137
+
+### Attack: Night Joker
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.
+
+### Ability: Trade
+
+You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.
+
+### Printed rules
+
+Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pangoro (sv9-99)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pancham
+Types: Darkness
+HP: 140
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Torment
+
+Cost: Darkness
+Damage: 30
+
+Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack.
+
+### Attack: Power Tackle
+
+Cost: Darkness, Darkness, Colorless
+Damage: 160
+
+During your next turn, this Pokémon can't attack.
+

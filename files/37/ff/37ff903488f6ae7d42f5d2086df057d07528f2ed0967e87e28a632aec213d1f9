@@ -1,0 +1,304 @@
+# Card reference: mcd11
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Snivy (mcd11-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Grass, Colorless
+Damage: 20×
+
+Flip 2 coins. This attack does 20 damage times the number of heads.
+
+## Klink (mcd11-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charge Beam
+
+Cost: Metal
+Damage: 10
+
+Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon.
+
+### Attack: Irongrip
+
+Cost: Metal, Colorless
+Damage: 20
+
+
+
+## Pidove (mcd11-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Growl
+
+Cost: Colorless
+Damage: —
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Attack: Gust
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Audino (mcd11-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Double Slap
+
+Cost: Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Maractus (mcd11-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mega Drain
+
+Cost: Grass
+Damage: 20
+
+Heal 20 damage from this Pokémon.
+
+### Attack: Pin Missile
+
+Cost: Grass, Grass, Colorless
+Damage: 20×
+
+Flip 4 coins. This attack does 20 damage times the number of heads.
+
+## Tepig (mcd11-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ember
+
+Cost: Fire, Colorless
+Damage: 30
+
+Discard an Energy attached to this Pokémon.
+
+## Oshawott (mcd11-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Pulse
+
+Cost: Water, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Asleep.
+
+## Alomomola (mcd11-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pound
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Wave Splash
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 60
+
+
+
+## Blitzle (mcd11-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Lightning, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Munna (mcd11-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Yawn
+
+Cost: Psychic
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+## Sandile (mcd11-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sand Tomb
+
+Cost: Fighting, Colorless, Colorless
+Damage: 30
+
+The Defending Pokémon can't retreat during your opponent's next turn.
+
+## Zorua (mcd11-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Fury Swipes
+
+Cost: Darkness, Colorless
+Damage: 10×
+
+Flip 3 coins. This attack does 10 damage times the number of heads.
+

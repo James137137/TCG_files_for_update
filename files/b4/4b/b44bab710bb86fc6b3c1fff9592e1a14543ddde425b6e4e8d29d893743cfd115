@@ -1,0 +1,482 @@
+# Card reference: pop1
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Blaziken (pop1-1)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Combusken
+Types: Fire
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fire Punch
+
+Cost: Fire, Colorless
+Damage: 40
+
+
+
+### Attack: Double Kick
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50×
+
+Flip 2 coins. This attack does 50 damage times the number of heads.
+
+## Torkoal (pop1-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Amnesia
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Body Slam
+
+Cost: Fighting, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Larvitar (pop1-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sand Attack
+
+Cost: Fighting
+Damage: 10
+
+If the Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+## Minun (pop1-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Wave
+
+Cost: Lightning
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Spark
+
+Cost: Colorless, Colorless
+Damage: 10
+
+Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Plusle (pop1-13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 10 more damage.
+
+### Attack: Agility
+
+Cost: Lightning, Colorless
+Damage: 20
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Plusle during your opponent's next turn.
+
+## Surskit (pop1-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bubble
+
+Cost: Water
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Swellow (pop1-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Taillow
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Focus Energy
+
+Cost: Colorless
+Damage: —
+
+During your next turn, base damage of Swellow's Agility is 70 instead of 30.
+
+### Attack: Agility
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn.
+
+## Armaldo ex (pop1-16)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Anorith
+Types: Fighting
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Twin-blade
+
+Cost: Fighting, Colorless
+Damage: —
+
+Does 30 damage to each Defending Pokémon.
+
+### Attack: Supersonic Claws
+
+Cost: Fighting, Fighting, Colorless, Colorless, Colorless
+Damage: 80
+
+This attack's damage is not affected by Resistance.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Tyranitar ex (pop1-17)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Darkness
+HP: 150
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Critical Crush
+
+Cost: Fighting, Fighting, Colorless, Colorless
+Damage: 80
+
+Discard 2 Basic Energy cards attached to Tyranitar ex or this attack does nothing.
+
+### Printed rules
+
+When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.
+
+## Metagross (pop1-2)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Metang
+Types: Metal
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Claw
+
+Cost: Metal, Colorless
+Damage: 30
+
+
+
+### Attack: Hyper Beam
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon.
+
+## Rayquaza (pop1-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fly
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent's next turn.
+
+### Attack: Dragon Claw
+
+Cost: Fire, Lightning
+Damage: 30
+
+
+
+## Sceptile (pop1-4)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Grovyle
+Types: Grass
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cling
+
+Cost: Grass
+Damage: 20
+
+After your attack, remove from Sceptile the number of damage counters equal to the damage you did to the Defending Pokémon. If Sceptile has fewer damage counters than that, remove all of them.
+
+### Attack: Leaf Blade
+
+Cost: Grass, Grass, Colorless
+Damage: 40+
+
+Flip a coin. If heads, this attack does 40 damage plus 30 more damage.
+
+## Swampert (pop1-5)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Marshtomp
+Types: Water
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bubble
+
+Cost: Water
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Attack: Mud Splash
+
+Cost: Water, Water, Colorless
+Damage: 50
+
+If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Beautifly (pop1-6)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Silcoon
+Types: Grass
+HP: 100
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Blot
+
+Cost: Grass, Colorless
+Damage: 30
+
+Remove 1 damage counter from Beautifly.
+
+### Attack: Whirlwind
+
+Cost: Colorless, Colorless, Colorless
+Damage: 40
+
+Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+
+## Masquerain (pop1-7)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Surskit
+Types: Grass
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage.
+
+### Attack: Gust
+
+Cost: Grass, Colorless, Colorless
+Damage: 50
+
+
+
+## Murkrow (pop1-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Feint Attack
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.
+
+### Poké-Body: Insomnia
+
+Murkrow can't be Asleep.
+
+## Pupitar (pop1-9)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Smash
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+

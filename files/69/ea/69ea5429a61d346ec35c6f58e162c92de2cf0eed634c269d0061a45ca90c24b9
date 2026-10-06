@@ -1,0 +1,318 @@
+# Card reference: mcd17
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Rowlet (mcd17-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Leafage
+
+Cost: Grass, Colorless
+Damage: 20
+
+
+
+## Cutiefly (mcd17-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fairy
+HP: 30
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fly Around
+
+Cost: Fairy
+Damage: 10
+
+If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage.
+
+## Pikipek (mcd17-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rock Smash
+
+Cost: Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 more damage.
+
+## Yungoos (mcd17-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Grubbin (mcd17-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vice Grip
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Litten (mcd17-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Fire
+Damage: 10
+
+
+
+### Attack: Flare
+
+Cost: Fire, Colorless
+Damage: 20
+
+
+
+## Popplio (mcd17-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pound
+
+Cost: Water
+Damage: 10
+
+
+
+### Attack: Water Gun
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Pikachu (mcd17-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Wave
+
+Cost: Lightning
+Damage: —
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Electro Ball
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+
+
+## Cosmog (mcd17-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dust Gathering
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+## Crabrawler (mcd17-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Punch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Crabhammer
+
+Cost: Fighting, Colorless, Colorless
+Damage: 40
+
+
+
+## Alolan Meowth (mcd17-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fury Swipes
+
+Cost: 
+Damage: 10×
+
+Flip 3 coins. This attack does 10 damage for each heads.
+
+## Alolan Diglett (mcd17-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spelunk
+
+Cost: 
+Damage: —
+
+Look at the top 3 cards of your deck and put them back in any order.
+
+### Attack: Mud-Slap
+
+Cost: Metal
+Damage: 10
+
+
+

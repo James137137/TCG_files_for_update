@@ -1,0 +1,2015 @@
+# Card reference: neo2
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Espeon (neo2-1)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Psychic
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Psychic
+
+Cost: Psychic, Psychic, Colorless
+Damage: 30+
+
+Does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.
+
+## Scizor (neo2-10)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Scyther
+Types: Metal
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: False Swipe
+
+Cost: Metal
+Damage: ?
+
+Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10).
+
+### Attack: Double Claw
+
+Cost: Colorless, Colorless, Colorless
+Damage: 20+
+
+Flip 2 coins. This attack does 20 damage times the number of heads.
+
+## Smeargle (neo2-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sketch
+
+Cost: Colorless, Colorless
+Damage: —
+
+If the Defending Pokémon attacked last turn, and Smeargle was in play during that attack, Smeargle copies that attack except for its Energy costs and anything else required in order to use that attack.
+
+## Tyranitar (neo2-12)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Darkness
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: Trample
+
+Cost: Darkness, Darkness, Colorless, Colorless
+Damage: 50
+
+For each Benched Pokémon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Umbreon (neo2-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Darkness
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Feint Attack
+
+Cost: Darkness, Darkness, Colorless
+Damage: —
+
+
+
+## Unown [A] (neo2-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Anger]
+
+Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Ursaring (neo2-15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Teddiursa
+Types: Colorless
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headpress
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).
+
+### Attack: Double Lariat
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+## Wobbuffet (neo2-16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Counter
+
+Cost: Psychic
+Damage: —
+
+If an attack damages Wobbuffet during your opponent's next turn (even if Wobbuffet is Knocked Out), flip a coin. If heads, Wobbuffet attacks the Defending Pokémon for an equal amount of damage.
+
+## Yanma (neo2-17)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shockwave
+
+Cost: Grass
+Damage: —
+
+Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Then, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon.
+
+### Attack: Swift
+
+Cost: Grass, Grass, Grass
+Damage: 30
+
+This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.
+
+## Beedrill (neo2-18)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kakuna
+Types: Grass
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Triple Poison
+
+Cost: Grass
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned. Your opponent now puts 3 damage counters on it instead of 1 after each player's turn (even if it was already Poisoned).
+
+### Attack: Pin Missile
+
+Cost: Grass, Grass, Colorless
+Damage: 20×
+
+Flip 4 coins. This attack does 20 damage times the number of heads.
+
+## Butterfree (neo2-19)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Metapod
+Types: Grass
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Magic Dust
+
+Cost: Grass, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now either Asleep, Confused, Paralyzed, or Poisoned (your choice).
+
+### Attack: Hyper Reverse
+
+Cost: Grass, Grass, Colorless
+Damage: —
+
+Does 10 damage times the number of Energy attached to the Defending Pokémon. After doing damage, remove a number of damage counters from Butterfree equal to the amount of damage done to the Defending Pokémon (after applying Weakness and Resistance).
+
+## Forretress (neo2-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pineco
+Types: Metal
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rapid Spin
+
+Cost: Metal, Colorless, Colorless
+Damage: 30
+
+If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)
+
+### Pokémon Power: Spikes
+
+During your opponent's turn, whenever 1 of your opponent's Benched Pokémon becomes his or her Active Pokémon, Forretress does 10 damage to it. (Don't apply Weakness and Resistance.) This power stops working if Forretress is Asleep, Confused, or Paralyzed.
+
+## Espeon (neo2-20)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.
+
+### Attack: Psybeam
+
+Cost: Psychic, Psychic, Colorless
+Damage: 30
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Forretress (neo2-21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pineco
+Types: Metal
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rapid Spin
+
+Cost: Metal, Colorless, Colorless
+Damage: 30
+
+If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)
+
+### Pokémon Power: Spikes
+
+During your opponent's turn, whenever 1 of your opponent's Benched Pokémon becomes his or her Active Pokémon, Forretress does 10 damage to it. (Don't apply Weakness and Resistance.) This power stops working if Forretress is Asleep, Confused, or Paralyzed.
+
+## Hitmontop (neo2-22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Detect
+
+Cost: Fighting
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Hitmontop.
+
+### Attack: Triple Kick
+
+Cost: Fighting, Fighting, Fighting
+Damage: 30×
+
+Flip 3 coins. This attack does 30 damage times the number of heads.
+
+## Houndoom (neo2-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Houndour
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Darkness, Colorless, Colorless
+Damage: 30
+
+Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon.
+
+### Attack: Flamethrower
+
+Cost: Fire, Fire, Colorless
+Damage: 50
+
+Discard 1 Fire Energy card attached to Houndoom or this attack does nothing.
+
+## Houndour (neo2-24)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smog
+
+Cost: Fire
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Attack: Collect Fire
+
+Cost: Fire, Fire
+Damage: 20
+
+If there are any Fire Energy cards in your discard pile, choose 1 of them and attach it to Houndour.
+
+## Kabutops (neo2-25)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kabuto
+Types: Water
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Hydrocutter
+
+Cost: Fighting
+Damage: 40×
+
+Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way.
+
+## Magnemite (neo2-26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lock-on
+
+Cost: Colorless
+Damage: —
+
+During your next turn, treat any tails flipped when using Magnemite's Electric Bolt attack as if they were heads. (Benching or evolving either Pokémon ends this effect.)
+
+### Attack: Electric Bolt
+
+Cost: Lightning, Colorless
+Damage: 50
+
+Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If either of them is tails, this attack does nothing (not even damage).
+
+## Politoed (neo2-27)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Poliwhirl
+Types: Water
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Doubleslap
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+### Pokémon Power: Frog Song
+
+Whenever Politoed's attack damages the Defending Pokémon (after applying Weakness and Resistance), if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play (including your opponent's), that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed.
+
+## Poliwrath (neo2-28)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Poliwhirl
+Types: Fighting
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corkscrew Punch
+
+Cost: Fighting, Colorless
+Damage: 30
+
+
+
+### Attack: Submission
+
+Cost: Fighting, Fighting, Colorless, Colorless
+Damage: 70
+
+Poliwrath does 20 damage to itself.
+
+## Scizor (neo2-29)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Scyther
+Types: Metal
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: False Swipe
+
+Cost: Metal
+Damage: ?
+
+Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10).
+
+### Attack: Double Claw
+
+Cost: Colorless, Colorless, Colorless
+Damage: 20+
+
+Flip 2 coins. This attack does 20 damage times the number of heads.
+
+## Hitmontop (neo2-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Detect
+
+Cost: Fighting
+Damage: —
+
+Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Hitmontop.
+
+### Attack: Triple Kick
+
+Cost: Fighting, Fighting, Fighting
+Damage: 30×
+
+Flip 3 coins. This attack does 30 damage times the number of heads.
+
+## Smeargle (neo2-30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Sketch
+
+Cost: Colorless, Colorless
+Damage: —
+
+If the Defending Pokémon attacked last turn, and Smeargle was in play during that attack, Smeargle copies that attack except for its Energy costs and anything else required in order to use that attack.
+
+## Tyranitar (neo2-31)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Pupitar
+Types: Darkness
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slam
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+### Attack: Trample
+
+Cost: Darkness, Darkness, Colorless, Colorless
+Damage: 50
+
+For each Benched Pokémon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Umbreon (neo2-32)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eevee
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Attack
+
+Cost: Colorless, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.
+
+### Attack: Pursuit
+
+Cost: Darkness, Colorless, Colorless
+Damage: 30
+
+During your opponent's next turn, if the Defending Pokémon tries to retreat, do 10 damage to it. (Don't apply Weakness and Resistance.)
+
+## Unown [A] (neo2-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Anger]
+
+Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Ursaring (neo2-34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Teddiursa
+Types: Colorless
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headpress
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).
+
+### Attack: Double Lariat
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+## Wobbuffet (neo2-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Counter
+
+Cost: Psychic
+Damage: —
+
+If an attack damages Wobbuffet during your opponent's next turn (even if Wobbuffet is Knocked Out), flip a coin. If heads, Wobbuffet attacks the Defending Pokémon for an equal amount of damage.
+
+## Yanma (neo2-36)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shockwave
+
+Cost: Grass
+Damage: —
+
+Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Then, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon.
+
+### Attack: Swift
+
+Cost: Grass, Grass, Grass
+Damage: 30
+
+This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.
+
+## Corsola (neo2-37)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Recover
+
+Cost: Water
+Damage: —
+
+Discard 1 Water Energy card attached to Corsola or this attack does nothing. Remove all damage counters from Corsola.
+
+### Attack: Spike Cannon
+
+Cost: Fighting, Fighting
+Damage: 30×
+
+Flip 2 coins. This attack does 30 damage times the number of heads.
+
+## Eevee (neo2-38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smash Kick
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Pokémon Power: Energy Evolution
+
+Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed.
+
+## Houndour (neo2-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Plunder
+
+Cost: Darkness, Colorless
+Damage: 20
+
+Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage).
+
+## Houndoom (neo2-4)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Houndour
+Types: Darkness
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Darkness, Colorless, Colorless
+Damage: 30
+
+Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon.
+
+### Attack: Flamethrower
+
+Cost: Fire, Fire, Colorless
+Damage: 50
+
+Discard 1 Fire Energy card attached to Houndoom or this attack does nothing.
+
+## Igglybuff (neo2-40)
+
+Category: Pokémon
+Stage: —
+Evolution parent: —
+Types: Colorless
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Pokémon Power: Gaze
+
+Once during your turn (before your attack), choose 1 of your opponent's Benched Pokémon that has a Pokémon Power. That power stops working until the end of this turn. This effect ends if that Pokémon leaves the Bench.
+
+### Printed rules
+
+If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.
+
+## Kakuna (neo2-41)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Weedle
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Secrete Poison
+
+Cost: Grass, Grass
+Damage: —
+
+During your opponent's next turn, whenever your opponent's attack damages Kakuna (even if Kakuna is Knocked Out), your opponent's Active Pokémon is now Poisoned and Kakuna does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Metapod (neo2-42)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Caterpie
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Harden
+
+Cost: Colorless, Colorless
+Damage: —
+
+During your opponent's next turn, whenever 20 or less damage is done to Metapod (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen).
+
+### Attack: Hatch
+
+Cost: Grass, Grass
+Damage: —
+
+Flip a coin. If heads, remove all damage counters from Metapod. Then, search your deck for a card that evolves from Metapod and attach that card to Metapod. This counts as evolving Metapod. Shuffle your deck afterward.
+
+## Omastar (neo2-43)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Omanyte
+Types: Fighting
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Squeeze
+
+Cost: Water
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 20 more damage and the Defending Pokémon is now Paralyzed. If tails, this attack does 10 damage.
+
+### Attack: Spike Barrage
+
+Cost: Water, Water, Water
+Damage: 20+
+
+Flip a number of coins equal to the number of Water Energy attached to Omastar. This attack does 20 damage plus 20 more damage for each heads.
+
+## Poliwhirl (neo2-44)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Poliwag
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Belly Drum
+
+Cost: Colorless
+Damage: —
+
+Put 3 damage counters on Poliwhirl. If this doesn't Knock Out Poliwhirl, search your deck for 2 Basic Energy cards and attach them to Poliwhirl. Shuffle your deck afterward.
+
+### Attack: Water Gun
+
+Cost: Water, Water, Colorless
+Damage: 30+
+
+Does 30 damage plus 10 more damage for each Water Energy attached to Poliwhirl but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.
+
+## Pupitar (neo2-45)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvitar
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Skull Bash
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+### Attack: Dust Devil
+
+Cost: Fighting, Fighting
+Damage: —
+
+Does 10 damage to each non-Fighting Pokémon in play. Don't apply Weakness and Resistance.
+
+## Scyther (neo2-46)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fury Cutter
+
+Cost: Grass, Grass
+Damage: 10+
+
+Flip 4 coins. This attack does 10 damage plus 10 more damage if exactly 1 is heads, or 20 more damage if exactly 2 are heads, or 40 more damage if exactly 3 are heads, or 80 more damage if all 4 are heads.
+
+## Unown [D] (neo2-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Darkness]
+
+Whenever a Darkness Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power works even if Unown [D] is Asleep, Confused, or Paralyzed.)
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Unown [F] (neo2-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Find]
+
+Once during your turn (before your attack), if you have Unown [F], Unown [I], Unown [N], and Unown [D] on your Bench, you may search your deck for a Trainer card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Unown [M] (neo2-49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Metal]
+
+Whenever a Metal Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Houndour (neo2-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smog
+
+Cost: Fire
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+### Attack: Collect Fire
+
+Cost: Fire, Fire
+Damage: 20
+
+If there are any Fire Energy cards in your discard pile, choose 1 of them and attach it to Houndour.
+
+## Unown [N] (neo2-50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Normal]
+
+Whenever a Colorless Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [N] in play. (This power works even if Unown [N] is Asleep, Confused, or Paralyzed.)
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Unown [U] (neo2-51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Undo]
+
+Once during your turn (before your attack), if you have Unown [U], Unown [N], Unown [D], and Unown [O] on your Bench, you may return your Active Pokémon and all cards attached to it to your hand.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Xatu (neo2-52)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Natu
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Cycle
+
+Cost: Psychic
+Damage: —
+
+Flip a coin. If heads, choose 1 Energy card attached to the Defending Pokémon and 1 of your opponent's Benched Pokémon. Attach that Energy card to that Pokémon.
+
+### Attack: Super Psy
+
+Cost: Psychic, Psychic, Colorless
+Damage: 50
+
+
+
+## Caterpie (neo2-53)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spin Tackle
+
+Cost: Colorless
+Damage: 20
+
+Caterpie does 10 damage to itself.
+
+## Dunsparce (neo2-54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Glare
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+## Hoppip (neo2-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rolling Tackle
+
+Cost: Grass
+Damage: 20
+
+
+
+## Kabuto (neo2-56)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Work Together
+
+Cost: Fighting, Colorless
+Damage: 10+
+
+Flip a coin. If heads, this attack does 10 damage plus 10 more damage for each Omanyte, Omastar, Kabuto, and Kabutops on your Bench.
+
+### Pokémon Power: Revive Friends
+
+Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card named Kabuto and put it on your Bench. Shuffle your deck afterward. Treat the new Kabuto as a Basic Pokémon. This power can't be used if Kabuto is Asleep, Confused, or Paralyzed (or if your Bench is full).
+
+## Larvitar (neo2-57)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Mareep (neo2-58)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Jolt
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If tails, Mareep does 10 damage to itself.
+
+## Natu (neo2-59)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Confuse Ray
+
+Cost: Psychic
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused
+
+## Kabutops (neo2-6)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Kabuto
+Types: Water
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slash
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Hydrocutter
+
+Cost: Fighting
+Damage: 40×
+
+Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way.
+
+## Omanyte (neo2-60)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mysterious Fossil
+Types: Fighting
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bind
+
+Cost: Water
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+
+### Pokémon Power: Revive Fossil
+
+Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it onto your Bench. Shuffle your deck afterward. Treat that card as a Basic Pokémon. This power can't be used if Omanyte is Asleep, Confused, or Paralyzed (or if your Bench is full).
+
+## Pineco (neo2-61)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Burst
+
+Cost: Grass
+Damage: 40
+
+Flip a coin. If heads, Pineco does 40 damage to itself and 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, this attack does nothing (not even damage).
+
+## Poliwag (neo2-62)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rollout
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Hypnosis
+
+Cost: Water
+Damage: —
+
+The Defending Pokémon is now Asleep.
+
+## Sentret (neo2-63)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scout
+
+Cost: Colorless
+Damage: —
+
+Look at your opponent's hand.
+
+### Attack: Tackle
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Spinarak (neo2-64)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Grass, Colorless
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+
+## Teddiursa (neo2-65)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Nap Time
+
+Cost: Colorless, Colorless
+Damage: —
+
+Remove all damage counters from Teddiursa. Teddiursa is now Asleep.
+
+## Tyrogue (neo2-66)
+
+Category: Pokémon
+Stage: —
+Evolution parent: —
+Types: Fighting
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smash Punch
+
+Cost: Colorless
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+### Printed rules
+
+If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.
+
+## Unown [E] (neo2-67)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Engage]
+
+When you play Unown [E] from your hand, your opponent may shuffle his or her hand into his or her deck and then draw 4 cards. Either way, you may shuffle your hand into your deck and draw 4 cards.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Unown [I] (neo2-68)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Increase]
+
+When you play Unown [I] from your hand, you may search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. You can't use this power if your Bench is full.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Unown [O] (neo2-69)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hidden Power
+
+Cost: Psychic
+Damage: 10
+
+
+
+### Pokémon Power: [Observe]
+
+Once during your turn (before your attack), you may look at 5 cards from the top of your opponent's deck and put them back in the same order.
+
+### Printed rules
+
+You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+
+## Magnemite (neo2-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lock-on
+
+Cost: Colorless
+Damage: —
+
+During your next turn, treat any tails flipped when using Magnemite's Electric Bolt attack as if they were heads. (Benching or evolving either Pokémon ends this effect.)
+
+### Attack: Electric Bolt
+
+Cost: Lightning, Colorless
+Damage: 50
+
+Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If either of them is tails, this attack does nothing (not even damage).
+
+## Weedle (neo2-70)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spike Stab
+
+Cost: Grass
+Damage: 20
+
+Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, this attack does nothing (not even damage).
+
+## Wooper (neo2-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Slime
+
+Cost: Water
+Damage: —
+
+If an attack would do damage to Wooper during your opponent's next turn, your opponent flips a coin. If tails, prevent all damage to Wooper from that attack. (Any other effects of that attack happen.)
+
+### Attack: Tail Slap
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Fossil Egg (neo2-72)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it onto your Bench or put a card that evolves from Mysterious Fossil from your hand onto your Bench. Either way, treat the new card as a Basic Pokémon. If you searched your deck, shuffle it. (You can't play this card if your Bench is full.)
+
+## Hyper Devolution Spray (neo2-73)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Choose 1 of your evolved Pokémon. Take the highest Stage Evolution card from that Pokémon and put it into your hand. (You can't evolve a Pokémon the turn you devolve it.)
+
+## Ruin Wall (neo2-74)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. (You can't play this card if your Bench is full.)
+
+## Energy Ark (neo2-75)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip 2 coins. For each heads, search your deck for a Basic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.
+
+## Politoed (neo2-8)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Poliwhirl
+Types: Water
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Doubleslap
+
+Cost: Water, Water, Colorless, Colorless
+Damage: 40×
+
+Flip 2 coins. This attack does 40 damage times the number of heads.
+
+### Pokémon Power: Frog Song
+
+Whenever Politoed's attack damages the Defending Pokémon (after applying Weakness and Resistance), if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play (including your opponent's), that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed.
+
+## Poliwrath (neo2-9)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Poliwhirl
+Types: Fighting
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corkscrew Punch
+
+Cost: Fighting, Colorless
+Damage: 30
+
+
+
+### Attack: Submission
+
+Cost: Fighting, Fighting, Colorless, Colorless
+Damage: 70
+
+Poliwrath does 20 damage to itself.
+

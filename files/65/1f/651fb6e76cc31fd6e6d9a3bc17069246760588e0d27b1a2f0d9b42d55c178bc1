@@ -1,0 +1,1578 @@
+# Card reference: dpp
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Turtwig (dpp-DP01)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tackle
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Razor Leaf
+
+Cost: Grass
+Damage: 20
+
+
+
+## Chimchar (dpp-DP02)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Ember
+
+Cost: Fire, Colorless
+Damage: 30
+
+Flip a coin. If tails, discard a Fire Energy attached to Chimchar.
+
+## Piplup (dpp-DP03)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Peck
+
+Cost: 
+Damage: 10
+
+
+
+### Attack: Water Splash
+
+Cost: Water, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+
+## Pachirisu (dpp-DP04)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Minor Errand-Running
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+### Attack: Thunder Jolt
+
+Cost: Lightning
+Damage: 20
+
+Flip a coin. If tails, Pachirisu does 10 damage to itself.
+
+## Tropical Wind (dpp-DP05)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep.
+
+## Buneary (dpp-DP06)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splash
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Jump Kick
+
+Cost: Colorless, Colorless
+Damage: 10
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Cranidos (dpp-DP07)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Skull Fossil
+Types: Fighting
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Steamroll
+
+Cost: Fighting, Colorless
+Damage: 30
+
+Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Shieldon (dpp-DP08)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Armor Fossil
+Types: Metal
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hard Face
+
+Cost: Metal, Colorless
+Damage: 20
+
+During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 (after applying Weakness and Resistance).
+
+### Attack: Shield Attack
+
+Cost: Metal, Colorless, Colorless
+Damage: 40+
+
+Flip a coin. If heads, this attack does 40 damage plus 20 more damage.
+
+## Torterra LV.X (dpp-DP09)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Torterra
+Types: Grass
+HP: 160
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Vigorous Dash
+
+Cost: Grass, Grass, Grass, Colorless
+Damage: 100
+
+Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself.
+
+### Poké-Power: Forest Murmurs
+
+Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Infernape LV.X (dpp-DP10)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Infernape
+Types: Fire
+HP: 120
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flare Up
+
+Cost: Fire, Fire
+Damage: 150
+
+Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)
+
+### Poké-Power: Burning Head
+
+Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Empoleon LV.X (dpp-DP11)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Empoleon
+Types: Water
+HP: 140
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hydro Impact
+
+Cost: Water, Water, Water
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn.
+
+### Poké-Power: Supreme Command
+
+Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Lucario LV.X (dpp-DP12)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Lucario
+Types: Fighting
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Close Combat
+
+Cost: Fighting, Fighting, Colorless
+Damage: 80
+
+During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 (after applying Weakness and Resistance).
+
+### Poké-Power: Stance
+
+Once during your turn (before your attack), when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent's next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)
+
+### Printed rules
+
+Put this card onto your Active Lucario. Lucario LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Buizel (dpp-DP13)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Splash About
+
+Cost: Water
+Damage: 10+
+
+If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.
+
+## Chatot (dpp-DP14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Me First
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Tone-Deaf
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, the Defending Pokémon is now Confused.
+
+## Shinx (dpp-DP15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spark
+
+Cost: Lightning
+Damage: 10
+
+Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Pikachu (dpp-DP16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: BikaBika
+
+Cost: Lightning, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 damage plus 10 more damage.
+
+### Poké-Power: Electro Recycle
+
+Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.
+
+## Dialga LV.X (dpp-DP17)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Dialga
+Types: Metal
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Flash
+
+Cost: Metal, Metal, Colorless, Colorless
+Damage: 80
+
+During your next turn, Dialga can't use Metal Flash.
+
+### Poké-Power: Time Skip
+
+Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Palkia LV.X (dpp-DP18)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Palkia
+Types: Water
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hydro Reflect
+
+Cost: Water, Water, Water
+Damage: 60
+
+You may move all Energy cards attached to Palkia to your Benched Pokémon in any way you like. (Ignore this effect if you don't have any Benched Pokémon.)
+
+### Poké-Power: Restructure
+
+Once during your turn (before your attack), you may have your opponent switch 1 of your Active Pokémon with 1 of your Benched Pokémon. Then, you switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. This power can't be used if Palkia is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Palkia. Palkia LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Darkrai LV.X (dpp-DP19)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Darkrai
+Types: Darkness
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Endless Darkness
+
+Cost: Darkness, Darkness, Colorless
+Damage: 40
+
+The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pokémon is still Asleep. If both of them are tails, the Defending Pokémon is Knocked Out.
+
+### Poké-Body: Dark Shadow
+
+Each basic Darkness Energy card attached to your Darkness Pokémon now has the effect "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance)." You can't use more than 1 Dark Shadow Poké-Body each turn.
+
+### Printed rules
+
+Put this card onto your Active Darkrai. Darkrai LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Magmortar (dpp-DP20)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Magmar
+Types: Fire
+HP: 100
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Smoke Bomb
+
+Cost: Fire, Colorless
+Damage: 30
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+### Attack: Flame Drum
+
+Cost: Fire, Fire, Colorless
+Damage: 80
+
+If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)
+
+## Raichu (dpp-DP21)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electromagnetic Induction
+
+Cost: 
+Damage: —
+
+Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward.
+
+### Attack: Explosive Thunder
+
+Cost: Lightning, Colorless
+Damage: 30×
+
+Discard all basic Lightning Energy cards attached to Raichu. This attack does 30 damage times the number of Lightning Energy cards you discarded.
+
+## Mime Jr. (dpp-DP22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mime
+
+Cost: Psychic
+Damage: —
+
+Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.
+
+### Poké-Power: Baby Evolution
+
+Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.
+
+## Glameow (dpp-DP23)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charm
+
+Cost: Colorless
+Damage: —
+
+During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).
+
+### Attack: Pose
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Flip a coin. If tails, this attack does nothing.
+
+## Darkrai (dpp-DP24)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spacial Rend
+
+Cost: Water
+Damage: 10
+
+Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.
+
+### Attack: Roar of Time
+
+Cost: Metal, Metal, Metal
+Damage: 80
+
+Search your discard pile for 3 Pokémon, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward. (If you don't have 3 Pokémon in your discard pile, this attack does nothing.)
+
+### Printed rules
+
+Enigma Berry: If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn.
+
+## Tropical Wind (dpp-DP25)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep.
+
+## Dialga (dpp-DP26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Time Bellow
+
+Cost: Metal
+Damage: 10
+
+Draw a card.
+
+### Attack: Flash Cannon
+
+Cost: Metal, Metal, Colorless
+Damage: 40
+
+You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck.
+
+## Palkia (dpp-DP27)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spacial Rend
+
+Cost: Water
+Damage: 10
+
+Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.
+
+### Attack: Transback
+
+Cost: Water, Water, Colorless
+Damage: 40
+
+You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward.
+
+## Mewtwo LV.X (dpp-DP28)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Mewtwo
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Giga Burn
+
+Cost: Psychic, Psychic, Colorless
+Damage: 120
+
+Discard all Energy attached to Mewtwo.
+
+### Poké-Body: Psybarrier
+
+Prevent all effects of attacks, including damage, done to Mewtwo by your opponent's Pokémon that isn't an Evolved Pokémon.
+
+### Printed rules
+
+Put this card onto your Active Mewtwo. Mewtwo LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Rhyperior LV.X (dpp-DP29)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Rhyperior
+Types: Fighting
+HP: 170
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hard Crush
+
+Cost: 
+Damage: 50×
+
+Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded.
+
+### Attack: Upthrow
+
+Cost: Fighting, Fighting, Colorless
+Damage: 60
+
+Search your discard pile for all Fighting Energy cards, show them to your opponent, and shuffle them into your deck.
+
+### Printed rules
+
+Put this card onto your Active Rhyperior. Rhyperior LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Regigigas LV.X (dpp-DP30)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Regigigas
+Types: Colorless
+HP: 150
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Giga Blaster
+
+Cost: Water, Fighting, Metal, Colorless
+Damage: 100
+
+Discard the top card from your opponent's deck. Then, choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn.
+
+### Poké-Power: Sacrifice
+
+Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Regigigas. Regigigas LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Heatran LV.X (dpp-DP31)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Heatran
+Types: Fire
+HP: 120
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Poké-Body: Heat Metal
+
+Your opponent can't remove the Special Condition Burned by evolving or devolving his or her Burned Pokémon. (This also includes putting a Pokémon Level-Up card onto the Burned Pokémon.) Whenever your opponent flips a coin for the Special Condition Burned between turns, treat it as tails.
+
+### Poké-Power: Heat Wave
+
+Once at the end of your turn, if Heatran is on your Bench, you may use this power. If you discarded basic Energy cards attached to your Fire or Metal Active Pokémon by using that Pokémon's attack this turn, attach up to 2 of those Energy cards to that Pokémon.
+
+### Printed rules
+
+Put this card onto your Active Heatran. Heatran LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Magnezone (dpp-DP32)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Magneton
+Types: Metal
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mirror Shot
+
+Cost: Metal, Colorless
+Damage: 40
+
+If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+
+### Attack: Magnet Slash
+
+Cost: Lightning, Metal, Colorless, Colorless
+Damage: 100
+
+Discard all Lightning Energy attached to Magnezone.
+
+## Dusknoir (dpp-DP33)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Dusclops
+Types: Psychic
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Reaper Pulse
+
+Cost: Psychic, Psychic, Colorless
+Damage: 70
+
+Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon.
+
+### Poké-Power: Dark Hide
+
+Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand, choose a Pokémon you find there, and put it on the bottom of his or her deck. This power can't be used if Dusknoir is affected by a Special Condition.
+
+## Drifblim (dpp-DP34)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Drifloon
+Types: Psychic
+HP: 80
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wind Wave
+
+Cost: Colorless
+Damage: —
+
+Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck.
+
+### Attack: Explosive Smoke
+
+Cost: Psychic, Psychic, Psychic
+Damage: 60
+
+Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Porygon-Z (dpp-DP35)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Porygon2
+Types: Colorless
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Learning
+
+Cost: 
+Damage: —
+
+Search your deck for a Pokémon LV.X that levels up from 1 of your Pokémon, and put it onto that Pokémon. (This counts as leveling up that Pokémon.) Shuffle your deck afterward.
+
+### Attack: Overload
+
+Cost: Colorless, Colorless
+Damage: 40+
+
+Does 40 damage plus 20 more damage for each Technical Machine card attached to Porygon-Z.
+
+### Poké-Power: Install
+
+As often as you like during your turn (before your attack), move a Technical Machine card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Porygon-Z is affected by a Special Condition.
+
+## Gliscor (dpp-DP36)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Gligar
+Types: Fighting
+HP: 90
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cutting Turn
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10HP away from being Knocked Out. If you do, shuffle Gliscor and all cards attached to it back into your deck.
+
+### Attack: Friction Heat
+
+Cost: Fighting
+Damage: 20
+
+The Defending Pokémon is now Burned.
+
+### Poké-Body: Bind Eye
+
+As long as Gliscor is your Active Pokémon, your opponent can't remove any Special Conditions by evolving or devolving his or her Pokémon. (This also includes putting a Pokémon Level-Up card onto that Pokémon.)
+
+## Dialga LV.X (dpp-DP37)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Dialga
+Types: Metal
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Metal Flash
+
+Cost: Metal, Metal, Colorless, Colorless
+Damage: 80
+
+During your next turn, Dialga can't use Metal Flash.
+
+### Poké-Power: Time Skip
+
+Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Giratina LV.X (dpp-DP38)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Giratina
+Types: Psychic
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Darkness Lost
+
+Cost: Psychic, Psychic, Colorless, Colorless
+Damage: —
+
+This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it.
+
+### Poké-Body: Invisible Tentacles
+
+Whenever your opponent's Pokémon tries to attack, your opponent discards 1 card from his or her hand. (If your opponent can't discard 1 card, your opponent's Pokémon can't attack.) You can't use more than 1 Invisible Tentacles Poké-Body each turn.
+
+### Printed rules
+
+Put this card onto your Active Giratina. Giratina LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Shaymin LV.X (dpp-DP39)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Shaymin
+Types: Grass
+HP: 110
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energy Flare
+
+Cost: Grass, Colorless
+Damage: 50
+
+You may move any number of Energy cards attached to your Pokémon to your other Pokémon in any way you like.
+
+### Poké-Body: Revenge Seed
+
+If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, each of Shaymin's attacks does 60 more damage to the Active Pokémon (before applying Weakness and Resistance).
+
+### Printed rules
+
+Put this card onto your Active Shaymin. Shaymin LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Regigigas (dpp-DP40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 100
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Drag Off
+
+Cost: Colorless, Colorless, Colorless
+Damage: 30
+
+Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon.
+
+### Attack: Giga Hammer
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 80
+
+Regigigas can't use Giga Hammer during your next turn.
+
+## Toxicroak G (dpp-DP41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Revenge
+
+Cost: Psychic, Colorless
+Damage: 20+
+
+If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned.
+
+### Poké-Power: Leap Away
+
+Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This power can't be used if Toxicroak G is affected by a Special Condition.
+
+## Carnivine G (dpp-DP42)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Whip
+
+Cost: Colorless
+Damage: —
+
+Choose 1 of your opponent's Pokémon. This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Grass Knot
+
+Cost: Grass, Colorless
+Damage: 20+
+
+Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost).
+
+## Probopass G (dpp-DP43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Nose Unit
+
+Cost: Metal, Colorless
+Damage: —
+
+This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Loud Snort
+
+Cost: Metal, Colorless, Colorless, Colorless
+Damage: 70
+
+Probopass G's Retreat Cost is 0 until the end of your next turn.
+
+## Magnezone (dpp-DP44)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Magneton
+Types: Lightning
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charge Beam
+
+Cost: Lightning
+Damage: 30
+
+Search your discard pile for an Energy card and attach it to Magnezone.
+
+### Attack: Metallic Bolt
+
+Cost: Lightning, Metal, Colorless, Colorless
+Damage: 60
+
+You may discard a Lightning Energy and a Metal Energy attached to Magnezone. If you do, this attack's base damage is 120 instead of 60.
+
+## Charizard G LV.X (dpp-DP45)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Charizard G
+Types: Fire
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Malevolent Fire
+
+Cost: Fire, Fire, Colorless, Colorless, Colorless
+Damage: 150
+
+Flip a coin. If tails, discard all Energy attached to Charizard G.
+
+### Poké-Power: Call for Power
+
+As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition.
+
+### Printed rules
+
+Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Garchomp C LV.X (dpp-DP46)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Garchomp C
+Types: Colorless
+HP: 110
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Rush
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn.
+
+### Poké-Power: Healing Breath
+
+Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.
+
+### Printed rules
+
+Put this card onto your Active Garchomp C. Garchomp C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Rayquaza C LV.X (dpp-DP47)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Rayquaza C
+Types: Colorless
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Final Blowup
+
+Cost: Water, Psychic, Fighting, Colorless
+Damage: 200
+
+Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand.
+
+### Poké-Body: Dragon Spirit
+
+If Rayquaza C is your Active Pokémon and is damaged but not Knocked Out by an opponent's attack, you may search your discard pile for an Energy card and attach it to Rayquaza C.
+
+### Printed rules
+
+Put this card onto your Active Rayquaza C. Rayquaza C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Tropical Wind (dpp-DP48)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep.
+
+## Dialga (dpp-DP49)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Time Call
+
+Cost: Metal
+Damage: —
+
+Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.
+
+### Attack: Time Wager
+
+Cost: Metal, Colorless, Colorless
+Damage: 100
+
+Flip 2 coins. If either of them is tails, this attack's base damage is 50 instead of 100.
+
+## Arceus (dpp-DP50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Judgment
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 80
+
+Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Printed rules
+
+You may have as many of this card in your deck as you like.
+
+## Cresselia (dpp-DP51)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Lunar Flight
+
+Cost: Psychic, Psychic, Colorless
+Damage: 80-
+
+Does 80 damage minus 10 damage for each damage counter on Cresselia.
+
+### Poké-Body: Lunar Aura
+
+If you have Darkrai in play, remove 1 damage counter from Cresselia between turns.
+
+## Darkrai (dpp-DP52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 90
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hypnoblast
+
+Cost: Darkness, Darkness, Colorless
+Damage: 60
+
+Flip a coin. If heads, the Defending Pokémon is now Asleep.
+
+### Poké-Body: Darkness Aura
+
+If you have Cresselia in play, each of Darkrai's attack does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance).
+
+## Arceus LV.X (dpp-DP53)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Arceus
+Types: Colorless
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Poké-Body: Multitype
+
+Arceus LV. X's type is the same type as its previous Level.
+
+### Poké-Body: Omniscient
+
+Arceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)
+
+### Printed rules
+
+You may have as many of this card in your deck as you like.
+
+Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+
+## Beginning Door (dpp-DP54)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward.
+
+## Ultimate Zone (dpp-DP55)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.
+
+During each player's turn, the player may move an Energy card attached to 1 of his or her Benched Pokémon to his or her Active Arceus as often as he or she likes.
+
+## Arceus LV.X (dpp-DP56)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Arceus
+Types: Colorless
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Meteor Blast
+
+Cost: Grass, Fire, Colorless
+Damage: 100
+
+Flip a coin. If tails, this attack's base damage is 50 instead of 100.
+
+### Poké-Body: Multitype
+
+Arceus LV.X's type is the same as its previous Level.
+
+### Printed rules
+
+You may have as many of this card in your deck as you like.
+
+Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.
+

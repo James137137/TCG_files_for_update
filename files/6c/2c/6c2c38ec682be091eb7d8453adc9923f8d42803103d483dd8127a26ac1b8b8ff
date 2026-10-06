@@ -1,0 +1,290 @@
+# Card reference: mcd19
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Caterpie (mcd19-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Surprise Attack
+
+Cost: Grass
+Damage: 20
+
+Flip a coin. If tails, this attack does nothing.
+
+## Alolan Meowth (mcd19-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spoil the Fun
+
+Cost: 
+Damage: 10+
+
+If you go second, this attack does 60 more damage during your first turn.
+
+## Alolan Dugtrio (mcd19-11)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Alolan Diglett
+Types: Metal
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gold Rush
+
+Cost: 
+Damage: 30
+
+Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.
+
+## Eevee (mcd19-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gnaw
+
+Cost: Colorless
+Damage: 20
+
+
+
+## Alolan Exeggutor (mcd19-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Exeggcute
+Types: Grass
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tropical Shake
+
+Cost: Grass
+Damage: 20+
+
+This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.
+
+## Magmar (mcd19-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Controlled Burn
+
+Cost: Fire
+Damage: —
+
+Discard the top card of your opponent's deck.
+
+### Attack: Flamethrower
+
+Cost: Fire, Fire, Colorless
+Damage: 80
+
+Discard an Energy from this Pokémon.
+
+## Alolan Sandshrew (mcd19-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Fury Swipes
+
+Cost: 
+Damage: 10
+
+Flip 3 coins. This attack does 10 damage for each heads.
+
+## Lapras (mcd19-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Aqua Bullet
+
+Cost: Water
+Damage: 20
+
+This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Hydro Pump
+
+Cost: Colorless, Colorless, Colorless
+Damage: 70+
+
+This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.
+
+## Pikachu (mcd19-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Iron Tail
+
+Cost: Lightning
+Damage: 20
+
+Flip a coin until you get tails. This attack does 20 damage for each heads.
+
+## Gastly (mcd19-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ominous Eyes
+
+Cost: Psychic
+Damage: —
+
+Put 1 damage counter on 1 of your opponent's Pokémon.
+
+## Mankey (mcd19-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Three-Step Strike
+
+Cost: Fighting
+Damage: 10
+
+Flip 3 coins. This attack does 10 damage for each heads.
+
+## Onix (mcd19-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Screech
+
+Cost: Colorless
+Damage: —
+
+During your next turn, the Defending Pokémon takes 20 more damage from attacks (after applying Weakness and Resistance).
+
+### Attack: Rage
+
+Cost: Fighting, Fighting
+Damage: 10+
+
+This attack does 10 more damage for each damage counter on this Pokémon.
+

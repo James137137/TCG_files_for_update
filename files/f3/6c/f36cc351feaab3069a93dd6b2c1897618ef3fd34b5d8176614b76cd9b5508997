@@ -1,0 +1,322 @@
+# Card reference: mcd18
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Growlithe (mcd18-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Take Down
+
+Cost: Fire, Colorless, Colorless
+Damage: 60
+
+This Pokémon does 20 damage to itself.
+
+## Chansey (mcd18-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bind Wound
+
+Cost: Colorless, Colorless
+Damage: —
+
+Flip a coin. If heads, heal 30 damage from 1 of your Pokémon.
+
+### Attack: Hammer In
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 80
+
+
+
+## Eevee (mcd18-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Quick Draw
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, draw a card.
+
+### Ability: Energy Evolution
+
+When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.
+
+## Porygon (mcd18-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Code Check
+
+Cost: Colorless
+Damage: —
+
+Look at 1 of your opponent's face-down Prize cards.
+
+### Attack: Beam
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Psyduck (mcd18-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Confusion Wave
+
+Cost: Colorless
+Damage: —
+
+Both Active Pokémon are now Confused.
+
+## Horsea (mcd18-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Arrow
+
+Cost: Water
+Damage: —
+
+This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Pikachu (mcd18-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Pika Draw
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Quick Attack
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+Flip a coin. If heads, this attack does 20 more damage.
+
+## Slowpoke (mcd18-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Headbutt
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Whimsy Tackle
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+Flip a coin. If tails, this attack does nothing.
+
+## Machop (mcd18-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dynamic Chop
+
+Cost: Fighting, Colorless
+Damage: 50
+
+
+
+## Cubone (mcd18-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Leer
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Magnemite (mcd18-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Metal
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Searching Magnet
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 3 Metal Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Tackle
+
+Cost: Metal
+Damage: 10
+
+
+
+## Dratini (mcd18-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Signs of Evolution
+
+Cost: Grass
+Damage: —
+
+Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Tail Smack
+
+Cost: Lightning
+Damage: 10
+
+
+

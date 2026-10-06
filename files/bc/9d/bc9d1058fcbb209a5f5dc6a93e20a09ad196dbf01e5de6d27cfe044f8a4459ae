@@ -1,0 +1,822 @@
+# Card reference: swsh11tg
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Parasect (swsh11tg-TG01)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Paras
+Types: Grass
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: X-Scissor
+
+Cost: Grass, Colorless
+Damage: 50+
+
+Flip a coin. If heads, this attack does 50 more damage.
+
+### Ability: Lethargy Spores
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may make both Active Pokémon Asleep and Poisoned.
+
+## Roserade (swsh11tg-TG02)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Roselia
+Types: Grass
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poisonous Whip
+
+Cost: Grass
+Damage: 30
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Attack: Assassin's Rose
+
+Cost: Grass, Colorless
+Damage: 60
+
+If your opponent's Active Pokémon is affected by a Special Condition, this attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Charizard (swsh11tg-TG03)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Charmeleon
+Types: Fire
+HP: 170
+Retreat: 3
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Royal Blaze
+
+Cost: Fire, Fire
+Damage: 100+
+
+This attack does 50 more damage for each Leon card in your discard pile.
+
+### Ability: Battle Sense
+
+Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.
+
+## Chandelure (swsh11tg-TG04)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Lampent
+Types: Fire
+HP: 150
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heat Blast
+
+Cost: Fire, Colorless
+Damage: 90
+
+
+
+### Ability: Mountain Roasting
+
+When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard the top 3 cards of your opponent's deck.
+
+## Pikachu (swsh11tg-TG05)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh12pt5gg-GG30
+
+### Attack: Whimsy Tackle
+
+Cost: Lightning, Colorless, Colorless
+Damage: 50
+
+Flip a coin. If tails, this attack does nothing.
+
+### Ability: Pika Dash
+
+If this Pokémon has any Energy attached, it has no Retreat Cost.
+
+## Gengar (swsh11tg-TG06)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Haunter
+Types: Psychic
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Screaming Circle
+
+Cost: Psychic
+Damage: —
+
+Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon.
+
+### Ability: Netherworld Gate
+
+Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon.
+
+## Banette (swsh11tg-TG07)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shuppet
+Types: Psychic
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Resolute Spite
+
+Cost: Psychic
+Damage: 20×
+
+Put up to 7 damage counters on this Pokémon. This attack does 20 damage for each damage counter you placed in this way.
+
+### Attack: Eerie Light
+
+Cost: Psychic, Colorless
+Damage: 50
+
+Your opponent's Active Pokémon is now Confused.
+
+## Hisuian Arcanine (swsh11tg-TG08)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Hisuian Growlithe
+Types: Fighting
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Very Vulnerable
+
+Cost: 
+Damage: 10+
+
+If you have no cards in your hand, this attack does 150 more damage.
+
+### Attack: Sharp Fang
+
+Cost: Fighting, Colorless, Colorless
+Damage: 100
+
+
+
+## Spiritomb (swsh11tg-TG09)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Chain of Spirits
+
+Cost: Darkness, Darkness
+Damage: 10+
+
+This attack does 60 more damage for each Spiritomb in your discard pile.
+
+### Ability: Cursed Message
+
+If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for a card and put it into your hand. Then, shuffle your deck.
+
+## Snorlax (swsh11tg-TG10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 150
+Retreat: 4
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thumping Snore
+
+Cost: Colorless, Colorless, Colorless
+Damage: 180
+
+This Pokémon is now Asleep. During Pokémon Checkup, flip 2 coins instead of 1. If either of them is tails, this Pokémon is still Asleep.
+
+### Ability: Unfazed Fat
+
+Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)
+
+## Castform (swsh11tg-TG11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 70
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Weather Force
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+Draw cards until you have 6 cards in your hand.
+
+### Ability: Weather Reading
+
+If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.
+
+## Orbeetle V (swsh11tg-TG12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 180
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strafe
+
+Cost: Grass
+Damage: 20
+
+You may switch this Pokémon with 1 of your Benched Pokémon.
+
+### Attack: Mysterious Wave
+
+Cost: Grass, Colorless
+Damage: 50+
+
+This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Orbeetle VMAX (swsh11tg-TG13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Orbeetle V
+Types: Grass
+HP: 310
+Retreat: 1
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: G-Max Wave
+
+Cost: Grass, Colorless
+Damage: 50+
+
+This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.
+
+### Ability: Eerie Beam
+
+Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Centiskorch V (swsh11tg-TG14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 210
+Retreat: 3
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Radiating Heat
+
+Cost: Fire
+Damage: 20
+
+You may discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon.
+
+### Attack: Burning Train
+
+Cost: Fire, Fire, Fire, Fire
+Damage: 180
+
+
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Centiskorch VMAX (swsh11tg-TG15)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Centiskorch V
+Types: Fire
+HP: 320
+Retreat: 3
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: G-Max Centiferno
+
+Cost: Colorless, Colorless
+Damage: 40+
+
+This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Pikachu V (swsh11tg-TG16)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 190
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Charge
+
+Cost: Lightning
+Damage: —
+
+Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck.
+
+### Attack: Thunderbolt
+
+Cost: Lightning, Lightning, Colorless
+Damage: 200
+
+Discard all Energy from this Pokémon.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pikachu VMAX (swsh11tg-TG17)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu V
+Types: Lightning
+HP: 310
+Retreat: 2
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: G-Max Volt Tackle
+
+Cost: Lightning, Lightning, Lightning
+Damage: 120+
+
+You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Enamorus V (swsh11tg-TG18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 210
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Blossom Tail
+
+Cost: Psychic, Colorless, Colorless
+Damage: 100
+
+Attach up to 2 basic Energy cards from your discard pile to your Benched Pokémon in any way you like.
+
+### Ability: Guardian of Love
+
+Prevent all effects of your opponent's Pokémon's Abilities done to each of your Pokémon that has any Psychic Energy attached, except any Enamorus V.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Gallade V (swsh11tg-TG19)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Rising Sword
+
+Cost: Fighting, Colorless
+Damage: 20+
+
+This attack does 50 more damage for each Prize card you have taken.
+
+### Attack: Buster Swing
+
+Cost: Fighting, Fighting, Colorless
+Damage: 130
+
+This attack's damage isn't affected by Resistance.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Crobat V (swsh11tg-TG20)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 180
+Retreat: 1
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Venomous Fang
+
+Cost: Darkness, Colorless
+Damage: 70
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Ability: Dark Asset
+
+When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Eternatus V (swsh11tg-TG21)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 220
+Retreat: 2
+Prize value: 2
+Active Modern: true
+Rules implemented: true
+Family: v
+Deck restriction: —
+Superseded by: —
+
+### Attack: Power Accelerator
+
+Cost: Colorless
+Damage: 30
+
+You may attach a Darkness Energy card from your hand to 1 of your Benched Pokémon.
+
+### Attack: Dynamax Cannon
+
+Cost: Darkness, Colorless, Colorless, Colorless
+Damage: 120+
+
+If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 120 more damage.
+
+### Printed rules
+
+V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.
+
+## Eternatus VMAX (swsh11tg-TG22)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Eternatus V
+Types: Darkness
+HP: 340
+Retreat: 3
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dread End
+
+Cost: Darkness, Colorless
+Damage: 30×
+
+This attack does 30 damage for each of your Darkness Pokémon in play.
+
+### Ability: Eternal Zone
+
+If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Adventurer's Discovery (swsh11tg-TG23)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Search your deck for up to 3 Pokémon V, reveal them, and put them into your hand. Then, shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Boss's Orders (swsh11tg-TG24)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+
+You may play only 1 Supporter card during your turn.
+
+## Cook (swsh11tg-TG25)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: sv6-147
+
+### Printed rules
+
+Heal 70 damage from your Active Pokémon.
+
+You may play only 1 Supporter card during your turn.
+
+## Kabu (swsh11tg-TG26)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.
+
+You may play only 1 Supporter card during your turn.
+
+## Nessa (swsh11tg-TG27)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh12pt5-136
+
+### Printed rules
+
+Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.
+
+You may play only 1 Supporter card during your turn.
+
+## Opal (swsh11tg-TG28)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: true
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.
+
+You may play only 1 Supporter card during your turn.
+
+## Pikachu VMAX (swsh11tg-TG29)
+
+Category: Pokémon
+Stage: —
+Evolution parent: Pikachu V
+Types: Lightning
+HP: 310
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: swsh11tg-TG17
+
+### Attack: G-Max Volt Tackle
+
+Cost: Lightning, Lightning, Lightning
+Damage: 120+
+
+You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+
+## Mew VMAX (swsh11tg-TG30)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mew V
+Types: Psychic
+HP: 310
+Retreat: 0
+Prize value: 3
+Active Modern: true
+Rules implemented: true
+Family: vmax
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cross Fusion Strike
+
+Cost: Colorless, Colorless
+Damage: —
+
+Choose 1 of your Benched Fusion Strike Pokémon's attacks and use it as this attack.
+
+### Attack: Max Miracle
+
+Cost: Psychic, Psychic
+Damage: 130
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+
+### Printed rules
+
+VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.
+

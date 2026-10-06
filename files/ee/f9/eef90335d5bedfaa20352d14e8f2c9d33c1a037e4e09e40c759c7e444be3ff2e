@@ -1,0 +1,392 @@
+# Card reference: mcd22
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Ledyba (mcd22-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Punch
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Tynamo (mcd22-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 40
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tiny Charge
+
+Cost: Lightning
+Damage: 10
+
+
+
+### Ability: Levitate
+
+If this Pokémon has any Energy attached, it has no Retreat Cost.
+
+## Cutiefly (mcd22-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flap
+
+Cost: Colorless
+Damage: 10
+
+
+
+## Bewear (mcd22-12)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Stufful
+Types: Fighting
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Split Spiral Punch
+
+Cost: Fighting, Colorless
+Damage: 40
+
+Your opponent's Active Pokémon is now Confused.
+
+### Attack: Strength
+
+Cost: Fighting, Fighting, Colorless
+Damage: 130
+
+
+
+## Pangoro (mcd22-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pancham
+Types: Darkness
+HP: 140
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Knocking Hammer
+
+Cost: Darkness, Darkness, Colorless
+Damage: 90
+
+Discard the top card of your opponent's deck.
+
+### Attack: Shakedown
+
+Cost: Darkness, Darkness, Darkness, Colorless
+Damage: 150
+
+Discard a random card from your opponent's hand.
+
+## Drampa (mcd22-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Corkscrew Punch
+
+Cost: Colorless
+Damage: 30
+
+
+
+### Attack: Berserk
+
+Cost: Water, Fighting
+Damage: 70+
+
+If your Benched Pokémon have any damage counters on them, this attack does 90 more damage.
+
+## Smeargle (mcd22-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 80
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Live Painting
+
+Cost: Colorless, Colorless
+Damage: 30+
+
+Reveal any number of basic Energy cards from your hand. This attack does 30 more damage for each type of basic Energy you revealed in this way.
+
+## Rowlet (mcd22-2)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wind Shard
+
+Cost: Colorless, Colorless, Colorless
+Damage: —
+
+This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Sky Circus
+
+If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.
+
+## Gossifleur (mcd22-3)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 50
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Blot
+
+Cost: Grass
+Damage: 10
+
+Heal 10 damage from this Pokémon.
+
+## Growlithe (mcd22-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Warm Up
+
+Cost: Colorless
+Damage: —
+
+Search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.
+
+### Attack: Combustion
+
+Cost: Fire, Colorless, Colorless
+Damage: 30
+
+
+
+## Victini (mcd22-5)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Victory Dive
+
+Cost: Colorless, Colorless
+Damage: 30
+
+You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+
+## Lapras (mcd22-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wintry Call
+
+Cost: Colorless
+Damage: —
+
+Search your deck for up to 2 Melony cards, reveal them, and put them into your hand. Then, shuffle your deck.
+
+### Attack: Icy Wind
+
+Cost: Water, Colorless
+Damage: 50
+
+Your opponent's Active Pokémon is now Asleep.
+
+## Pikachu (mcd22-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Energize
+
+Cost: Lightning
+Damage: —
+
+Attach a Lightning Energy card from your discard pile to this Pokémon.
+
+### Attack: Electro Ball
+
+Cost: Lightning, Colorless, Colorless
+Damage: 30
+
+
+
+## Chinchou (mcd22-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electro Ball
+
+Cost: Lightning
+Damage: 10
+
+
+
+## Flaaffy (mcd22-9)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Mareep
+Types: Lightning
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electro Ball
+
+Cost: Lightning, Colorless
+Damage: 50
+
+
+

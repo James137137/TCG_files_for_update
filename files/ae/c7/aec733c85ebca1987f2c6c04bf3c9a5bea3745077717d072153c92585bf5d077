@@ -1,0 +1,2259 @@
+# Card reference: sm35
+
+Source revision: 8b4e387930ead7be6595b4d4c59b7ba7a3a79f08
+Catalogue hash: a447583e0d873ad43616ce49556167d3465b3ae6c8f12680a02c7e7f10b0d21b
+
+## Bulbasaur (sm35-1)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Razor Leaf
+
+Cost: Grass, Colorless
+Damage: 30
+
+
+
+## Entei-GX (sm35-10)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Combustion
+
+Cost: Fire, Colorless
+Damage: 50
+
+
+
+### Attack: Fire Fang
+
+Cost: Fire, Fire, Colorless
+Damage: 100
+
+Your opponent's Active Pokémon is now Burned.
+
+### Attack: Brave Burn-GX
+
+Cost: Fire, Fire, Colorless
+Damage: —
+
+This attack does 150 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Entei-GX (sm35-10a)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Combustion
+
+Cost: Fire, Colorless
+Damage: 50
+
+
+
+### Attack: Fire Fang
+
+Cost: Fire, Fire, Colorless
+Damage: 100
+
+Your opponent's Active Pokémon is now Burned.
+
+### Attack: Brave Burn-GX
+
+Cost: Fire, Fire, Colorless
+Damage: —
+
+This attack does 150 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Torkoal (sm35-11)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: High-Pressure Heat
+
+Cost: Colorless, Colorless
+Damage: 30
+
+During your next turn, this Pokémon's High-Pressure Heat attack does 50 more damage (before applying Weakness and Resistance).
+
+### Attack: Flamethrower
+
+Cost: Fire, Fire, Colorless
+Damage: 90
+
+Discard an Energy from this Pokémon.
+
+## Larvesta (sm35-12)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 80
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flare
+
+Cost: Fire, Colorless
+Damage: 30
+
+
+
+## Volcarona (sm35-13)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Larvesta
+Types: Fire
+HP: 120
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Heat Blast
+
+Cost: Fire, Colorless
+Damage: 60
+
+
+
+### Ability: Heat Cyclone
+
+Once during your turn (before your attack), you may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.
+
+## Reshiram (sm35-14)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Outrage
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+This attack does 10 more damage for each damage counter on this Pokémon.
+
+### Attack: Scorching Breath
+
+Cost: Fire, Fire, Colorless
+Damage: 130
+
+This Pokémon can't attack during your next turn.
+
+## Litten (sm35-15)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Live Coal
+
+Cost: Fire
+Damage: 20
+
+
+
+## Torracat (sm35-16)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Litten
+Types: Fire
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swagger
+
+Cost: Colorless
+Damage: —
+
+Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+
+### Attack: Fire Claws
+
+Cost: Fire, Colorless
+Damage: 30
+
+
+
+## Incineroar (sm35-17)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Torracat
+Types: Fire
+HP: 170
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Profane Punch
+
+Cost: Fire, Colorless
+Damage: 50+
+
+If your Benched Pokémon have any damage counters on them, this attack does 80 more damage.
+
+### Attack: Flare Blitz
+
+Cost: Fire, Fire, Colorless
+Damage: 180
+
+Discard all Fire Energy from this Pokémon.
+
+## Totodile (sm35-18)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Water Gun
+
+Cost: Water
+Damage: 10
+
+
+
+### Attack: Bite
+
+Cost: Water, Colorless
+Damage: 20
+
+
+
+## Croconaw (sm35-19)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Totodile
+Types: Water
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bite
+
+Cost: Water, Colorless, Colorless
+Damage: 60
+
+
+
+### Ability: Plunge
+
+Once during your turn (before your attack), if this Pokémon is on your Bench, you may move all Energy from your Active Pokémon to this Pokémon. If you do, switch it with your Active Pokémon.
+
+## Ivysaur (sm35-2)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Bulbasaur
+Types: Grass
+HP: 100
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Razor Leaf
+
+Cost: Grass, Colorless
+Damage: 30
+
+
+
+### Attack: Toxic Whip
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 50
+
+Your opponent's Active Pokémon is now Confused and Poisoned.
+
+## Feraligatr (sm35-20)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Croconaw
+Types: Water
+HP: 160
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Crunch
+
+Cost: Water, Colorless, Colorless
+Damage: 80
+
+Discard an Energy from your opponent's Active Pokémon.
+
+### Attack: Hydro Splash
+
+Cost: Water, Colorless, Colorless, Colorless
+Damage: 130
+
+
+
+## Qwilfish (sm35-21)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Colorless
+Damage: —
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Attack: Shocking Sting
+
+Cost: Water, Colorless
+Damage: 20+
+
+If your opponent's Active Pokémon is affected by a Special Condition, this attack does 50 more damage.
+
+## Buizel (sm35-22)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Razor Fin
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Water Gun
+
+Cost: Water, Colorless, Colorless
+Damage: 40
+
+
+
+## Floatzel (sm35-23)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Buizel
+Types: Water
+HP: 100
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Razor Fin
+
+Cost: Colorless
+Damage: 20
+
+
+
+### Attack: Aqua Bomb
+
+Cost: Water, Colorless, Colorless
+Damage: 120
+
+This Pokémon does 30 damage to itself.
+
+## Palkia (sm35-24)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Spiral Drain
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Aqua Blade
+
+Cost: Water, Water, Colorless
+Damage: 100
+
+
+
+## Manaphy (sm35-25)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wave Splash
+
+Cost: Water, Colorless
+Damage: 30
+
+
+
+### Ability: Blessings of the Deep
+
+Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon that has any Water Energy attached to it.
+
+## Keldeo (sm35-26)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Bail Out
+
+Cost: Colorless
+Damage: —
+
+Put a Water Pokémon from your discard pile into your hand.
+
+### Attack: Resolute Blade
+
+Cost: Water, Water
+Damage: 20+
+
+This attack does 20 more damage for each of your opponent's Benched Pokémon.
+
+## Shining Volcanion (sm35-27)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Water
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dual Pump
+
+Cost: Water, Water, Water
+Damage: —
+
+This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Quad Smash
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: 50×
+
+Flip 4 coins. This attack does 50 damage for each heads.
+
+## Pikachu (sm35-28)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Iron Tail
+
+Cost: Lightning
+Damage: 20×
+
+Flip a coin until you get tails. This attack does 20 damage for each heads.
+
+## Raichu-GX (sm35-29)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Powerful Spark
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+This attack does 20 more damage times the amount of Lightning Energy attached to your Pokémon.
+
+### Attack: Thunder
+
+Cost: Lightning, Lightning, Colorless
+Damage: 160
+
+This Pokémon does 30 damage to itself.
+
+### Attack: Voltail-GX
+
+Cost: Lightning, Lightning, Colorless
+Damage: 120
+
+Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Venusaur (sm35-3)
+
+Category: Pokémon
+Stage: Stage 2
+Evolution parent: Ivysaur
+Types: Grass
+HP: 160
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Solar Beam
+
+Cost: Grass, Grass, Colorless, Colorless
+Damage: 90
+
+
+
+### Ability: Jungle Totem
+
+Each basic Grass Energy attached to your Pokémon provides GrassGrass Energy. You can't apply more than 1 Jungle Totem Ability at a time.
+
+## Voltorb (sm35-30)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Electro Ball
+
+Cost: Lightning
+Damage: 10
+
+
+
+## Electrode (sm35-31)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Voltorb
+Types: Lightning
+HP: 90
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Swift
+
+Cost: Lightning
+Damage: 60
+
+This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.
+
+## Raikou (sm35-32)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Booming Thunder
+
+Cost: Lightning
+Damage: 30
+
+Attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.
+
+### Attack: Electric Ball
+
+Cost: Lightning, Lightning, Colorless
+Damage: 90
+
+
+
+## Plusle (sm35-33)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Tag Team Boost
+
+Cost: Lightning
+Damage: 10+
+
+If Minun is on your Bench, this attack does 50 more damage.
+
+## Minun (sm35-34)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Collect
+
+Cost: Colorless
+Damage: —
+
+Draw a card.
+
+### Attack: Spark
+
+Cost: Lightning
+Damage: 20
+
+This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Zekrom (sm35-35)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Lightning
+HP: 130
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Outrage
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+This attack does 10 more damage for each damage counter on this Pokémon.
+
+### Attack: Storm Blade
+
+Cost: Lightning, Lightning, Colorless
+Damage: 130
+
+Discard 2 Energy from this Pokémon.
+
+## Ekans (sm35-36)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Poison Sting
+
+Cost: Colorless
+Damage: 10
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.
+
+## Arbok (sm35-37)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Ekans
+Types: Psychic
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Venomous Fang
+
+Cost: Psychic, Colorless, Colorless
+Damage: 70
+
+Your opponent's Active Pokémon is now Poisoned.
+
+### Ability: Intimidating Pattern
+
+As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 30 less damage (before applying Weakness and Resistance).
+
+## Jynx (sm35-38)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Whiny Voice
+
+Cost: Psychic
+Damage: —
+
+Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.
+
+### Attack: Feverish Kiss
+
+Cost: Colorless, Colorless
+Damage: 30
+
+Your opponent's Active Pokémon is now Confused.
+
+## Mewtwo-GX (sm35-39)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Full Burst
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage times the amount of Energy attached to this Pokémon.
+
+### Attack: Super Absorption
+
+Cost: Psychic, Colorless
+Damage: 60
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Psystrike-GX
+
+Cost: Psychic, Psychic, Psychic
+Damage: 200
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Shroomish (sm35-4)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Absorb
+
+Cost: Colorless, Colorless
+Damage: 20
+
+Heal 20 damage from this Pokémon.
+
+## Shining Mew (sm35-40)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 30
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Legendary Guidance
+
+Cost: Psychic
+Damage: —
+
+Search your deck for up to 2 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.
+
+### Attack: Beam
+
+Cost: Psychic
+Damage: 10
+
+
+
+## Latios (sm35-41)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Break Through
+
+Cost: Colorless, Colorless
+Damage: 30
+
+This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Attack: Lagoon Flight
+
+Cost: Psychic, Colorless, Colorless
+Damage: 70
+
+
+
+## Shining Jirachi (sm35-42)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stellar Reign
+
+Cost: Psychic
+Damage: 10
+
+If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting all of the Evolution cards on it into your opponent's hand.
+
+## Golett (sm35-43)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 90
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Mega Punch
+
+Cost: Psychic, Colorless, Colorless
+Damage: 60
+
+
+
+## Golurk (sm35-44)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Golett
+Types: Psychic
+HP: 140
+Retreat: 4
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Triple Smash
+
+Cost: Psychic, Colorless, Colorless
+Damage: 10+
+
+Flip 3 coins. This attack does 60 more damage for each heads.
+
+### Attack: Golurk Hammer
+
+Cost: Psychic, Colorless, Colorless, Colorless
+Damage: 120
+
+
+
+## Marshadow (sm35-45)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Shadow Punch
+
+Cost: Psychic, Colorless
+Damage: 30
+
+This attack's damage isn't affected by Resistance.
+
+### Ability: Let Loose
+
+When you play this Pokémon from your hand onto your Bench during your turn, you may have each player shuffle their hand into their deck and draw 4 cards.
+
+## Stunfisk (sm35-46)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fighting
+HP: 110
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Thunder Shock
+
+Cost: Lightning, Colorless
+Damage: 30
+
+Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+
+### Attack: Head Bolt
+
+Cost: Lightning, Colorless, Colorless
+Damage: 70
+
+
+
+## Spiritomb (sm35-47)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Cursed Drop
+
+Cost: Darkness, Colorless
+Damage: —
+
+Put 3 damage counters on your opponent's Pokémon in any way you like.
+
+### Ability: Cursed Whirlpool
+
+As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon can't retreat.
+
+## Purrloin (sm35-48)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Scratch
+
+Cost: Colorless
+Damage: 10
+
+
+
+### Attack: Tail Rap
+
+Cost: Darkness, Colorless
+Damage: 20×
+
+Flip 2 coins. This attack does 20 damage for each heads.
+
+## Liepard (sm35-49)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Purrloin
+Types: Darkness
+HP: 90
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Torment
+
+Cost: Darkness
+Damage: 30
+
+Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+
+### Attack: Slash
+
+Cost: Darkness, Colorless
+Damage: 60
+
+
+
+## Breloom (sm35-5)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Shroomish
+Types: Grass
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Hibernation Spore
+
+Cost: Grass
+Damage: —
+
+Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pokémon is still Asleep.
+
+### Attack: Magnum Punch
+
+Cost: Colorless, Colorless, Colorless
+Damage: 80
+
+
+
+## Scraggy (sm35-50)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Call for Family
+
+Cost: Darkness
+Damage: —
+
+Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.
+
+### Attack: Headbutt
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Scrafty (sm35-51)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Scraggy
+Types: Darkness
+HP: 110
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dangerous Head
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage.
+
+### Attack: Hammer In
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+
+
+## Zorua (sm35-52)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 60
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Stampede
+
+Cost: Darkness
+Damage: 10
+
+
+
+### Attack: Ram
+
+Cost: Colorless, Colorless
+Damage: 20
+
+
+
+## Zoroark-GX (sm35-53)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zorua
+Types: Darkness
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Riotous Beating
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+This attack does 20 damage for each of your Pokémon in play.
+
+### Attack: Trickster-GX
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)
+
+### Ability: Trade
+
+Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Yveltal (sm35-54)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Strafe
+
+Cost: Colorless, Colorless
+Damage: 30
+
+You may switch this Pokémon with 1 of your Benched Pokémon.
+
+### Attack: Oblivion Wing
+
+Cost: Darkness, Colorless, Colorless
+Damage: 90
+
+Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon.
+
+## Hoopa (sm35-55)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Darkness
+HP: 120
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Super Psy Bolt
+
+Cost: Darkness, Colorless, Colorless
+Damage: 80
+
+
+
+### Ability: Scoundrel Guard
+
+Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-GX or Pokémon-EX.
+
+## Shining Rayquaza (sm35-56)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Dragon
+HP: 120
+Retreat: 3
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Dragon Pulse
+
+Cost: Lightning
+Damage: 40
+
+Discard the top 2 cards of your deck.
+
+### Attack: Sky Judgment
+
+Cost: Fire, Lightning, Lightning, Colorless
+Damage: 190
+
+Discard 3 Energy from this Pokémon.
+
+## Shining Arceus (sm35-57)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Colorless
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Ultimate Arrow
+
+Cost: Colorless, Colorless, Colorless, Colorless
+Damage: —
+
+This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+### Ability: Fabled Defense
+
+As long as this Pokémon is your Active Pokémon, prevent all damage done to your Benched Pokémon by your opponent's attacks.
+
+## Damage Mover (sm35-58)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Move 3 damage counters from 1 of your Pokémon to another of your Pokémon.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Energy Retrieval (sm35-59)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Put 2 basic Energy cards from your discard pile into your hand.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Carnivine (sm35-6)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 100
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flick Poison
+
+Cost: Grass
+Damage: —
+
+Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Poisoned.
+
+### Attack: Crunch
+
+Cost: Grass, Colorless
+Damage: 30
+
+Discard an Energy from your opponent's Active Pokémon.
+
+## Great Ball (sm35-60)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Hau (sm35-61)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Draw 3 cards.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Lillie (sm35-62)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Pokémon Breeder (sm35-63)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Draw 2 cards and heal 20 damage from your Active Pokémon. If you have no cards in your deck, you can't play this card.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Pokémon Catcher (sm35-64)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Sophocles (sm35-65)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Discard 2 cards from your hand. If you do, draw 4 cards.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Super Scoop Up (sm35-66)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Switch (sm35-67)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: true
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Switch your Active Pokémon with 1 of your Benched Pokémon.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Ultra Ball (sm35-68)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Ultra Ball (sm35-68a)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+You may play as many Item cards as you like during your turn (before your attack).
+
+## Double Colorless Energy (sm35-69)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Double Colorless Energy provides ColorlessColorless Energy.
+
+## Shaymin (sm35-7)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 70
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Flippity Flap
+
+Cost: Grass
+Damage: —
+
+Shuffle your hand into your deck. Then, draw 6 cards.
+
+### Attack: Rally Back
+
+Cost: Grass, Colorless
+Damage: 30+
+
+If any of your Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage.
+
+## Warp Energy (sm35-70)
+
+Category: Energy
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+This card provides Colorless Energy.
+
+When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.
+
+## Entei-GX (sm35-71)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Combustion
+
+Cost: Fire, Colorless
+Damage: 50
+
+
+
+### Attack: Fire Fang
+
+Cost: Fire, Fire, Colorless
+Damage: 100
+
+Your opponent's Active Pokémon is now Burned.
+
+### Attack: Brave Burn-GX
+
+Cost: Fire, Fire, Colorless
+Damage: —
+
+This attack does 150 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Mewtwo-GX (sm35-72)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Full Burst
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage times the amount of Energy attached to this Pokémon.
+
+### Attack: Super Absorption
+
+Cost: Psychic, Colorless
+Damage: 60
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Psystrike-GX
+
+Cost: Psychic, Psychic, Psychic
+Damage: 200
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Pokémon Breeder (sm35-73)
+
+Category: Trainer
+Stage: —
+Evolution parent: —
+Types: 
+HP: —
+Retreat: 0
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Printed rules
+
+Draw 2 cards and heal 20 damage from your Active Pokémon. If you have no cards in your deck, you can't play this card.
+
+You may play only 1 Supporter card during your turn (before your attack).
+
+## Entei-GX (sm35-74)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Fire
+HP: 180
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Combustion
+
+Cost: Fire, Colorless
+Damage: 50
+
+
+
+### Attack: Fire Fang
+
+Cost: Fire, Fire, Colorless
+Damage: 100
+
+Your opponent's Active Pokémon is now Burned.
+
+### Attack: Brave Burn-GX
+
+Cost: Fire, Fire, Colorless
+Damage: —
+
+This attack does 150 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Raichu-GX (sm35-75)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Pikachu
+Types: Lightning
+HP: 210
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Powerful Spark
+
+Cost: Colorless, Colorless
+Damage: 20+
+
+This attack does 20 more damage times the amount of Lightning Energy attached to your Pokémon.
+
+### Attack: Thunder
+
+Cost: Lightning, Lightning, Colorless
+Damage: 160
+
+This Pokémon does 30 damage to itself.
+
+### Attack: Voltail-GX
+
+Cost: Lightning, Lightning, Colorless
+Damage: 120
+
+Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Mewtwo-GX (sm35-76)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Full Burst
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage times the amount of Energy attached to this Pokémon.
+
+### Attack: Super Absorption
+
+Cost: Psychic, Colorless
+Damage: 60
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Psystrike-GX
+
+Cost: Psychic, Psychic, Psychic
+Damage: 200
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Zoroark-GX (sm35-77)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zorua
+Types: Darkness
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Riotous Beating
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+This attack does 20 damage for each of your Pokémon in play.
+
+### Attack: Trickster-GX
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)
+
+### Ability: Trade
+
+Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Zoroark-GX (sm35-77a)
+
+Category: Pokémon
+Stage: Stage 1
+Evolution parent: Zorua
+Types: Darkness
+HP: 210
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Riotous Beating
+
+Cost: Colorless, Colorless
+Damage: 20×
+
+This attack does 20 damage for each of your Pokémon in play.
+
+### Attack: Trickster-GX
+
+Cost: Darkness, Darkness
+Damage: —
+
+Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)
+
+### Ability: Trade
+
+Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Mewtwo-GX (sm35-78)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Psychic
+HP: 190
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Full Burst
+
+Cost: Psychic
+Damage: 30×
+
+This attack does 30 damage times the amount of Energy attached to this Pokémon.
+
+### Attack: Super Absorption
+
+Cost: Psychic, Colorless
+Damage: 60
+
+Heal 30 damage from this Pokémon.
+
+### Attack: Psystrike-GX
+
+Cost: Psychic, Psychic, Psychic
+Damage: 200
+
+This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)
+
+### Printed rules
+
+Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.
+
+## Virizion (sm35-8)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 110
+Retreat: 1
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Wrapped in Wind
+
+Cost: Grass
+Damage: 30
+
+You may attach a basic Energy card from your hand to this Pokémon.
+
+### Attack: Pike
+
+Cost: Grass, Grass, Colorless
+Damage: 90
+
+This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+
+## Shining Genesect (sm35-9)
+
+Category: Pokémon
+Stage: Basic
+Evolution parent: —
+Types: Grass
+HP: 130
+Retreat: 2
+Prize value: 1
+Active Modern: false
+Rules implemented: false
+Family: —
+Deck restriction: —
+Superseded by: —
+
+### Attack: Gaia Blaster
+
+Cost: Colorless, Colorless, Colorless
+Damage: 50+
+
+This attack does 20 more damage times the amount of Grass Energy attached to this Pokémon.
+
+### Ability: Energy Reload
+
+Once during your turn (before your attack), you may move a Grass Energy from 1 of your other Pokémon to this Pokémon.
+
