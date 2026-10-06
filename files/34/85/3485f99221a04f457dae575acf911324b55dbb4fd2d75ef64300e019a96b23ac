@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "8b4e387930ead7be6595b4d4c59b7ba7a3a79f08",
+  "contentHash": "86139bfbfcfe29e794754d93b502e1921da1341ad4fec8c6e7e718e084bf3b2d",
+  "imported": 20444,
+  "sets": 174,
+  "imagePathsVerified": 40888,
+  "developmentPlayable": 8765,
+  "blocked": 11679,
+  "reviewed": 0,
+  "engineHash": "b5e2d5757d397372a03c6e4704b263c9b9a35e46ab17ae4d5de5103a8b050293",
+  "fullCardSupport": false,
+  "mappedAttacks": 17617,
+  "totalAttacks": 27976,
+  "blockersByFamily": {
+    "attack": 8118,
+    "ability": 3200,
+    "trainer": 2018,
+    "tag": 2729,
+    "evolution": 466,
+    "rule": 2603,
+    "energy": 161,
+    "type": 103,
+    "ancient-trait": 59
+  },
+  "note": "Executable mappings are development candidates. Imported or pattern-matched does not mean tested/reviewed. Full support requires every record resolved and reviewed."
+}
