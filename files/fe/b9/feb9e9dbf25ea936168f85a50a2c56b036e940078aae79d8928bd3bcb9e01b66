@@ -1,0 +1,32 @@
+import { promises as fs } from 'node:fs';
+import path from 'node:path';
+import { randomUUID } from 'node:crypto';
+
+export async function callGame(sessionRoot, operation, args = {}, { timeoutMs = 20000 } = {}) {
+  let manifest;
+  try { manifest = JSON.parse(await fs.readFile(path.join(sessionRoot, 'session.json'), 'utf8')); }
+  catch { throw new Error('No MCP session is running. In the game, open Settings → MCP session → Start MCP session. In multiplayer, request access and have the other player approve.'); }
+  if (manifest.version !== 1 || !/^[a-f0-9]{32}$/.test(manifest.sessionId) || !Number.isInteger(manifest.pid)) throw new Error('Invalid development session manifest.');
+  if (manifest.active === false) throw new Error('MCP access is stopped or awaiting multiplayer approval. Start a session in the game’s Settings, or request fresh approval from the other player.');
+  try { process.kill(manifest.pid, 0); } catch { throw new Error('The development player has closed. Start a new session.'); }
+  const id = randomUUID().replaceAll('-', '');
+  const request = path.join(sessionRoot, 'requests', `${id}.json`), response = path.join(sessionRoot, 'responses', `${id}.json`);
+  const temporary = request + '.tmp';
+  await fs.writeFile(temporary, JSON.stringify({ id, sessionId: manifest.sessionId, operation, argumentsJson: JSON.stringify(args) }), { flag: 'wx' });
+  await fs.rename(temporary, request);
+  const until = Date.now() + timeoutMs;
+  try {
+    while (Date.now() < until) {
+      try {
+        const result = JSON.parse(await fs.readFile(response, 'utf8'));
+        if (result.id !== id) throw new Error('Development response identity mismatch.');
+        if (!result.ok) throw new Error(result.error || 'Game rejected the development request.');
+        return JSON.parse(result.json);
+      } catch (error) { if (error.code !== 'ENOENT') throw error; }
+      await new Promise(resolve => setTimeout(resolve, 40));
+    }
+    throw new Error('The game did not reply. It may be closed, disconnected, awaiting multiplayer approval, or busy. Inspect get_state before retrying a timed-out edit.');
+  } finally {
+    await fs.rm(request, { force: true }); await fs.rm(response, { force: true }); await fs.rm(temporary, { force: true });
+  }
+}

@@ -1,0 +1,105 @@
+import path from 'node:path';
+import os from 'node:os';
+import { fileURLToPath } from 'node:url';
+import { promises as fs } from 'node:fs';
+import { Server } from '@modelcontextprotocol/sdk/server/index.js';
+import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
+import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
+import { callGame } from './bridge.mjs';
+import Ajv from 'ajv';
+
+const at = process.argv.indexOf('--session');
+const root = path.resolve(at >= 0 ? process.argv[at + 1] : path.join(process.env.LOCALAPPDATA ?? path.join(os.homedir(), 'AppData', 'Local'), 'PokemonTCG', 'McpSession'));
+const int = (description, minimum = 0, maximum = 2147483647) => ({ type: 'integer', minimum, maximum, description });
+const str = description => ({ type: 'string', description });
+const bool = description => ({ type: 'boolean', description });
+const ids = { type: 'array', items: str('Exact playable Modern printing ID'), maxItems: 40 };
+const seat = int('Player seat: host/first player = 0, guest/second player = 1', 0, 1);
+const zone = { type: 'string', enum: ['hand', 'deck', 'discard', 'prizes', 'lostZone'] };
+const energyType = { type: 'string', enum: ['Grass', 'Fire', 'Water', 'Lightning', 'Psychic', 'Fighting', 'Darkness', 'Metal', 'Dragon', 'Fairy', 'Colorless'] };
+const cardOverrides = { type: 'object', additionalProperties: false, properties: {
+  maxHp: int('Absolute maximum HP; zero health is set with remainingHp=0', 1, 1000000),
+  damageType: energyType, types: { type: 'array', items: energyType, minItems: 1, maxItems: 2, uniqueItems: true },
+  attacks: { type: 'array', maxItems: 20, items: { type: 'object', additionalProperties: false, properties: { index: int('Printed attack index', 0, 19), damage: int('Base attack damage', 0, 1000000) }, required: ['index', 'damage'] } },
+  weaknesses: { type: 'array', maxItems: 11, items: { type: 'object', additionalProperties: false, properties: { type: energyType, amount: int('Multiplier or added damage, positive multiplier', 1, 1000), multiplier: bool('true multiplies; false adds damage') }, required: ['type', 'amount', 'multiplier'] } },
+  resistances: { type: 'array', maxItems: 11, items: { type: 'object', additionalProperties: false, properties: { type: energyType, amount: int('Damage reduction; use a nonnegative number', 0, 1000) }, required: ['type', 'amount'] } },
+} };
+const deckCards = { type: 'array', minItems: 1, maxItems: 60, items: { type: 'object', additionalProperties: false, properties: { id: str('Exact supported Modern printing'), count: int('Copies', 1, 60) }, required: ['id', 'count'] } };
+const command = { type: 'object', additionalProperties: false, properties: { type: str('Exact action type from observation.actions'), card: int('Card UID'), target: int('Target UID'), index: int('Action index'), count: int('Count') }, required: ['type'] };
+const tool = (name, description, properties = {}, required = [], readOnly = false) => ({ name, description, inputSchema: { type: 'object', additionalProperties: false, properties, required }, annotations: { readOnlyHint: readOnly, destructiveHint: false, idempotentHint: readOnly, openWorldHint: false } });
+export const tools = [
+  tool('get_capabilities', 'Start here for the control guide, workflows, seat/UID meanings, limits, and efficient tools. Does not require a running session.', {}, [], true),
+  tool('get_session', 'Small status response: active session, own seat, viewer, turn, actor, actual pending effects, undo and current UI. Use before simple actions; get_state is the complete snapshot.', {}, [], true),
+  tool('get_ui', 'Inspect current screen, available menu names, visible button labels/enabled state, deck/card picker selection status. Does not expose password inputs.', {}, [], true),
+  tool('open_menu', 'Open a named menu from get_ui.menus. battle returns to the saved position. Menus preserve a checkpoint; multiplayer stays in the approved session.', { menu: str('Available menu from get_ui.menus'), seat, deckId: str('Optional saved custom deck ID for deck_builder') }, ['menu']),
+  tool('open_deck_picker', 'Show the user a native deck picker for the chosen seat. Returns selectionId and available full deck lists. It does NOT replace the deck. Read get_deck_selection after the user chooses, then use replace_deck.', { seat, deckId: str('Optional initially highlighted deck ID') }, ['seat']),
+  tool('get_deck_selection', 'Read pending/selected/cancelled status and selected deck ID/full list from open_deck_picker. Do not apply a cancelled selection.', { selectionId: str('Returned selectionId') }, ['selectionId'], true),
+  tool('open_card_picker', 'Show a native card popup for either hand, deck, Prizes, discard or Lost Zone. The user can inspect or select several cards; selection alone never moves them. Deck is shown next-draw-first. Pause shared play first.', { seat, zone, minimum: int('Required selections; default 0', 0, 60), maximum: int('Maximum selections; default 60; 0 means inspection only', 0, 60), title: str('Optional user-facing prompt') }, ['seat', 'zone']),
+  tool('get_card_selection', 'Read pending/selected/cancelled status, exact selectedUids and selected card data. Use move_cards to remove selected loose cards to lostZone after user-authorized selection.', { selectionId: str('Returned selectionId') }, ['selectionId'], true),
+  tool('get_card', 'Inspect one owned card UID or in-play Pokémon UID: its zone, effective stats/attacks, overrides and current damage. Use instead of fetching the whole match repeatedly.', { seat, uid: int('Card or Pokémon UID', 1) }, ['seat', 'uid'], true),
+  tool('get_state', 'Inspect the running test session: complete state, both seats, legal commands, choices, RNG, viewing/control seat and undo availability. In multiplayer hidden data requires explicit approval from both players.', {}, [], true),
+  tool('search_cards', 'Find supported Modern printings by name or ID before injecting cards. Results include rules, attacks and IDs.', { query: str('Name or ID substring'), category: { type: 'string', enum: ['Pokémon', 'Trainer', 'Energy'] }, offset: int('Result offset'), limit: int('Result count', 1, 50) }, [], true),
+  tool('list_decks', 'List built-in and locally saved Modern decks, exact card lists, IDs and legality problems. Saved decks stay unchanged.', {}, [], true),
+  tool('replace_deck', 'Replace either seat with a validated 60-card deck and fresh setup in the current test match, preserving the opponent and turn. Use deckId from list_decks/picker or deckCards from a selection/custom list. Does not alter saved decks. Save a checkpoint first.', { seat, deckId: str('Built-in or saved deck ID'), deckCards }, ['seat']),
+  tool('set_card', 'Replace per-instance testing stat overrides on any owned Pokémon card UID, including cards in hand/deck. Omitted override fields return to printed values. clearOverrides=true removes all overrides.', { seat, uid: int('Owned card UID', 1), overrides: cardOverrides, clearOverrides: bool('Restore printed values') }, ['seat', 'uid']),
+  tool('apply_damage', 'Apply additional damage to an in-play Pokémon and resolve real Knock Outs, Prizes and promotion. counters ignores weakness/resistance; attack requires sourceUid and uses actual damage calculations with an optional damageType.', { seat, uid: int('Target Pokémon UID', 1), amount: int('Additional damage', 0, 1000000), kind: { type: 'string', enum: ['counters', 'attack'] }, sourceUid: int('In-play attacker UID for attack damage', 1), damageType: energyType }, ['seat', 'uid', 'amount']),
+  tool('move_cards', 'Move distinct selected loose card UIDs from this seat’s zones to one destination atomically. Use lostZone to remove cards from hand/deck while conserving 60 cards. Selection does not itself move cards.', { seat, uids: { type: 'array', maxItems: 60, uniqueItems: true, items: int('Selected card UID', 1) }, zone }, ['seat', 'uids', 'zone']),
+  tool('start_match', 'Start a seeded isolated LOCAL test match. Never replaces a Steam match. Setup is automatic unless autoSetup=false. Rewards are disabled.', { deck0: str('First deck ID; default showdown-fire'), deck1: str('Second deck ID; default showdown-water'), seed: int('Deterministic seed', 1, 4294967295), mode: { type: 'string', enum: ['local', 'solo'] }, autoSetup: bool('Complete setup automatically; default true'), paused: bool('Pause AI; default true') }),
+  tool('set_hand', 'Replace this seat’s hand with exact cards; return the old hand to deck and replace deck cards as needed, preserving 60 cards.', { seat, cardIds: ids }, ['seat', 'cardIds']),
+  tool('give_cards', 'Inject cards into a zone by moving/replacing deck cards, preserving card totals and UIDs.', { seat, cardIds: ids, count: int('Copies per ID; default 1', 1, 30), zone }, ['seat', 'cardIds']),
+  tool('move_card', 'Move a loose card UID among this seat’s deck, hand, discard, prizes or Lost Zone.', { seat, uid: int('Card UID', 1), zone }, ['seat', 'uid', 'zone']),
+  tool('set_board', 'Set Active and/or Bench Pokémon with exact IDs. Omitted fields stay unchanged. Attachments from replaced Pokémon return to deck. Evolutions may be placed directly as a test fixture.', { seat, active: str('Active Pokémon ID; empty only outside play'), bench: ids }, ['seat']),
+  tool('set_pokemon', 'Edit in-play HP, damage counters, conditions, attachments and stat overrides. remainingHp=0 resolves a real Knock Out. overrides.maxHp can exceed printed HP; remainingHp cannot exceed the resulting maximum. damage and remainingHp are mutually exclusive. Empty attachment arrays clear them.', { seat, uid: int('In-play Pokémon UID', 1), damage: int('Total damage counters'), remainingHp: int('Remaining HP; zero causes Knock Out'), condition: { type: 'string', enum: ['', 'Asleep', 'Confused', 'Paralyzed'] }, poison: int('Poison damage'), burn: int('Burn damage'), energy: ids, tools: ids, overrides: cardOverrides, clearOverrides: bool('Restore all printed stats') }, ['seat', 'uid']),
+  tool('set_turn', 'Set current seat and turn without running checkup/draw effects. Optionally reset once-per-turn flags. This creates a fixture, not a legal turn transition.', { seat, turn: int('Turn number', 1), resetFlags: bool('Reset attached/retreated/supporter/stadium flags; default true') }, ['seat', 'turn']),
+  tool('dispatch', 'Execute one exact legal command from observation.actions through the real rules engine, including attacks and required choices.', { seat, command }, ['seat', 'command']),
+  tool('set_ai', 'Pause/resume solo AI or mutually approved multiplayer testing. Approval initially pauses the shared match.', { paused: bool('true pauses; false resumes') }, ['paused']),
+  tool('set_viewer', 'Inspect the hand and take control of either seat. Multiplayer takeover requires active mutual consent; legal commands still execute on the host.', { viewer: seat }, ['viewer']),
+  tool('save_scenario', 'Save a named checkpoint of the exact match state, including RNG and pending effects, so it can be restored after testing.', { name: str('1–80 letters, digits, underscores or hyphens') }, ['name']),
+  tool('load_scenario', 'Restore a saved checkpoint and synchronize both players when multiplayer testing is approved.', { name: str('Saved scenario name') }, ['name']),
+  tool('list_scenarios', 'List saved development checkpoints.', {}, [], true),
+  tool('load_state', 'Load a complete MatchState JSON to construct arbitrary supported test positions. Content hash, Modern rules, ownership, UIDs, resolver and bench invariants are validated transactionally.', { stateJson: str('Complete MatchState JSON, usually based on get_state.state') }, ['stateJson']),
+  tool('undo', 'Undo the most recent state edit or recorded gameplay command. Includes turn and RNG state. History begins when development mode is activated.'),
+  tool('rewind_turn', 'Restore the earliest recorded position of a previous turn (or this turn when count=0). Only turns recorded since development activation are available.', { count: int('Turns back; default 1', 0, 200) }),
+  tool('finish_match', 'Create a victory/defeat/draw UI fixture. This is a test outcome and earns no rewards.', { winner: int('-1=draw, 0=first seat, 1=second seat', -1, 1), reason: str('Visible result explanation') }, ['winner']),
+  tool('screenshot', 'Capture the current game UI. Returns an inline PNG and saved absolute path.', { name: str('Optional safe capture name') }, [], true),
+];
+const guide = {
+  version: '0.2', workflow: ['get_session for compact status; get_state only for a complete snapshot', 'save_scenario before changing a position', 'open_deck_picker/open_card_picker to show choices; read selection results after the human chooses', 'replace_deck/move_cards/set_pokemon/apply_damage to act; get_card/get_session to verify', 'undo or load_scenario to restore'],
+  seats: '0 is first/host, 1 is second/guest; ownSeat is your human player; viewer changes inspection, not ownership',
+  identity: 'Card printing IDs come from search_cards/list_decks; runtime UIDs come from get_state/get_card/selection. An in-play Pokémon UID is its stack root, not its top card UID.',
+  deckOrder: 'get_state.state.players[seat].deck is bottom-to-top: last card is next draw. open_card_picker deck display is top-first.',
+  selections: 'Picker opening returns immediately with selectionId. pending means wait for the human; selected returns exact data; cancelled means take no selection action. Poll once after the user responds, not continuously.',
+  health: 'maxHp overrides printed maximum; remainingHp=0 triggers Knock Out. Damage values are nonnegative. apply_damage counters bypasses weakness/resistance; attack uses sourceUid and optional type.',
+  overrides: 'Overrides replace prior overrides on that instance. get_card shows effective values. Supply every override you want to keep, or clearOverrides to restore printed values. Empty weakness/resistance arrays remove them.',
+  multiplayer: 'Both humans approve in game; either can revoke. Never approve for a human. Pause shared play before pickers; host and guest use the same mutation tools.',
+  limits: '60 cards per seat, unique UIDs, supported Modern printings, actual pending effects must be resolved via dispatch. Use lostZone for removals. UI menus list current availability; passwords are not returned.',
+  tools: tools.map(t => t.name),
+};
+const server = new Server({ name: 'pokemon-tcg-development', version: '0.2.0' }, { capabilities: { tools: {} }, instructions: 'Read get_capabilities first. Prefer get_session for small status, get_card for targeted inspection, and get_state for complete snapshots. Save checkpoints before experiments. Native deck/card pickers return human selections; apply them explicitly. Preserve multiplayer mutual approval; never approve for a human. Report fixture changes honestly.' });
+const ajv = new Ajv({ allErrors: true });
+const validators = new Map(tools.map(t => [t.name, ajv.compile(t.inputSchema)]));
+server.setRequestHandler(ListToolsRequestSchema, async () => ({ tools }));
+server.setRequestHandler(CallToolRequestSchema, async request => {
+  const { name, arguments: args = {} } = request.params;
+  if (!tools.some(t => t.name === name)) return { isError: true, content: [{ type: 'text', text: `Unknown tool: ${name}` }] };
+  const validate = validators.get(name);
+  if (!validate(args)) return { isError: true, content: [{ type: 'text', text: 'Invalid tool arguments: ' + ajv.errorsText(validate.errors) }] };
+  try {
+    const normalized = args.overrides ? { ...args, overrides: { ...args.overrides, hasMaxHp: Object.hasOwn(args.overrides, 'maxHp'), hasTypes: Object.hasOwn(args.overrides, 'types'), hasWeaknesses: Object.hasOwn(args.overrides, 'weaknesses'), hasResistances: Object.hasOwn(args.overrides, 'resistances'), types: args.overrides.types ?? [], attacks: args.overrides.attacks ?? [], weaknesses: args.overrides.weaknesses ?? [], resistances: args.overrides.resistances ?? [] } } : args;
+    const result = name === 'get_capabilities' ? guide : await callGame(root, name, normalized);
+    const content = [{ type: 'text', text: JSON.stringify(result) }];
+    if (name === 'screenshot') {
+      const captureRoot = path.join(root, 'captures') + path.sep;
+      if (!path.resolve(result.path).startsWith(captureRoot)) throw new Error('Screenshot path escaped the session captures directory.');
+      content.push({ type: 'image', mimeType: 'image/png', data: (await fs.readFile(result.path)).toString('base64') });
+    }
+    return { content, structuredContent: result };
+  } catch (error) {
+    const message = error.message;
+    const next = /pending choices|pending effects|pending.*choice/i.test(message) ? 'Inspect get_state.seat0/seat1.actions and dispatch the actual choice. Do not end a turn to clear an unknown choice.'
+      : /session|inactive|approval|consent/i.test(message) ? 'Use Settings → MCP session. Multiplayer requires the other human to approve. Reload the client connection if it still uses an old adapter.'
+      : /selection/i.test(message) ? 'Open the picker again and use its new selectionId.' : 'Inspect get_session/get_card before retrying and check the schema. A presentation error can occur after a state commit; verify the actual state.';
+    return { isError: true, content: [{ type: 'text', text: message + '\nNext step: ' + next }], structuredContent: { error: message, nextStep: next } };
+  }
+});
+await server.connect(new StdioServerTransport());

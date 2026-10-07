@@ -1,0 +1,325 @@
+# In-game MCP sessions and match control
+
+## Controls added after live testing
+
+The session now includes native menu navigation, deck and card selection popups,
+either-seat deck replacement, per-card battle-stat overrides and explicit damage
+application. The false pending-effect error from the solo playtest is fixed:
+an inert previous attack lifecycle is no longer treated as an unresolved effect.
+Real choices, queued effects and armed attack rollback still block ordinary edits.
+
+Open **Settings → MCP session → Browse cards and decks** to browse either seat.
+A selected deck or card list is returned to the agent; selecting alone never
+replaces or removes anything. The agent applies the requested action explicitly.
+Multiplayer requires the existing mutual human approval; both peers must use the
+same updated build. A real two-computer internet acceptance test is still pending.
+
+The full Windows game includes opt-in match control for reproducible
+testing. The local MCP server exposes 34 tools so Codex can prepare cards and
+positions from ordinary requests. It uses the official MCP TypeScript SDK over
+stdio; a local file request queue connects it to Unity's main thread. No hosted
+service, network listener or model API key is required.
+
+## Start a session from Settings
+
+Launch the game normally through `./Play-Unity.ps1`, Steam, or
+`builds/ModernWindows/PokemonCardTable.exe`. Open the Settings gear and choose
+**MCP session** in **Explore & connect**. No development launcher, launch flag or
+special build is required.
+
+In solo/local play, press **Start MCP session**. This enables access to the
+current game and pauses solo AI. If a match is in progress, the game saves an
+automatic `session-start-…` checkpoint and makes that match practice-only.
+Matches started while MCP access is enabled are also practice-only. The game
+continues using the same profile, deck lists and asset caches. The agent can
+create a seeded position or restore a named checkpoint directly from Home.
+
+The session panel provides **Copy connection command** and **Copy session
+folder**, pause/resume, other-seat inspection/takeover, and **Stop MCP session**.
+Stopping disables agent access and resumes solo AI; the current test position
+stays on the table and remains practice-only. Restore a checkpoint before
+stopping to discard an experiment.
+
+The local session directory is `%LOCALAPPDATA%/PokemonTCG/McpSession`. Only one
+game process can own it at a time. Closing the game removes its active manifest;
+named checkpoints stay available next time. The game rotates the session
+identity when starting again or approving a new multiplayer request, so queued
+commands cannot borrow a later approval.
+
+## Connect an agent once
+
+The in-game button starts the Unity control session. The agent's MCP client
+automatically launches the stdio adapter when connecting; it is not a separate
+game command or an independently running console server. Node.js must be on the
+agent machine's PATH. Installed Windows players include the adapter and its
+dependencies in the `MCP` folder beside the executable.
+
+In the session panel, **Copy connection command** produces an absolute command
+for that installed game and session. Run that command once to register it in
+Codex. For this repository, the equivalent is:
+
+```powershell
+codex mcp add pokemon-tcg-dev -- node "C:\Users\OEM\Documents\GitHub\pokemon TCG\tools\Tcg.DevMcp\server.mjs"
+codex mcp get pokemon-tcg-dev
+```
+
+For a fresh source checkout, first run
+`npm ci --prefix tools/Tcg.DevMcp --ignore-scripts`. Adjust the absolute path when
+moving the repository. If needed, reload MCP
+connections in Codex after registration. The server starts without the game;
+calls explain how to start a session when no running player is available.
+An optional `--session <absolute-directory>` server argument selects another
+test session. For another MCP client, use command `node`, arguments containing
+the absolute `server.mjs` path, transport `stdio`, and optionally `--session`
+followed by the absolute session directory. No API key or port is needed.
+
+## Multiplayer approval and takeover
+
+Both players run the same current game build with Steam.
+Find an opponent and choose decks using the ordinary lobby flow.
+
+Either the host or guest can open **Settings → MCP session** in the lobby or
+battlefield and press **Request opponent approval**.
+The other player receives an explicit approval prompt covering inspection of
+hidden hands, decks and Prizes, control of either seat, edits, checkpoints and
+ChatGPT tool access. A requester cannot approve their own request. Declining
+keeps all development access disabled.
+
+Approval starts shared testing paused and clears both lobby Ready flags. If
+approved in the lobby, both players still choose decks and ready up to start.
+The **MCP session** panel offers opponent-hand inspection/takeover, return to the
+normal seat, pause/resume, and stop. Inspection/takeover switches the battlefield
+to that seat's hand and legal controls. MCP `get_state` exposes both sides only
+while mutual approval is active; `set_viewer` selects either viewing/control
+seat, and `dispatch` can act for either seat.
+
+The host validates and applies edits; guest tools forward requests to that same
+authority. Complete states synchronize to both clients. Consent epochs and
+shared revisions reject expired approvals and stale edits. Either player can
+revoke access; leaving/disconnection clears consent and cached full states.
+Reconnecting requires a new request and approval. Stopping development mode
+retains the current position; restore a checkpoint first to discard an experiment.
+Previously authorized saved checkpoints remain stored in the development folder.
+
+The shared match stays inside the existing lobby and recipient-view protocol.
+Normal game actions remain filtered to each player when takeover is off. Saved
+deck lists, collection data and wallets are not edited by these match controls.
+
+## Requests and tools
+
+Examples:
+
+- “Give me two Nest Balls and a Fire Energy, with an empty Bench.”
+- “Put this Pokémon into the Active Spot, attach three Energy and leave it at 20 HP.”
+- “Save this position as before-retreat, then test the retreat and go back.”
+- “Show me the other player's hand and take over their next action.”
+- “Roll back one recorded turn and capture the battlefield.”
+- “Inspect the pending choice and work out which legal actions are available.”
+
+| Tools | Behavior |
+| --- | --- |
+| `get_capabilities`, `get_session` | Agent workflow guide and compact session/board status |
+| `get_state`, `get_card`, `search_cards`, `list_decks` | Complete state, targeted effective card stats, supported printings and built-in/saved deck lists |
+| `get_ui`, `open_menu` | Current screens, available menus, button state and navigation |
+| `open_deck_picker`, `get_deck_selection`, `replace_deck` | Human deck selection and explicit replacement of either seat |
+| `open_card_picker`, `get_card_selection`, `move_cards` | Inspect/select hidden or public zones and explicitly move selected cards |
+| `set_card`, `apply_damage` | Per-card battle overrides and additional attack/counter damage |
+| `start_match`, `set_ai`, `set_viewer` | Seed a local match, pause/resume, choose a viewing/control seat |
+| `set_hand`, `give_cards`, `move_card` | Prepare cards and move loose cards among zones |
+| `set_board`, `set_pokemon`, `set_turn` | Set Pokémon, attachments, damage/HP, conditions and turn fixtures |
+| `dispatch` | Execute an exact legal action or required-choice command through the rules engine |
+| `save_scenario`, `load_scenario`, `list_scenarios` | Save and restore named complete MatchState checkpoints |
+| `load_state` | Import a complete state JSON for more complex supported fixtures |
+| `undo`, `rewind_turn` | Undo a recorded command/edit or restore an earlier recorded turn |
+| `finish_match`, `screenshot` | Create a result UI fixture or return a native PNG screenshot |
+
+Seat 0 is the host/first player; seat 1 is the guest/second player. Card injections
+move or replace deck cards, conserving 60 cards per seat and unique UIDs. Existing
+matches can be made into unusual positions, including placing evolved Pokémon
+directly, but cards must be supported Modern printings. State edits are applied to a
+clone and validated before commit. A validation failure leaves the position
+untouched; a presentation error can occur after commit, so inspect state before
+retrying a failed request.
+`load_state` permits broad changes to serializable match fields while retaining
+content/rules compatibility, resolver and card-identity invariants. Unsupported
+printed effects are not invented by development mode.
+
+Snapshots include deck order, hands, Prizes, all attachments, damage, turn state,
+RNG, pending choices and resolver state. Manual edits and recorded game commands
+have a bounded 200-position undo history. Turn rollback starts at activation;
+it cannot reconstruct turns from before development was enabled. Named files
+persist independently of that history. They are match checkpoints, not copies
+of player credentials, collections or wallets. Pending choices must be resolved
+before incremental edits; complete checkpoint restoration is allowed while a
+choice is pending. Result fixtures are not verified wins and earn no rewards.
+
+After a tool timeout, inspect the current state before retrying an edit: a command
+may have committed immediately before the connection or client timed out.
+
+## Efficient agent workflows
+
+Start with `get_capabilities`, then `get_session`. The compact response includes
+both Active/Bench Pokémon UIDs, HP/damage, zone counts, actor, real pending-effect
+status and UI/selection summaries. Use `get_card` for one card's effective stats;
+reserve `get_state` for the full snapshot, private zones, resolver or bulk work.
+Use `ownSeat` rather than `viewer` to identify the human: switching the view does
+not swap card ownership. An in-play Pokémon UID identifies the root of its stack;
+the top printed card has its own instance UID.
+
+For deck selection, call `open_deck_picker` with the target `seat`. It returns a
+`selectionId` and deck metadata, including full lists and legality. After the human
+chooses, read `get_deck_selection`. `pending` means wait for the human; `cancelled`
+means take no action; `selected` includes the chosen ID and `cards`. Apply those
+cards with `replace_deck` using `deckCards`, especially when a multiplayer guest's
+saved deck is not present in the host's profile. Replacement creates a fresh
+Active/hand/Prize setup for that seat while preserving the opponent and turn.
+It does not rewrite saved decks. Save a checkpoint before replacement.
+
+For hand/deck inspection or removal, call `open_card_picker` with `seat`, `zone`,
+optional `title`, and selection `minimum`/`maximum`. `maximum: 0` is inspection
+only. After confirmation, `get_card_selection` returns exact `selectedUids` and
+card data. Use `move_cards` with those UIDs and `zone: "lostZone"` to remove them
+from the draw/hand pool while preserving sixty owned cards. A stale/missing UID
+rejects the entire move. Pickers return immediately; read once after the human
+responds instead of continuously polling. Shared play must be paused for pickers.
+
+`get_state.state.players[seat].deck` is **bottom-to-top**, so the last card is the
+next draw. The deck popup displays **top-first**, including an order label.
+`open_menu` accepts names returned by `get_ui.menus`. Navigation keeps a
+`menu-position` checkpoint; `battle` restores a suspended position. Multiplayer
+navigation stays within its battle/lobby/Settings/picker routes and cannot approve
+consent for either human. Deck builder navigation requires a saved custom deck ID
+to open that deck; without one it opens the deck library.
+
+## Health, attack and type overrides
+
+Overrides belong to the individual card in the test match, including an owned
+Pokémon still in a hand or deck. They travel with that instance, serialize with
+checkpoints, undo and rollback, and synchronize over the approved host authority.
+They never mutate the shared catalogue. `get_card` returns the effective stats.
+Attack `damage` is the base printed damage; existing printed attack effects still
+run when the attack is dispatched normally. `damageType` changes the damage type,
+while `types` changes the Pokémon types. Weakness modifiers use a positive
+`amount` with `multiplier: true` for ×N or `false` for +N. Resistance `amount` is a
+nonnegative reduction. Empty weakness/resistance arrays remove those modifiers.
+
+For example, call `set_pokemon` with:
+
+```json
+{
+  "seat": 0,
+  "uid": 3,
+  "overrides": {
+    "maxHp": 400,
+    "damageType": "Lightning",
+    "attacks": [{ "index": 0, "damage": 90 }],
+    "weaknesses": [{ "type": "Water", "amount": 2, "multiplier": true }],
+    "resistances": []
+  },
+  "remainingHp": 400
+}
+```
+
+Use the actual UID returned by inspection. An `overrides` object replaces previous
+overrides on that instance; include every override to retain, or use
+`clearOverrides: true` to restore printed values. `set_card` applies the same
+object to an owned card UID. Maximum HP must be positive; remaining HP and damage
+must be nonnegative. Setting `remainingHp: 0` or enough total damage resolves a
+real Knock Out: discard, Prizes, promotion choices, reactions and victory follow
+the existing rules. A zero-health Pokémon is not left alive on the board.
+
+`apply_damage` adds damage instead of replacing the damage total. `kind: "counters"`
+places damage directly, ignoring weakness/resistance. `kind: "attack"` requires
+an in-play `sourceUid`, uses battle damage calculations and accepts an optional
+one-shot `damageType`. It does not dispatch a printed attack's other effects or
+consume the turn; use `dispatch` for a complete legal attack.
+
+## Verification
+
+```powershell
+npm test --prefix tools/Tcg.DevMcp
+./QuickRelease-build.ps1 -OutputFolder McpSettingsAcceptance -ReportDirectory reports/mcp-settings/build -IncludeSmokeTests -DoNotSetLatest
+./scripts/test-packaged-build.ps1 -OutputFolder McpSettingsAcceptance -ReportDirectory reports/mcp-settings/acceptance -Modes development,presentation,battle-ui,theme
+```
+
+The `development` smoke runs in either development or smoke-enabled production
+players. It activates the actual Settings buttons without `--tcg-dev`, checks
+session start/stop, connection commands, practice-only results and checkpoint
+persistence, and exercises host/guest request and
+approval, self-approval rejection, stale/expired commands, hidden-state gates,
+guest card edits and host-seat takeover, exact checkpoint synchronization, turn
+rollback, automatic gameplay history, pause and both players' revocation.
+`tools/Tcg.DevMcp/verify-player.mjs <session-directory> <report-file> [adapter-path] [profile-root]` tests the
+actual stdio MCP SDK connection against a running isolated player, including
+invalid-state rollback and inline screenshots. Live two-machine internet Steam
+testing remains a separate acceptance step.
+The isolated `--tcg-smoke <report-directory> --mcp-session-smoke` bootstrap starts
+a session through Settings and records its directory in `session-ready.txt`.
+It uses `<report-directory>/profile`, leaves the player running for the real MCP
+client, and is excluded from ordinary production builds. The optional adapter
+and profile arguments verify the shipped adapter without switching the game's
+profile after in-game activation.
+
+Protocol references: [official MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk),
+[MCP stdio transport](https://modelcontextprotocol.io/specification/2025-11-25/basic/transports),
+and [Codex MCP configuration](https://developers.openai.com/codex/extend/mcp).
+
+### Production Settings verification, 7 October 2026
+
+The production-runtime acceptance build compiled with zero errors and packaged
+the MCP adapter and dependencies. Access is compiled into every player; the
+acceptance build separately includes isolated smoke harnesses.
+
+| Check | Result | Evidence |
+| --- | --- | --- |
+| Settings activation, solo and host/guest controls, 1600 × 1000 | 56 passed; no text overflow | [Wide session checks](../reports/mcp-settings/acceptance-02-wide/development/development-smoke.json) |
+| Same controls, 886 × 918 | 56 passed; no text overflow | [Narrow session checks](../reports/mcp-settings/acceptance-02-narrow/development/development-smoke.json) |
+| Presentation / battle / Settings theme, wide | 86 / 84 / 43 passed | [Wide reports](../reports/mcp-settings/acceptance-02-wide/) |
+| Settings theme, narrow | 48 passed | [Narrow theme](../reports/mcp-settings/acceptance-02-narrow/theme/theme-smoke.json) |
+| Shipped stdio adapter → Settings-started production session | 34 passed; 21 tools | [Live MCP](../reports/mcp-settings/native-mcp-02/mcp-acceptance.json) |
+| Ordinary Steam multiplayer | 20 protocol checks; 159 guest commands; native wire passed | [Multiplayer](../reports/mcp-settings/online-02/multiplayer/multiplayer-smoke.json) |
+| Online browsing, inspection and dialog preservation | 8 Unity Play Mode tests passed | [Play Mode](../reports/mcp-settings/playmode/results.xml) |
+| MCP bridge, stopped access and real SDK handshake | 4 Node tests passed | `npm test --prefix tools/Tcg.DevMcp` |
+| Build packaging and failure gates / cache behavior | 42 / 27 passed | Build wrapper and `Tcg.BuildChecks` fixtures |
+
+The live MCP check used the installed `MCP/server.mjs` and activated access via
+the real Settings buttons, with no `--tcg-dev` argument and no profile switch.
+Runtime tests used isolated profiles. Quick release builds skip gameplay
+verification; this follow-up changed presentation and runtime access rather than
+shared domain rules. The earlier separate domain evidence remains retained.
+One-machine native Steam sockets and real host/guest JSON handlers were checked;
+a two-computer internet playtest remains outstanding.
+
+[Settings screenshots and verification receipt](../reports/mcp-settings/review.html).
+
+### Earlier development prototype evidence, 7 October 2026
+
+These retained reports cover the earlier development-only prototype. The
+Settings integration and production-player checks are recorded separately.
+
+The `DevelopmentControl` player compiled and packaged successfully in
+[`build-07`](../reports/dev-mode/build-07/build-result.json), with zero compiler
+errors. This Quick build explicitly skipped gameplay checks. Separate fresh
+verification supplied the following evidence:
+
+| Check | Result | Evidence |
+| --- | --- | --- |
+| Packaged development controls, 1600 × 1000 | 38 passed; no text overflow | [Wide controls](../reports/dev-mode/final-07-1600/development/development-smoke.json) |
+| Packaged development controls, 886 × 918 | 38 passed; no text overflow | [Narrow controls](../reports/dev-mode/final-07-886/development/development-smoke.json) |
+| Presentation / battle / theme, wide | 90 / 84 / 43 passed; no text overflow | [Wide reports](../reports/dev-mode/final-07-1600/) |
+| Presentation / battle, narrow | 88 / 84 passed; no text overflow | [Narrow reports](../reports/dev-mode/final-07-886/) |
+| Actual stdio MCP → running Unity player | 34 passed; 21 tools | [MCP acceptance](../reports/dev-mode/final-07-mcp/mcp-acceptance.json) |
+| MCP bridge and SDK handshake | 3 Node tests passed | `npm test --prefix tools/Tcg.DevMcp` |
+| Ordinary Steam multiplayer | 20 protocol checks, 159 guest commands; native wire passed | [Multiplayer](../reports/dev-mode/final-07-online/multiplayer/multiplayer-smoke.json) |
+| Starter/lobby controls | 1,458 passed; no text overflow | [Starter controls](../reports/dev-mode/final-07-online/starter-features/starter-features-smoke.json) |
+| Online browsing, inspection and dialog preservation | 8 Unity Play Mode tests passed | [Play Mode](../reports/dev-mode/playmode/results.xml) |
+| Shared domain sources | 5,387 scenarios passed; 64 seeded matches | [Domain verification](../reports/dev-mode/domain-acceptance/modern-domain-verification.json) |
+
+Host/guest development scenarios use two peers through the actual JSON handlers.
+Approved complete-state payloads and ordinary filtered snapshots also traverse
+real native Steam socket pairs on this machine. These checks do not establish a
+two-computer internet playtest. The production latest-build pointer remains
+`ModernWindows`; testing used isolated profiles. Earlier failed development
+attempts remain in their original report folders.
+
+[Review the native screenshots](../reports/dev-mode/review.html).
